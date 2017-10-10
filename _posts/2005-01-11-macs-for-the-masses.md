@@ -1,0 +1,12 @@
+---
+id: 57
+title: Macs for the Masses
+date: 2005-01-11T13:42:04+00:00
+author: tsykoduk
+layout: post
+guid: 30/2008/12/27/macs-for-the-masses
+permalink: /2005/01/11/macs-for-the-masses/
+categories:
+  - Computers! and Code!
+---
+<center><a href=http://www.apple.com/macmini/><img src="http://images.apple.com/macmini/images/indextop20050111.jpg"/></center><br /><br /><a href=http://www.apple.com>Apple</a> has done it again. This little wonder is 6.5 inches square by 2 inches tall. At starting at only $499, there is no reason to not run out and get one today.<br /><br />

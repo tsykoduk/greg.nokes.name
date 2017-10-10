@@ -1,0 +1,13 @@
+---
+id: 118
+title: Microsoft under more attack
+date: 2005-02-04T13:28:04+00:00
+author: tsykoduk
+layout: post
+guid: 30/2008/12/27/microsoft-under-more-attack
+permalink: /2005/02/04/microsoft-under-more-attack/
+categories:
+  - Computers! and Code!
+  - Fun!
+---
+<p><a href=http://www.cthulhu.org/look_and_feel_lawsuit.html>Here</a> is a letter from some lawyers hoping to take Microsoft down a peg or two. It was a few years ago, and I assume that they lost. Sad, it might have been a better world...</p>
