@@ -23,7 +23,10 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+#gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+#Theme
+gem "jekyll-theme-hydeout", "~> 3.3"
 
 gem 'kramdown'
 gem 'rack-jekyll'
