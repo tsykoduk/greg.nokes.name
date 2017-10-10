@@ -4,5 +4,5 @@ description: >
   A wayward journey into the depths of
   sanity
 
-gems: ['kramdown']
+plugins: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
