@@ -3,3 +3,6 @@ name: DaRoost
 description: >
   A wayward journey into the depths of
   sanity
+
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
