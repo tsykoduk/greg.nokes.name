@@ -29,6 +29,7 @@ end
 gem "jekyll-theme-hydeout", "~> 3.3"
 
 gem 'kramdown'
+gem 'coderay'
 gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
