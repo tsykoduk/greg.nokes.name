@@ -4,6 +4,6 @@ description: >
   A wayward journey into the depths of
   sanity
 
-theme: jekyll-theme-hydeout
+theme: hyde
 plugins: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']

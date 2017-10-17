@@ -9,6 +9,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
+    hyde (0.0.4)
     jekyll (3.6.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -74,6 +75,7 @@ PLATFORMS
 
 DEPENDENCIES
   coderay
+  hyde
   jekyll (~> 3.6.0)
   jekyll-feed (~> 0.6)
   jekyll-theme-hydeout (~> 3.3)
