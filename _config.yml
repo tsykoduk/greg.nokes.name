@@ -4,7 +4,7 @@ description: >
   A wayward journey into the depths of
   sanity
 
-theme: jekflix
+#theme: jekflix
 # Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://greg.nokes.name" # the base hostname & protocol for your site
