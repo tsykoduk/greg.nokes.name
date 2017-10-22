@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/tsykoduk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://greg.nokes.name
+  * I am tsykoduk (https://keybase.io/tsykoduk) on keybase.
+  * I have a public key with fingerprint 2E13 CEAB A931 EEF1 A27D  ADE8 737D 4459 5F58 5FF5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bd3f3fb67c176f981e2ee67d765f0e9f9ccce9eea514701707ebaadbb7d521f90a",
+      "fingerprint": "2e13ceaba931eef1a27dade8737d44595f585ff5",
+      "host": "keybase.io",
+      "key_id": "737d44595f585ff5",
+      "kid": "0101bd3f3fb67c176f981e2ee67d765f0e9f9ccce9eea514701707ebaadbb7d521f90a",
+      "uid": "58a5fa261869beeda8ffbdaf2a91f400",
+      "username": "tsykoduk"
+    },
+    "merkle_root": {
+      "ctime": 1508714356,
+      "hash_meta": "f7704e2e53bce186f2fc7a483693511b904efa1f9d07d2288247a7cff88d1f1b",
+      "seqno": 1616324
+    },
+    "revoke": {
+      "sig_ids": [
+        "dded5ef8cace04eeceec18342d0d29110cda6c3b8cc0c9095af7d5e424c1a6ff0f"
+      ]
+    },
+    "service": {
+      "hostname": "greg.nokes.name",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508714476,
+  "expire_in": 157680000,
+  "prev": "65193abf05cd72a08f02c313de7639a401ce311dbf5551f136add7fa629e03ec",
+  "seqno": 78,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMLBAnicrVNtiBVVGL63tV13bV2T+hGU1mhUcl3Px5w5ZzbarMwWXLAy0kVzOnPO
+e+6Od/fOdWb21qZXxB8Ron2IFLUkpZQFCxGRSW1gqxTUWhBFf8oE+1HpRv5YqGjd
+zlyMCPrZcGA45zzv8zzvM/Oe6mwpdBTTxpqBYFMwU/xscnSkMDB9y4UdThjrUadn
+h1OB5guGNKRZUIm00+MgjHCoqaEm9LjC3DO+wEAAPK65xwwC3/hKKfABJMMuR5gj
+DqGUOgy5ZgQbH0mn5JioWoaklkTVzNISwFSBDKVPMYDBknAtNQhOuXZd5jPDBDOG
+2cLBOM0rrLlQptAdxfbMboKmvf/A/8++R5p0TEhmJPGw8PwQQEthTKilIdLHxkUo
+B6aQVOUwWHSWjlZiPVJxGiVnGJLKEARJHGd5uCqLcghmSHDsUubZBmU6GAxDJm2l
+4Ry51iajoQIrZohRXLqCej5lGIe+vTXSetOIa0KEIC6XXBkjhMYGh9ZHCtursVXw
+sEeJax0kUI8rkIunUdnGljo9mx2tQTMwQkkFlhOUXVhQl2ikiY8xUlp6ioZCKaR8
+5DNpbCrgEldh6RmDjPNIIxdL6pFqkuff6XL/5QTK3VUrmnY3T0pOLYmzWMVD9nIw
+y2ppTx5NNlrL0Y9BGFzmCcKoqu2PYivqkKRRXLWNWOS/U3O5TQ0er0UJBFGOYNwT
+yD65DtQtpcewT2VoEFOaE4mEQURRTDVwj/rSRVgBxViHhjFmc6Oe1Job6REfEAX1
+T4xcWJ+ybDlteFWZjSTgNCZPbJlXKHYUWq+8Ip+gQkf7or/nKiVts9d8f2pr29G3
+VqA716+4bXz8wLk9h5b9efCOr9H5Uu/ESz8NrDp+9djtz7w+pWY7N2T7X9z0a3/r
+K+v+IH0Hrzs29eRZ8vyuee/pRby894e+31Z2Ti+Z+HFw/PxTszNbNly69YZ7j2xu
+Ody+evn+xWtf/uJCdOjDb3vvGTs+/6sHlp0Re+tf1t44fXjtowfablp3svj2wLXL
++2Cib+7Txd6e+3a1d5V/Obpm48d3Pzc28/PNlxY2zry6tHXJXLJv4fze3Y2dC+5/
+U7V+QL/7fME2ceM375TWPzjtmhNdc6/1T7zQte/di8WHty99du6J66860j91ceeq
+jTNPf3Lyo9+PrZzadtf7u1dPnmvp7do6dLpFnO146C+2n4HB
+=mMyh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsykoduk
+
+==================================================================
+
