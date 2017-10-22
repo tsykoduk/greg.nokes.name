@@ -27,6 +27,7 @@ end
 
 #Theme
 #gem "jekyll-theme-hydeout", "~> 3.3"
+gem 'rack-ssl-enforcer'
 gem "hyde"
 gem "jekyll-paginate"
 gem 'kramdown'
