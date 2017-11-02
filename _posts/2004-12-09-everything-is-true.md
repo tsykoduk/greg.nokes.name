@@ -13,18 +13,18 @@ categories:
 <blockquote> 'I am not a logician. I am an existentialist. I believe in this meaningless, beautiful chaos of existence, and I am ready to go with it wherever it leads. I don't have a goal, because existence has no goal. It simply is, flowering, blossoming, dancing - but don't ask why. Just an overflow of energy, for no reason at all. I am with existence."  Osho</blockquote>
 
 I also identify with Discordism, and this passage neatly intertwines Buddhism, Zen and Discord. No Mind - existing at the whim of the present merges neatly with Discordism
-<blockquote><center>
-GP: Is Eris true?
-M2: Everything is true.
-GP: Even false things?
-M2: Even false things are true.
-GP: How can that be?
-M2: I don't know man, I didn't do it.</center></blockquote>
 
-	<p>Why are we so concerned with Why we are here? If we found out, would it really change that much? Why not just live each day the best we can, and die with peace? And, honestly, does the universe really make that much sense?</p>
+    GP: Is Eris true?
+    M2: Everything is true.
+    GP: Even false things?
+    M2: Even false things are true.
+    GP: How can that be?
+    M2: I don't know man, I didn't do it!
 
-
-	<p>Every time we dig deeper with Physics, or String Theory, we find another layer of complexity. It's like the universe is an Onion with layer after layer of tear inspiring complexity. Will we really ever get to the bottom of the rabbit hole? Do we want to?</p>
+Why are we so concerned with Why we are here? If we found out, would it really change that much? Why not just live each day the best we can, and die with peace? And, honestly, does the universe really make that much sense?
 
 
-	<p>-Tsyko</p>
+Every time we dig deeper with Physics, or String Theory, we find another layer of complexity. It's like the universe is an Onion with layer after layer of tear inspiring complexity. Will we really ever get to the bottom of the rabbit hole? Do we want to?
+
+
+—Tsyko
