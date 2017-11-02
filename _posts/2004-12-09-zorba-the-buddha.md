@@ -13,7 +13,7 @@ categories:
 
 <blockquote>"I have no wish to placate you with false, hollow and worthless words exhorting you to love mankind. The so-called religions have said these things to you for generations. I am here to urge you to love real men, to love your fellow beings - not mankind but the men who live and work around you. Humanity is just a word; mankind is just a label. You cannot find humanity or mankind anywhere. And so humanity is easy to love because the only thing you have to do is mouth a few platitudes." - Osho</blockquote>
 
-<p>I have a book called Everyday Zen. One of the passages talks about tooth-brushing. If, when you were 4 or 5 and starting to brush your teeth, you dwelled on how you would have to do this every day for the rest of your life, you might not have ever started. However, I doubt that you did. Instead, you simply did it today. Habits are easy to form if you just do the action today.</p>
+<p>I have a book called Everyday Zen. One of the passages talks about tooth-brushing. It points out that if when you were 4 or 5 and starting to brush your teeth you dwelled on how you would have to do this every day for the rest of your life, you might not have ever started. The task would have been overwhelming. However, I doubt that you did. Instead, you simply did it today. Habits are easy to form if you just do the action today.</p>
 
 <p>Most major changes seem large, if you look at the entire thing. Sort of like painting an elephant. Over all, it is an overwhelming task. But, if you get close, and look at just the trunk, and decide to paint it, it would not take all that long. and the same with the legs, sides and back. Sooner then not, you are looking at a pink elephant.</p>
 
