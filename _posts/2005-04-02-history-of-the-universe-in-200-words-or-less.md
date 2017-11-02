@@ -12,4 +12,4 @@ categories:
 <p>Yes, you too can read the History of the universe in 200 words or less <a href="http://members.bellatlantic.net/%7Evze3fs8i/hist/hist.html">Here</a>.</p>
 
 
-	<p>Hat Tip <a href="http://improbable.typepad.com/">Improbable Research</a></p>
+<p>Hat Tip <a href="http://improbable.typepad.com/">Improbable Research</a></p>

@@ -71,7 +71,7 @@ categories:
 </tr></table>
 
 
-	<p>I also added the following to allow me to create the basic user skeleton with out the validations running on it.</p>
+<p>I also added the following to allow me to create the basic user skeleton with out the validations running on it.</p>
 
 
 <table class="CodeRay"><tr>
@@ -85,7 +85,7 @@ categories:
 </tr></table>
 
 
-	<p>I did not want the users passwords to be recorded in the log files, so we need to add this to the application controller</p>
+<p>I did not want the users passwords to be recorded in the log files, so we need to add this to the application controller</p>
 
 
 <table class="CodeRay"><tr>
@@ -95,7 +95,7 @@ categories:
 </tr></table>
 
 
-	<p>Now, we need to add some code to the controller which controls your users and their authentication. I use the following</p>
+<p>Now, we need to add some code to the controller which controls your users and their authentication. I use the following</p>
 
 
 <table class="CodeRay"><tr>
@@ -163,28 +163,28 @@ categories:
 </tr></table>
 
 
-	<p>What does this mess do? Let's look at it.</p>
+<p>What does this mess do? Let's look at it.</p>
 
 
-	<p>First we assume that we have a form already hooked up to this function. When we call this, we assume that we have been passed 2 values, <code>userid</code> and <code>password</code>. We assume that we have defined <code>LDAP_SERVER = "your_server"</code> some where else in the controller.</p>
+<p>First we assume that we have a form already hooked up to this function. When we call this, we assume that we have been passed 2 values, <code>userid</code> and <code>password</code>. We assume that we have defined <code>LDAP_SERVER = "your_server"</code> some where else in the controller.</p>
 
 
-	<p>So, first things, we pass the user name and password to the model and attempt to authenticate. We check to assure that none of the fields are blank. The line <code>if password.nil? || password == "" || login.nil? || login == ""</code> takes care of this, and we pass a <code>false</code> value back to the calling function if any of it is true.</p>
+<p>So, first things, we pass the user name and password to the model and attempt to authenticate. We check to assure that none of the fields are blank. The line <code>if password.nil? || password == "" || login.nil? || login == ""</code> takes care of this, and we pass a <code>false</code> value back to the calling function if any of it is true.</p>
 
 
-	<p>Next, we need to set up the connection to the <span class="caps">LDAP</span> server <code>conn = LDAP::Conn.new(host, 389)</code> and <code>conn.set_option(LDAP::LDAP_OPT_PROTOCOL_VERSION, 3 )</code>  takes care of this. Assuming that everything works, we now have a good connection to the <span class="caps">LDAP</span> server. You can test this assumption with <code>conn.bound?</code> (for example, from the console).</p>
+<p>Next, we need to set up the connection to the <span class="caps">LDAP</span> server <code>conn = LDAP::Conn.new(host, 389)</code> and <code>conn.set_option(LDAP::LDAP_OPT_PROTOCOL_VERSION, 3 )</code>  takes care of this. Assuming that everything works, we now have a good connection to the <span class="caps">LDAP</span> server. You can test this assumption with <code>conn.bound?</code> (for example, from the console).</p>
 
 
-	<p>We need to pass the user name and password to the connection and see if we get a positive result from the resultant credentials check. <code>fulllogin = AD_DOMAIN_NAME + login</code> formats the ad domain name and user name correctly, and then <code>conn.bind(fulllogin, password)</code> sends the credentials off to the <span class="caps">LDAP</span> server. It will pause, and then return the <span class="caps">LDAP</span> object.</p>
+<p>We need to pass the user name and password to the connection and see if we get a positive result from the resultant credentials check. <code>fulllogin = AD_DOMAIN_NAME + login</code> formats the ad domain name and user name correctly, and then <code>conn.bind(fulllogin, password)</code> sends the credentials off to the <span class="caps">LDAP</span> server. It will pause, and then return the <span class="caps">LDAP</span> object.</p>
 
 
-	<p>This is all well and good, but did we log in? <code>if conn.err == 0</code> checks the error code returned when we tried to authenticate. If we have anything other then 0, we had problems, so we toss a false back up to the calling function. If we get a 0 back, then we toss a <code>true</code> back up to calling function and press on.</p>
+<p>This is all well and good, but did we log in? <code>if conn.err == 0</code> checks the error code returned when we tried to authenticate. If we have anything other then 0, we had problems, so we toss a false back up to the calling function. If we get a 0 back, then we toss a <code>true</code> back up to calling function and press on.</p>
 
 
-	<p>Let's assume that we get a true back in the controller. So, the user has provided AD a good user name and password. We might have some information that we want to cache locally in the application for performance reasons. For example, I cache the users email address, first name and last name. I made a design choice to keep my applications interaction with AD as little as possible, so I do not pull that information from it.</p>
+<p>Let's assume that we get a true back in the controller. So, the user has provided AD a good user name and password. We might have some information that we want to cache locally in the application for performance reasons. For example, I cache the users email address, first name and last name. I made a design choice to keep my applications interaction with AD as little as possible, so I do not pull that information from it.</p>
 
 
-	<p>If the controller can find a user record with the same user name as the user name which was provided, we press on. If not, we pop the user over to their 'My Account' page and force them to fill out a form which captures the data that we need.</p>
+<p>If the controller can find a user record with the same user name as the user name which was provided, we press on. If not, we pop the user over to their 'My Account' page and force them to fill out a form which captures the data that we need.</p>
 
 
-	<p>We then save that data to the local database. Auto populating the database with information from AD is left to the gentle reader.</p>
+<p>We then save that data to the local database. Auto populating the database with information from AD is left to the gentle reader.</p>

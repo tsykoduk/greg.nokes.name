@@ -14,4 +14,4 @@ categories:
 
 	<blockquote>Did you know that the worldwide death rate is 100%? Scary!</blockquote>
 
-		<p>It's over folks. This blog is shutting down, as we are all really dead.</p>
+	<p>It's over folks. This blog is shutting down, as we are all really dead.</p>

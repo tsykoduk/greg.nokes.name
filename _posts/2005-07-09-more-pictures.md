@@ -16,4 +16,4 @@ categories:
 	<br />
 	<a href="http://www.flickr.com/photos/tsykoduk/24702278/" title="Photo Sharing"><img src="http://photos21.flickr.com/24702278_19efd54e66_m.jpg" width="240" height="180" alt="IMG_1875" /></a></center>
 
-		<p>Just a sample of my latest photo-skilz. Word up.</p>
+	<p>Just a sample of my latest photo-skilz. Word up.</p>

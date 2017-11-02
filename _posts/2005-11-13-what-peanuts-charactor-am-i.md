@@ -12,11 +12,11 @@ categories:
 <p>Ya wanna know?</p>
 
 
-	<p>Did not think so.. :)</p>
+<p>Did not think so.. :)</p>
 
 
-	<p><img src="http://images.quizilla.com/A/anonymousnowhere/1064197208_r_franklin.jpg" border="0" alt="Franklin"/><br />You are Franklin!
+<p><img src="http://images.quizilla.com/A/anonymousnowhere/1064197208_r_franklin.jpg" border="0" alt="Franklin"/><br />You are Franklin!
 <br /><br /><a href="http://quizilla.com/users/anonymousnowhere/quizzes/Which%20Peanuts%20Character%20are%20You%3F/"> Which Peanuts Character are You?</a><br /> <font size="-2">brought to you by <a href="http://quizilla.com">Quizilla</a></font></p>
 
 
-	<p>(HT: <a href="http://www.samanthaburns.com/archives/2005/11/peanuts_quiz.html">Sam</a>)</p>
+<p>(HT: <a href="http://www.samanthaburns.com/archives/2005/11/peanuts_quiz.html">Sam</a>)</p>

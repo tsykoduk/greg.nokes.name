@@ -18,7 +18,7 @@ categories:
 	I thought you would be interested to learn more about what's going on to stop these crises at The <span class="caps">ONE</span> Campaign. Americans from all over are lending their voices to this campaign and helping to fight global <span class="caps">AIDS</span> and poverty-one person and one vote at a time.</p>
 
 
-		<p>Please visit <a href="http://www.one.org"><span class="caps">ONE</span>.org</a> website and learn how you too can get involved by signing the petition</blockquote></p>
+	<p>Please visit <a href="http://www.one.org"><span class="caps">ONE</span>.org</a> website and learn how you too can get involved by signing the petition</blockquote></p>
 
 
-		<p>You probably will notice a new banner on this site. I have done a bit of research into this organization, and <a href="http://www.one.org/Signatories.aspx">I support it</a>. I would ask everyone to look at their <a href="http://www.one.org/">site,</a> and if you feel moved - please support it as well.</p>
+	<p>You probably will notice a new banner on this site. I have done a bit of research into this organization, and <a href="http://www.one.org/Signatories.aspx">I support it</a>. I would ask everyone to look at their <a href="http://www.one.org/">site,</a> and if you feel moved - please support it as well.</p>

@@ -12,7 +12,7 @@ categories:
 <p>Music video after the jump...</p>
 
 
-	<p>&lt;!<del>-more</del>-&gt;</p>
+<p>&lt;!<del>-more</del>-&gt;</p>
 
 
 <center><a href="http://www.tomsmithonline.com"><object width="550" height="400">

@@ -12,7 +12,7 @@ categories:
 <p>This is just wrong.</p>
 
 
-	<p>You were warned!</p>
+<p>You were warned!</p>
 
 
-	<p><a href="http://www.brokentoys.org/?p=6849">Enter at your own risk</a></p>
+<p><a href="http://www.brokentoys.org/?p=6849">Enter at your own risk</a></p>

@@ -43,10 +43,10 @@ server {
 
 </pre>
 
-	<p>And, as an added bonus, it's much easier to read!</p>
+<p>And, as an added bonus, it's much easier to read!</p>
 
 
-	<p>Thanks to mibb in <span class="caps">IRC</span>, we were able to hack the following out:</p>
+<p>Thanks to mibb in <span class="caps">IRC</span>, we were able to hack the following out:</p>
 
 
 <pre>server {

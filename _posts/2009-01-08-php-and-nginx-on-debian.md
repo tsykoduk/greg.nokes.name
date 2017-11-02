@@ -16,19 +16,19 @@ categories:
             <p>I found a great <a href="http://jit.nuance9.com/2008/01/serving-php5-with-nginx-on-ubuntu-710.html">article</a> on how to get r done. There were a few gotcha's that I ran into, but honestly, it worked like a charm.</p>
 
 
-	<p>The largest issue was that the line:</p>
+<p>The largest issue was that the line:</p>
 
 
 <code>fastcgi_param SCRIPT_FILENAME /var/www/nginx-default$fastcgi_script_name</code>
 
-	<p>was truncated to</p>
+<p>was truncated to</p>
 
 
 <code>fastcgi_param SCRIPT_FILENAME /var/www/nginx-default$fastcgi_script_</code>
 
-	<p>So I cleaned that up, and ended up with</p>
+<p>So I cleaned that up, and ended up with</p>
 
 
 <code>fastcgi_param SCRIPT_FILENAME /var/www/$fastcgi_script_name</code>
 
-	<p>and Bam. Chili Fries.</p>
+<p>and Bam. Chili Fries.</p>

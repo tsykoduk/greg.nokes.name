@@ -11,13 +11,13 @@ categories:
 ---
 <div align="center"><img src="http://www.tuaw.com/images/2005/04/longhorndinner.jpg" /></div>
 
-	<p>I just Have to get one!</p>
+<p>I just Have to get one!</p>
 
 
-	<p>Ok... for those that don't get the joke.</p>
+<p>Ok... for those that don't get the joke.</p>
 
 
-	<p>Longhorn was Microsoft's codename for Windows  Vista before they named it. Notice the little Mac <span class="caps">OS X</span> logo underneath.</p>
+<p>Longhorn was Microsoft's codename for Windows  Vista before they named it. Notice the little Mac <span class="caps">OS X</span> logo underneath.</p>
 
 
-	<p>Everyone laugh along now.</p>
+<p>Everyone laugh along now.</p>

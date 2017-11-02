@@ -13,7 +13,7 @@ categories:
 <br /><br />
 You can reduce your risks for identity theft, but you don't have control over government agencies, hospitals, or retail stores that manage to lose your personal information. The following list will walk you through the steps that will help you recover your identity and restore your credit rating.</blockquote>
 
-	<p>The <a href="http://www.yourcreditadvisor.com/blog/2007/03/your_identity_h.html">story</a> goes on to explain the 21 steps to take when you're identity has been stolen. Good reading, good to know.</p>
+<p>The <a href="http://www.yourcreditadvisor.com/blog/2007/03/your_identity_h.html">story</a> goes on to explain the 21 steps to take when you're identity has been stolen. Good reading, good to know.</p>
 
 
-	<p>(HT: <a href="http://www.schneier.com/blog/archives/2007/03/how_to_recover_1.html">Bruce Schneier</a>)</p>
+<p>(HT: <a href="http://www.schneier.com/blog/archives/2007/03/how_to_recover_1.html">Bruce Schneier</a>)</p>

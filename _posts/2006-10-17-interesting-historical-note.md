@@ -38,16 +38,16 @@ general Franz Halder at the Nuremburg Trials) that G&ouml;ring himself had start
 really did start the fire and that the Nazis simply seized a golden opportunity to tighten their grip on Germany, while others conclude
 that the Nazis masterminded the entire plot themselves and framed the communists.</p></blockquote>
 
-	<p>-<a href="http://www.irregularwebcomic.net/1155.html">David Morgan-Mar</a></p>
+<p>-<a href="http://www.irregularwebcomic.net/1155.html">David Morgan-Mar</a></p>
 
 
-	<p>Any resemblance to current events is simply coincidental.</p>
+<p>Any resemblance to current events is simply coincidental.</p>
 
 
-	<p>I <strong>do not</strong> believe that Bush is a Hitler wanna-be. I simply use this to point out - when the citizens stop watching, this is what can happen.</p>
+<p>I <strong>do not</strong> believe that Bush is a Hitler wanna-be. I simply use this to point out - when the citizens stop watching, this is what can happen.</p>
 
 
-	<p>Let me reemphasize this.</p>
+<p>Let me reemphasize this.</p>
 
 
-	<p><strong>I am not drawing a correlation between any current U.S. government official, elected or otherwise and Hitler. I am not even saying that we are heading down this path</strong>. I am simply stating that a strong, active, and knowledgeable populace is what we need to stave off this kind of event.</p>
+<p><strong>I am not drawing a correlation between any current U.S. government official, elected or otherwise and Hitler. I am not even saying that we are heading down this path</strong>. I am simply stating that a strong, active, and knowledgeable populace is what we need to stave off this kind of event.</p>

@@ -15,4 +15,4 @@ categories:
 
             <center><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/d15lJn1r0Mk"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/d15lJn1r0Mk" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></center>
 
-	<p>(HT: <a href="http://blog.guykawasaki.com/2008/03/the-art-of-the.html">Guy Kawasaki</a>)</p>
+<p>(HT: <a href="http://blog.guykawasaki.com/2008/03/the-art-of-the.html">Guy Kawasaki</a>)</p>

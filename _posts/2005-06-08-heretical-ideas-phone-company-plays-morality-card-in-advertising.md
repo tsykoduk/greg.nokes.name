@@ -12,13 +12,13 @@ categories:
 <p>Did you know that:</p>
 
 
-		<p><span class="caps">MCI</span> distributes child pornography?</p>
+	<p><span class="caps">MCI</span> distributes child pornography?</p>
 
 
-		<p>Verizon makes its employees 'accept homosexualityâ€ (as opposed to just asking them not to aggravate gay co-workers and customers)?</p>
+	<p>Verizon makes its employees 'accept homosexualityâ€ (as opposed to just asking them not to aggravate gay co-workers and customers)?</p>
 
 
-		<p>God hates the major telecommunications carriers?</p>
+	<p>God hates the major telecommunications carriers?</p>
 
 
-		<p>Read the rest of this startling revelation <a href="http://hereticalideas.com/index.php?p=3011">here</a></p>
+	<p>Read the rest of this startling revelation <a href="http://hereticalideas.com/index.php?p=3011">here</a></p>

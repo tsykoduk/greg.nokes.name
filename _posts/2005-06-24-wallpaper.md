@@ -13,4 +13,4 @@ categories:
 <p><a href="http://mritche.net/wallpaper/widescreen/">Widescreen</a> wallpapers. Wow.</p>
 
 
-		<p>(Hat tip, <a href="http://nanocrew.net/?p=3"><span class="caps">DVD</span> John</a>)</p>
+	<p>(Hat tip, <a href="http://nanocrew.net/?p=3"><span class="caps">DVD</span> John</a>)</p>

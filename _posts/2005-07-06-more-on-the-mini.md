@@ -12,18 +12,18 @@ categories:
 <p>So, I have been using the 'mini for several weeks. I am impressed. It's not a speed deamon, but it really 'gets r done!'.</p>
 
 
-		<p>For example, I just got done putting together a short movie in iMovieHD - the file size is 9.5 gigs. It's about 40 min of video, pictures and music. It never slowed down. To be able to edit a 9.5 gig file with out a pause was really nice.</p>
+	<p>For example, I just got done putting together a short movie in iMovieHD - the file size is 9.5 gigs. It's about 40 min of video, pictures and music. It never slowed down. To be able to edit a 9.5 gig file with out a pause was really nice.</p>
 
 
-		<p>Sheila was even able to jump in and play with the music transitions. So, here's the score.</p>
+	<p>Sheila was even able to jump in and play with the music transitions. So, here's the score.</p>
 
 
-		<p>Plug in and get movies off camcorder - check.
+	<p>Plug in and get movies off camcorder - check.
 	Import movies into and out of iMovieHD - check.
 	Add pictures, music, titles and transitions - check.</p>
 
 
-		<p>And all with out hitting help or google once.</p>
+	<p>And all with out hitting help or google once.</p>
 
 
-		<p>Pretty good!</p>
+	<p>Pretty good!</p>

@@ -14,7 +14,7 @@ categories:
 
 	<blockquote>250 things Mr. Welch can no longer do during an <span class="caps">RPG</span>
 
-		<p>1. Cannot base characters off the Who's drummer Keith Moon.
+	<p>1. Cannot base characters off the Who's drummer Keith Moon.
 	2. A one man band is not an appropriate bard instrument.
 	3. There is no Gnomish god of heavy artillery.
 	4. My 7th Sea character Boudreaux is not 'Southern' Montaigne.
@@ -26,10 +26,10 @@ categories:
 	10. Just because my character and I can speak German, doesn't mean the GM can.</blockquote></p>
 
 
-		<p>-<a href="http://piratelog.blogspot.com/2005/08/gaming-fun.html">Subversive Puppet Show: Gaming Fun</a></p>
+	<p>-<a href="http://piratelog.blogspot.com/2005/08/gaming-fun.html">Subversive Puppet Show: Gaming Fun</a></p>
 
 
-		<p>There are a lot more on the site.</p>
+	<p>There are a lot more on the site.</p>
 
 
-		<p>I personally have done several of these. Guessing which is left to the reader...</p>
+	<p>I personally have done several of these. Guessing which is left to the reader...</p>

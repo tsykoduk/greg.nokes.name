@@ -16,7 +16,7 @@ categories:
             <p>So, the first task to tackle was to make sure that the existing section structure was migrated over to tags.</p>
 
 
-	<p>I cobbled together this little hunk of code</p>
+<p>I cobbled together this little hunk of code</p>
 
 
 <table class="CodeRay"><tr>
@@ -40,10 +40,10 @@ categories:
 </tr></table>
 
 
-	<p>This will parse all of the articles in the database, and add a tag for each section that they belong to.</p>
+<p>This will parse all of the articles in the database, and add a tag for each section that they belong to.</p>
 
 
-	<p>Second was how to move the articles around...</p>
+<p>Second was how to move the articles around...</p>
 
 
 <table class="CodeRay"><tr>
@@ -75,4 +75,4 @@ categories:
 </tr></table>
 
 
-	<p>Since it's not really an automatable choice, I plugged the correct values in for <code>old_section_name</code> and <code>new_section_name</code> and  allowed it to move stuff where I wanted it. Viola, 20 sections down to 4.</p>
+<p>Since it's not really an automatable choice, I plugged the correct values in for <code>old_section_name</code> and <code>new_section_name</code> and  allowed it to move stuff where I wanted it. Viola, 20 sections down to 4.</p>

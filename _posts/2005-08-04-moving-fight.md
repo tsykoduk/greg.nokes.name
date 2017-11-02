@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote><strong><span class="caps">OPEN LETTER TO KANSAS SCHOOL BOARD</span></strong>
 
-		<p>I am writing you with much concern after having read of your hearing to decide whether the alternative theory of Intelligent Design should be taught along with the theory of Evolution. I think we can all agree that it is important for students to hear multiple viewpoints so they can choose for themselves the theory that makes the most sense to them. I am concerned, however, that students will only hear one theory of Intelligent Design.</blockquote></p>
+	<p>I am writing you with much concern after having read of your hearing to decide whether the alternative theory of Intelligent Design should be taught along with the theory of Evolution. I think we can all agree that it is important for students to hear multiple viewpoints so they can choose for themselves the theory that makes the most sense to them. I am concerned, however, that students will only hear one theory of Intelligent Design.</blockquote></p>
 
 
-		<p>You really should read the rest of <a href="http://www.venganza.org/index.htm">this</a>. It's an example of how one person can really make a difference. It brought tears to my eyes. It's people like this that really make a diffrence.</p>
+	<p>You really should read the rest of <a href="http://www.venganza.org/index.htm">this</a>. It's an example of how one person can really make a difference. It brought tears to my eyes. It's people like this that really make a diffrence.</p>

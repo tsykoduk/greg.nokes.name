@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>Here is one way to fight back against the Kelo decision that took away your property rights. Logan Darrow Clements of Freestar Media, <span class="caps">LLC</span> anounced the attempted acquistion of Justice David H. Soute's home in Weare, New Hampshire. Plans for the property include a new hotel which constitutes better public use of the property than Mr. Souter's simple ownership.</blockquote>
 
-		<p>(Hat Tip <a href="http://www.ofthemind.com/archives/2005/06/lost_libert_hot.html">Of The Mind</a>)</p>
+	<p>(Hat Tip <a href="http://www.ofthemind.com/archives/2005/06/lost_libert_hot.html">Of The Mind</a>)</p>

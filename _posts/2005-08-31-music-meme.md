@@ -12,16 +12,16 @@ categories:
 <p>Gee - this sounds like Fun! (HT: <a href="http://beginaneweachday.blogspot.com/2005/08/music-meme.html">Agent Sierra</a>)</p>
 
 
-	<p>A.) Go to <a href="http://www.musicoutfitters.com">musicoutfitters</a></p>
+<p>A.) Go to <a href="http://www.musicoutfitters.com">musicoutfitters</a></p>
 
 
-	<p>B.) Enter the year you graduated from high school in the search function and get the list of 100 most popular songs of that year</p>
+<p>B.) Enter the year you graduated from high school in the search function and get the list of 100 most popular songs of that year</p>
 
 
-	<p>C.) Bold the songs you like, strike through the ones you hate and underline your favorite. Do nothing to the ones you don't remember (or don't care about).</p>
+<p>C.) Bold the songs you like, strike through the ones you hate and underline your favorite. Do nothing to the ones you don't remember (or don't care about).</p>
 
 
-	<p>&lt;!<del>-more</del>-&gt;
+<p>&lt;!<del>-more</del>-&gt;
 1. <strong>Walk Like An Egyptian, Bangles </strong>
 2. <strong>Alone, Heart</strong>
 3. Shake You Down, Gregory Abbott

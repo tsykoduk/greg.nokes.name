@@ -15,4 +15,4 @@ categories:
 
 	<blockquote>The European Parliament has voted by a massive majority to reject the software patents directive, formally known as the Directive on the Patentability of Computer Implemented Inventions. The vote to scrap the bill was passed by a margin of 648 votes to 14, with 18 abstentions.</blockquote>
 
-		<p>With the <a href="http://davejustus.blogspot.com/2005/06/file-sharing-networks-can-be-held.html">recent</a> issues in the US, this is a big win for the F/OSS folks. Way to go!</p>
+	<p>With the <a href="http://davejustus.blogspot.com/2005/06/file-sharing-networks-can-be-held.html">recent</a> issues in the US, this is a big win for the F/OSS folks. Way to go!</p>

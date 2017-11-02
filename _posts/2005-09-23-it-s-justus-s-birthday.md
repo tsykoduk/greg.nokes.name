@@ -11,16 +11,16 @@ categories:
 ---
 <blockquote> Happy Birthday to Me!
 
-	<p>Today is my birthday, which gives all of my readers a wonderful chance to link to me and say nice things about me!</p>
+<p>Today is my birthday, which gives all of my readers a wonderful chance to link to me and say nice things about me!</p>
 
 
-	<p>You all are so lucky to have this opportunity!</p>
+<p>You all are so lucky to have this opportunity!</p>
 
 
-	<p>In keeping with my reverse aging methodology, today I am 25.</p>
+<p>In keeping with my reverse aging methodology, today I am 25.</p>
 
 
-	<p>Yesterday was Gib's birthday, so you probably should say nice things about him to. Less nice than about me of course.</blockquote></p>
+<p>Yesterday was Gib's birthday, so you probably should say nice things about him to. Less nice than about me of course.</blockquote></p>
 
 
-	<p><a href="http://davejustus.blogspot.com/">He</a> is confused, but a nice guy. :)</p>
+<p><a href="http://davejustus.blogspot.com/">He</a> is confused, but a nice guy. :)</p>

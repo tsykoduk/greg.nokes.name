@@ -25,10 +25,10 @@ categories:
 	Salt to taste</p>
 
 
-		<p>Heat some oil in a stew pan with the Sage, Garlic, Onion and Oregano. When it is hot, add beef. Mush it up good - we don't want any large parts left. After the beef is browned (but the grease is still there) add beer and salsa. simmer for a few moments. While that is simmering, take 1/4 of each of the cans of beans and smash them up good. Add all of the beans and the tomato sauce. Stir while it's simmering. Simmer for about 30 min to an hour. Season to taste.</p>
+	<p>Heat some oil in a stew pan with the Sage, Garlic, Onion and Oregano. When it is hot, add beef. Mush it up good - we don't want any large parts left. After the beef is browned (but the grease is still there) add beer and salsa. simmer for a few moments. While that is simmering, take 1/4 of each of the cans of beans and smash them up good. Add all of the beans and the tomato sauce. Stir while it's simmering. Simmer for about 30 min to an hour. Season to taste.</p>
 
 
-		<p>Optional - for the truly dukky taste - add 1/2 cup hot, black, strong coffee to the mix.</p>
+	<p>Optional - for the truly dukky taste - add 1/2 cup hot, black, strong coffee to the mix.</p>
 
 
-		<p>Serve it with some fresh White Onions over it, and perhaps some good Extra Sharp Cheddar.</p>
+	<p>Serve it with some fresh White Onions over it, and perhaps some good Extra Sharp Cheddar.</p>

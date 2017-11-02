@@ -13,10 +13,10 @@ categories:
 <p>You have to telnet to towel.blinkenlights.nl - open a command prompt and type telnet towel.blinkenlights.nl</p>
 
 
-	<p>Ok.. so, go to start/run and type in cmd.exe.</p>
+<p>Ok.. so, go to start/run and type in cmd.exe.</p>
 
 
-	<p>Got it?</p>
+<p>Got it?</p>
 
 
-	<p>Good.</p>
+<p>Good.</p>

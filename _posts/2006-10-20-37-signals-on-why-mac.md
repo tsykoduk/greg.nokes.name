@@ -12,7 +12,7 @@ categories:
 <p>You can see the video <a href="http://www.apple.com/education/whymac/compsci/video.html">Here</a>.</p>
 
 
-	<p>I agree a lot with what they say - but I add that the Mac just gets out of the way. Things work like I expect them to, and I do not have to think about the details of what I am doing as much as the big picture.</p>
+<p>I agree a lot with what they say - but I add that the Mac just gets out of the way. Things work like I expect them to, and I do not have to think about the details of what I am doing as much as the big picture.</p>
 
 
-	<p>To steal a marketing slogan - "Mac: Let your fingers do the walking"</p>
+<p>To steal a marketing slogan - "Mac: Let your fingers do the walking"</p>

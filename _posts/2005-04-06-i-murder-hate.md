@@ -11,7 +11,7 @@ categories:
 ---
 <center>Robert Burns (1759,1796), <a href="http://www.bartleby.com/6/304.html">I Murder Hate</a><br /><br />
 
-	<p><span class="caps">I MURDER</span> hate by flood or field,
+<p><span class="caps">I MURDER</span> hate by flood or field,
 Tho' glory's name may screen us;
 In wars at home I'll spend my bloodâ€”
 Life-giving wars of Venus.

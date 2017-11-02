@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote>Using a non-Windows-based PC may be one defense against these programs, known as malware.. Like Windows, Microsoft's Internet Explorer browser is also a large, convenient target for code-writing vandals. Alternative browsers, like Firefox and Opera, may insulate users.</blockquote>
 
-	<p>-<a href="http://www.nytimes.com/2007/01/07/technology/07tips.html?_r=1&#38;oref=slogin"><span class="caps">NYT</span></a></p>
+<p>-<a href="http://www.nytimes.com/2007/01/07/technology/07tips.html?_r=1&#38;oref=slogin"><span class="caps">NYT</span></a></p>
 
 
-	<p>Need I say any more?</p>
+<p>Need I say any more?</p>

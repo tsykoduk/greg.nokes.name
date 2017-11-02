@@ -13,4 +13,4 @@ categories:
 
 	-Francois de La Rochefoucald
 
-		<p>(HT: <a href="http://hereticalideas.com/index.php?p=3140">Heretical Ideas</a>)</p>
+	<p>(HT: <a href="http://hereticalideas.com/index.php?p=3140">Heretical Ideas</a>)</p>

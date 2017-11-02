@@ -12,7 +12,7 @@ categories:
 <p><a href="http://www.robertburns.org/works/308.shtml">Robert Burns: </a></p>
 
 
-	<p><em><center>When chapman billies leave the street,
+<p><em><center>When chapman billies leave the street,
 And drouthy neibors, neibors, meet;
 As market days are wearing late,
 And folk begin to tak the gate,

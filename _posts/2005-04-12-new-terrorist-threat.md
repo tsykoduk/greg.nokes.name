@@ -13,7 +13,7 @@ categories:
 <blockquote>People of the United States! We are Unitarian Jihad! We can strike without warning. Pockets of reasonableness and harmony will appear as if from nowhere!
 </blockquote>
 
-	<p>Jon Carroll, in the <a href="http://sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/04/08/DDG27BCFLG1.DTL">San Francisco Examiner</a>, has the whole story.</p>
+<p>Jon Carroll, in the <a href="http://sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/04/08/DDG27BCFLG1.DTL">San Francisco Examiner</a>, has the whole story.</p>
 
 
-	<p>Hat Tip <a href="http://www.sjgames.com/ill/archives.html?y=2005&#38;m=April&#38;d=13">SJ</a></p>
+<p>Hat Tip <a href="http://www.sjgames.com/ill/archives.html?y=2005&#38;m=April&#38;d=13">SJ</a></p>

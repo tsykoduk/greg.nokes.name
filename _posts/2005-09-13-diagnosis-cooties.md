@@ -14,11 +14,11 @@ categories:
 
 <blockquote>So unless I want 7 years of bad luck, or whatever bad befalls those who don't participate in the tag, I should answer these questions seven:</blockquote>
 
-	<p>&lt;!<del>-more</del>-&gt;
+<p>&lt;!<del>-more</del>-&gt;
 7 things I plan to do before I die:</p>
 
 
-	<p>1) Retire, and enjoy it.
+<p>1) Retire, and enjoy it.
 2) Finish a project. Any freaking project!
 3) Collect all of them!
 4) Get my pilot's license
@@ -27,10 +27,10 @@ categories:
 7) Transend</p>
 
 
-	<p>7 things I can do:</p>
+<p>7 things I can do:</p>
 
 
-	<p>1) Focus really hard
+<p>1) Focus really hard
 2) Forget things really well
 3) Lie well
 4) Use lies to make funnys ("They just found out that ketchup is cancer causeing." "Really??" "Noooo. Silly")
@@ -39,10 +39,10 @@ categories:
 7) Enjoy myself even if I am not 'winning'</p>
 
 
-	<p>7 things I cannot do:</p>
+<p>7 things I cannot do:</p>
 
 
-	<p>1) Play pool well (not that I do not try...)
+<p>1) Play pool well (not that I do not try...)
 2) Play golf well (not that I do not try...)
 3) Talk to girls (luckly Wifie did all of the talking the first - oh - several years)
 4) Dodge wifie's thrown shoes when I give her lip.
@@ -51,10 +51,10 @@ categories:
 7) Be totally serious</p>
 
 
-	<p>7 things that attract me to the opposite sex:</p>
+<p>7 things that attract me to the opposite sex:</p>
 
 
-	<p>1) Committed (as in long term relationships - alto the other helps too...)
+<p>1) Committed (as in long term relationships - alto the other helps too...)
 2) Smart
 3) Funny
 4) Upbeat (cannot stand mopyness. I do enough of that myself)
@@ -64,10 +64,10 @@ categories:
 8) Some one just like Wifie (to make up for #3 above, so I do not have to practice #4)</p>
 
 
-	<p>7 things I say most often:</p>
+<p>7 things I say most often:</p>
 
 
-	<p>1) Have Fun!
+<p>1) Have Fun!
 2) Have A Good One
 3) I'd like a venti, triple, black and white mocha, soy and no wip
 4) I'm tired honey...
@@ -76,10 +76,10 @@ categories:
 7) Ouch.</p>
 
 
-	<p>7 celebrity crushes:</p>
+<p>7 celebrity crushes:</p>
 
 
-	<p>1) Hmmm... Laura Croft (money and... um... yeah)
+<p>1) Hmmm... Laura Croft (money and... um... yeah)
 2) Traci Lords
 3) RuPaul
 4) the chic in Alias
@@ -88,10 +88,10 @@ categories:
 7) Aphrodite (you know, the greek goddess?)</p>
 
 
-	<p>7 people I want to do this:</p>
+<p>7 people I want to do this:</p>
 
 
-	<p>1) I second ObiWazzhisfaceKenobi
+<p>1) I second ObiWazzhisfaceKenobi
 2) IllumanitiRob
 3) Mystic
 4) Dave Justus (sucks, don't it? Trying to be a serious blogger and you get this?)

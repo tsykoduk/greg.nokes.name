@@ -12,4 +12,4 @@ categories:
 <blockquote>Gas-electric hybrids are the most fuel-efficient passenger cars on the road and ecologically there isn't a more viable option. Until something big changes, though, the industry-high efficiency can't economically offset the steep sticker price.</blockquote>
 -<a href="http://www.omninerd.com/articles/articles.php?aid=41">OmniNerd</a>
 
-	<p>I have been saying this for quite a while now. They just did the math to prove it.</p>
+<p>I have been saying this for quite a while now. They just did the math to prove it.</p>

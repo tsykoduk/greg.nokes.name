@@ -12,4 +12,4 @@ categories:
 <p>Yeah - <a href="http://www.zefrank.com/request/index_better.html">this</a> is actually really cool!</p>
 
 
-	<p>In other news I have the day off (WooHoo!) in order to do some housework (Booo! Hisss!) Got the tunes blasting right now...</p>
+<p>In other news I have the day off (WooHoo!) in order to do some housework (Booo! Hisss!) Got the tunes blasting right now...</p>

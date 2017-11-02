@@ -12,7 +12,7 @@ categories:
 <p><a href="http://www.solstation.com/stars.htm">Notable Nearby Stars</a> - a great resource page.</p>
 
 
-		<p>Another <a href="http://www.projectrho.com/smap06.html">good page</a> - lots of 3d stuff.</p>
+	<p>Another <a href="http://www.projectrho.com/smap06.html">good page</a> - lots of 3d stuff.</p>
 
 
-		<p><span class="caps">NASA</span>'s <a href="http://nstars.arc.nasa.gov/index.cfm">Nearby Stars Database</a></p>
+	<p><span class="caps">NASA</span>'s <a href="http://nstars.arc.nasa.gov/index.cfm">Nearby Stars Database</a></p>

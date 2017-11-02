@@ -11,7 +11,7 @@ categories:
 ---
 <center><a href="http://www.nerdtests.com/ft_nq.php?im"><img src="http://www.nerdtests.com/images/ft/nq.php?val=1759" alt="I am nerdier than 86% of all people. Are you nerdier? Click here to find out!"/></a></center>
 
-	<p>Yup - that says it all.</p>
+<p>Yup - that says it all.</p>
 
 
-	<p>(HT: <a href="http://www.davejustus.com">Justus</a> the big non-nerd. I think that he cheated.)</p>
+<p>(HT: <a href="http://www.davejustus.com">Justus</a> the big non-nerd. I think that he cheated.)</p>

@@ -12,4 +12,4 @@ categories:
 <p>Working with a core group of my friends, I have decided to put together an exploratory committee to look into forming a campaign for President in 2008. We have had several meetings laying the groundwork for this effort. We are excited to announce that we have already secured several large backers who believe that my presidency would bring solutions to most of the worlds problems.</p>
 
 
-	<p>Our first full scale meeting is tonight, so expect an exciting announcement tomorrow.</p>
+<p>Our first full scale meeting is tonight, so expect an exciting announcement tomorrow.</p>

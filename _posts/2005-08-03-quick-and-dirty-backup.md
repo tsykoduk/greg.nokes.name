@@ -14,13 +14,13 @@ categories:
 
 	<h1>change dir to backup dir</h1>
 
-		<p>cd /backup</p>
+	<p>cd /backup</p>
 
 
 
 	<h1>build next days worth of file backups</h1>
 
-		<p>rm -rf /backup/backup.4
+	<p>rm -rf /backup/backup.4
 	mv /backup/backup.3 /backup/backup.4
 	mv /backup/backup.2 /backup/backup.3
 	mv /backup/backup.1 /backup/backup.2
@@ -31,7 +31,7 @@ categories:
 
 	<h1>Backup etc</h1>
 
-		<p>tar -cvf etc.tar /etc
+	<p>tar -cvf etc.tar /etc
 	rm /backup/etc.tar.gz
 	gzip etc.tar</p>
 
@@ -39,7 +39,7 @@ categories:
 
 	<h1>backup MySQL databases</h1>
 
-		<p>rm /backup/backup4.sql
+	<p>rm /backup/backup4.sql
 	mv /backup/backup3.sql /backup/backup4.sql
 	mv /backup/backup2.sql /backup/backup3.sql
 	mv /backup/backup1.sql /backup/backup2.sql
@@ -50,7 +50,7 @@ categories:
 
 	<h1>Make 1 compressed tarball of entire shebang</h1>
 
-		<p>rm /backup/backup.tar.gz
+	<p>rm /backup/backup.tar.gz
 	tar -cvf /backup.tar /backup/*
 	mv /backup.tar /backup
 	gzip /backup/backup.tar</p>
@@ -59,8 +59,8 @@ categories:
 
 	<h1>Move backups offsite</h1>
 
-		<p>ncftpput -u <em>username</em> -p <em>password</em> <em>servername</em> <em>target_directory</em> /backup/backup.tar.gz</p>
+	<p>ncftpput -u <em>username</em> -p <em>password</em> <em>servername</em> <em>target_directory</em> /backup/backup.tar.gz</p>
 
 
 
-		<p>All of this assumes that you have a directory called 'backup' off the root of the file system that you can use for moving stuff about. It will provide you with 5 complete days of full file backups (in the space of 1, plus changes), 5 full days of MySQL backups and a daily snapshot of the /etc/ directory for what ever reason.</p>
+	<p>All of this assumes that you have a directory called 'backup' off the root of the file system that you can use for moving stuff about. It will provide you with 5 complete days of full file backups (in the space of 1, plus changes), 5 full days of MySQL backups and a daily snapshot of the /etc/ directory for what ever reason.</p>

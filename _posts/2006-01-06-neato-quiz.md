@@ -12,7 +12,7 @@ categories:
 <p>So, I took the quiz at Beliefnet called "<a href="http://www.beliefnet.com/story/76/story_7665_1.html">Belief-O-Maticâ„¢</a>". Go and take it. My scores are after the jump...</p>
 
 
-	<p>&lt;!<del>-more</del>-&gt;</p>
+<p>&lt;!<del>-more</del>-&gt;</p>
 
 
 <font size="2" face="verdana" color="#336699"><strong> </strong></font>

@@ -12,6 +12,6 @@ categories:
 <p><a href="http://www.livescience.com/technology/10ways_destroyearth.html">Top 10 Ways to Destroy the Earth</a></p>
 
 
-		<p>Yup - that says it all.
+	<p>Yup - that says it all.
 	<em>
 	Edit: Sam has a better '10 ways' article <a href="http://ned.ucam.org/~sdh31/misc/destroy.html">here</a></em></p>

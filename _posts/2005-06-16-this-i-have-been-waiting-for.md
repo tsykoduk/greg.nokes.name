@@ -13,4 +13,4 @@ categories:
 
 	<blockquote><a href="http://www.sjgames.com/gurps/traveller/interstellarwars/"><span class="caps">GURPS</span> Traveller</a>: Interstellar Wars covers the 200 years of war, peace, and overwhelming change as the ancient Vilani Imperium falls to the upstart Terrans. In this time of conflict, the opportunities for adventure are more exciting than ever before!</blockquote>
 
-		<p>Coming in October!</p>
+	<p>Coming in October!</p>

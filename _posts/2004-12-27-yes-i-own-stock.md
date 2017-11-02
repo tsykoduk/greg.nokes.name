@@ -11,10 +11,10 @@ categories:
 ---
 <center><a href="http://www.starbucks.com/"><img src="http://www.nwgamers.org/images/starbucksgeek.jpg"/></a></center>
 
-	<p>But at least I had another reason for the trip. I was not in seattle to pay Homage at the Home of the Grounds.</p>
+<p>But at least I had another reason for the trip. I was not in seattle to pay Homage at the Home of the Grounds.</p>
 
 
-	<p>Really.</p>
+<p>Really.</p>
 
 
-	<p>No, really!</p>
+<p>No, really!</p>

@@ -18,16 +18,16 @@ categories:
 
 <blockquote>S: In your professional opinion, how can people avoid adware?
 
-	<p>M: Um, run <span class="caps">UNIX</span>.</p>
+<p>M: Um, run <span class="caps">UNIX</span>.</p>
 
 
-	<p>S: [ laughs]</p>
+<p>S: [ laughs]</p>
 
 
-	<p>M: We did actually get the ad client working under Wine on Linux.</p>
+<p>M: We did actually get the ad client working under Wine on Linux.</p>
 
 
-	<p>S: That seems like a bit of a stretch!</p>
+<p>S: That seems like a bit of a stretch!</p>
 
 
-	<p>M: That was a pretty limited market, I’d say</blockquote></p>
+<p>M: That was a pretty limited market, I’d say</blockquote></p>

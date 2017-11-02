@@ -14,7 +14,7 @@ categories:
 
 <blockquote>The image of an extinguished fire carried no connotations of annihilation for the early Buddhists. Rather, the aspects of fire that to them had significance for the mind-fire analogy are these: Fire, when burning, is in a state of agitation, dependence, attachment, and entrapmentâ€”both clinging and being stuck to its sustenance. Extinguished, it becomes calm, independent, indeterminate, and unattached: It lets go of its sustenance and is released.</blockquote>
 
-	<p>-<a href="http://www.accesstoinsight.org/lib/authors/thanissaro/index.html">Thanissaro Bhikkhu</a>, "<a href="http://www.accesstoinsight.org/lib/authors/thanissaro/likefire/index.html">Mind Like Fire Unbound</a>"</p>
+<p>-<a href="http://www.accesstoinsight.org/lib/authors/thanissaro/index.html">Thanissaro Bhikkhu</a>, "<a href="http://www.accesstoinsight.org/lib/authors/thanissaro/likefire/index.html">Mind Like Fire Unbound</a>"</p>
 
 
-	<p>So, by extinguishing our 'inner flame' of emotion driven responses to everything, we gain a dispassionate view, where we can attempt to chart the best course based on long term outcomes, rather then knee-jerk responses.</p>
+<p>So, by extinguishing our 'inner flame' of emotion driven responses to everything, we gain a dispassionate view, where we can attempt to chart the best course based on long term outcomes, rather then knee-jerk responses.</p>

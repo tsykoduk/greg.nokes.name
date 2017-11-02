@@ -12,7 +12,7 @@ categories:
 <p>I removed the Make Poverty History banner - the G-8 summit is over, and they accomplished many of their laudable goals.</p>
 
 
-		<p>I also put a rotating header picture up - hit refresh a few times. I do not have that many photos up yet - let me know what you think!</p>
+	<p>I also put a rotating header picture up - hit refresh a few times. I do not have that many photos up yet - let me know what you think!</p>
 
 
-		<p>-Tsyko</p>
+	<p>-Tsyko</p>

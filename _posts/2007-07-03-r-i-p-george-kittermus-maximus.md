@@ -12,4 +12,4 @@ categories:
 ---
 <center><a href="http://www.flickr.com/photos/tsykoduk/8479792/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/6/8479792_6878ca92d3_m.jpg" width="180" height="240" alt="Picture 007" /></a></center>
 
-	<p>Leukemia and Kidney Failure. He will be missed...</p>
+<p>Leukemia and Kidney Failure. He will be missed...</p>

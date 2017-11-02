@@ -12,4 +12,4 @@ categories:
 <p>is coming out again - check out the <a href="http://www.angryalien.com/0504/shiningbunnies.html">trailer</a>!</p>
 
 
-	<p><em><strong>edit</strong>: Yes - two new versions of The Shining. <a href="http://browncoats.serenitymovie.com/serenity/">Shiny</a>!</em></p>
+<p><em><strong>edit</strong>: Yes - two new versions of The Shining. <a href="http://browncoats.serenitymovie.com/serenity/">Shiny</a>!</em></p>

@@ -12,4 +12,4 @@ categories:
 <p>Ok. so I blew my theme up. Still works fine under FireFox and Safari, but IE displays total uglyness.</p>
 
 
-		<p>Switched to a 'temp' theme for the time being.</p>
+	<p>Switched to a 'temp' theme for the time being.</p>

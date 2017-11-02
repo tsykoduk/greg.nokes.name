@@ -13,10 +13,10 @@ categories:
 <p>Sorta like a combination of tetris and teletubbies. Maximum Evil!</p>
 
 
-	<p>Update - Linkage might help :)</p>
+<p>Update - Linkage might help :)</p>
 
 
-	<p>Update 2 - Ok.. I am a total space cadet. I cannot find the fscking thing again. So, you will just have to live knowing that it was one of the cooler things that I have ever seen.</p>
+<p>Update 2 - Ok.. I am a total space cadet. I cannot find the fscking thing again. So, you will just have to live knowing that it was one of the cooler things that I have ever seen.</p>
 
 
-	<p>sorry.</p>
+<p>sorry.</p>

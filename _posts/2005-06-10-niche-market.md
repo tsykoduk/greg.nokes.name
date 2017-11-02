@@ -12,7 +12,7 @@ categories:
 <blockquote>AbysS (11:20 PM) : I accIdentally took my dice home from gaming last week :<del>) they were in my pocket :</del>)
 	Kaedenesque (11:20 PM) : Why were your dice in your pocket?</blockquote>
 
-		<p>Thus starts an interesting discussion <a href="http://www.livejournal.com/users/morpheus0013/163337.html">over on the Rubber Becca's</a> site..</p>
+	<p>Thus starts an interesting discussion <a href="http://www.livejournal.com/users/morpheus0013/163337.html">over on the Rubber Becca's</a> site..</p>
 
 
-		<p>Warning! This is not for the prudish!</p>
+	<p>Warning! This is not for the prudish!</p>

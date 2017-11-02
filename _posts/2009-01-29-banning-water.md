@@ -15,7 +15,7 @@ categories:
 
             <blockquote>Criminals have used telephones and mobile phones since they were invented. Drug smugglers use airplanes and boats, radios and satellite phones. Bank robbers have long used cars and motorcycles as getaway vehicles, and horses before then. I haven't seen it talked about yet, but the Mumbai terrorists used boats as well. They also wore boots. They ate lunch at restaurants, drank bottled water, and breathed the air.</blockquote>
 
-	<p>-<a href="http://www.schneier.com/blog/archives/2009/01/helping_the_ter.html">Bruce Schneier</a></p>
+<p>-<a href="http://www.schneier.com/blog/archives/2009/01/helping_the_ter.html">Bruce Schneier</a></p>
 
 
-	<p>Bruce's unique look at security is a pleasure to read, and a refreshing breath of fresh air.</p>
+<p>Bruce's unique look at security is a pleasure to read, and a refreshing breath of fresh air.</p>

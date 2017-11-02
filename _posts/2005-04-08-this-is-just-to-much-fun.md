@@ -13,4 +13,4 @@ categories:
 <p>You have got to check this out! <a href="http://www.nata2.info/humor/flash/bowman.swf">Bowman</a></p>
 
 
-	<p>Remember: One in the head beats two in the torso!</p>
+<p>Remember: One in the head beats two in the torso!</p>

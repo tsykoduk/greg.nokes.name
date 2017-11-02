@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>Bob Novak, writing about Terry Schiavo last month, inadvertently summed up the problem with the administration's Social Security reform strategy when he wrote, "This is not the cold, analytical debate over Social Security." Just so. If you're wondering why there's so little grass-roots support to date for the president's plan, it's because the focus has been on green-eyeshade issues such as solvency, transition costs, unfunded liabilities and rates of return. Actuaries to the barricades!</blockquote>
 
-		<p>Read the rest of the article <a href="http://www.cato.org/pub_display.php?pub_id=3738">Here</a>.</p>
+	<p>Read the rest of the article <a href="http://www.cato.org/pub_display.php?pub_id=3738">Here</a>.</p>

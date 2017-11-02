@@ -18,4 +18,4 @@ categories:
 	mv backup.sql backup1.sql
 	mysqldump --all-databases &gt;backup.sql</code>
 
-		<p>This is a very quick and dirty backup script that should back up all of the Database's (databasi?) in a MySQL database, and maintain 5 days of storage. Next week, off site!</p>
+	<p>This is a very quick and dirty backup script that should back up all of the Database's (databasi?) in a MySQL database, and maintain 5 days of storage. Next week, off site!</p>

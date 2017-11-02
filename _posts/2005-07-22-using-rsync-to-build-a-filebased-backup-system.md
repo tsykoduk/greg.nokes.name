@@ -15,4 +15,4 @@ categories:
 	cp -al backup.0 backup.1
 	rsync -a --delete source_directory/  backup.0/</code>
 
-		<p>(Hat tip to <a href="http://www.mikerubel.org/computers/rsync_snapshots/">Mike Rubel</a> for the code!)</p>
+	<p>(Hat tip to <a href="http://www.mikerubel.org/computers/rsync_snapshots/">Mike Rubel</a> for the code!)</p>

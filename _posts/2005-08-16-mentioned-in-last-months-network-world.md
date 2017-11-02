@@ -14,7 +14,7 @@ categories:
 
 	<blockquote>Graphically beautiful, greg.nokes.name is the home of the online ramblings of Greg Nokes, who offers a decidedly political bent that focuses on ending poverty around the world.</blockquote>
 
-		<p>Graphically Beautiful - I'm swooning!</p>
+	<p>Graphically Beautiful - I'm swooning!</p>
 
 
-		<p>Read the entire story <a href="http://www.networkworld.com/you/2005/072505-blogs.html">here</a></p>
+	<p>Read the entire story <a href="http://www.networkworld.com/you/2005/072505-blogs.html">here</a></p>

@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote>The Founding Fathers did not have this current state of taxation in mind when the high taxes of England drove them to rebellion and the creation of our nation.</blockquote>
 
-	<p>-<a href="http://www.ronpaul2008.com">Ron Paul</a> in his <a href="http://www.house.gov/paul/tst/tst97/tst032097.htm">Texas Straight Talk column, March 20, 1997</a></p>
+<p>-<a href="http://www.ronpaul2008.com">Ron Paul</a> in his <a href="http://www.house.gov/paul/tst/tst97/tst032097.htm">Texas Straight Talk column, March 20, 1997</a></p>
 
 
-	<p>My query is: How much have taxes gone up since then?</p>
+<p>My query is: How much have taxes gone up since then?</p>

@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>When we remember we are all mad, the mysteries disappear and life stands explained.</blockquote>
 
-	<p><a href="http://www.quotationspage.com/quote/1280.html">Mark Twain</a></p>
+<p><a href="http://www.quotationspage.com/quote/1280.html">Mark Twain</a></p>

@@ -12,4 +12,4 @@ categories:
 <p><a href="http://chrenkoff.blogspot.com/2005/06/willing.html">Chrenkoff</a> has a bunch of pictures of the countries that are lending a hand in Iraq.</p>
 
 
-		<p>(Hat Tip <a href="http://davejustus.blogspot.com/2005/06/pictures-of-unilateralism.html">Justus</a>)</p>
+	<p>(Hat Tip <a href="http://davejustus.blogspot.com/2005/06/pictures-of-unilateralism.html">Justus</a>)</p>

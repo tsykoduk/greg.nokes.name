@@ -12,4 +12,4 @@ categories:
 <p><a href="http://www.npr.org/templates/story/story.php?storyId=5024450">This</a> real audio snippet from <span class="caps">NPR</span> is a really good look at ID. You should listen to it. They present some powerful arguments for and against ID.</p>
 
 
-	<p>Good stuff.</p>
+<p>Good stuff.</p>

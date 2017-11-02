@@ -17,7 +17,7 @@ Pixel Perfect Design Prize Winner
     * rdc* Theme
     * <strong>FastTrack</strong></blockquote>
 
-	<p><a href="http://wpthemes.info/posts/2005/03/21/fasttrack-the-most-wanted/">Congrats<a />!</p>
+<p><a href="http://wpthemes.info/posts/2005/03/21/fasttrack-the-most-wanted/">Congrats<a />!</p>
 
 
-	<p></a></p>
+<p></a></p>

@@ -12,7 +12,7 @@ categories:
 <p>You can now be notified when some one else comments to a comment stream that you have commented on.</p>
 
 
-		<p>Confused yet?</p>
+	<p>Confused yet?</p>
 
 
-		<p>Just check the little box under the comment feild and you will be one with the way of comment notification.</p>
+	<p>Just check the little box under the comment feild and you will be one with the way of comment notification.</p>

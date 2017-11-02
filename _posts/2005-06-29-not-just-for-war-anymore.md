@@ -14,10 +14,10 @@ categories:
 
 	<blockquote>We all know about Chickenhawks , those people who support war but aren't willing to walk down to the recruiter's office and sign up! The cowards. How dare someone want somebody else to do the dirty work for them! Well, they're not alone! Here is a list of other cowards and their hypocracy.</blockquote>
 
-		<p>I will add:</p>
+	<p>I will add:</p>
 
 
-		<p>ChickenHaxors - people who want to use computers but are too afraid to become l33t haxors and defend their turf.</p>
+	<p>ChickenHaxors - people who want to use computers but are too afraid to become l33t haxors and defend their turf.</p>
 
 
-		<p>ChickenBallers - People who love sports, but who's asses are stuck to the couch so that they cannot get out and play themselves</p>
+	<p>ChickenBallers - People who love sports, but who's asses are stuck to the couch so that they cannot get out and play themselves</p>

@@ -12,7 +12,7 @@ categories:
 <p>Just found <a href="http://grant.robinson.name/projects/guess-the-google/">this</a> little addictive game. I warned you!</p>
 
 
-		<p>The idea is that you are presented with 20 images, and you have to guess what term was googled to get them. It's timed.</p>
+	<p>The idea is that you are presented with 20 images, and you have to guess what term was googled to get them. It's timed.</p>
 
 
-		<p>I only got 146 points, but I am slow on the uptake sometimes.</p>
+	<p>I only got 146 points, but I am slow on the uptake sometimes.</p>

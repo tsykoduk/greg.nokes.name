@@ -14,7 +14,7 @@ categories:
 <p><a href="http://www.gophergas.com/funstuff/flyingspaghettimonster.htm">You</a> too can now convert masses to FSMism.</p>
 
 
-	<p>(HT: <a href="http://drogidy.blogspot.com/2005/09/fsm-fun-religion.html">Drogidy Blogidy</a>)</p>
+<p>(HT: <a href="http://drogidy.blogspot.com/2005/09/fsm-fun-religion.html">Drogidy Blogidy</a>)</p>
 
 
-	<p><em>Update - Links now fixed! Do'h!</em></p>
+<p><em>Update - Links now fixed! Do'h!</em></p>

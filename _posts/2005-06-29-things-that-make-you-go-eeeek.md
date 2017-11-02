@@ -21,7 +21,7 @@ categories:
 	Heeding geometries of outer space,
 	<em>While Fomalhaut peers in through southward mists.</em>
 
-		<p>This is the hour when moonstruck poets know
+	<p>This is the hour when moonstruck poets know
 	What fungi sprout in Yuggoth, and what scents
 	And tints of flowers fill Nithon's continents,
 	Such as in no poor earthly garden blow.
@@ -29,7 +29,7 @@ categories:
 	A dozen more of ours they sweep away!</blockquote></p>
 
 
-		<p>Now, go look at <a href="http://www.newscientistspace.com/data/images/ns/9999/99997564F1.JPG">this</a> and realize that it's the star <em><a href="http://www.solstation.com/stars/fomalhau.htm">Fomalhaut</a></em>. No, <a href="http://www.newscientistspace.com/article/dn7564">Really</a>!</p>
+	<p>Now, go look at <a href="http://www.newscientistspace.com/data/images/ns/9999/99997564F1.JPG">this</a> and realize that it's the star <em><a href="http://www.solstation.com/stars/fomalhau.htm">Fomalhaut</a></em>. No, <a href="http://www.newscientistspace.com/article/dn7564">Really</a>!</p>
 
 
-		<p>Wonder what ol' Lovecraft really knew?</p>
+	<p>Wonder what ol' Lovecraft really knew?</p>

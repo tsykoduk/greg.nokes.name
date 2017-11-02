@@ -14,7 +14,7 @@ categories:
 	You like things edgy, subtle, and smart. I guess that means you're probably an intellectual, but don't take that  to mean you're pretentious. You realize 'dumb' can be witty-<del>after all isn't that the Simpsons' philosophy?</del>-but  rudeness for its own sake, 'gross-out' humor and most other things found in a fraternity leave you totally flat. <br /><br />I  guess you just have a more cerebral approach than most. You have the perfect mindset for a joke writer or staff  writer. Your sense of humor takes the most effort to appreciate, but it's also the best, in my opinion.</td></tr></tbody></table></p>
 
 
-		<p>Take it <a href="http://www.okcupid.com/tests/take?testid=17565214125862764376">here</a></p>
+	<p>Take it <a href="http://www.okcupid.com/tests/take?testid=17565214125862764376">here</a></p>
 
 
-		<p>Hat tip - <a href="http://integralpractice.blogharbor.com/blog">Integral Practice</a> and others...</p>
+	<p>Hat tip - <a href="http://integralpractice.blogharbor.com/blog">Integral Practice</a> and others...</p>

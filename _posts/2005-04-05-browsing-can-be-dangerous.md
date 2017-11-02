@@ -12,7 +12,7 @@ categories:
 <p>Especially when you find <a href="http://www.elvistrooper.com/menu.htm">The Elvis Trooper</a>.</p>
 
 
-	<p>Oh my.</p>
+<p>Oh my.</p>
 
 
-	<p>Hat tip <a href="http://blog.ziffdavis.com/katt/archive/2005/04/05/6521.aspx"> The Katt</a></p>
+<p>Hat tip <a href="http://blog.ziffdavis.com/katt/archive/2005/04/05/6521.aspx"> The Katt</a></p>

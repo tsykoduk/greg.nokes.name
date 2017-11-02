@@ -23,4 +23,4 @@ categories:
 	  2    <span class="caps">STATING LEGISLATIVE FINDINGS AND COMMENDING JARED AND  JERUSHA  HESS  AND  THE</span>
 	  3        <span class="caps">CITY OF PRESTON FOR THE PRODUCTION OF THE MOVIE</span> "NAPOLEON <span class="caps">DYNAMITE</span><a href="http://www3.state.id.us/oasis/HCR029.html">...</a>"</blockquote>
 
-		<p>I always liked <a href="http://maps.google.com/maps?ll=47.727539,-116.802343&#38;spn=0.464172,0.467606&#38;t=k&#38;hl=en">Idaho!</a></p>
+	<p>I always liked <a href="http://maps.google.com/maps?ll=47.727539,-116.802343&#38;spn=0.464172,0.467606&#38;t=k&#38;hl=en">Idaho!</a></p>
