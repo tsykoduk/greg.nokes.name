@@ -1,7 +1,7 @@
 ---
 id: 15570
 title: Markdown in Gmail
-date: 2017-11-12
+date: 2017-11-2
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15570
