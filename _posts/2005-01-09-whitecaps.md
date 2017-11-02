@@ -9,4 +9,4 @@ permalink: /2005/01/09/whitecaps/
 categories:
   - Philosophy! and Politics!
 ---
-<p>I have been spending far to much time reading <a href="http://www.whitecaps.blogspot.com./">Whitecaps</a> in the last few days. This comes <u>very</u> highly recommended from the Dukk.</p>
+I have been spending far to much time reading [Whitecaps](http://www.whitecaps.blogspot.com) in the last few days. This comes very highly recommended.
