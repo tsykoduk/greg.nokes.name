@@ -17,5 +17,5 @@ Well, I used local search to see if I had a markdown editor installed locally so
 
 Well, guess what. They support Chrome, Firefox and Safari now! 
 
-Happy days
+Happy days...
 
