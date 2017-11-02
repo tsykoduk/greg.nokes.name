@@ -1,0 +1,16 @@
+—
+id: 15598
+title: New Digs
+date: 2017-11-1
+author: Greg Nokes
+layout: post
+guid: http://greg.nokes.name/?p=15598
+permalink: /2014/09/11/new-digs/
+categories:
+—
+
+So I went and did it - Moved to Jekyll and Markdown. Hosted on Heroku with a full development pipeline behind it. I love how easy it is to create a branch, work in that, and have my review app up and running for reviews. 
+
+
+I also am attempting to do all development on my iPad now. With the keyboard it’s a reasonable platform for development. I also am playing around with code editors on the iPad. Currently i am using [https://workingcopyapp.com/](Working Copy by Anders Borum). We will see how it works out.
+
