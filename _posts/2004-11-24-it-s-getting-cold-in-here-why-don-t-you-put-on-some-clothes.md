@@ -1,6 +1,6 @@
 ---
 id: 217
-title: 'It&#039;s getting Cold in here &#8211; why don&#039;t you put on some clothes!'
+title: 'It’s getting Cold in here, why don’t you put on some clothes!'
 date: 2004-11-24T16:50:47+00:00
 author: tsykoduk
 layout: post
