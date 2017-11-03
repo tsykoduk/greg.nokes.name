@@ -10,4 +10,4 @@ categories:
   - Fun!
   - Mundane
 ---
-<p>Ok. so one of the games that I play is called <a href=http://www.farfuture.net/ffe/n5500.html>Traveller</a>. <a href=http://www.irregularwebcomic.net/cgi-bin/comic.pl?comic=94>This</a> webcomic displays some of the problems with Science Fiction meeting reality.<br /><br /></p>
+Ok. so one of the games that I play is called [Traveller](http://www.farfuture.net/ffe/n5500.html). [This](http://www.irregularwebcomic.net/cgi-bin/comic.pl?comic=94) webcomic displays some of the problems with Science Fiction meeting reality.
