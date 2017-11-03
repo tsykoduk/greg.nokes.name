@@ -9,7 +9,7 @@ permalink: /2005/01/10/buddhist-resources-in-spokane/
 categories:
   - Philosophy! and Politics!
 ---
-* [Benefaction Sangha of Spokane](http://www.nwdharma.org/details.php?group_id=22&#38;group_name=Benefaction+Sangha+of+Spokane)
+* Benefaction Sangha of Spokane - UPDATE 2017, sadly site is gone
 * [Spokane Buddhist Temple](http://www.spokanebuddhisttemple.org)
 * [Sravasti Abbey](http://www.thubtenchodron.org)
 * [Zen Center of Spokane](http://www.zencenterspokane.org)
