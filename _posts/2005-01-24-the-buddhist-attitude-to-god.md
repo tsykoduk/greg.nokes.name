@@ -9,4 +9,34 @@ permalink: /2005/01/24/the-buddhist-attitude-to-god/
 categories:
   - Philosophy! and Politics!
 ---
-<p><i><center>"If the creator of the world entire<br />They call God, of every being be the Lord<br />Why does he order such misfortune<br />And not create concord? <br /><br />If the creator of the world entire<br />They call God, of every being be the Lord<br />Why prevail deceit, lies and ignorance <br />And he such inequity and injustice create? <br /><br />If the creator of the world entire<br />They call God, of every being be the Lord <br />Then an evil master is he, (O Aritta) <br />Knowing what's right did let wrong prevail!"</center></i><br /><br />From <a href="http://www.buddhistinformation.com/buddhist_attitude_to_god.htm">The Buddhist Attitude to God</a><br /><br /><br /><center><i>"The Buddha argues that the three most commonly given attributes of God, viz. omnipotence, omniscience and benevolence towards humanity cannot all be mutually compatible with the existential fact of dukkha (suffering or un-satisfactoriness)...A fundamental Buddhist belief is that all phenomena without exemption (including all animate beings) have three essential characteristics. These are dukkha (explained above), anicca (impermanence), and anattÃ¡ (insubstantiality, "no-soul"). The attributes of God are not consistent with these universal marks of existence. Thus God must be free from dukkha; he must be eternal (and hence not subject to anicca); finally he must have a distinct unchanging identity (and therefore lack the characteristic of anattÃ¡)."</i></center><br /><br />From <a href="http://www.buddhistinformation.com/buddhist_attitude_to_god.htm">The Buddhist Attitude to God</a><br /><br />If God exists, and he/she/it is omnibenevolent as the teachings of the christian church have us belive, then what about evil? Suffering? The Devil? The Common Cold? Why would he create all of these things that are meant to harm us, cause us pain, and kill us painfully?<br /><br />Forget Human evilness - let's talk about cancer and TB and Tsunami's!<br /><br />Just some things I am currently pondering...<br /><br /></p>
+
+    "If the creator of the world entire
+    They call God, of every being be the Lord
+	Why does he order such misfortune
+	And not create concord? 
+    
+	If the creator of the world entire
+	They call God, of every being be the Lord
+	Why prevail deceit, lies and ignorance 
+	And he such inequity and injustice create? 
+	
+	If the creator of the world entire
+	They call God, of every being be the Lord 
+	Then an evil master is he, (O Aritta) 
+	Knowing what's right did let wrong prevail!"
+
+
+From <a href="http://www.buddhistinformation.com/buddhist_attitude_to_god.htm">The Buddhist Attitude to God</a>
+
+
+	"The Buddha argues that the three most commonly given attributes of God, viz. omnipotence, omniscience and benevolence towards humanity cannot all be mutually compatible with the existential fact of dukkha (suffering or un-satisfactoriness)...A fundamental Buddhist belief is that all phenomena without exemption (including all animate beings) have three essential characteristics. These are dukkha (explained above), anicca (impermanence), and anattÃ¡ (insubstantiality, "no-soul"). The attributes of God are not consistent with these universal marks of existence. Thus God must be free from dukkha; he must be eternal (and hence not subject to anicca); finally he must have a distinct unchanging identity (and therefore lack the characteristic of anattÃ¡).
+
+From <a href="http://www.buddhistinformation.com/buddhist_attitude_to_god.htm">The Buddhist Attitude to God</a>
+
+If God exists, and he/she/it is omnibenevolent as the teachings of the christian church have us belive, then what about evil? Suffering? The Devil? The Common Cold? Why would he create all of these things that are meant to harm us, cause us pain, and kill us painfully?
+
+Forget Human evilness - let's talk about cancer and TB and Tsunami's!
+
+Just some things I am currently pondering...
+
+</p>
