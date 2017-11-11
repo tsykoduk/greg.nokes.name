@@ -9,4 +9,4 @@ permalink: /2005/03/14/don-t-panic/
 categories:
   - Fun!
 ---
-<p>Just <a href=http://www.apple.com/trailers/touchstone/hitchhikersguidetothegalaxy/trailer_3/hh_trailer_large.html>Read the book</a><br /><br /><br /><br />Thanks, <a href=http://www.livejournal.com/users/morpheus0013/>Becca!</p>
+Just <a href=http://www.apple.com/trailers/touchstone/hitchhikersguidetothegalaxy/trailer_3/hh_trailer_large.html>Read the book</a><br /><br /><br /><br />Thanks, <a href=http://www.livejournal.com/users/morpheus0013/>Becca!

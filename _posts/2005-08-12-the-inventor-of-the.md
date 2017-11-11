@@ -9,4 +9,4 @@ permalink: /2005/08/12/the-inventor-of-the/
 categories:
   - Computers! and Code!
 ---
-<p><a href="http://openmap.bbn.com/~tomlinso/ray/home.html">Ray</a>  is the 'father' of Email - and no he did not invent the 'at sign'. But he did make email address like the ones we use today, well, like the ones that we use today.</p>
+<a href="http://openmap.bbn.com/~tomlinso/ray/home.html">Ray</a>  is the 'father' of Email - and no he did not invent the 'at sign'. But he did make email address like the ones we use today, well, like the ones that we use today.

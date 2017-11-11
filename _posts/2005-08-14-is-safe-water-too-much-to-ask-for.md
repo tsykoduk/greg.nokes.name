@@ -11,18 +11,18 @@ categories:
 ---
 <blockquote>The issue of mass medication of an unapproved drug without the expressed informed consent of each individual must also be addressed. The dose of fluoride cannot be controlled. Fluoride as a drug has contaminated most processed foods and beverages throughout North America. Individuals who are susceptible to fluoride's harmful effects cannot avoid ingesting this drug. This presents a medico-legal and ethical dilemma and sets water fluoridation apart from vaccination as a public health measure where doses and distribution can be controlled. The rights of individuals to enjoy the freedom from involuntary fluoride medication certainly outweigh the right of society to enforce this public health measure, especially when the evidence of benefit is marginal at best.</blockquote>
 
-	<p>-<a href="http://www.fluoridealert.org/limeback.htm">Fluoride Action Network</a></p>
+	-<a href="http://www.fluoridealert.org/limeback.htm">Fluoride Action Network</a>
 
 
 	<blockquote>John Robideaux, chairman of Fluoridation Works, said his organization has not given up its effort to introduce fluoride into Spokane water and may mount another petition drive in the spring.</blockquote>
 
-	<p>-<a href="http://www.spokesmanreview.com/top/story.asp?ID=22699">the Spokesman Review</a></p>
+	-<a href="http://www.spokesmanreview.com/top/story.asp?ID=22699">the Spokesman Review</a>
 
 
-	<p>I guess that my major concern with this is that I will have to pay for something that not only do I not want, but that I will have to take more action to rid my self off. So, if this passes, they are going to charge me to put this stuff into the water, and then I will have to pay to get it removed again.</p>
+	I guess that my major concern with this is that I will have to pay for something that not only do I not want, but that I will have to take more action to rid my self off. So, if this passes, they are going to charge me to put this stuff into the water, and then I will have to pay to get it removed again.
 
 
-	<p>Sucks to be me if this actually makes it, right?</p>
+	Sucks to be me if this actually makes it, right?
 
 
-	<p>Why not let people choose? If I want to fluoride my self and my kid, let ME make that choice.</p>
+	Why not let people choose? If I want to fluoride my self and my kid, let ME make that choice.

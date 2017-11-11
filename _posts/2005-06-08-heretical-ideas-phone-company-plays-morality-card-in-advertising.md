@@ -9,16 +9,16 @@ permalink: /2005/06/08/heretical-ideas-phone-company-plays-morality-card-in-adve
 categories:
   - Philosophy! and Politics!
 ---
-<p>Did you know that:</p>
+Did you know that:
 
 
-	<p><span class="caps">MCI</span> distributes child pornography?</p>
+	<span class="caps">MCI</span> distributes child pornography?
 
 
-	<p>Verizon makes its employees 'accept homosexualityâ€ (as opposed to just asking them not to aggravate gay co-workers and customers)?</p>
+	Verizon makes its employees 'accept homosexualityâ€ (as opposed to just asking them not to aggravate gay co-workers and customers)?
 
 
-	<p>God hates the major telecommunications carriers?</p>
+	God hates the major telecommunications carriers?
 
 
-	<p>Read the rest of this startling revelation <a href="http://hereticalideas.com/index.php?p=3011">here</a></p>
+	Read the rest of this startling revelation <a href="http://hereticalideas.com/index.php?p=3011">here</a>

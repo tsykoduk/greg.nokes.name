@@ -9,7 +9,7 @@ permalink: /2005/08/26/used-cars-anyone/
 categories:
   - Fun!
 ---
-<p>No?</p>
+No?
 
 
-<p>Then how about a supersonic fighter, only slightly used, for <a href="http://times.hankooki.com/lpage/200508/kt2005081519485168040.htm">$100</a> US?</p>
+Then how about a supersonic fighter, only slightly used, for <a href="http://times.hankooki.com/lpage/200508/kt2005081519485168040.htm">$100</a> US?

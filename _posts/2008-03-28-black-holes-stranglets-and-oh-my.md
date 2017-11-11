@@ -14,7 +14,7 @@ categories:
 This is serious. Globe Gobbling Black Holes? Destruction of the Planet? Stop the Presses!
 
 <!--more-->
-<p style="text-align: center;"><img id="thumber" class="aligncenter" src="http://greg.nokes.name/assets/2008/3/28/bad_earth.png" alt="" width="444" height="490" /><span style="font-size: 11px;"><a href="http://deanreevesii.deviantart.com/art/An-Earth-Shattering-Experience-146786821?q=gallery%3Adeanreevesii%2F23937479&amp;qo=0">Amazing Image</a> © 2008 <a href="http://www.deanreevesii.com">Dean Reeves</a> II</span></p>
+<p style="text-align: center;"><img id="thumber" class="aligncenter" src="http://greg.nokes.name/assets/2008/3/28/bad_earth.png" alt="" width="444" height="490" /><span style="font-size: 11px;"><a href="http://deanreevesii.deviantart.com/art/An-Earth-Shattering-Experience-146786821?q=gallery%3Adeanreevesii%2F23937479&amp;qo=0">Amazing Image</a> © 2008 <a href="http://www.deanreevesii.com">Dean Reeves</a> II</span>
 (from <a href="http://cosmiclog.msnbc.msn.com/archive/2008/03/27/823924.aspx">MSNBC</a>)
 <blockquote>The Large Hadron Collider, or LHC, is due for startup later this year at CERN’s headquarters on the French-Swiss border. It’s expected to tackle some of the deepest questions in science: Is the foundation of modern physics right or wrong? What existed during the very first moment of the universe’s existence? Why do some particles have mass while others don’t? What is the nature of dark matter? Are there extra dimensions of space out there that we haven’t yet detected?</blockquote>
 Ok, so we have Big Science being done… but where are the black holes?

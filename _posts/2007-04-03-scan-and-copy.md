@@ -9,7 +9,7 @@ permalink: /2007/04/03/scan-and-copy/
 categories:
   - Computers! and Code!
 ---
-<p>One of the ways I am able to exercise my Ruby skills is in the day to day network admin tasks. For example, I had to come up with a method of saving all of a users 'important' documents off of their desktop computer in preparation for a wipe and re-image. Not only that, but it's a good idea. So I wrote 'scan and copy'</p>
+One of the ways I am able to exercise my Ruby skills is in the day to day network admin tasks. For example, I had to come up with a method of saving all of a users 'important' documents off of their desktop computer in preparation for a wipe and re-image. Not only that, but it's a good idea. So I wrote 'scan and copy'
 
             <!--more-->
 

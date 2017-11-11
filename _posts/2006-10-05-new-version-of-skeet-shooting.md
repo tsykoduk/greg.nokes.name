@@ -9,4 +9,4 @@ permalink: /2006/10/05/new-version-of-skeet-shooting/
 categories:
   - Fun!
 ---
-<p><a href="http://www.glumbert.com/media/carshoot">This</a> seems like a great new sport...</p>
+<a href="http://www.glumbert.com/media/carshoot">This</a> seems like a great new sport...

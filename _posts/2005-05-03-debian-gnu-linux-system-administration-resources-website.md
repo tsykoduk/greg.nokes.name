@@ -9,4 +9,4 @@ permalink: /2005/05/03/debian-gnu-linux-system-administration-resources-website/
 categories:
   - Computers! and Code!
 ---
-<p>The <a href="http://www.debian-administration.org/">Debian <span class="caps">GNU</span>/Linux System Administration Resources</a> website is a pretty good resource for all of you Debian Geeks out there. It has a bunch of Howtos, Whytos, and other intresting articles. Go, check it out!</p>
+The <a href="http://www.debian-administration.org/">Debian <span class="caps">GNU</span>/Linux System Administration Resources</a> website is a pretty good resource for all of you Debian Geeks out there. It has a bunch of Howtos, Whytos, and other intresting articles. Go, check it out!

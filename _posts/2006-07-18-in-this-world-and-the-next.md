@@ -17,25 +17,25 @@ He grieves, he's afflicted,
 seeing the corruption
 of his deeds.
 
-<p>Here he rejoices
+Here he rejoices
 he rejoices hereafter.
 In both worlds
 the merit-maker rejoices.
 He rejoices, is jubilant,
 seeing the purity
-of his deeds.</center></p>
+of his deeds.</center>
 
 
-<p>-Dhammapada, 13-14, translated by Thanissaro Bhikkhu</blockquote></p>
+-Dhammapada, 13-14, translated by Thanissaro Bhikkhu</blockquote>
 
 
-<p>Many people take issue with the Buddhist belief in reincarnation. I never really have. It makes logical sense to me. I do not expect it to make any kind of sense to anyone else, in the traditional understanding. It's pretty out there, right up there with <span class="caps">FSM</span>'s. That's OK. I really do not expect anyone else to understand.</p>
+Many people take issue with the Buddhist belief in reincarnation. I never really have. It makes logical sense to me. I do not expect it to make any kind of sense to anyone else, in the traditional understanding. It's pretty out there, right up there with <span class="caps">FSM</span>'s. That's OK. I really do not expect anyone else to understand.
 
 
-<p>However, that does not mean that others cannot learn from this example. We can look at this concept from another angle. For example, we are reincarnated, each day, with each choice that we make. We can never go back to that person that we were yesterday, we can never know who we will be tomorrow.  It's a death of a thousand cuts if we make the wrong choices, but it can slowly lead to contentment and happiness if good choices are made.</p>
+However, that does not mean that others cannot learn from this example. We can look at this concept from another angle. For example, we are reincarnated, each day, with each choice that we make. We can never go back to that person that we were yesterday, we can never know who we will be tomorrow.  It's a death of a thousand cuts if we make the wrong choices, but it can slowly lead to contentment and happiness if good choices are made.
 
 
-<p>Take, for example, the common criminal. He often feels the social, spiritual, mental and physical ramifications of his deeds. This path that he is on is not a happy path, and yet he keeps choosing it. Why? Is is some karmic inertia? Some mental defect? Some social defect?</p>
+Take, for example, the common criminal. He often feels the social, spiritual, mental and physical ramifications of his deeds. This path that he is on is not a happy path, and yet he keeps choosing it. Why? Is is some karmic inertia? Some mental defect? Some social defect?
 
 
-<p>I would suppose that it's the path of least resistance. It's easy to keep on doing the same thing, hoping for better results. It's hard to move away from those choices. It takes a lot of discipline and intestinal fortitude. The first step is to release all of the negativity that encumbers you. When you even think negative thoughts, for a fleeting moment, that effects your outlook, and ultimately the outcome. It's a classic case of <a href="http://changingminds.org/explanations/theories/self-fulfilling_prophecy.htm">Self-Fulfilling Prophecy</a>.</p>
+I would suppose that it's the path of least resistance. It's easy to keep on doing the same thing, hoping for better results. It's hard to move away from those choices. It takes a lot of discipline and intestinal fortitude. The first step is to release all of the negativity that encumbers you. When you even think negative thoughts, for a fleeting moment, that effects your outlook, and ultimately the outcome. It's a classic case of <a href="http://changingminds.org/explanations/theories/self-fulfilling_prophecy.htm">Self-Fulfilling Prophecy</a>.

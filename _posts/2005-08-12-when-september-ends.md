@@ -9,7 +9,7 @@ permalink: /2005/08/12/when-september-ends/
 categories:
   - Philosophy! and Politics!
 ---
-<p><a href="http://www.greenday.com/">Green day</a> has a new <a href="http://www.warnerreprise.com/qt-ref/greenday_wakemeupwhenseptemberends-video_ref.mov">video</a> posted. Pretty darn good stuff.</p>
+<a href="http://www.greenday.com/">Green day</a> has a new <a href="http://www.warnerreprise.com/qt-ref/greenday_wakemeupwhenseptemberends-video_ref.mov">video</a> posted. Pretty darn good stuff.
 
 
-	<p>(HT: <a href="http://integralpractice.blogharbor.com/blog/_trackback/113039">ebuddha</a>)</p>
+	(HT: <a href="http://integralpractice.blogharbor.com/blog/_trackback/113039">ebuddha</a>)

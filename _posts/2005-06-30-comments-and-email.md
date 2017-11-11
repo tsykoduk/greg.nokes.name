@@ -9,10 +9,10 @@ permalink: /2005/06/30/comments-and-email/
 categories:
   - Computers! and Code!
 ---
-<p>You can now be notified when some one else comments to a comment stream that you have commented on.</p>
+You can now be notified when some one else comments to a comment stream that you have commented on.
 
 
-	<p>Confused yet?</p>
+	Confused yet?
 
 
-	<p>Just check the little box under the comment feild and you will be one with the way of comment notification.</p>
+	Just check the little box under the comment feild and you will be one with the way of comment notification.

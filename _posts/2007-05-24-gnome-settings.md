@@ -9,18 +9,18 @@ permalink: /2007/05/24/gnome-settings/
 categories:
   - Computers! and Code!
 ---
-<p>I am a pretty die-hard gnome user (when I am on a *nix box). I have developed a set of default settings which make it really usable, and pretty...</p>
+I am a pretty die-hard gnome user (when I am on a *nix box). I have developed a set of default settings which make it really usable, and pretty...
 
-<p>So here goes..</p>
+So here goes..
 
-<p>Global Settings<br />
+Global Settings<br />
   Theme<br />
     Controls: Clearlook<br />
     Window Border: Alphacube 0.9b Metacity Color<br />
     Icons: Dropline Neu!<br />
-    Font: All default except Application Font: Berylium<br /></p>
+    Font: All default except Application Font: Berylium<br />
 
-<p>gEdit settings<br />
+gEdit settings<br />
   Plugins Enabled:<br />
     Document Statistics<br />
     File Browser Pane<br />
@@ -30,4 +30,4 @@ categories:
     Snap Open<br />
     Snippits<br />
   Font<br />
-   Monaco 10px<br /></p>
+   Monaco 10px<br />

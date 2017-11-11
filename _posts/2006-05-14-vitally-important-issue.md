@@ -12,10 +12,10 @@ categories:
 ---
 <center><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/H69eCYcDcuQ"></param><embed src="http://www.youtube.com/v/H69eCYcDcuQ" type="application/x-shockwave-flash" width="425" height="350"></embed></object></center>
 
-<p>Actually, this is a <b>really</b> important issue. Call your congresscritter today!</p>
+Actually, this is a <b>really</b> important issue. Call your congresscritter today!
 
 
-<p>Another (slightly more technical) update after the jump:</p>
+Another (slightly more technical) update after the jump:
 
 
 &lt;!<del>-more</del>-&gt;

@@ -9,4 +9,4 @@ permalink: /2005/04/06/google-maps/
 categories:
   - Computers! and Code!
 ---
-<p>If you have not checked out <a href="http://maps.google.com">Google Maps</a> you really need to. It's a cross between keyhole and mapquest. Wow.</p>
+If you have not checked out <a href="http://maps.google.com">Google Maps</a> you really need to. It's a cross between keyhole and mapquest. Wow.

@@ -14,4 +14,4 @@ categories:
 Seen in mail header:  Free Tibet with purchase of China.
 </blockquote>
 
-<p>-<a href="http://www.evil.com/archives/2008/200804/20080409.htm">Evil.com</a> - They Get It... Daily</p>
+-<a href="http://www.evil.com/archives/2008/200804/20080409.htm">Evil.com</a> - They Get It... Daily

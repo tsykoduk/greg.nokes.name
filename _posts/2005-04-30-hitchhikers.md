@@ -9,7 +9,7 @@ permalink: /2005/04/30/hitchhikers/
 categories:
   - Mundane
 ---
-<p>Saw <a href="http://hitchhikers.movies.go.com/">Hitchhikers</a> last night. I have been a fan of the series for years and years now - even having gone so far as to listen to the Radio <span class="caps">BBC</span> series a few (ok more then a few) years back. I must say - It was not worse then I thought it was going to be. I actually enjoyed it!</p>
+Saw <a href="http://hitchhikers.movies.go.com/">Hitchhikers</a> last night. I have been a fan of the series for years and years now - even having gone so far as to listen to the Radio <span class="caps">BBC</span> series a few (ok more then a few) years back. I must say - It was not worse then I thought it was going to be. I actually enjoyed it!
 
 
-	<p>Not a must see, but if you like British Humor - this might be a good flick to watch.</p>
+	Not a must see, but if you like British Humor - this might be a good flick to watch.

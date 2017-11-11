@@ -9,4 +9,4 @@ permalink: /2005/06/22/don-t-let-them/
 categories:
   - Philosophy! and Politics!
 ---
-<p>Don't let them Immanentize the Eschaton!</p>
+Don't let them Immanentize the Eschaton!

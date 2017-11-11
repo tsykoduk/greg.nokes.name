@@ -10,16 +10,16 @@ categories:
   - Philosophy! and Politics!
   - Science!
 ---
-<p>I don't know the veracity of the claims that these folks make, however, they raise some really good points.</p>
+I don't know the veracity of the claims that these folks make, however, they raise some really good points.
 
 
-<p>...Switching to alternative energy now is a win win situation.</p>
+...Switching to alternative energy now is a win win situation.
 
 
-<p>...Market forces will not be able to fix the problem with out great pain.</p>
+...Market forces will not be able to fix the problem with out great pain.
 
 
-<p>...The longer we wait, the worse it'g going to be.</p>
+...The longer we wait, the worse it'g going to be.
 
 
-<p>Check out their little <a href="http://www.powerswitch.org.uk/portal/images/stories/animoil.swf">ditty</a>.</p>
+Check out their little <a href="http://www.powerswitch.org.uk/portal/images/stories/animoil.swf">ditty</a>.

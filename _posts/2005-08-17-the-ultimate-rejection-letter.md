@@ -9,36 +9,36 @@ permalink: /2005/08/17/the-ultimate-rejection-letter/
 categories:
   - Fun!
 ---
-<p>Herbert A. Millington
+Herbert A. Millington
 	Chair - Search Committee
 	412A Clarkson Hall, Whitson University
-	College Hill, <span class="caps">MA  34109</span></p>
+	College Hill, <span class="caps">MA  34109</span>
 
 
-	<p>Dear Professor Millington,</p>
+	Dear Professor Millington,
 
 
-	<p>Thank you for your letter of March 16.  After careful consideration, I
+	Thank you for your letter of March 16.  After careful consideration, I
 	regret to inform you that I am unable to accept your refusal to offer me
-	an assistant professor position in your department.</p>
+	an assistant professor position in your department.
 
 
-	<p>This year I have been particularly fortunate in receiving an unusually
+	This year I have been particularly fortunate in receiving an unusually
 	large number of rejection letters.  With such a varied and promising field
-	of candidates, it is impossible for me to accept all refusals.</p>
+	of candidates, it is impossible for me to accept all refusals.
 
 
-	<p>Despite Whitson's outstanding qualifications and previous experience in
+	Despite Whitson's outstanding qualifications and previous experience in
 	rejecting applicants, I find that your rejection does not meet my needs at
 	this time.  Therefore, I will assume the position of assistant professor
-	in your department this August.  I look forward to seeing you then.</p>
+	in your department this August.  I look forward to seeing you then.
 
 
-	<p>Best of luck in rejecting future applicants.</p>
+	Best of luck in rejecting future applicants.
 
 
-	<p>Sincerely,
-	Chris L. Jensen</p>
+	Sincerely,
+	Chris L. Jensen
 
 
-	<p>(HT: <a href="http://www.chaosmatrix.org/library/humor/reject.html">Chaos Matrix</a>)</p>
+	(HT: <a href="http://www.chaosmatrix.org/library/humor/reject.html">Chaos Matrix</a>)

@@ -13,4 +13,4 @@ categories:
 	</a>
 	Guerilla marketing at its best</blockquote>
 
-	<p>From <a href="http://integralpractice.blogharbor.com/blog">Integral Practice</a></p>
+	From <a href="http://integralpractice.blogharbor.com/blog">Integral Practice</a>

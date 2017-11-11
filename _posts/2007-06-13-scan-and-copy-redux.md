@@ -9,11 +9,11 @@ permalink: /2007/06/13/scan-and-copy-redux/
 categories:
   - Computers! and Code!
 ---
-<p>A co-worker pointed out that <a href="http://greg.nokes.name/2007/4/3/scan-and-copy">Scan and Copy</a> did not work all that well on XP. Not a real issue, since I had used it to back up win2k machines in prep for a XP roll out. Well, anyways, I made the few changes to XP it, as well as adding in some more functionality.</p>
+A co-worker pointed out that <a href="http://greg.nokes.name/2007/4/3/scan-and-copy">Scan and Copy</a> did not work all that well on XP. Not a real issue, since I had used it to back up win2k machines in prep for a XP roll out. Well, anyways, I made the few changes to XP it, as well as adding in some more functionality.
 
             <!--more-->
 
-            <p>There are now 3 command line options</p>
+            There are now 3 command line options
 
 
 <ul>

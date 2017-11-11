@@ -9,4 +9,4 @@ permalink: /2005/05/20/neat-commerical/
 categories:
   - Fun!
 ---
-<p><a href="http://greg.nokes.name/Blaupunkt_Pimp_my_Ride.mpg">Blaupunkt - Pimp my Ride</a></p>
+<a href="http://greg.nokes.name/Blaupunkt_Pimp_my_Ride.mpg">Blaupunkt - Pimp my Ride</a>

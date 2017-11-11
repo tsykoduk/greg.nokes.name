@@ -9,4 +9,4 @@ permalink: /2005/09/06/pocket-mod/
 categories:
   - Fun!
 ---
-<p>A new <a href="http://www.pocketmod.com/"><span class="caps">PDA</span></a> - best of all, it's Free!</p>
+A new <a href="http://www.pocketmod.com/"><span class="caps">PDA</span></a> - best of all, it's Free!

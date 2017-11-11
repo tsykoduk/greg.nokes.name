@@ -9,4 +9,4 @@ permalink: /2005/12/12/reading-liturgy-as-literature/
 categories:
   - Philosophy! and Politics!
 ---
-<p><a href="http://www.npr.org/templates/story/story.php?storyId=5048309">This</a> story was pretty though provoking for me. It's an <span class="caps">NPR</span> story, and it's audio - but give it a listen.</p>
+<a href="http://www.npr.org/templates/story/story.php?storyId=5048309">This</a> story was pretty though provoking for me. It's an <span class="caps">NPR</span> story, and it's audio - but give it a listen.

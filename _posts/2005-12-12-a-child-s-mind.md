@@ -15,10 +15,10 @@ categories:
 
     <em>Huang, Chungliang and Jerry Lynch.  Thinking Body, Dancing Mind:  TaoSports for extraordinary performance in athletics, business, and life.  Bantam, 1992, p. 29</em>.  </blockquote>
 
-<p>-<a href="http://www.beginners-mind.net/what_is.htm">What is the beginner's mind?</a></p>
+-<a href="http://www.beginners-mind.net/what_is.htm">What is the beginner's mind?</a>
 
 
-<p>I have made a career out of learning. No, not a career, a life. One of the things that I have found most important in this life of learning is to throw away preconceived notions. Approaching problems with an open mind is crucial. If you have some idea in your head about what is causing an issue, you can poison your mind to other options. Only with an open mind can you really see.</p>
+I have made a career out of learning. No, not a career, a life. One of the things that I have found most important in this life of learning is to throw away preconceived notions. Approaching problems with an open mind is crucial. If you have some idea in your head about what is causing an issue, you can poison your mind to other options. Only with an open mind can you really see.
 
 
-<p>Seeing is important.</p>
+Seeing is important.

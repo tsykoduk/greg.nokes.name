@@ -12,4 +12,4 @@ categories:
 <blockquote><a href="http://www.spokesmanreview.com/blogs/local/">Blogging in the Inland NW</a>
 The Roost
 
-<p>The elusive Tsykoduk lives in its own little world where everything is rosy and the gnomes make fresh espresso drinks for everyone. They often spell-check the street signs, write notes in the air and dance to 70's tunes. You can see them sitting under Bodhi trees, squawking about computers, politics, discordianism and other obtuse angles with the Quantum Ducks, a closely related species.</blockquote></p>
+The elusive Tsykoduk lives in its own little world where everything is rosy and the gnomes make fresh espresso drinks for everyone. They often spell-check the street signs, write notes in the air and dance to 70's tunes. You can see them sitting under Bodhi trees, squawking about computers, politics, discordianism and other obtuse angles with the Quantum Ducks, a closely related species.</blockquote>

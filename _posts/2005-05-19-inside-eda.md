@@ -9,18 +9,18 @@ permalink: /2005/05/19/inside-eda/
 categories:
   - Philosophy! and Politics!
 ---
-<p><a href="http://insid-e-da.blogspot.com/2005/04/marriage-proposal.htm">Eda</a> says:</p>
+<a href="http://insid-e-da.blogspot.com/2005/04/marriage-proposal.htm">Eda</a> says:
 
 
 	<blockquote>He asked many times to get married. I teased, I joked, I let him dream at times. Deep inside I knew, my heart knew that I got married long time ago to someone else.</blockquote>
 
-	<p>I know that feeling.</p>
+	I know that feeling.
 
 
-	<p>I have been left in the dust, watching some one who I thought that I knew do what she had told me all along she would do to me.</p>
+	I have been left in the dust, watching some one who I thought that I knew do what she had told me all along she would do to me.
 
 
-	<p>It still hurt.</p>
+	It still hurt.
 
 
-	<p>I am glad that it happened. With out that point in my life, I would not be who I am today.</p>
+	I am glad that it happened. With out that point in my life, I would not be who I am today.

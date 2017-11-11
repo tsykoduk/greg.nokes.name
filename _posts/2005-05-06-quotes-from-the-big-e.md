@@ -15,9 +15,9 @@ categories:
 
 	<blockquote>A man's ethical behavior should be based effectually on sympathy, education, and social ties and needs; no religious basis is necessary. Man would indeed be in a poor way if he had to be restrained by fear of punishment and hope of reward after death.</blockquote>
 
-	<p>and</p>
+	and
 
 
 	<blockquote>The religion of the future will be a cosmic religion. It should transcend personal God and avoid dogma and theology. Covering both the natural and the spiritual, it should be based on a religious sense arising from the experience of all things natural and spiritual as a meaningful unity. Buddhism answers this description. If there is any religion that could cope with modern scientific needs it would be Buddhism.</blockquote>
 
-	<p>All of these from ol' Albert Einstein himself.</p>
+	All of these from ol' Albert Einstein himself.

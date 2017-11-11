@@ -9,4 +9,4 @@ permalink: /2005/05/31/freindly-urls/
 categories:
   - Mundane
 ---
-<p>Welp, I went and did it. Installed some more tweakage to the site that allows us to use freindly URLs to access pages. Not really that important, but pretty cool none-the-less.</p>
+Welp, I went and did it. Installed some more tweakage to the site that allows us to use freindly URLs to access pages. Not really that important, but pretty cool none-the-less.

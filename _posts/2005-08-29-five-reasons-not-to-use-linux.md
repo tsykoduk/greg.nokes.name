@@ -12,4 +12,4 @@ categories:
 <blockquote> But, Linux isn't for everyone. Seriously. Here are my top five reasons why you shouldn't move to Linux . . .
 </blockquote>
 
-<p>Thus starts a really good <a href="http://www.linux-watch.com/news/NS8124627492.html">article</a> about Linux, Windows and Why to stay on Windows. I have ranted about a lot of these very issues lately - here is another persons take.</p>
+Thus starts a really good <a href="http://www.linux-watch.com/news/NS8124627492.html">article</a> about Linux, Windows and Why to stay on Windows. I have ranted about a lot of these very issues lately - here is another persons take.

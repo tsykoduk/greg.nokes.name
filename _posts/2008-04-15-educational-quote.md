@@ -13,4 +13,4 @@ categories:
 <blockquote>sterano: Whats the difference between Raid_0 and Raid_1?<br />
 Steve: In Raid_0 the zero stands for how many files you are going to get back if something goes wrong.<br /></blockquote>
 
-<p>(From <a href="http://bash.org/?854608"><span class="caps">QDB</span></a>)</p>
+(From <a href="http://bash.org/?854608"><span class="caps">QDB</span></a>)

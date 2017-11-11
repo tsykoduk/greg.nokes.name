@@ -9,4 +9,4 @@ permalink: /2006/03/13/google-maps-the-next-leap/
 categories:
   - Science!
 ---
-<p>Yup - <a href="http://www.google.com/mars/">Mars</a>. Cool beans stuff there. I expect the images from the <a href="http://www.nasa.gov/mission_pages/MRO/main/index.html"><span class="caps">MRO</span></a> to start showing up there...</p>
+Yup - <a href="http://www.google.com/mars/">Mars</a>. Cool beans stuff there. I expect the images from the <a href="http://www.nasa.gov/mission_pages/MRO/main/index.html"><span class="caps">MRO</span></a> to start showing up there...

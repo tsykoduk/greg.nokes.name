@@ -9,9 +9,9 @@ permalink: /2005/06/21/it-s-all-over/
 categories:
   - Fun!
 ---
-<p><a href="http://sharpmarbles.stufftoread.com/archive/2005/06/21/3441.aspx">SaaM</a> brings us this scary and chilling statistic:</p>
+<a href="http://sharpmarbles.stufftoread.com/archive/2005/06/21/3441.aspx">SaaM</a> brings us this scary and chilling statistic:
 
 
 	<blockquote>Did you know that the worldwide death rate is 100%? Scary!</blockquote>
 
-	<p>It's over folks. This blog is shutting down, as we are all really dead.</p>
+	It's over folks. This blog is shutting down, as we are all really dead.

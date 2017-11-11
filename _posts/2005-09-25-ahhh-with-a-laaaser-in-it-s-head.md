@@ -9,4 +9,4 @@ permalink: /2005/09/25/ahhh-with-a-laaaser-in-it-s-head/
 categories:
   - Fun!
 ---
-<p>So, some guys with a bit to much time on their hands build an automated sentry gun. <a href="http://cs-people.bu.edu/aaron/turret/turret.htm">Really</a>!</p>
+So, some guys with a bit to much time on their hands build an automated sentry gun. <a href="http://cs-people.bu.edu/aaron/turret/turret.htm">Really</a>!

@@ -12,8 +12,8 @@ categories:
 ---
 <blockquote><strong>(AP) </strong>The Vatican newspaper has published an article saying "intelligent design" is not science and that teaching it alongside evolutionary theory in school classrooms only creates confusion.
 
-<p>The article in Tuesday's editions of L'Osservatore Romano was the latest in a series of interventions by Vatican officials <strong>including the pope</strong> on the issue that has dominated headlines in the United States.</blockquote>
--<a href="http://www.cbsnews.com/stories/2006/01/18/ap/world/mainD8F7BDS03.shtml"><span class="caps">CBS</span> News</a></p>
+The article in Tuesday's editions of L'Osservatore Romano was the latest in a series of interventions by Vatican officials <strong>including the pope</strong> on the issue that has dominated headlines in the United States.</blockquote>
+-<a href="http://www.cbsnews.com/stories/2006/01/18/ap/world/mainD8F7BDS03.shtml"><span class="caps">CBS</span> News</a>
 
 
-<p>I think that this issue is layed to rest.</p>
+I think that this issue is layed to rest.

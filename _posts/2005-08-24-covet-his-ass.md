@@ -10,12 +10,12 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 ---
-<p>Mr. Robertson is on a roll!</p>
+Mr. Robertson is on a roll!
 
 
 	<blockquote>Speaking on the television program he hosts, 'The 700 Club,â€ Mr. Robertson lashed out at the Venezuelan strongman once more, telling his audience, 'It's high time that the United States coveted Hugo Chavez' wife.â€
 
-	<p>Warming to his topic, the opinionated preacher added, 'And while we're at it, we should covet his house, his manservant, his maidservant..and his ass, for that matter.</blockquote></p>
+	Warming to his topic, the opinionated preacher added, 'And while we're at it, we should covet his house, his manservant, his maidservant..and his ass, for that matter.</blockquote>
 
 
-	<p>-<a href="http://www.borowitzreport.com/archive_rpt.asp?rec=1202&#38;srch=">Andy Borowitz</a></p>
+	-<a href="http://www.borowitzreport.com/archive_rpt.asp?rec=1202&#38;srch=">Andy Borowitz</a>

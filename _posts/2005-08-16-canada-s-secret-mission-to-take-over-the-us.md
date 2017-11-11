@@ -11,10 +11,10 @@ categories:
 ---
 <blockquote>Whistler Blower: Canada's Secret Mission to Take Over the US
 
-	<p>While you Americans are distracting yourselves overseas, Canada has been secretly preparing for final battle plans to take over the US.</blockquote></p>
+	While you Americans are distracting yourselves overseas, Canada has been secretly preparing for final battle plans to take over the US.</blockquote>
 
 
-	<p><a href="http://www.samanthaburns.com/archives/2005/08/whistler_blower.html">Samantha Burns</a> goes on to outline this dasterdy plot. Yes, I will say it - this is a plot of the likes the world has not seen since Snidley Whiplash was on the scene.</p>
+	<a href="http://www.samanthaburns.com/archives/2005/08/whistler_blower.html">Samantha Burns</a> goes on to outline this dasterdy plot. Yes, I will say it - this is a plot of the likes the world has not seen since Snidley Whiplash was on the scene.
 
 
-	<p>Oh my! Thank <span class="caps">GOD</span> for people like Ms. Burns - she is truly an American Hero!</p>
+	Oh my! Thank <span class="caps">GOD</span> for people like Ms. Burns - she is truly an American Hero!

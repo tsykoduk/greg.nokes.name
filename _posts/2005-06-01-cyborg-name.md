@@ -9,4 +9,4 @@ permalink: /2005/06/01/cyborg-name/
 categories:
   - Fun!
 ---
-<p><a href="http://www.cyborgname.com/"><center><img src="http://www.cyborgname.com/cybimages/T/edox-TSYKODUK.jpg" alt="" /></center></a></p>
+<a href="http://www.cyborgname.com/"><center><img src="http://www.cyborgname.com/cybimages/T/edox-TSYKODUK.jpg" alt="" /></center></a>

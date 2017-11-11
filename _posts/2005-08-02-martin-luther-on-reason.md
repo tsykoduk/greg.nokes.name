@@ -11,15 +11,15 @@ categories:
 ---
 <blockquote>'Whoever wants to be a Christian should tear the eyes out of his Reason.â€</blockquote>
 
-	<p>, <a href="Whoever wants to be a Christian should tear the eyes out of his Reason">Martin Luther</a>, HT: <a href="http://hereticalideas.com/index.php?p=3113">Heretical Ideas</a></p>
+	, <a href="Whoever wants to be a Christian should tear the eyes out of his Reason">Martin Luther</a>, HT: <a href="http://hereticalideas.com/index.php?p=3113">Heretical Ideas</a>
 
 
-	<p>Also found:</p>
+	Also found:
 
 
 	<blockquote>Reason must be deluded, blinded, and destroyed. Faith must trample underfoot all reason, sense, and understanding, and whatever it sees must be put out of sight and ... know nothing but the word of God</blockquote>
 
-	<p>and</p>
+	and
 
 
 	<blockquote>Reason is the greatest enemy that faith has: it never comes to the aid of spritual things, but-more frequently than not-struggles against the Divine Word</blockquote>

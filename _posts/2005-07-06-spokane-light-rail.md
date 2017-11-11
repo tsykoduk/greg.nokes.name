@@ -9,4 +9,4 @@ permalink: /2005/07/06/spokane-light-rail/
 categories:
   - Philosophy! and Politics!
 ---
-<p>Did you ever want to know about the Light Rail Project in Spokane? Well, the <a href="http://spokanelightrail.blogspot.com/">Spokane Light Rail Blog</a> will sure fill you in!</p>
+Did you ever want to know about the Light Rail Project in Spokane? Well, the <a href="http://spokanelightrail.blogspot.com/">Spokane Light Rail Blog</a> will sure fill you in!

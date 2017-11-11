@@ -9,4 +9,4 @@ permalink: /2005/08/12/techno-weenie-ness/
 categories:
   - Computers! and Code!
 ---
-<p>So.. just added a new feature to this site. If you look down the sidebar, you will see a new iTunes section. This shows - realtime - what is currently playing on my 'puter and what the last ten songs were.</p>
+So.. just added a new feature to this site. If you look down the sidebar, you will see a new iTunes section. This shows - realtime - what is currently playing on my 'puter and what the last ten songs were.

@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote>I Await the Day
 
-	<p>I await the day when the only war you will find is in history books. I will cherish the moment that Muslims can sit down with Jews and share a laugh over coffee. I relish the time when there are no guns because there is no need for guns, when people realize that it is better to live in peace and harmony and help those who need it.</blockquote></p>
+	I await the day when the only war you will find is in history books. I will cherish the moment that Muslims can sit down with Jews and share a laugh over coffee. I relish the time when there are no guns because there is no need for guns, when people realize that it is better to live in peace and harmony and help those who need it.</blockquote>
 
 
-	<p>Thus starts a really good <a href="http://sharpmarbles.stufftoread.com/archive/2005/05/24/3206.aspx">article</a> over on SaaM. I implore you to go and read it. You will reach enlightment sooner if you do.</p>
+	Thus starts a really good <a href="http://sharpmarbles.stufftoread.com/archive/2005/05/24/3206.aspx">article</a> over on SaaM. I implore you to go and read it. You will reach enlightment sooner if you do.

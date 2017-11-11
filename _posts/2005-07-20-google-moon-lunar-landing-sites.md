@@ -9,4 +9,4 @@ permalink: /2005/07/20/google-moon-lunar-landing-sites/
 categories:
   - Science!
 ---
-<p><a href="http://moon.google.com/">Google</a> has turned their mapping software upwards. Check it out!</p>
+<a href="http://moon.google.com/">Google</a> has turned their mapping software upwards. Check it out!

@@ -12,4 +12,4 @@ categories:
 <blockquote>"Ya? Hedlo"? (OK, maybe it's more Swedish than German but give me a break, it was 8:12am).
 	"Hey Scarlett! How's it goin? Are you diggin' the new neighborhood"?</blockquote>
 
-	<p>Read the rest on <a href="http://whyareweinthishandbasket.blogspot.com/">WhyAreWeInThisHandbasket</a></p>
+	Read the rest on <a href="http://whyareweinthishandbasket.blogspot.com/">WhyAreWeInThisHandbasket</a>

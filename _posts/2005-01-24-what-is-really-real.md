@@ -32,4 +32,3 @@ Reality is <b>taught</b> to us by our community and our parents.
 
 
 -Tsyko
-</p>

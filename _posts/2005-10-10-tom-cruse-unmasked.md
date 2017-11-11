@@ -9,19 +9,19 @@ permalink: /2005/10/10/tom-cruse-unmasked/
 categories:
   - Fun!
 ---
-<p>Little did we know that Tom Cruse is none other then...</p>
+Little did we know that Tom Cruse is none other then...
 
 
-<p>Darth Stupedus!</p>
+Darth Stupedus!
 
 
-<p>Yup. It happened on <a href="http://www.nwgamers.org/Tom_Cruise_Kills_Oprah.mov">Oprah</a>.</p>
+Yup. It happened on <a href="http://www.nwgamers.org/Tom_Cruise_Kills_Oprah.mov">Oprah</a>.
 
 
-<p>(HT - That <a href="http://drogidy.blogspot.com/2005/10/where-martians-and-wookies-collide.html">Drogitty</a> Fellow)</p>
+(HT - That <a href="http://drogidy.blogspot.com/2005/10/where-martians-and-wookies-collide.html">Drogitty</a> Fellow)
 
 
-<p>Also on his site, a link to this gem:</p>
+Also on his site, a link to this gem:
 
 
 <center><a href="http://adrune.blogs.friendster.com/photos/my_favorite_movies/index.html"><img src="http://adrune.blogs.friendster.com/photos/my_favorite_movies/pimpmyride.jpg" /></a></center>

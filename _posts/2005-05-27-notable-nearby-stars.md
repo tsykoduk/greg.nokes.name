@@ -9,10 +9,10 @@ permalink: /2005/05/27/notable-nearby-stars/
 categories:
   - Science!
 ---
-<p><a href="http://www.solstation.com/stars.htm">Notable Nearby Stars</a> - a great resource page.</p>
+<a href="http://www.solstation.com/stars.htm">Notable Nearby Stars</a> - a great resource page.
 
 
-	<p>Another <a href="http://www.projectrho.com/smap06.html">good page</a> - lots of 3d stuff.</p>
+	Another <a href="http://www.projectrho.com/smap06.html">good page</a> - lots of 3d stuff.
 
 
-	<p><span class="caps">NASA</span>'s <a href="http://nstars.arc.nasa.gov/index.cfm">Nearby Stars Database</a></p>
+	<span class="caps">NASA</span>'s <a href="http://nstars.arc.nasa.gov/index.cfm">Nearby Stars Database</a>

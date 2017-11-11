@@ -10,13 +10,13 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<p>Sorta like a combination of tetris and teletubbies. Maximum Evil!</p>
+Sorta like a combination of tetris and teletubbies. Maximum Evil!
 
 
-<p>Update - Linkage might help :)</p>
+Update - Linkage might help :)
 
 
-<p>Update 2 - Ok.. I am a total space cadet. I cannot find the fscking thing again. So, you will just have to live knowing that it was one of the cooler things that I have ever seen.</p>
+Update 2 - Ok.. I am a total space cadet. I cannot find the fscking thing again. So, you will just have to live knowing that it was one of the cooler things that I have ever seen.
 
 
-<p>sorry.</p>
+sorry.

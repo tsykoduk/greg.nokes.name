@@ -9,16 +9,16 @@ permalink: /2006/12/01/polymorphic-associations-in-rails/
 categories:
   - Computers! and Code!
 ---
-<p>In a project that I am working on, I finally needed to dig into polymorphic associations in Rails Models.</p>
+In a project that I am working on, I finally needed to dig into polymorphic associations in Rails Models.
 
 
-<p>If you just thought to yourself '<em>Hu? <span class="caps">WTH</span> is this freak talking about?</em>' let me give you a little background.</p>
+If you just thought to yourself '<em>Hu? <span class="caps">WTH</span> is this freak talking about?</em>' let me give you a little background.
 
 
-<p>Rails is built around a '<a href="http://en.wikipedia.org/wiki/Model-view-controller"><span class="caps">MVC</span></a>' model of programming. So, each program is logically broken up into three parts - The Model (the data), The View (the part the user interacts with) and the Controller, (the part that interacts between the data and the the user).</p>
+Rails is built around a '<a href="http://en.wikipedia.org/wiki/Model-view-controller"><span class="caps">MVC</span></a>' model of programming. So, each program is logically broken up into three parts - The Model (the data), The View (the part the user interacts with) and the Controller, (the part that interacts between the data and the the user).
 
 
-<p>Delving into the model - chunks of data can have some sort of relationship. For example, an address could be associated with a person. People could have many addresses (home, work, favorite bar). In railspeak, that is called a has_many relationship. People has_many addresses, and addresses belongs_to people. However, we can get into problems - dogs have addresses to. They tend to live in a house with people, and you can send them mail. So - let's see what this looks like:</p>
+Delving into the model - chunks of data can have some sort of relationship. For example, an address could be associated with a person. People could have many addresses (home, work, favorite bar). In railspeak, that is called a has_many relationship. People has_many addresses, and addresses belongs_to people. However, we can get into problems - dogs have addresses to. They tend to live in a house with people, and you can send them mail. So - let's see what this looks like:
 
 
 <table class="CodeRay"><tr>
@@ -34,10 +34,10 @@ categories:
 </tr></table>
 
 
-<p>But the problem with that is that an address belongs to <strong>both</strong> a person and a dog. What about those happy homes who have no dogs? Or that have a cat, instead? we need a belongs_to 'or' statement.</p>
+But the problem with that is that an address belongs to <strong>both</strong> a person and a dog. What about those happy homes who have no dogs? Or that have a cat, instead? we need a belongs_to 'or' statement.
 
 
-<p>Enter the polymorph.</p>
+Enter the polymorph.
 
 
 <table class="CodeRay"><tr>
@@ -51,10 +51,10 @@ categories:
 </tr></table>
 
 
-<p>This says an address belongs to a class of thing called <em>owner</em>. It will look for two columns in the database : owner_type (to record what model owns that record) and owner_id (to record the id of the model that owns it).</p>
+This says an address belongs to a class of thing called <em>owner</em>. It will look for two columns in the database : owner_type (to record what model owns that record) and owner_id (to record the id of the model that owns it).
 
 
-<p>So, now we have the address all set up! But, what about the other side? How do we tell the people, dogs and cats that they can have an address?</p>
+So, now we have the address all set up! But, what about the other side? How do we tell the people, dogs and cats that they can have an address?
 
 
 <table class="CodeRay"><tr>
@@ -68,10 +68,10 @@ categories:
 </tr></table>
 
 
-<p>This is how we tell rails that a person could <em>have many</em> addresses, Rails would expect to find a column called person_id in the addresses table. However, there is not a column called person_id, as the address model does not belong to an person. Addresses belong to owners. How do we tell Rails that it should find all of the addresses for owner type 'person' where the id is what ever the id number is?</p>
+This is how we tell rails that a person could <em>have many</em> addresses, Rails would expect to find a column called person_id in the addresses table. However, there is not a column called person_id, as the address model does not belong to an person. Addresses belong to owners. How do we tell Rails that it should find all of the addresses for owner type 'person' where the id is what ever the id number is?
 
 
-<p>Well, Rails has a way. Imagine that.</p>
+Well, Rails has a way. Imagine that.
 
 
 <table class="CodeRay"><tr>
@@ -85,7 +85,7 @@ categories:
 </tr></table>
 
 
-<p>So now, we in people_controller we can say things like:</p>
+So now, we in people_controller we can say things like:
 
 
 <table class="CodeRay"><tr>
@@ -101,7 +101,7 @@ categories:
 </tr></table>
 
 
-<p>The @dog.address will automagically return us the address associated with the site contained in @dog. We can also say other cool things like @dog.address.create, which will create a new address associated with the site in @dog.</p>
+The @dog.address will automagically return us the address associated with the site contained in @dog. We can also say other cool things like @dog.address.create, which will create a new address associated with the site in @dog.
 
 
 And, if we later decide to add cats to the mix, we simply add
@@ -112,4 +112,4 @@ And, if we later decide to add cats to the mix, we simply add
 </tr></table>
 
 
-<p>to the Cat model, and Bam! Chili fries!</p>
+to the Cat model, and Bam! Chili fries!

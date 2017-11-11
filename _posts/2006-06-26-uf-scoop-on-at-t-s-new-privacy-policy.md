@@ -10,4 +10,4 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 ---
-<p><a href="http://ars.userfriendly.org/cartoons/?id=20060625"><img src="http://www.userfriendly.org/cartoons/archives/06jun/uf009225.gif" width="500" /></a></p>
+<a href="http://ars.userfriendly.org/cartoons/?id=20060625"><img src="http://www.userfriendly.org/cartoons/archives/06jun/uf009225.gif" width="500" /></a>

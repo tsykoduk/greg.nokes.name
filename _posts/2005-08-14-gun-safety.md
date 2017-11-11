@@ -9,4 +9,4 @@ permalink: /2005/08/14/gun-safety/
 categories:
   - Fun!
 ---
-<p>Yeah. <a href="http://www.putfile.com/media.php?n=03084899">This guy</a> needs to be sent back to a basic safety class.</p>
+Yeah. <a href="http://www.putfile.com/media.php?n=03084899">This guy</a> needs to be sent back to a basic safety class.

@@ -9,7 +9,7 @@ permalink: /2005/08/08/blog-update/
 categories:
   - Computers! and Code!
 ---
-<p>So... If you put <code>&lt;base target="_blank" /&gt;</code> into the header of your site, it will default to that on all links. (BTW that is opening all links into new windows) One of the long time readers asked me to do this for his lazy a... for his ease of use.</p>
+So... If you put <code>&lt;base target="_blank" /&gt;</code> into the header of your site, it will default to that on all links. (BTW that is opening all links into new windows) One of the long time readers asked me to do this for his lazy a... for his ease of use.
 
 
-	<p>So, what do you all think? Yea? Nea? <span class="caps">WTH</span> is he talking about?</p>
+	So, what do you all think? Yea? Nea? <span class="caps">WTH</span> is he talking about?

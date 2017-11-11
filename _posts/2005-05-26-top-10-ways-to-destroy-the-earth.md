@@ -9,9 +9,9 @@ permalink: /2005/05/26/top-10-ways-to-destroy-the-earth/
 categories:
   - Science!
 ---
-<p><a href="http://www.livescience.com/technology/10ways_destroyearth.html">Top 10 Ways to Destroy the Earth</a></p>
+<a href="http://www.livescience.com/technology/10ways_destroyearth.html">Top 10 Ways to Destroy the Earth</a>
 
 
-	<p>Yup - that says it all.
+	Yup - that says it all.
 	<em>
-	Edit: Sam has a better '10 ways' article <a href="http://ned.ucam.org/~sdh31/misc/destroy.html">here</a></em></p>
+	Edit: Sam has a better '10 ways' article <a href="http://ned.ucam.org/~sdh31/misc/destroy.html">here</a></em>

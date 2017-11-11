@@ -25,4 +25,4 @@ categories:
 	<a href="http://www.blogthings.com/planetquiz.html">What Planet Are You From?</a>
 	</div></center>
 
-	<p>(Hat Tip, <a href="http://davejustus.blogspot.com/">Justus</a>)</p>
+	(Hat Tip, <a href="http://davejustus.blogspot.com/">Justus</a>)

@@ -9,7 +9,7 @@ permalink: /2008/09/30/good-stuff-manard/
 categories:
   - Computers! and Code!
 ---
-<p><a href='http://www.buildingwebapps.com/learning_rails'> <img src='http://www.buildingwebapps.com/images/ads/learningrails_310x90.gif' alt='Learning Rails Free Online Course in Ruby on Rails' height='90' width='310'> </a></p>
+<a href='http://www.buildingwebapps.com/learning_rails'> <img src='http://www.buildingwebapps.com/images/ads/learningrails_310x90.gif' alt='Learning Rails Free Online Course in Ruby on Rails' height='90' width='310'> </a>
 
 
-<p>Good series on Rails and how to build web apps.</p>
+Good series on Rails and how to build web apps.

@@ -13,4 +13,4 @@ Marilyn Manson on the O'Reily Factor:
 &lt;!<del>-more</del>-&gt;
 <center><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/dE2ZB_uHfRw"></param><embed src="http://www.youtube.com/v/dE2ZB_uHfRw" type="application/x-shockwave-flash" width="425" height="350"></embed></object></center>
 
-<p>Give it a chance - it's an interesting talk.</p>
+Give it a chance - it's an interesting talk.

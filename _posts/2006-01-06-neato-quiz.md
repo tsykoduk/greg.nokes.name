@@ -9,10 +9,10 @@ permalink: /2006/01/06/neato-quiz/
 categories:
   - Mundane
 ---
-<p>So, I took the quiz at Beliefnet called "<a href="http://www.beliefnet.com/story/76/story_7665_1.html">Belief-O-Maticâ„¢</a>". Go and take it. My scores are after the jump...</p>
+So, I took the quiz at Beliefnet called "<a href="http://www.beliefnet.com/story/76/story_7665_1.html">Belief-O-Maticâ„¢</a>". Go and take it. My scores are after the jump...
 
 
-<p>&lt;!<del>-more</del>-&gt;</p>
+&lt;!<del>-more</del>-&gt;
 
 
 <font size="2" face="verdana" color="#336699"><strong> </strong></font>

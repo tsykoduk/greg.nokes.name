@@ -10,13 +10,13 @@ categories:
   - Computers! and Code!
   - Philosophy! and Politics!
 ---
-<p>First, go <a href="http://lessig.org/freeculture/free.html">here</a>. After you watch that, let's talk about it.</p>
+First, go <a href="http://lessig.org/freeculture/free.html">here</a>. After you watch that, let's talk about it.
 
 
-<p>Do you think that anything needs to be done, or are we good with the status quo?</p>
+Do you think that anything needs to be done, or are we good with the status quo?
 
 
-<p>Will Vista's unbridled, stifling <span class="caps">DRM</span>'y'ness effect you in any way? Is our culture doomed to stagnation and death?</p>
+Will Vista's unbridled, stifling <span class="caps">DRM</span>'y'ness effect you in any way? Is our culture doomed to stagnation and death?
 
 
-<p>So, what have you done?</p>
+So, what have you done?

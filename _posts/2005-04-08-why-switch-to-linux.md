@@ -10,4 +10,4 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<p>This <a href="http://www.nata2.info/humor/flash/switchlinux3.swf">short movie</a> explains it best.</p>
+This <a href="http://www.nata2.info/humor/flash/switchlinux3.swf">short movie</a> explains it best.

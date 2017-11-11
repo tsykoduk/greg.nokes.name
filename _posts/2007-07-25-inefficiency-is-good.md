@@ -9,7 +9,7 @@ permalink: /2007/07/25/inefficiency-is-good/
 categories:
   - Philosophy! and Politics!
 ---
-<p><img src="http://greg.nokes.name/assets/2007/7/25/160px-EugeneMcCarthy.jpg" style="float: right; padding: 5px;" /></p>
+<img src="http://greg.nokes.name/assets/2007/7/25/160px-EugeneMcCarthy.jpg" style="float: right; padding: 5px;" />
 
 
 <blockquote>The only thing that saves us from the bureaucracy is inefficiency.
@@ -21,4 +21,4 @@ An efficient bureaucracy is the greatest threat to liberty.</blockquote>
 
 <blockquote>The two-party system has given this country the war of Lyndon Johnson, the Watergate of Nixon, and the incompetence of Carter. Saying we should keep the two-party system simply because it is working is like saying the Titanic voyage was a success because a few people survived on life-rafts.</blockquote>
 
-<p>- <a href="http://en.wikipedia.org/wiki/Eugene_McCarthy">Eugene McCarthy</a></p>
+- <a href="http://en.wikipedia.org/wiki/Eugene_McCarthy">Eugene McCarthy</a>

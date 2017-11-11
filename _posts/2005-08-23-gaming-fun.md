@@ -9,12 +9,12 @@ permalink: /2005/08/23/gaming-fun/
 categories:
   - Fun!
 ---
-<p>In case you were wondering:</p>
+In case you were wondering:
 
 
 	<blockquote>250 things Mr. Welch can no longer do during an <span class="caps">RPG</span>
 
-	<p>1. Cannot base characters off the Who's drummer Keith Moon.
+	1. Cannot base characters off the Who's drummer Keith Moon.
 	2. A one man band is not an appropriate bard instrument.
 	3. There is no Gnomish god of heavy artillery.
 	4. My 7th Sea character Boudreaux is not 'Southern' Montaigne.
@@ -23,13 +23,13 @@ categories:
 	7. Not allowed to use psychic powers to do the dishes.
 	8. How to serve Dragons is not a cookbook.
 	9. My monk's lips must be in sync.
-	10. Just because my character and I can speak German, doesn't mean the GM can.</blockquote></p>
+	10. Just because my character and I can speak German, doesn't mean the GM can.</blockquote>
 
 
-	<p>-<a href="http://piratelog.blogspot.com/2005/08/gaming-fun.html">Subversive Puppet Show: Gaming Fun</a></p>
+	-<a href="http://piratelog.blogspot.com/2005/08/gaming-fun.html">Subversive Puppet Show: Gaming Fun</a>
 
 
-	<p>There are a lot more on the site.</p>
+	There are a lot more on the site.
 
 
-	<p>I personally have done several of these. Guessing which is left to the reader...</p>
+	I personally have done several of these. Guessing which is left to the reader...

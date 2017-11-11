@@ -9,4 +9,4 @@ permalink: /2006/01/20/a-fantastic-definition/
 categories:
   - Fun!
 ---
-<p>is <a href="http://uncyclopedia.org/wiki/Nihilism">here.</a> What do you think? Does it define the word correctly?</p>
+is <a href="http://uncyclopedia.org/wiki/Nihilism">here.</a> What do you think? Does it define the word correctly?

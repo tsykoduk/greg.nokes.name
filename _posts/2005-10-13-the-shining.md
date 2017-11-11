@@ -9,7 +9,7 @@ permalink: /2005/10/13/the-shining/
 categories:
   - Fun!
 ---
-<p>is coming out again - check out the <a href="http://www.angryalien.com/0504/shiningbunnies.html">trailer</a>!</p>
+is coming out again - check out the <a href="http://www.angryalien.com/0504/shiningbunnies.html">trailer</a>!
 
 
-<p><em><strong>edit</strong>: Yes - two new versions of The Shining. <a href="http://browncoats.serenitymovie.com/serenity/">Shiny</a>!</em></p>
+<em><strong>edit</strong>: Yes - two new versions of The Shining. <a href="http://browncoats.serenitymovie.com/serenity/">Shiny</a>!</em>

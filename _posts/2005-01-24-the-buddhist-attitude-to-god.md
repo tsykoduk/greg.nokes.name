@@ -39,4 +39,3 @@ Forget Human evilness - let's talk about cancer and TB and Tsunami's!
 
 Just some things I am currently pondering...
 
-</p>

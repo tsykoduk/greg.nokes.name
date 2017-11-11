@@ -9,7 +9,7 @@ permalink: /2005/04/08/some-intresting-ideas-on-id/
 categories:
   - Science!
 ---
-<p><a href="http://hereticalideas.com/index.php?p=2773">Heretical Ideas Â» <span class="caps">NOT</span>-SO-INTELLIGENT <span class="caps">DESIGN</span></a></p>
+<a href="http://hereticalideas.com/index.php?p=2773">Heretical Ideas Â» <span class="caps">NOT</span>-SO-INTELLIGENT <span class="caps">DESIGN</span></a>
 
 
 <blockquote>

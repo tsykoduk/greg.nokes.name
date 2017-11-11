@@ -9,7 +9,6 @@ permalink: /2006/04/20/is-that-biodiesel-in-your-pocket-or/
 categories:
   - Science!
 ---
-<blockquote><p><span class="caps">PORTLAND</span>, Oregon-A tiny chemical reactor that can convert vegetable oil directly into biodiesel could help farmers turn some of their crops into homegrown fuel to operate agricultural equipment instead of relying on costly imported oil.</p>
-<p>"This is all about producing energy in such a way that it liberates people," said Goran Jovanovic, a chemical engineering professor at Oregon State University who developed the microreactor.</p></blockquote>
-<p>-<a href="http://www.wired.com/news/wireservice/0,70702-0.html?tw=rss.index">Wired</a>
-</p>
+<blockquote><span class="caps">PORTLAND</span>, Oregon-A tiny chemical reactor that can convert vegetable oil directly into biodiesel could help farmers turn some of their crops into homegrown fuel to operate agricultural equipment instead of relying on costly imported oil.
+"This is all about producing energy in such a way that it liberates people," said Goran Jovanovic, a chemical engineering professor at Oregon State University who developed the microreactor.</blockquote>
+-<a href="http://www.wired.com/news/wireservice/0,70702-0.html?tw=rss.index">Wired</a>

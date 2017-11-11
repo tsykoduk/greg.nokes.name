@@ -9,10 +9,10 @@ permalink: /2006/05/09/conestoga/
 categories:
   - Fun!
 ---
-<p>Music video after the jump...</p>
+Music video after the jump...
 
 
-<p>&lt;!<del>-more</del>-&gt;</p>
+&lt;!<del>-more</del>-&gt;
 
 
 <center><a href="http://www.tomsmithonline.com"><object width="550" height="400">

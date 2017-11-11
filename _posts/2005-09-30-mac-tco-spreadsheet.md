@@ -9,4 +9,4 @@ permalink: /2005/09/30/mac-tco-spreadsheet/
 categories:
   - Computers! and Code!
 ---
-<p>Winn has posted a very good look at the <span class="caps">TCO</span> of Mac vs. Wintendo. The <a href="http://securityawareness.blogspot.com/2005/09/mad-as-hell-finale-recommendations-and.html">article</a> is well worth reading, and the following comments are also worth slogging through.</p>
+Winn has posted a very good look at the <span class="caps">TCO</span> of Mac vs. Wintendo. The <a href="http://securityawareness.blogspot.com/2005/09/mad-as-hell-finale-recommendations-and.html">article</a> is well worth reading, and the following comments are also worth slogging through.

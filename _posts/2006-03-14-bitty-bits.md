@@ -11,17 +11,17 @@ categories:
 ---
 <blockquote>You should probably buy a shredder today.
 
-<p>I get a heck of a lot of credit card applications in the mail.
-A bunch for Visa, quite a few from Mastercard and tons of them from American Express.</p>
+I get a heck of a lot of credit card applications in the mail.
+A bunch for Visa, quite a few from Mastercard and tons of them from American Express.
 
 
-<p>I almost always tear them in half and throw them away.</p>
+I almost always tear them in half and throw them away.
 
 
-<p>Sometimes, if I am feeling particularly paranoid, I'll tear them into little bitty pieces.</p>
+Sometimes, if I am feeling particularly paranoid, I'll tear them into little bitty pieces.
 
 
-<p>Is that good enough?</blockquote></p>
+Is that good enough?</blockquote>
 
 
-<p>Thus starts a great little <a href="http://www.cockeyed.com/citizen/creditcard/application.shtml">story</a>.</p>
+Thus starts a great little <a href="http://www.cockeyed.com/citizen/creditcard/application.shtml">story</a>.

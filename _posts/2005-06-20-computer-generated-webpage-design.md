@@ -9,4 +9,4 @@ permalink: /2005/06/20/computer-generated-webpage-design/
 categories:
   - Computers! and Code!
 ---
-<p><a href="http://www.strangebanana.com/default.aspx">StrangeBanana</a> is the odd name of a cool tool for Website Design. What is does, is randomly crops together a stylesheet for a website layout. Pretty cool stuff!</p>
+<a href="http://www.strangebanana.com/default.aspx">StrangeBanana</a> is the odd name of a cool tool for Website Design. What is does, is randomly crops together a stylesheet for a website layout. Pretty cool stuff!

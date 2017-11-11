@@ -9,4 +9,4 @@ permalink: /2006/05/03/cool-commercial/
 categories:
   - Fun!
 ---
-<p>Yeah - Water has never been so <a href="http://www.epica-awards.org/assets/epica/2004/winners/film/flv/06037.htm">Cool</a>!</p>
+Yeah - Water has never been so <a href="http://www.epica-awards.org/assets/epica/2004/winners/film/flv/06037.htm">Cool</a>!

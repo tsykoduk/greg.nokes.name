@@ -12,9 +12,9 @@ tags:
   - Hammers
   - Vikings
 ---
-<p>I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatevers in job descriptions. I don't play a guitar or dress in black PJ's. I am a big dude, and I like big, simple solutions to problems. And I have a least a little bit of Scandinavian in me.</p>
+I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatevers in job descriptions. I don't play a guitar or dress in black PJ's. I am a big dude, and I like big, simple solutions to problems. And I have a least a little bit of Scandinavian in me.
 
-<p>Some folks asked me what I meant by viking coders. So, with out further gnashing of teeth, here you go.</p>
+Some folks asked me what I meant by viking coders. So, with out further gnashing of teeth, here you go.
 
 <!--more-->
 <script src="https://gist.github.com/3643237.js?file=VikingCoders.md"></script>

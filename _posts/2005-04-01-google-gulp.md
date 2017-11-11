@@ -9,4 +9,4 @@ permalink: /2005/04/01/google-gulp/
 categories:
   - Fun!
 ---
-<p>Google is announcing a new product... <a href="http://www.google.com/googlegulp/">Google Gulp!</a> Sounds yummy..</p>
+Google is announcing a new product... <a href="http://www.google.com/googlegulp/">Google Gulp!</a> Sounds yummy..

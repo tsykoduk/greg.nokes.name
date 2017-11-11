@@ -10,4 +10,4 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 ---
-<p>The Irregular Webcomic is one of my daily reads - <a href="http://www.irregularwebcomic.net/cgi-bin/comic.pl?comic=949">today</a> showcases why!</p>
+The Irregular Webcomic is one of my daily reads - <a href="http://www.irregularwebcomic.net/cgi-bin/comic.pl?comic=949">today</a> showcases why!

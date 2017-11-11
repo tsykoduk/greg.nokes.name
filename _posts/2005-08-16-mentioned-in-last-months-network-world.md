@@ -9,12 +9,12 @@ permalink: /2005/08/16/mentioned-in-last-months-network-world/
 categories:
   - Mundane
 ---
-<p>Yep - little old me!</p>
+Yep - little old me!
 
 
 	<blockquote>Graphically beautiful, greg.nokes.name is the home of the online ramblings of Greg Nokes, who offers a decidedly political bent that focuses on ending poverty around the world.</blockquote>
 
-	<p>Graphically Beautiful - I'm swooning!</p>
+	Graphically Beautiful - I'm swooning!
 
 
-	<p>Read the entire story <a href="http://www.networkworld.com/you/2005/072505-blogs.html">here</a></p>
+	Read the entire story <a href="http://www.networkworld.com/you/2005/072505-blogs.html">here</a>

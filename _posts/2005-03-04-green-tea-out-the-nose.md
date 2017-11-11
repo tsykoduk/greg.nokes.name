@@ -9,4 +9,4 @@ permalink: /2005/03/04/green-tea-out-the-nose/
 categories:
   - Fun!
 ---
-<p>Green tea shot out of one's nose really hurts. Especially when it's hot. I can blame <a href=http://emilyscraziness.blogspot.com/2005/03/lotr-fun.html>Craziness</a> for this one! Go <a href=http://www.coalitionoftheswilling.net/archives/2005/03/some_people_hav.html>here</a> but keep the liquids away until you are done!</p>
+Green tea shot out of one's nose really hurts. Especially when it's hot. I can blame <a href=http://emilyscraziness.blogspot.com/2005/03/lotr-fun.html>Craziness</a> for this one! Go <a href=http://www.coalitionoftheswilling.net/archives/2005/03/some_people_hav.html>here</a> but keep the liquids away until you are done!

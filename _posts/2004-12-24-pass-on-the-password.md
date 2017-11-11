@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
   - Philosophy! and Politics!
 ---
-<p><a href="http://davejustus.blogspot.com/2004/12/email-controversy.html">Dave Justus</a> says in re an article at <a href="http://www.forbes.com/technology/ebusiness/feeds/ap/2004/12/22/ap1725617.html">Forbes</a>:</p>
+<a href="http://davejustus.blogspot.com/2004/12/email-controversy.html">Dave Justus</a> says in re an article at <a href="http://www.forbes.com/technology/ebusiness/feeds/ap/2004/12/22/ap1725617.html">Forbes</a>:
 
 
 <blockquote>Yahoo! is standing by its policy of protecting the privacy of its e-mail subscribers, spokeswoman Karen Mahon said. This is an interesting dilemma. Should an email account and the electronic documents it contains be considered part of an estate, to be transferred to the heirs of a person after death or should it remain private? Typically I believe traditional letters would become the property of the heirs but one could argue, as I guess Yahoo! is doing, that email accounts do not automatically transfer.

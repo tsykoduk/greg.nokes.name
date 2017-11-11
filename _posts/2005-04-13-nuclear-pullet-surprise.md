@@ -12,10 +12,10 @@ categories:
 ---
 <blockquote>A once secret plan to build a nuclear landmine 'run' by live chickens has gone on public display for the first time at The National Archives, Kew, as part of the acclaimed Secret State Exhibition.</blockquote>
 
-<p>You can read the rest <a href="http://improbable.typepad.com/improbable_research_whats/2005/04/nuclear_pullet_.html">here</a>, but it boils down to this. They were going to stuff a nuclear landmine full of chickens to insure that the weapon's important parts did not get too cold and freeze up during the winter.</p>
+You can read the rest <a href="http://improbable.typepad.com/improbable_research_whats/2005/04/nuclear_pullet_.html">here</a>, but it boils down to this. They were going to stuff a nuclear landmine full of chickens to insure that the weapon's important parts did not get too cold and freeze up during the winter.
 
 
-<p>Leave it to the human race to come up with an idea this unique.</p>
+Leave it to the human race to come up with an idea this unique.
 
 
-<p>I don't know if I am amazed by our resourcefullness or sickened.</p>
+I don't know if I am amazed by our resourcefullness or sickened.

@@ -9,4 +9,4 @@ permalink: /2005/12/17/holiday-cheer/
 categories:
   - Fun!
 ---
-<p>So, I think that I have found one of the better <a href="http://www.zug.com/scrawl/wonderland/001.html">Holiday Sites</a> out there.</p>
+So, I think that I have found one of the better <a href="http://www.zug.com/scrawl/wonderland/001.html">Holiday Sites</a> out there.

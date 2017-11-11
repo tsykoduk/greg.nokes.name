@@ -9,4 +9,4 @@ permalink: /2005/02/23/cool-spoilers-from-star-wars-iii/
 categories:
   - Fun!
 ---
-<p><a href=http://www.tpu.fi/~t4jlaaks/ep3/>Here. They are spoilers, so be warned.</p>
+<a href=http://www.tpu.fi/~t4jlaaks/ep3/>Here. They are spoilers, so be warned.

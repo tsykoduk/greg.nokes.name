@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>The Buddhist Channel is pleased to present to you the last book written by the late Chief Ven. Dr K Sri Dhammananda. To fulfill the wish of  the late venerable, this e-Book shall be distributed free of charge. Please help to fulfill his wish by forwarding it to as many people as you can.</blockquote>
 
-<p>To help, I am also hosting this book <a href="http://greg.nokes.name/assets/2006/9/22/WhereistheBuddha.pdf">here</a>. It's a great read....</p>
+To help, I am also hosting this book <a href="http://greg.nokes.name/assets/2006/9/22/WhereistheBuddha.pdf">here</a>. It's a great read....

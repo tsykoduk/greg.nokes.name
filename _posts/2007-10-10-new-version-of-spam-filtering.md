@@ -10,4 +10,4 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<p>I actually think that this <a href="http://stupidfilter.org">project</a> is going to have some really good uses. I will have to look at porting it to Ruby and Mephisto when they release code.</p>
+I actually think that this <a href="http://stupidfilter.org">project</a> is going to have some really good uses. I will have to look at porting it to Ruby and Mephisto when they release code.

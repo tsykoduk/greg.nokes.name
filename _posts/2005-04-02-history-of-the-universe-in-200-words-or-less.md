@@ -9,7 +9,7 @@ permalink: /2005/04/02/history-of-the-universe-in-200-words-or-less/
 categories:
   - Science!
 ---
-<p>Yes, you too can read the History of the universe in 200 words or less <a href="http://members.bellatlantic.net/%7Evze3fs8i/hist/hist.html">Here</a>.</p>
+Yes, you too can read the History of the universe in 200 words or less <a href="http://members.bellatlantic.net/%7Evze3fs8i/hist/hist.html">Here</a>.
 
 
-<p>Hat Tip <a href="http://improbable.typepad.com/">Improbable Research</a></p>
+Hat Tip <a href="http://improbable.typepad.com/">Improbable Research</a>

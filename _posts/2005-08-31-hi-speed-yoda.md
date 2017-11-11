@@ -9,4 +9,4 @@ permalink: /2005/08/31/hi-speed-yoda/
 categories:
   - Fun!
 ---
-<p>You just <span class="caps">HAVE</span> to check <a href="http://homepage.hispeed.ch/molph/vids/yoda.mpg">this</a> out! It's big (14 + megs) but work safe (no naughty bits showing).</p>
+You just <span class="caps">HAVE</span> to check <a href="http://homepage.hispeed.ch/molph/vids/yoda.mpg">this</a> out! It's big (14 + megs) but work safe (no naughty bits showing).

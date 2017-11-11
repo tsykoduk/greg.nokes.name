@@ -9,7 +9,7 @@ permalink: /2005/09/12/sometimes-size-does-matter/
 categories:
   - Fun!
 ---
-<p><a href="http://www.bigad.com.au/movie.html">Really!</a></p>
+<a href="http://www.bigad.com.au/movie.html">Really!</a>
 
 
-<p>It is very big, however.</p>
+It is very big, however.

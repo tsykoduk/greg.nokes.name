@@ -9,10 +9,10 @@ permalink: /2005/08/11/more-on-ciscogate/
 categories:
   - Computers! and Code!
 ---
-<p>Wired has a really good reposting from the blog of the attorney that represented Mike Lynn during Ciscogate</p>
+Wired has a really good reposting from the blog of the attorney that represented Mike Lynn during Ciscogate
 
 
-	<p>The two part story is <a href ="http://www.wired.com/news/technology/0,1282,68435,00.html">here</a> and <a href="http://www.wired.com/news/technology/0,1282,68466,00.html">here</a>.</p>
+	The two part story is <a href ="http://www.wired.com/news/technology/0,1282,68435,00.html">here</a> and <a href="http://www.wired.com/news/technology/0,1282,68466,00.html">here</a>.
 
 
-	<p>A must read!</p>
+	A must read!

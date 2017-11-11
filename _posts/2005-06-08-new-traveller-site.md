@@ -9,4 +9,4 @@ permalink: /2005/06/08/new-traveller-site/
 categories:
   - Fun!
 ---
-<p>One of my hobbies is <a href="http://www.sjgames.com/gurps/traveller/">Traveller.</a> So, imagine my glee when I was able to help set up a new site for a <a href="http://www.travellerrpg.com/">Traveller</a> Fanzine - <a href="http://stellarreaches.nwgamers.org">Stellar Reaches</a>. If you are a <a href="http://www.farfuture.net/">Traveller</a> Geek - you really should check it out!</p>
+One of my hobbies is <a href="http://www.sjgames.com/gurps/traveller/">Traveller.</a> So, imagine my glee when I was able to help set up a new site for a <a href="http://www.travellerrpg.com/">Traveller</a> Fanzine - <a href="http://stellarreaches.nwgamers.org">Stellar Reaches</a>. If you are a <a href="http://www.farfuture.net/">Traveller</a> Geek - you really should check it out!
