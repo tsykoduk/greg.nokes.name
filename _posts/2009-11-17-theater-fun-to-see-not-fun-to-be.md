@@ -1,6 +1,6 @@
 ---
 id: 15199
-title: 'Theater &#8211; fun to see, not fun to be'
+title: 'Theater - fun to see, not fun to be'
 date: 2009-11-17T10:24:12+00:00
 author: tsykoduk
 layout: post

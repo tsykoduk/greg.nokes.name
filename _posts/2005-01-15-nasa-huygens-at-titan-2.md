@@ -1,6 +1,6 @@
 ---
 id: 51
-title: 'NASA &#8211; Huygens at Titan &#8211; 2'
+title: 'NASA - Huygens at Titan - 2'
 date: 2005-01-15T22:43:56+00:00
 author: tsykoduk
 layout: post

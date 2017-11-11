@@ -1,6 +1,6 @@
 ---
 id: 154
-title: 'PTM: II &#8211; Physics for the Third Millenium'
+title: 'PTM: II - Physics for the Third Millenium'
 date: 2005-03-13T20:01:15+00:00
 author: tsykoduk
 layout: post

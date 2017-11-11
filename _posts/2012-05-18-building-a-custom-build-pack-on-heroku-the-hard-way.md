@@ -1,6 +1,6 @@
 ---
 id: 15436
-title: 'Building a custom build pack on Heroku &#8211; the HARD WAY'
+title: 'Building a custom build pack on Heroku - the HARD WAY'
 date: 2012-05-18T15:14:02+00:00
 author: tsykoduk
 layout: post

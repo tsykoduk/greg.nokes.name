@@ -1,6 +1,6 @@
 ---
 id: 499
-title: 'Pulp Fiction &#8211; a great flick'
+title: 'Pulp Fiction - a great flick'
 date: 2005-06-02T16:54:37+00:00
 author: tsykoduk
 layout: post

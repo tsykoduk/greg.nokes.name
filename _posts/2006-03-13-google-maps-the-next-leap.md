@@ -1,6 +1,6 @@
 ---
 id: 1307
-title: 'Google Maps &#8211; the next leap'
+title: 'Google Maps - the next leap'
 date: 2006-03-13T22:11:33+00:00
 author: tsykoduk
 layout: post

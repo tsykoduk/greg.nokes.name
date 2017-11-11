@@ -1,6 +1,6 @@
 ---
 id: 920
-title: 'Weekly Buddhism &#8211; Week 1'
+title: 'Weekly Buddhism - Week 1'
 date: 2005-09-30T20:28:59+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 823
-title: 'Katrina &#8211; Favorite Photo'
+title: 'Katrina - Favorite Photo'
 date: 2005-08-30T10:31:55+00:00
 author: tsykoduk
 layout: post

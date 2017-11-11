@@ -1,6 +1,6 @@
 ---
 id: 1436
-title: 'Oh yeah &#8211; Windows is the place to be'
+title: 'Oh yeah - Windows is the place to be'
 date: 2006-07-20T10:00:28+00:00
 author: tsykoduk
 layout: post

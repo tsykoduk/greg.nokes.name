@@ -1,6 +1,6 @@
 ---
 id: 289
-title: 'Product Page &#8211; Gadget Universe'
+title: 'Product Page - Gadget Universe'
 date: 2005-04-19T14:56:26+00:00
 author: tsykoduk
 layout: post
