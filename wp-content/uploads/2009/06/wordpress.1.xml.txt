@@ -1143,7 +1143,7 @@ I think that in this increasingly digital age, this is going to become more of a
 </wp:comment>
 	</item>
 <item>
-<title>BBC NEWS &#124; Science/Nature &#124; Huygens moon probe lands on Titan</title>
+<title>BBC NEWS | Science/Nature | Huygens moon probe lands on Titan</title>
 <link>http://greg.nokes.name/2005/01/14/bbc-news-science-nature-huygens-moon-probe-lands-on-titan/</link>
 <pubDate>Fri, 14 Jan 2005 08:41:48 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
