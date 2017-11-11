@@ -1,6 +1,6 @@
 ---
 id: 170
-title: 'Shelia took the test&#8230;'
+title: 'Shelia took the test...'
 date: 2005-03-08T18:44:00+00:00
 author: tsykoduk
 layout: post

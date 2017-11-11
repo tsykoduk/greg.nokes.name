@@ -1,6 +1,6 @@
 ---
 id: 2249
-title: 'A serious lack of humor&#8230;'
+title: 'A serious lack of humor...'
 date: 2007-03-28T14:09:00+00:00
 author: tsykoduk
 layout: post

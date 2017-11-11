@@ -1,6 +1,6 @@
 ---
 id: 711
-title: 'And it starts&#8230;'
+title: 'And it starts...'
 date: 2005-08-05T08:46:11+00:00
 author: tsykoduk
 layout: post

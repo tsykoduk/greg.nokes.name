@@ -1,6 +1,6 @@
 ---
 id: 1512
-title: 'Nihilistic? Not really&#8230;'
+title: 'Nihilistic? Not really...'
 date: 2006-10-16T04:46:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1513
-title: 'Interesting historical note&#8230;'
+title: 'Interesting historical note...'
 date: 2006-10-17T00:23:00+00:00
 author: tsykoduk
 layout: post

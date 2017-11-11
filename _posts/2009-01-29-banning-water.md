@@ -1,6 +1,6 @@
 ---
 id: 8324
-title: 'Banning water&#8230;'
+title: 'Banning water...'
 date: 2009-01-29T22:26:00+00:00
 author: tsykoduk
 layout: post

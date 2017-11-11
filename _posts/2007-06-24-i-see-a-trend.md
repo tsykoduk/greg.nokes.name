@@ -1,6 +1,6 @@
 ---
 id: 2875
-title: 'I see a trend&#8230;'
+title: 'I see a trend...'
 date: 2007-06-24T04:38:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 159
-title: 'Things that go bump in the night&#8230;'
+title: 'Things that go bump in the night...'
 date: 2005-03-12T22:29:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1441
-title: 'Hosting problems&#8230;'
+title: 'Hosting problems...'
 date: 2006-08-09T19:54:40+00:00
 author: tsykoduk
 layout: post

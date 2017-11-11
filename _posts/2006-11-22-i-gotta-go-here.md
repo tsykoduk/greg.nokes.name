@@ -1,6 +1,6 @@
 ---
 id: 1603
-title: 'I gotta go here&#8230;'
+title: 'I gotta go here...'
 date: 2006-11-22T17:18:00+00:00
 author: tsykoduk
 layout: post

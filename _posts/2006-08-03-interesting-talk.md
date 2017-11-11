@@ -1,6 +1,6 @@
 ---
 id: 1440
-title: 'Interesting talk&#8230;'
+title: 'Interesting talk...'
 date: 2006-08-03T11:25:38+00:00
 author: tsykoduk
 layout: post

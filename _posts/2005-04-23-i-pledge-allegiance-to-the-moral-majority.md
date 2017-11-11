@@ -1,6 +1,6 @@
 ---
 id: 301
-title: 'I pledge allegiance to the moral majority&#8230;'
+title: 'I pledge allegiance to the moral majority...'
 date: 2005-04-23T16:59:14+00:00
 author: tsykoduk
 layout: post

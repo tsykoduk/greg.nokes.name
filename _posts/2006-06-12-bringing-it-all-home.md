@@ -1,6 +1,6 @@
 ---
 id: 1414
-title: 'Bringing it all home&#8230;'
+title: 'Bringing it all home...'
 date: 2006-06-12T13:57:54+00:00
 author: tsykoduk
 layout: post

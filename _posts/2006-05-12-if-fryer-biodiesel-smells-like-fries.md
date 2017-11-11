@@ -1,6 +1,6 @@
 ---
 id: 1381
-title: 'If fryer biodiesel smells like fries&#8230;'
+title: 'If fryer biodiesel smells like fries...'
 date: 2006-05-12T10:13:17+00:00
 author: tsykoduk
 layout: post

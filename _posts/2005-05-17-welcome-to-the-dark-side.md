@@ -1,6 +1,6 @@
 ---
 id: 424
-title: 'Welcome to the Dark Side&#8230;'
+title: 'Welcome to the Dark Side...'
 date: 2005-05-17T12:05:49+00:00
 author: tsykoduk
 layout: post

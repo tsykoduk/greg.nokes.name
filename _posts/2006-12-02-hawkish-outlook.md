@@ -1,6 +1,6 @@
 ---
 id: 1619
-title: 'Hawkish outlook&#8230;.'
+title: 'Hawkish outlook....'
 date: 2006-12-02T17:47:00+00:00
 author: tsykoduk
 layout: post

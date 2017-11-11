@@ -1,6 +1,6 @@
 ---
 id: 180
-title: 'My kung-foo is strong&#8230;'
+title: 'My kung-foo is strong...'
 date: 2005-03-07T18:45:00+00:00
 author: tsykoduk
 layout: post

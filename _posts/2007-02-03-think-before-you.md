@@ -1,6 +1,6 @@
 ---
 id: 2137
-title: 'Think before you&#8230;'
+title: 'Think before you...'
 date: 2007-02-03T21:42:00+00:00
 author: tsykoduk
 layout: post

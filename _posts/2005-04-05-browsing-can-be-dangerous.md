@@ -1,6 +1,6 @@
 ---
 id: 197
-title: 'Browsing can be dangerous&#8230;'
+title: 'Browsing can be dangerous...'
 date: 2005-04-05T12:57:11+00:00
 author: tsykoduk
 layout: post

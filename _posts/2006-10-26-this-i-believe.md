@@ -1,6 +1,6 @@
 ---
 id: 1532
-title: 'This I believe&#8230;.'
+title: 'This I believe....'
 date: 2006-10-26T09:53:00+00:00
 author: tsykoduk
 layout: post

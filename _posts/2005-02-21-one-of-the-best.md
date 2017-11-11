@@ -1,6 +1,6 @@
 ---
 id: 82
-title: 'One of the best&#8230;'
+title: 'One of the best...'
 date: 2005-02-21T22:03:00+00:00
 author: tsykoduk
 layout: post

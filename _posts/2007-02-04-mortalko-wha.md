@@ -1,6 +1,6 @@
 ---
 id: 2140
-title: 'MortalKo&#8230;. Wha?'
+title: 'MortalKo.... Wha?'
 date: 2007-02-04T22:23:00+00:00
 author: tsykoduk
 layout: post

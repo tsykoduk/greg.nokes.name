@@ -1,6 +1,6 @@
 ---
 id: 103
-title: 'Strange things afoot&#8230;'
+title: 'Strange things afoot...'
 date: 2005-02-10T21:31:00+00:00
 author: tsykoduk
 layout: post
