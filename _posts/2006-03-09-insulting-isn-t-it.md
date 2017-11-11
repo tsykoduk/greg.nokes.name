@@ -1,6 +1,6 @@
 ---
 id: 1304
-title: 'Insulting, isn&#039;t it?'
+title: 'Insulting, isn't it?'
 date: 2006-03-09T13:34:34+00:00
 author: tsykoduk
 layout: post

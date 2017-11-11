@@ -1,6 +1,6 @@
 ---
 id: 847
-title: 'And Lo, the FSM found it good, and unto us he said &#039;Arrrrggh&#039;'
+title: 'And Lo, the FSM found it good, and unto us he said 'Arrrrggh''
 date: 2005-09-06T20:24:01+00:00
 author: tsykoduk
 layout: post

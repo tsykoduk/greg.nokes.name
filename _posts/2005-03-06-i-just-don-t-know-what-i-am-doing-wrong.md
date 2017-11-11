@@ -1,6 +1,6 @@
 ---
 id: 182
-title: 'I just don&#039;t know what I am doing wrong..'
+title: 'I just don't know what I am doing wrong..'
 date: 2005-03-06T14:44:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 124
-title: 'Watch your behind.. guess who&#039;s coming for dinner..'
+title: 'Watch your behind.. guess who's coming for dinner..'
 date: 2005-03-31T13:10:00+00:00
 author: tsykoduk
 layout: post

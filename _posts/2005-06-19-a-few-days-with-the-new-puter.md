@@ -1,6 +1,6 @@
 ---
 id: 552
-title: 'A few days with the new &#039;puter'
+title: 'A few days with the new 'puter'
 date: 2005-06-19T01:08:44+00:00
 author: tsykoduk
 layout: post

@@ -382,7 +382,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>It&#039;s getting Cold in here - why don&#039;t you put on some clothes!</title>
+<title>It's getting Cold in here - why don't you put on some clothes!</title>
 <link>http://greg.nokes.name/2004/11/24/it-s-getting-cold-in-here-why-don-t-you-put-on-some-clothes/</link>
 <pubDate>Wed, 24 Nov 2004 16:50:47 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -564,7 +564,7 @@ Russ]]></wp:comment_content>
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>Have you heard that the world&#039;s gone crazy?</title>
+<title>Have you heard that the world's gone crazy?</title>
 <link>http://greg.nokes.name/2004/12/22/have-you-heard-that-the-world-s-gone-crazy/</link>
 <pubDate>Wed, 22 Dec 2004 16:52:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -1481,7 +1481,7 @@ I think that in this increasingly digital age, this is going to become more of a
 </wp:comment>
 	</item>
 <item>
-<title>Yahoo! News - Army Prepares &#039;Robo-Soldier&#039; for Iraq</title>
+<title>Yahoo! News - Army Prepares 'Robo-Soldier' for Iraq</title>
 <link>http://greg.nokes.name/2005/01/23/yahoo-news-army-prepares-robo-soldier-for-iraq/</link>
 <pubDate>Sun, 23 Jan 2005 10:00:53 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -2443,7 +2443,7 @@ So..
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>iFolder - It&#039;s all about Sharing</title>
+<title>iFolder - It's all about Sharing</title>
 <link>http://greg.nokes.name/2005/02/12/ifolder-it-s-all-about-sharing/</link>
 <pubDate>Sat, 12 Feb 2005 21:47:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -3261,7 +3261,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 </wp:comment>
 	</item>
 <item>
-<title>I just don&#039;t know what I am doing wrong..</title>
+<title>I just don't know what I am doing wrong..</title>
 <link>http://greg.nokes.name/2005/03/06/i-just-don-t-know-what-i-am-doing-wrong/</link>
 <pubDate>Sun, 06 Mar 2005 14:44:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -3287,7 +3287,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>Taster&#039;s Choice</title>
+<title>Taster's Choice</title>
 <link>http://greg.nokes.name/2005/03/06/taster-s-choice/</link>
 <pubDate>Sun, 06 Mar 2005 14:49:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -3897,7 +3897,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>Don&#039;t Panic!</title>
+<title>Don't Panic!</title>
 <link>http://greg.nokes.name/2005/03/14/don-t-panic/</link>
 <pubDate>Mon, 14 Mar 2005 06:48:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -4255,7 +4255,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 </wp:comment>
 	</item>
 <item>
-<title>The World&#039;s Most Devious Alarm Clock</title>
+<title>The World's Most Devious Alarm Clock</title>
 <link>http://greg.nokes.name/2005/03/25/the-world-s-most-devious-alarm-clock/</link>
 <pubDate>Fri, 25 Mar 2005 07:50:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -4419,7 +4419,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>Florida&#039;s New Living Will</title>
+<title>Florida's New Living Will</title>
 <link>http://greg.nokes.name/2005/03/31/florida-s-new-living-will/</link>
 <pubDate>Thu, 31 Mar 2005 09:15:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -4449,7 +4449,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 <wp:post_password></wp:post_password>
 	</item>
 <item>
-<title>Watch your behind.. guess who&#039;s coming for dinner..</title>
+<title>Watch your behind.. guess who's coming for dinner..</title>
 <link>http://greg.nokes.name/2005/03/31/watch-your-behind-guess-who-s-coming-for-dinner/</link>
 <pubDate>Thu, 31 Mar 2005 13:10:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
@@ -10848,7 +10848,7 @@ I think that the building will be the easy part :)]]></wp:comment_content>
 </wp:comment>
 	</item>
 <item>
-<title>Tam O&#039; Shanter</title>
+<title>Tam O' Shanter</title>
 <link>http://greg.nokes.name/2005/04/08/tam-o-shanter/</link>
 <pubDate>Fri, 08 Apr 2005 10:13:05 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>

@@ -1,6 +1,6 @@
 ---
 id: 694
-title: 'My &#039;Humor Index&#039;'
+title: 'My 'Humor Index''
 date: 2005-07-27T20:02:37+00:00
 author: tsykoduk
 layout: post

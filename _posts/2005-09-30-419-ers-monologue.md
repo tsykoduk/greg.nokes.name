@@ -1,6 +1,6 @@
 ---
 id: 910
-title: '419&#039;ers Monologue'
+title: '419'ers Monologue'
 date: 2005-09-30T07:45:41+00:00
 author: tsykoduk
 layout: post

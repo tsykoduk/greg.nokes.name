@@ -1,6 +1,6 @@
 ---
 id: 1365
-title: 'Apple&#039;s got some new ads out'
+title: 'Apple's got some new ads out'
 date: 2006-05-02T08:56:38+00:00
 author: tsykoduk
 layout: post

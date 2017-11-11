@@ -1,6 +1,6 @@
 ---
 id: 1364
-title: 'My future&#039;s so bright, I gotta wear shades&#8230;'
+title: 'My future's so bright, I gotta wear shades&#8230;'
 date: 2006-05-01T09:15:35+00:00
 author: tsykoduk
 layout: post

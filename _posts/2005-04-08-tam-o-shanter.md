@@ -1,6 +1,6 @@
 ---
 id: 226
-title: 'Tam O&#039; Shanter'
+title: 'Tam O' Shanter'
 date: 2005-04-08T10:13:05+00:00
 author: tsykoduk
 layout: post

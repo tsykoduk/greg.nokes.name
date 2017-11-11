@@ -1,6 +1,6 @@
 ---
 id: 985
-title: 'Apple&#039;s newest announcement'
+title: 'Apple's newest announcement'
 date: 2005-10-23T22:59:09+00:00
 author: tsykoduk
 layout: post

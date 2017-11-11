@@ -1,6 +1,6 @@
 ---
 id: 1112
-title: 'It&#039;s the USMC&#039;s 230th today!'
+title: 'It's the USMC's 230th today!'
 date: 2005-11-10T11:04:45+00:00
 author: tsykoduk
 layout: post

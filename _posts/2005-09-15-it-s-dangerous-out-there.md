@@ -1,6 +1,6 @@
 ---
 id: 880
-title: 'It&#039;s dangerous out there'
+title: 'It's dangerous out there'
 date: 2005-09-15T17:38:45+00:00
 author: tsykoduk
 layout: post

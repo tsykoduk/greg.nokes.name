@@ -1,6 +1,6 @@
 ---
 id: 891
-title: 'It&#039;s Justus&#039;s BirthDay'
+title: 'It's Justus's BirthDay'
 date: 2005-09-23T09:53:32+00:00
 author: tsykoduk
 layout: post

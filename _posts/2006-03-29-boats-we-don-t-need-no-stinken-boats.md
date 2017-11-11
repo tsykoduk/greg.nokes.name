@@ -1,6 +1,6 @@
 ---
 id: 1319
-title: 'Boats? We don&#039;t need no stinken boats!'
+title: 'Boats? We don't need no stinken boats!'
 date: 2006-03-29T07:07:30+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1186
-title: 'God&#039;s Keynote speach at HeavenExpo &#039;06'
+title: 'God's Keynote speach at HeavenExpo '06'
 date: 2005-12-24T13:46:49+00:00
 author: tsykoduk
 layout: post

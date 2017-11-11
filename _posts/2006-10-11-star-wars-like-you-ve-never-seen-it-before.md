@@ -1,6 +1,6 @@
 ---
 id: 1498
-title: 'Star Wars like you&#039;ve never seen it before'
+title: 'Star Wars like you've never seen it before'
 date: 2006-10-11T12:27:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2886
-title: 'R.I.P. George &#039;kittermus Maximus'
+title: 'R.I.P. George 'kittermus Maximus'
 date: 2007-07-03T18:54:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 7066
-title: 'Console Ninja&#039;ry'
+title: 'Console Ninja'ry'
 date: 2008-03-06T21:08:00+00:00
 author: tsykoduk
 layout: post

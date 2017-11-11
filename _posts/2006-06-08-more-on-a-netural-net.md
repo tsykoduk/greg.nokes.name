@@ -1,6 +1,6 @@
 ---
 id: 1411
-title: 'More on a netural &#039;Net'
+title: 'More on a netural 'Net'
 date: 2006-06-08T13:47:15+00:00
 author: tsykoduk
 layout: post
