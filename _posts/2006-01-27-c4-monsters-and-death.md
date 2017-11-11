@@ -9,4 +9,4 @@ permalink: /2006/01/27/c4-monsters-and-death/
 categories:
   - Fun!
 ---
-<a href="http://www.deathjr.com/c4hamstergame/">Heh</a>
+<p><a href="http://www.deathjr.com/c4hamstergame/">Heh</a></p>

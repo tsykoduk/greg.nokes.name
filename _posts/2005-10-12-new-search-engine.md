@@ -9,7 +9,7 @@ permalink: /2005/10/12/new-search-engine/
 categories:
   - Fun!
 ---
-I found this new search engine. Its pretty cool. I think tizzy <span class="caps">I W</span>-to-tha-izzill use it fizzle now on
+<p>I found this new search engine. Its pretty cool. I think tizzy <span class="caps">I W</span>-to-tha-izzill use it fizzle now on</p>
 
 
 <table border="0" cellpadding="2" cellspacing="0"><tr>

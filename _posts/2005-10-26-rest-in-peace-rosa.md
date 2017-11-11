@@ -11,4 +11,4 @@ categories:
 ---
 <center><a href="http://en.wikipedia.org/wiki/Rosa_Parks"><img src="http://images.apple.com/home/2005/images/rosaparks20051025.jpg" width=400 /></a></center>
 
-(HT: <a href="http://www.apple.com:">Apple</a> for the image; Here is a full sized <a href="http://images.apple.com/home/2005/images/rosaparks20051025.jpg">image</a>)
+<p>(HT: <a href="http://www.apple.com:">Apple</a> for the image; Here is a full sized <a href="http://images.apple.com/home/2005/images/rosaparks20051025.jpg">image</a>)</p>

@@ -11,22 +11,22 @@ categories:
   - Fun!
   - Mundane
 ---
-So, I got to go hang out with all of the folks at RailsConf in portland this year. Way cool, lots of fun!
+<p>So, I got to go hang out with all of the folks at RailsConf in portland this year. Way cool, lots of fun!</p>
 
 
-Highlights:
+<p>Highlights:</p>
 
 
-"If you think I am lying, just punch me!" <del>- <span class="caps">WACK</span> -</del> OW! (the great stripper brawl of 2008)
+<p>"If you think I am lying, just punch me!" <del>- <span class="caps">WACK</span> -</del> OW! (the great stripper brawl of 2008)</p>
 
 
-"Is that Bacon on that maple bar??" (asks a New Yorker)
+<p>"Is that Bacon on that maple bar??" (asks a New Yorker)</p>
 
 
-"apparently we should use our surplus to build giant demonic penises. i mean, towers. yeah." (Via Twitter when <span class="caps">DHH</span>'s keynote shows a slide of Dubai)
+<p>"apparently we should use our surplus to build giant demonic penises. i mean, towers. yeah." (Via Twitter when <span class="caps">DHH</span>'s keynote shows a slide of Dubai)</p>
 
 
-"You mean we have been following directions from someone who's nickname was Mr Magoo? <span class="caps">WTF</span>??" (after 23 hour trek thru downtown portland looking for a bar... any bar...)
+<p>"You mean we have been following directions from someone who's nickname was Mr Magoo? <span class="caps">WTF</span>??" (after 23 hour trek thru downtown portland looking for a bar... any bar...)</p>
 
 
-Yeah - so bad <a href="http://gallery.mac.com/tsykoduk#100008&#38;view=mosaic&#38;sel=0&#38;bgcolor=dkgrey">pictures</a> have been posted, sleep has been obtained, and the trip is over.
+<p>Yeah - so bad <a href="http://gallery.mac.com/tsykoduk#100008&#38;view=mosaic&#38;sel=0&#38;bgcolor=dkgrey">pictures</a> have been posted, sleep has been obtained, and the trip is over.</p>

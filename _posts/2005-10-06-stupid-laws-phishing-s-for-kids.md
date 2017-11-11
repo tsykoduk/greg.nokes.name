@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
   - Philosophy! and Politics!
 ---
-One of my beefs with the US's whole system is the stupid laws that get inacted by well meaning folks. One of my favorite is the 'no talking on cell phones while driving' law. We don't need another law about that! There is already one on the books. It's illegal to drive while you are distracted. So, if you are chattering on your cell phone, and swerving all over the place - that pretty much looks like distracted driving, right?
+<p>One of my beefs with the US's whole system is the stupid laws that get inacted by well meaning folks. One of my favorite is the 'no talking on cell phones while driving' law. We don't need another law about that! There is already one on the books. It's illegal to drive while you are distracted. So, if you are chattering on your cell phone, and swerving all over the place - that pretty much looks like distracted driving, right?</p>
 
 
-Well, California has done it again. It's now illegal to '<a href="http://en.wikipedia.org/wiki/Phishing">Phish</a>'.  Phishing is the art of stealing folk's bank account access numbers and passwords, and then robbing them blind. So, stealing was not already illegal in California? Or is this just another stupid law about something that is already covered?
+<p>Well, California has done it again. It's now illegal to '<a href="http://en.wikipedia.org/wiki/Phishing">Phish</a>'.  Phishing is the art of stealing folk's bank account access numbers and passwords, and then robbing them blind. So, stealing was not already illegal in California? Or is this just another stupid law about something that is already covered?</p>

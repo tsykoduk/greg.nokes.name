@@ -9,4 +9,4 @@ permalink: /2005/09/25/another-new-ipod/
 categories:
   - Fun!
 ---
-<a href="http://www.ifilm.com/ifilmdetail/2680559?htv=12&amp;htv=12">Check</a> it out. I just might have to get one!
+<p><a href="http://www.ifilm.com/ifilmdetail/2680559?htv=12&amp;htv=12">Check</a> it out. I just might have to get one!</p>

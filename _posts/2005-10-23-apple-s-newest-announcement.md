@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>An invitation sent out to the press by Apple displays the words, 'We Got Nothin'â€ on top of a picture of a shrugging Steve Jobs. The pockets on Jobs' trademark blue jeans are turned inside out, apparently signifying that hardware updates or new <span class="caps">OS X</span> applications are not on tap for next week.</blockquote>
 
-Read the rest at <a href="http://www.macworld.com/weblogs/editors/2005/10/noevent/index.php?lsrc=rsswidget">MacWorld</a>. Apple is certainly racking up the announcements over the last few weeks, and this one is a doozy as well.
+<p>Read the rest at <a href="http://www.macworld.com/weblogs/editors/2005/10/noevent/index.php?lsrc=rsswidget">MacWorld</a>. Apple is certainly racking up the announcements over the last few weeks, and this one is a doozy as well.</p>

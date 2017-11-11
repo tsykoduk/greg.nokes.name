@@ -9,10 +9,10 @@ permalink: /2012/04/25/odd-little-gem-error/
 categories:
   - Computers! and Code!
 ---
-While hacking at my favorite <a href="http://www.afktavern.com/">tavern</a>, I noted that I needed to update a gem file. When I tried, gem said that it had succeeded, but there were some odd little errors:
+<p>While hacking at my favorite <a href="http://www.afktavern.com/">tavern</a>, I noted that I needed to update a gem file. When I tried, gem said that it had succeeded, but there were some odd little errors:</p>
 
 <script src="https://gist.github.com/2494561.js"> </script>
 
-And the gem had not incremented it's version. Hmm.
+<p>And the gem had not incremented it's version. Hmm.</p>
 
- I decided to fire up my hotspot and see if that changed anything, and yup. Bingo. Success. Gem updated! Best I can figure they are blocking something that gem needs. So, if I had found this article before that, I would have saved myself 20 minutes of troubleshooting.
+<p> I decided to fire up my hotspot and see if that changed anything, and yup. Bingo. Success. Gem updated! Best I can figure they are blocking something that gem needs. So, if I had found this article before that, I would have saved myself 20 minutes of troubleshooting.</p>

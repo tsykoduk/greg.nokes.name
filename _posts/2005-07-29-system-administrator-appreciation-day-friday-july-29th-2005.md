@@ -10,9 +10,9 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<a href="http://www.sysadminday.com/">System Administrator Appreciation Day</a> is Friday July 29th 2005.
+<p><a href="http://www.sysadminday.com/">System Administrator Appreciation Day</a> is Friday July 29th 2005.</p>
 
 
 	<blockquote>Let's face it, System Administrators get no respect 364 days a year. This is the day that all fellow System Administrators across the globe, will be showered with expensive sports cars and large piles of cash in appreciation of their diligent work</blockquote>
 
-	So, I am awaiting my piles of cash.
+	<p>So, I am awaiting my piles of cash.</p>

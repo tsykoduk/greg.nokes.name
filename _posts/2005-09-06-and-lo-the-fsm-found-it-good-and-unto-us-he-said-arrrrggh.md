@@ -11,10 +11,10 @@ categories:
   - Philosophy! and Politics!
   - Science!
 ---
-<a href="http://www.gophergas.com/funstuff/flyingspaghettimonster.htm">You</a> too can now convert masses to FSMism.
+<p><a href="http://www.gophergas.com/funstuff/flyingspaghettimonster.htm">You</a> too can now convert masses to FSMism.</p>
 
 
-(HT: <a href="http://drogidy.blogspot.com/2005/09/fsm-fun-religion.html">Drogidy Blogidy</a>)
+<p>(HT: <a href="http://drogidy.blogspot.com/2005/09/fsm-fun-religion.html">Drogidy Blogidy</a>)</p>
 
 
-<em>Update - Links now fixed! Do'h!</em>
+<p><em>Update - Links now fixed! Do'h!</em></p>

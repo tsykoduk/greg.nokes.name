@@ -9,4 +9,4 @@ permalink: /2005/08/23/he-just-might-have-my-vote/
 categories:
   - Philosophy! and Politics!
 ---
-It really depends on the politics. But <a href="http://www.walken2008.com/politics.html">he</a> gets major points for style!
+<p>It really depends on the politics. But <a href="http://www.walken2008.com/politics.html">he</a> gets major points for style!</p>

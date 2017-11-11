@@ -13,7 +13,7 @@ categories:
 	For you, summer is all about having no responsibilities.
 	You prefer to hang with old friends - and make some new ones.</font></td></tr></table><div align="center"><a href="http://www.blogthings.com/whatsyoursummerridequiz/">What's Your Summer Ride?</a></div></center>
 
-	Woo Hoo!
+	<p>Woo Hoo!</p>
 
 
-	(HT: <a href="http://davejustus.blogspot.com/2005/08/summer-rides.html">Justus</a> - have fun on your vacation!)
+	<p>(HT: <a href="http://davejustus.blogspot.com/2005/08/summer-rides.html">Justus</a> - have fun on your vacation!)</p>

@@ -9,13 +9,13 @@ permalink: /2005/09/06/what-were-they-thinking/
 categories:
   - Fun!
 ---
-<a href="http://www.nice-tits.org/">http://www.nice-tits.org/</a>
+<p><a href="http://www.nice-tits.org/">http://www.nice-tits.org/</a></p>
 
 
-<a href="http://www.whorepresents.com/">http://www.whorepresents.com/</a>
+<p><a href="http://www.whorepresents.com/">http://www.whorepresents.com/</a></p>
 
 
-<a href="http://www.penisland.net/">http://www.penisland.net/</a>
+<p><a href="http://www.penisland.net/">http://www.penisland.net/</a></p>
 
 
-<a href="http://www.molestationnursery.com/">http://www.molestationnursery.com/</a>
+<p><a href="http://www.molestationnursery.com/">http://www.molestationnursery.com/</a></p>

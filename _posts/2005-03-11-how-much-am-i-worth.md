@@ -9,4 +9,4 @@ permalink: /2005/03/11/how-much-am-i-worth/
 categories:
   - Fun!
 ---
-<a href="http://www.humanforsale.com" title="How much am I worth?">I am worth $2,775,590.00 on HumanForSale.com</a><br /><br />Thanks to <a href=http://emilyscraziness.blogspot.com/>Emily for the link...
+<p><a href="http://www.humanforsale.com" title="How much am I worth?">I am worth $2,775,590.00 on HumanForSale.com</a><br /><br />Thanks to <a href=http://emilyscraziness.blogspot.com/>Emily for the link...</p>

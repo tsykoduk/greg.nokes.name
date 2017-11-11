@@ -9,4 +9,4 @@ permalink: /2005/09/01/live-blog-from-the-big-easy/
 categories:
   - Mundane
 ---
-Nothing to say - just check out the real scoop from some one on the <a href="http://mgno.com/">ground</a>.
+<p>Nothing to say - just check out the real scoop from some one on the <a href="http://mgno.com/">ground</a>.</p>

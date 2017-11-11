@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote>A software problem is causing some Toyota Prius gas-electric hybrid cars to stall or shut down while driving at highway speeds, according to a published report.</blockquote>
 
-	Reports <a href="http://money.cnn.com/2005/05/16/Autos/prius_computer/index.htm?cnn=yes"><span class="caps">CNN</span></a>.
+	<p>Reports <a href="http://money.cnn.com/2005/05/16/Autos/prius_computer/index.htm?cnn=yes"><span class="caps">CNN</span></a>.</p>
 
 
-	You know, the more that I hear about these hybrids, the more I think that I like my diesel. It just plain works.
+	<p>You know, the more that I hear about these hybrids, the more I think that I like my diesel. It just plain works.</p>

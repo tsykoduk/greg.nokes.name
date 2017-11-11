@@ -9,4 +9,4 @@ permalink: /2005/04/28/retro-junk/
 categories:
   - Fun!
 ---
-Retrojunk has some - well, <a href="http://www.retrojunk.com/">retro junk</a>..
+<p>Retrojunk has some - well, <a href="http://www.retrojunk.com/">retro junk</a>..</p>

@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>May I love and revere myself above all the gods that men have ever invented. May I never let the vestal fire go out in my recesses.</blockquote>
 
-	-<a href="http://blogthoreau.blogspot.com/">Henry David Thoreau</a>
+	<p>-<a href="http://blogthoreau.blogspot.com/">Henry David Thoreau</a></p>

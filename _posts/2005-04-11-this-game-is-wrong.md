@@ -9,4 +9,4 @@ permalink: /2005/04/11/this-game-is-wrong/
 categories:
   - Fun!
 ---
-But I got 2037 feet. What <a href="http://www.addictinggames.com/kittencannon.html">can you get</a>?
+<p>But I got 2037 feet. What <a href="http://www.addictinggames.com/kittencannon.html">can you get</a>?</p>

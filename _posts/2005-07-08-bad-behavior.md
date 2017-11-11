@@ -9,4 +9,4 @@ permalink: /2005/07/08/bad-behavior/
 categories:
   - Computers! and Code!
 ---
-Just installed a Wordpress Plugin called <a href="http://www.ioerror.us/software/bad-behavior/">Bad Behavior</a>. Impressive stuff. It blocked over 425 spam-bots/comment spams and other evil little things in 24 hours. Woot!
+<p>Just installed a Wordpress Plugin called <a href="http://www.ioerror.us/software/bad-behavior/">Bad Behavior</a>. Impressive stuff. It blocked over 425 spam-bots/comment spams and other evil little things in 24 hours. Woot!</p>

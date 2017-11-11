@@ -9,4 +9,4 @@ permalink: /2006/06/16/gotta-love-it/
 categories:
   - Computers! and Code!
 ---
-Working on some <a href="http://en.wikipedia.org/wiki/Skunkworks">skunkworks</a> stuff right now. This is just a test of said skunkworks stuff...
+<p>Working on some <a href="http://en.wikipedia.org/wiki/Skunkworks">skunkworks</a> stuff right now. This is just a test of said skunkworks stuff...</p>

@@ -9,4 +9,4 @@ permalink: /2005/07/07/all-your-bases-rhapsody/
 categories:
   - Fun!
 ---
-All your bases, with a <a href="http://www.pwned.nl/ayb/">Twist</a>!
+<p>All your bases, with a <a href="http://www.pwned.nl/ayb/">Twist</a>!</p>

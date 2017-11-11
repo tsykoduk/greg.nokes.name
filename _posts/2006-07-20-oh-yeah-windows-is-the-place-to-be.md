@@ -11,10 +11,10 @@ categories:
 ---
 <blockquote>Washingtonpost.com's Security Fix blog reports that a banner ad running on MySpace.com and other Web sites used a Windows security flaw to push adware and spyware out to more than one million computer users this week. The attack leveraged the Windows Metafile (WMF) exploit to install programs in the PurityScan/ClickSpring family of adware, which bombards the user with pop-up ads and tracks their Web usage.</blockquote>
 
--From the <a href="http://blog.washingtonpost.com/securityfix/2006/07/myspace_ad_served_adware_to_mo.html">Washington Post</a> via <a href="http://it.slashdot.org/article.pl?sid=06/07/20/042253&#38;from=rss">Slashdot</a>
+<p>-From the <a href="http://blog.washingtonpost.com/securityfix/2006/07/myspace_ad_served_adware_to_mo.html">Washington Post</a> via <a href="http://it.slashdot.org/article.pl?sid=06/07/20/042253&#38;from=rss">Slashdot</a></p>
 
 
-Two lessons here...
+<p>Two lessons here...</p>
 
 
 <ol>
@@ -22,7 +22,7 @@ Two lessons here...
 <li>Don't run Windows!</li>
 </ol><ol>
 
-Just go to defcon/blackhat/hack  in a box/etc... and look around. How many folks are running windows on their laptops?
+<p>Just go to defcon/blackhat/hack  in a box/etc... and look around. How many folks are running windows on their laptops?</p>
 
 
 </ol>

@@ -9,14 +9,14 @@ permalink: /2008/03/06/console-ninja-ry/
 categories:
   - Computers! and Code!
 ---
-In an ever misguided attempt to reorginize this blog, I decided that I had far too many sections. I wanted to use tags more, and sections less. But that left me with the following question - how to move the articles around? Should I do it by hand? Na....
+<p>In an ever misguided attempt to reorginize this blog, I decided that I had far too many sections. I wanted to use tags more, and sections less. But that left me with the following question - how to move the articles around? Should I do it by hand? Na....</p>
 
             <!--more-->
 
-            So, the first task to tackle was to make sure that the existing section structure was migrated over to tags.
+            <p>So, the first task to tackle was to make sure that the existing section structure was migrated over to tags.</p>
 
 
-I cobbled together this little hunk of code
+<p>I cobbled together this little hunk of code</p>
 
 
 <table class="CodeRay"><tr>
@@ -40,10 +40,10 @@ I cobbled together this little hunk of code
 </tr></table>
 
 
-This will parse all of the articles in the database, and add a tag for each section that they belong to.
+<p>This will parse all of the articles in the database, and add a tag for each section that they belong to.</p>
 
 
-Second was how to move the articles around...
+<p>Second was how to move the articles around...</p>
 
 
 <table class="CodeRay"><tr>
@@ -75,4 +75,4 @@ Second was how to move the articles around...
 </tr></table>
 
 
-Since it's not really an automatable choice, I plugged the correct values in for <code>old_section_name</code> and <code>new_section_name</code> and  allowed it to move stuff where I wanted it. Viola, 20 sections down to 4.
+<p>Since it's not really an automatable choice, I plugged the correct values in for <code>old_section_name</code> and <code>new_section_name</code> and  allowed it to move stuff where I wanted it. Viola, 20 sections down to 4.</p>

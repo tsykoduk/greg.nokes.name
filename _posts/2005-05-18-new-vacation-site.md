@@ -9,4 +9,4 @@ permalink: /2005/05/18/new-vacation-site/
 categories:
   - Mundane
 ---
-I think that I want to go <a href="http://maps.google.com/maps?ll=37.666926,-116.027856&#38;spn=0.015557,0.016501&#38;z=1&#38;t=k&#38;hl=en">Here</a>
+<p>I think that I want to go <a href="http://maps.google.com/maps?ll=37.666926,-116.027856&#38;spn=0.015557,0.016501&#38;z=1&#38;t=k&#38;hl=en">Here</a></p>

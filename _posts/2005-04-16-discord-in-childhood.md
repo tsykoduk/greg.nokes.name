@@ -9,7 +9,7 @@ permalink: /2005/04/16/discord-in-childhood/
 categories:
   - Philosophy! and Politics!
 ---
-<a href="http://www.bartleby.com/127/4.html">Discord in Childhood</a>, <a href="http://www.online-literature.com/dh_lawrence/">D.H. Lawrence</a>
+<p><a href="http://www.bartleby.com/127/4.html">Discord in Childhood</a>, <a href="http://www.online-literature.com/dh_lawrence/">D.H. Lawrence</a></p>
 
 
 	<center><em><span class="caps">OUTSIDE</span> the house an ash-tree hung its terrible whips,

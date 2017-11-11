@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>"People are more violently opposed to fur than leather because it's safer to harass rich women than motorcycle gangs."-John Varley</blockquote>
 
-	Hat Tip <a href="http://hereticalideas.com/wordpress/wp-trackback.php/3065">Heretical Ideas</a>
+	<p>Hat Tip <a href="http://hereticalideas.com/wordpress/wp-trackback.php/3065">Heretical Ideas</a></p>

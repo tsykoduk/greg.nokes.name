@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>The latest stable release of Debian is 3.1. The last update to this release was made on June 6th, 2005. </blockquote>
 
-	Run - don't walk, and get it <a href="http://www.debian.org/distrib/">here</a>!
+	<p>Run - don't walk, and get it <a href="http://www.debian.org/distrib/">here</a>!</p>

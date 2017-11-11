@@ -11,4 +11,4 @@ categories:
 ---
 <blockquote>The morning wind forever blows; the poem of the world is uninterrupted, but few are the ears that hear it.</blockquote>
 
-	- <a href="http://blogthoreau.blogspot.com/">The Blog of Henry David Thoreau</a>
+	<p>- <a href="http://blogthoreau.blogspot.com/">The Blog of Henry David Thoreau</a></p>

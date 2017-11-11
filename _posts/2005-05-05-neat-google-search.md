@@ -9,4 +9,4 @@ permalink: /2005/05/05/neat-google-search/
 categories:
   - Fun!
 ---
-<a href="http://www.google.com/search?q=What%27s+the+answer+to+life%2C+the+universe%2C+and+everything%3F&#38;sourceid=mozilla-search&#38;start=0&#38;start=0&#38;ie=utf-8&#38;oe=utf-8&#38;client=firefox&#38;rls=org.mozilla:en-US:unofficial">here</a>.
+<p><a href="http://www.google.com/search?q=What%27s+the+answer+to+life%2C+the+universe%2C+and+everything%3F&#38;sourceid=mozilla-search&#38;start=0&#38;start=0&#38;ie=utf-8&#38;oe=utf-8&#38;client=firefox&#38;rls=org.mozilla:en-US:unofficial">here</a>.</p>

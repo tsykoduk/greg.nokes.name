@@ -10,4 +10,4 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-Woot! The hotel has 'B' wifi access at no charge. I will probally try and keep a running log of the events. So far, a crowd hounding the Gaming Chair to get the sign in sheet for the <span class="caps">WWII</span> game that I run up. Makes a guy just tear up.<br /><br />sniff.
+<p>Woot! The hotel has 'B' wifi access at no charge. I will probally try and keep a running log of the events. So far, a crowd hounding the Gaming Chair to get the sign in sheet for the <span class="caps">WWII</span> game that I run up. Makes a guy just tear up.<br /><br />sniff.</p>

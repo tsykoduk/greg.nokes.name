@@ -9,4 +9,4 @@ permalink: /2005/05/17/welcome-to-the-dark-side/
 categories:
   - Philosophy! and Politics!
 ---
-<a href="http://chrenkoff.blogspot.com/2005/05/open-letter-to-george-lucas.html">Chrenkoff</a> explains 'the Dark Side' to Lucas...
+<p><a href="http://chrenkoff.blogspot.com/2005/05/open-letter-to-george-lucas.html">Chrenkoff</a> explains 'the Dark Side' to Lucas...</p>

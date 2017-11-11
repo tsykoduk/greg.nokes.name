@@ -9,7 +9,7 @@ permalink: /2005/10/23/and-one-post-in-darkness-to-bind-them/
 categories:
   - Fun!
 ---
-Ok.. the entire blogosphere has just been summed up in one (yes <strong>one</strong>) <a href="http://chieflymusing.com/?p=134">post</a>.
+<p>Ok.. the entire blogosphere has just been summed up in one (yes <strong>one</strong>) <a href="http://chieflymusing.com/?p=134">post</a>.</p>
 
 
-(HT - <a href="http://sharpmarbles.stufftoread.com/archive/2005/10/21/4126.aspx">SaaM</a>)
+<p>(HT - <a href="http://sharpmarbles.stufftoread.com/archive/2005/10/21/4126.aspx">SaaM</a>)</p>

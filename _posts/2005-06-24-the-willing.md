@@ -9,7 +9,7 @@ permalink: /2005/06/24/the-willing/
 categories:
   - Philosophy! and Politics!
 ---
-<a href="http://chrenkoff.blogspot.com/2005/06/willing.html">Chrenkoff</a> has a bunch of pictures of the countries that are lending a hand in Iraq.
+<p><a href="http://chrenkoff.blogspot.com/2005/06/willing.html">Chrenkoff</a> has a bunch of pictures of the countries that are lending a hand in Iraq.</p>
 
 
-	(Hat Tip <a href="http://davejustus.blogspot.com/2005/06/pictures-of-unilateralism.html">Justus</a>)
+	<p>(Hat Tip <a href="http://davejustus.blogspot.com/2005/06/pictures-of-unilateralism.html">Justus</a>)</p>

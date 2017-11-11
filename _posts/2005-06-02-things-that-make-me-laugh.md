@@ -14,4 +14,4 @@ categories:
 	Get The Facts: Windows vs. Linux. Read The Independent Analysis Now.
 	www.microsoft.com</blockquote>
 
-	Seen at Slashdot...
+	<p>Seen at Slashdot...</p>

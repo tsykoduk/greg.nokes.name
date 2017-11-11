@@ -9,12 +9,12 @@ permalink: /2005/07/27/my-humor-index/
 categories:
   - Fun!
 ---
-<table align="center" cellpadding="20"> <tbody><tr><td align="center"> <font size="5"><b>the Wit</b></font><br /> <center><font size="1">(56% dark, 39% spontaneous, 33% vulgar)</font></center> </td></tr><tr><td> <center>your humor style:<br /><b><span class="caps">CLEAN</span></b> | <b><span class="caps">COMPLEX</span></b> | <b><span class="caps">DARK</span></b></center>
+<p><table align="center" cellpadding="20"> <tbody><tr><td align="center"> <font size="5"><b>the Wit</b></font><br /> <center><font size="1">(56% dark, 39% spontaneous, 33% vulgar)</font></center> </td></tr><tr><td> <center>your humor style:<br /><b><span class="caps">CLEAN</span></b> | <b><span class="caps">COMPLEX</span></b> | <b><span class="caps">DARK</span></b></center>
 	<br /><br />
-	You like things edgy, subtle, and smart. I guess that means you're probably an intellectual, but don't take that  to mean you're pretentious. You realize 'dumb' can be witty-<del>after all isn't that the Simpsons' philosophy?</del>-but  rudeness for its own sake, 'gross-out' humor and most other things found in a fraternity leave you totally flat. <br /><br />I  guess you just have a more cerebral approach than most. You have the perfect mindset for a joke writer or staff  writer. Your sense of humor takes the most effort to appreciate, but it's also the best, in my opinion.</td></tr></tbody></table>
+	You like things edgy, subtle, and smart. I guess that means you're probably an intellectual, but don't take that  to mean you're pretentious. You realize 'dumb' can be witty-<del>after all isn't that the Simpsons' philosophy?</del>-but  rudeness for its own sake, 'gross-out' humor and most other things found in a fraternity leave you totally flat. <br /><br />I  guess you just have a more cerebral approach than most. You have the perfect mindset for a joke writer or staff  writer. Your sense of humor takes the most effort to appreciate, but it's also the best, in my opinion.</td></tr></tbody></table></p>
 
 
-	Take it <a href="http://www.okcupid.com/tests/take?testid=17565214125862764376">here</a>
+	<p>Take it <a href="http://www.okcupid.com/tests/take?testid=17565214125862764376">here</a></p>
 
 
-	Hat tip - <a href="http://integralpractice.blogharbor.com/blog">Integral Practice</a> and others...
+	<p>Hat tip - <a href="http://integralpractice.blogharbor.com/blog">Integral Practice</a> and others...</p>

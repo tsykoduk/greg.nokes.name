@@ -9,7 +9,7 @@ permalink: /2005/09/30/419-ers-monologue/
 categories:
   - Fun!
 ---
-Yeah - <a href="http://www.zefrank.com/request/index_better.html">this</a> is actually really cool!
+<p>Yeah - <a href="http://www.zefrank.com/request/index_better.html">this</a> is actually really cool!</p>
 
 
-In other news I have the day off (WooHoo!) in order to do some housework (Booo! Hisss!) Got the tunes blasting right now...
+<p>In other news I have the day off (WooHoo!) in order to do some housework (Booo! Hisss!) Got the tunes blasting right now...</p>

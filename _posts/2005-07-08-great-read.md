@@ -9,4 +9,4 @@ permalink: /2005/07/08/great-read/
 categories:
   - Philosophy! and Politics!
 ---
-You need to check out <a href="http://waiterrant.blogspot.com/">Waiter Rant</a>. Fantastic reading.
+<p>You need to check out <a href="http://waiterrant.blogspot.com/">Waiter Rant</a>. Fantastic reading.</p>

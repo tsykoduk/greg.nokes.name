@@ -9,10 +9,10 @@ permalink: /2005/04/08/tam-o-shanter/
 categories:
   - Philosophy! and Politics!
 ---
-<a href="http://www.robertburns.org/works/308.shtml">Robert Burns: </a>
+<p><a href="http://www.robertburns.org/works/308.shtml">Robert Burns: </a></p>
 
 
-<em><center>When chapman billies leave the street,
+<p><em><center>When chapman billies leave the street,
 And drouthy neibors, neibors, meet;
 As market days are wearing late,
 And folk begin to tak the gate,
@@ -23,4 +23,4 @@ The mosses, waters, slaps and stiles,
 That lie between us and our hame,
 Where sits our sulky, sullen dame,
 Gathering her brows like gathering storm,
-Nursing her wrath to keep it warm. </center></em>
+Nursing her wrath to keep it warm. </center></em></p>

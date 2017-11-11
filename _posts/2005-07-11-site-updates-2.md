@@ -9,10 +9,10 @@ permalink: /2005/07/11/site-updates-2/
 categories:
   - Mundane
 ---
-I removed the Make Poverty History banner - the G-8 summit is over, and they accomplished many of their laudable goals.
+<p>I removed the Make Poverty History banner - the G-8 summit is over, and they accomplished many of their laudable goals.</p>
 
 
-	I also put a rotating header picture up - hit refresh a few times. I do not have that many photos up yet - let me know what you think!
+	<p>I also put a rotating header picture up - hit refresh a few times. I do not have that many photos up yet - let me know what you think!</p>
 
 
-	-Tsyko
+	<p>-Tsyko</p>

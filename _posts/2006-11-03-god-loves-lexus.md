@@ -12,13 +12,13 @@ categories:
 ---
 <blockquote>And there you have it. Proof of God. Proof that God, clearly, has a wicked sense of humor. Proof that God drinks far, far more heavily than you. Proof that God sees the deep irony of life, and war, and oil, cars, cognac, parking spaces, everything, and laughs demonically. There is simply no other explanation.</blockquote>
 
--<a href="http://sfgate.com/cgi-bin/article.cgi?f=/gate/archive/2006/10/27/notes102706.DTL&#38;nl=fix">Mark Morford</a>
+<p>-<a href="http://sfgate.com/cgi-bin/article.cgi?f=/gate/archive/2006/10/27/notes102706.DTL&#38;nl=fix">Mark Morford</a></p>
 
 
-Mark makes a great argument for the existence of God - and one who drinks heavily. Now, there's a God that I could get behind!
+<p>Mark makes a great argument for the existence of God - and one who drinks heavily. Now, there's a God that I could get behind!</p>
 
 
 <blockquote>
-hick&lt;
+<p>hick&lt;</p>
 
 </blockquote>

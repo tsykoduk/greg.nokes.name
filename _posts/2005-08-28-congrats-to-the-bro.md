@@ -11,4 +11,4 @@ categories:
 ---
 <center><img src="http://photos29.flickr.com/38097317_9ea505013f_o.jpg" /></center>
 
-<a href="http://noctrine.blogspot.com/2005/08/what-officially-important-stuff-have-i.html">He made it</a>! Now back to the grindstone for you! Muhahahaah
+<p><a href="http://noctrine.blogspot.com/2005/08/what-officially-important-stuff-have-i.html">He made it</a>! Now back to the grindstone for you! Muhahahaah</p>

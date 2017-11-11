@@ -10,7 +10,7 @@ categories:
   - Mundane
   - Philosophy! and Politics!
 ---
-1 tbs. Oregano
+<p>1 tbs. Oregano
 	1 tbs. Sage
 	4 tbs. dried Onion
 	1 tsp Cayenne Powder (more if you like it hotter)
@@ -22,13 +22,13 @@ categories:
 	6 oz good beer
 	6 oz your favorite salsa (heat up to you)
 	Jalapeno Tabasco to taste
-	Salt to taste
+	Salt to taste</p>
 
 
-	Heat some oil in a stew pan with the Sage, Garlic, Onion and Oregano. When it is hot, add beef. Mush it up good - we don't want any large parts left. After the beef is browned (but the grease is still there) add beer and salsa. simmer for a few moments. While that is simmering, take 1/4 of each of the cans of beans and smash them up good. Add all of the beans and the tomato sauce. Stir while it's simmering. Simmer for about 30 min to an hour. Season to taste.
+	<p>Heat some oil in a stew pan with the Sage, Garlic, Onion and Oregano. When it is hot, add beef. Mush it up good - we don't want any large parts left. After the beef is browned (but the grease is still there) add beer and salsa. simmer for a few moments. While that is simmering, take 1/4 of each of the cans of beans and smash them up good. Add all of the beans and the tomato sauce. Stir while it's simmering. Simmer for about 30 min to an hour. Season to taste.</p>
 
 
-	Optional - for the truly dukky taste - add 1/2 cup hot, black, strong coffee to the mix.
+	<p>Optional - for the truly dukky taste - add 1/2 cup hot, black, strong coffee to the mix.</p>
 
 
-	Serve it with some fresh White Onions over it, and perhaps some good Extra Sharp Cheddar.
+	<p>Serve it with some fresh White Onions over it, and perhaps some good Extra Sharp Cheddar.</p>

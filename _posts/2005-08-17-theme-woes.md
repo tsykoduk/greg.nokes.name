@@ -9,7 +9,7 @@ permalink: /2005/08/17/theme-woes/
 categories:
   - Mundane
 ---
-Ok. so I blew my theme up. Still works fine under FireFox and Safari, but IE displays total uglyness.
+<p>Ok. so I blew my theme up. Still works fine under FireFox and Safari, but IE displays total uglyness.</p>
 
 
-	Switched to a 'temp' theme for the time being.
+	<p>Switched to a 'temp' theme for the time being.</p>

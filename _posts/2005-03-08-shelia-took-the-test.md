@@ -9,4 +9,4 @@ permalink: /2005/03/08/shelia-took-the-test/
 categories:
   - Fun!
 ---
-<a href="http://dicepool.com/catalog/quiz.php"><br /><br /><img src="http://dicepool.com/catalog/images/splats/friendly.jpg" height="200px" width="400px" alt="I am a d20"/></a><br /><br /><a href="http://dicepool.com/catalog/quiz.php">Take the quiz at dicepool.com</a>
+<p><a href="http://dicepool.com/catalog/quiz.php"><br /><br /><img src="http://dicepool.com/catalog/images/splats/friendly.jpg" height="200px" width="400px" alt="I am a d20"/></a><br /><br /><p><a href="http://dicepool.com/catalog/quiz.php">Take the quiz at dicepool.com</a></p></p>

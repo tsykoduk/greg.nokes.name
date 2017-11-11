@@ -9,4 +9,4 @@ permalink: /2005/09/03/dogs-dating-and-judo/
 categories:
   - Fun!
 ---
-What more can I say? <a href="http://www.dogjudo.co.uk">Check</a> it out..
+<p>What more can I say? <a href="http://www.dogjudo.co.uk">Check</a> it out..</p>

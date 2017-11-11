@@ -22,4 +22,4 @@ See their whole playlist here (iTunes required)<br />
 </font></center></td></tr></table>
 <div align="center"><a href="http://www.blogthings.com/whichmusiciansharesyourtasteinmusicquiz/">Which Musician (or Group) Shares Your Taste in Music?</a></div>
 
-And, I actually like the Cure! :)
+<p>And, I actually like the Cure! :)</p>

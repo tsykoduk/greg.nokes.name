@@ -9,4 +9,4 @@ permalink: /2005/04/16/computers/
 categories:
   - Computers! and Code!
 ---
-So - after several hours, I have determined that I have a 2.1, 1.2 and 2.1 gig <span class="caps">HDD</span> that are all dead. Dead as doornails. Have to wait to upgrade the firewall until after I get more hard drives, I guess. :(
+<p>So - after several hours, I have determined that I have a 2.1, 1.2 and 2.1 gig <span class="caps">HDD</span> that are all dead. Dead as doornails. Have to wait to upgrade the firewall until after I get more hard drives, I guess. :(</p>

@@ -9,4 +9,4 @@ permalink: /2005/03/07/you-know-you-are-a-gamer-when/
 categories:
   - Fun!
 ---
-<center><a href="http://dicepool.com/catalog/quiz.php"><br /><br /><img src="http://dicepool.com/catalog/images/splats/boring.jpg" height="200px" width="400px" alt="I am a d6"/></a><br /><br /><a href="http://dicepool.com/catalog/quiz.php">Take the quiz at dicepool.com</a></center>
+<center><a href="http://dicepool.com/catalog/quiz.php"><br /><br /><img src="http://dicepool.com/catalog/images/splats/boring.jpg" height="200px" width="400px" alt="I am a d6"/></a><br /><br /><p><a href="http://dicepool.com/catalog/quiz.php">Take the quiz at dicepool.com</a></p></center>

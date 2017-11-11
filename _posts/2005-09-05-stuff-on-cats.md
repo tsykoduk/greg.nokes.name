@@ -9,4 +9,4 @@ permalink: /2005/09/05/stuff-on-cats/
 categories:
   - Fun!
 ---
-<a href="http://www.stuffonmycat.com/">Stuff on cats</a> - the title really says it all.
+<p><a href="http://www.stuffonmycat.com/">Stuff on cats</a> - the title really says it all.</p>

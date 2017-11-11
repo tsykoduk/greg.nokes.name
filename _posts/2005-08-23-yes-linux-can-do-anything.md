@@ -12,7 +12,7 @@ categories:
 ---
 <blockquote>11 years ago, April 1st 1990, rfc 1149 was written. This rfc specifies a protocol for IP over avian carriers, <span class="caps">CPIP</span> (carrier pigeon internet protocol). In 11 years, noone has bothered to implement this important protocol stack. But happily, we don't need to wait any longer! <span class="caps">BLUG</span> in cooperation with Vesta Brevdueforening has given you rfc 1149 support for Linux.</blockquote>
 
-	-<a href="http://www.blug.linux.no/rfc1149/">Bergen Linux User Group</a>
+	<p>-<a href="http://www.blug.linux.no/rfc1149/">Bergen Linux User Group</a></p>
 
 
-	For you backwoods types, now you can do IP over Carrier Pigeon.
+	<p>For you backwoods types, now you can do IP over Carrier Pigeon.</p>

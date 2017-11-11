@@ -12,7 +12,7 @@ categories:
 <blockquote>Five proof-of-concept viruses that target Monad, the next version of Microsoft's command prompt, were included in a recently published virus writing magazine, according to Mikko HyppÃ¶nen, the director of antivirus research at F-Secure.
 	</blockquote>
 
-	- <a href="http://zdnet.com.au/news/security/soa/Windows_Vista_tool_targeted_by_virus_writers/0,2000061744,39205746,00.htm">ZDNet Australia</a>
+	<p>- <a href="http://zdnet.com.au/news/security/soa/Windows_Vista_tool_targeted_by_virus_writers/0,2000061744,39205746,00.htm">ZDNet Australia</a></p>
 
 
-	Heh - and it starts. It's not even out yet and it has more viruses then <span class="caps">OS X</span> and Linux/BSD.
+	<p>Heh - and it starts. It's not even out yet and it has more viruses then <span class="caps">OS X</span> and Linux/BSD.</p>

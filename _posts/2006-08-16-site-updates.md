@@ -9,4 +9,4 @@ permalink: /2006/08/16/site-updates/
 categories:
   - Mundane
 ---
-So, I have changed things up here yet again. I am still working on the new theme, but most of the dust has settled. I also updated the About page with some pithy words... ok... not pithy, but what the heck, eh?
+<p>So, I have changed things up here yet again. I am still working on the new theme, but most of the dust has settled. I also updated the About page with some pithy words... ok... not pithy, but what the heck, eh?</p>

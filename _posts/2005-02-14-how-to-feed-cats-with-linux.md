@@ -10,4 +10,4 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<a href="http://www.linuxjournal.com/article/7403">Chris McAvoy</a> writes:<br /><br /><blockquote>We have to work, but that doesn't mean our cats should have to go without stinky little fish, right? Why should our economic necessities have a negative effect on their treat times? Isn't it our responsibility to build them an Internet-enabled, Linux-based, cat-feeding device?</blockquote><br /><br />Heh - leave it to Linux geeks to coddle their kittens this much. Read on for all the 'gory' details
+<p><a href="http://www.linuxjournal.com/article/7403">Chris McAvoy</a> writes:<br /><br /><blockquote>We have to work, but that doesn't mean our cats should have to go without stinky little fish, right? Why should our economic necessities have a negative effect on their treat times? Isn't it our responsibility to build them an Internet-enabled, Linux-based, cat-feeding device?</blockquote><br /><br />Heh - leave it to Linux geeks to coddle their kittens this much. Read on for all the 'gory' details</p>

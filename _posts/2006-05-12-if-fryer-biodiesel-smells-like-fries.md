@@ -11,10 +11,10 @@ categories:
 ---
 <blockquote>Marlborough Company Produces World's First Sample Of Bio-Diesel From Algae Extracted From Region's Sewerage Ponds
 
-Marlborough-based Aquaflow Bionomic Corporation announced today that it had produced its first sample of home-grown bio-diesel fuel with algae sourced from local sewerage ponds.
+<p>Marlborough-based Aquaflow Bionomic Corporation announced today that it had produced its first sample of home-grown bio-diesel fuel with algae sourced from local sewerage ponds.</p>
 
 
-'We believe this is the world's first commercial production of bio-diesel from algae outside the laboratory, in 'wild' conditions. To date, bio-diesel from algae has only been tested under controlled laboratory conditions with specially selected and grown algae crops,â€ explains Aquaflow spokesperson Barrie Leay</blockquote>
+<p>'We believe this is the world's first commercial production of bio-diesel from algae outside the laboratory, in 'wild' conditions. To date, bio-diesel from algae has only been tested under controlled laboratory conditions with specially selected and grown algae crops,â€ explains Aquaflow spokesperson Barrie Leay</blockquote></p>
 
 
--<a href="http://www.scoop.co.nz/stories/SC0605/S00030.htm">Scoop</a>
+<p>-<a href="http://www.scoop.co.nz/stories/SC0605/S00030.htm">Scoop</a></p>

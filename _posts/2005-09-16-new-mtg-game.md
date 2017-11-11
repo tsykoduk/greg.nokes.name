@@ -9,10 +9,10 @@ permalink: /2005/09/16/new-mtg-game/
 categories:
   - Fun!
 ---
-This is just wrong.
+<p>This is just wrong.</p>
 
 
-You were warned!
+<p>You were warned!</p>
 
 
-<a href="http://www.brokentoys.org/?p=6849">Enter at your own risk</a>
+<p><a href="http://www.brokentoys.org/?p=6849">Enter at your own risk</a></p>

@@ -9,4 +9,4 @@ permalink: /2005/04/14/sometimes/
 categories:
   - Computers! and Code!
 ---
-Sometimes, I really hate computers.
+<p>Sometimes, I really hate computers.</p>

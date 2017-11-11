@@ -9,19 +9,19 @@ permalink: /2007/01/03/cross-model-attributes/
 categories:
   - Computers! and Code!
 ---
-I am sure that all of the programmers out there will say "Well, Duh!" but I wanted to put this into writing for my own purposes. Basically so I do not forget it. If you happen to get some good ideas from it, well then score.
+<p>I am sure that all of the programmers out there will say "Well, Duh!" but I wanted to put this into writing for my own purposes. Basically so I do not forget it. If you happen to get some good ideas from it, well then score.</p>
 
 
-So, I have several models which all need to have attributes. Not all of them need the same attributes, however we want a method of quickly searching and creating new types of attributes for models.
+<p>So, I have several models which all need to have attributes. Not all of them need the same attributes, however we want a method of quickly searching and creating new types of attributes for models.</p>
 
 
-Hu?
+<p>Hu?</p>
 
 
-Ok...
+<p>Ok...</p>
 
 
-Suppose we have the following models:
+<p>Suppose we have the following models:</p>
 
 
 <ul>
@@ -32,10 +32,10 @@ Suppose we have the following models:
  <li>Building </li>
 </ul>
 
-All of these might have a attribute of color, but only the computers will have an IP Address. However, we want to be able to search all computers based on the IP address. Just to make it more difficult, Laptops, Servers and Desktops are all computers.
+<p>All of these might have a attribute of color, but only the computers will have an IP Address. However, we want to be able to search all computers based on the IP address. Just to make it more difficult, Laptops, Servers and Desktops are all computers.</p>
 
 
-My solution at this time is to create another model, which I have called Attributes. This has the following layout:
+<p>My solution at this time is to create another model, which I have called Attributes. This has the following layout:</p>
 
 
 <table class="CodeRay"><tr>
@@ -63,7 +63,7 @@ My solution at this time is to create another model, which I have called Attribu
 </tr></table>
 
 
-Each of my models which will use these will include the has_many directive:
+<p>Each of my models which will use these will include the has_many directive:</p>
 
 
 <table class="CodeRay"><tr>
@@ -73,7 +73,7 @@ Each of my models which will use these will include the has_many directive:
 </tr></table>
 
 
-When a new instance of a model is created, I run an after_create function (which I cleverly call Templater) which figures out which type (or species) of model is being created, and pre-populates a default set of attributes.
+<p>When a new instance of a model is created, I run an after_create function (which I cleverly call Templater) which figures out which type (or species) of model is being created, and pre-populates a default set of attributes.</p>
 
 
-For example, a Laptop might be created with the attributes: <span class="caps">CPU</span>, RAM, IP Address, and OS. In fact, all computers could be created with that same default set of attributes. Then, when we decide to build a query that gives us all computers with less them 1024 megs of <span class="caps">RAM</span>, we can simply search the attributes table for all records where type is <span class="caps">RAM</span> and value is less then 1024, and return their owner ID's.
+<p>For example, a Laptop might be created with the attributes: <span class="caps">CPU</span>, RAM, IP Address, and OS. In fact, all computers could be created with that same default set of attributes. Then, when we decide to build a query that gives us all computers with less them 1024 megs of <span class="caps">RAM</span>, we can simply search the attributes table for all records where type is <span class="caps">RAM</span> and value is less then 1024, and return their owner ID's.</p>

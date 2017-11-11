@@ -11,4 +11,4 @@ categories:
 ---
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/2w84qzHdEms"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/2w84qzHdEms" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
-Found about it <a href="http://www.cbc.ca/radioshows/AS_IT_HAPPENS/20070212.shtml">here</a>...
+<p>Found about it <a href="http://www.cbc.ca/radioshows/AS_IT_HAPPENS/20070212.shtml">here</a>...</p>

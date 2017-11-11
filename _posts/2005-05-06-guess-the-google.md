@@ -9,10 +9,10 @@ permalink: /2005/05/06/guess-the-google/
 categories:
   - Fun!
 ---
-Just found <a href="http://grant.robinson.name/projects/guess-the-google/">this</a> little addictive game. I warned you!
+<p>Just found <a href="http://grant.robinson.name/projects/guess-the-google/">this</a> little addictive game. I warned you!</p>
 
 
-	The idea is that you are presented with 20 images, and you have to guess what term was googled to get them. It's timed.
+	<p>The idea is that you are presented with 20 images, and you have to guess what term was googled to get them. It's timed.</p>
 
 
-	I only got 146 points, but I am slow on the uptake sometimes.
+	<p>I only got 146 points, but I am slow on the uptake sometimes.</p>

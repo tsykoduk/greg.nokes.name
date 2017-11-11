@@ -9,4 +9,4 @@ permalink: /2005/07/22/new-trailer/
 categories:
   - Fun!
 ---
-The new trailer for Serenity is <a href="http://www.uip.nl/Pictures/seren/trailer2.mov">Here</a>. Getting excited!
+<p>The new trailer for Serenity is <a href="http://www.uip.nl/Pictures/seren/trailer2.mov">Here</a>. Getting excited!</p>

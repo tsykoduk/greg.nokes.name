@@ -9,4 +9,4 @@ permalink: /2005/04/21/short-note/
 categories:
   - Fun!
 ---
-You just <span class="caps">HAVE</span> to check this <a href="http://porktornado.diaryland.com/albumcover.html">post</a> out. Go! Read! Gasp in Horror! Come back and Comment!
+<p>You just <span class="caps">HAVE</span> to check this <a href="http://porktornado.diaryland.com/albumcover.html">post</a> out. Go! Read! Gasp in Horror! Come back and Comment!</p>

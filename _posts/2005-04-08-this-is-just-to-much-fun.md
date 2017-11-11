@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-You have got to check this out! <a href="http://www.nata2.info/humor/flash/bowman.swf">Bowman</a>
+<p>You have got to check this out! <a href="http://www.nata2.info/humor/flash/bowman.swf">Bowman</a></p>
 
 
-Remember: One in the head beats two in the torso!
+<p>Remember: One in the head beats two in the torso!</p>

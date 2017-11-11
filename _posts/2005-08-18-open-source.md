@@ -15,10 +15,10 @@ categories:
 	<li>Open source projects are open to the participation of anybody who can contribute value and is willing to work with the community.</li>
 	</blockquote>
 
-	-<a href="http://www.opensourcematters.org/">OpenSourceMatters</a>
+	<p>-<a href="http://www.opensourcematters.org/">OpenSourceMatters</a></p>
 
 
-	I think that this is one of the best definitions of Open Source that I have seen. So many of the Open Source projects forget these tenants. The leaders seem to be off on some adolescent power trip - and beware anyone who questions, asks or even makes a small noise in the corner.
+	<p>I think that this is one of the best definitions of Open Source that I have seen. So many of the Open Source projects forget these tenants. The leaders seem to be off on some adolescent power trip - and beware anyone who questions, asks or even makes a small noise in the corner.</p>
 
 
-	I guess the beauty of Open Source is that the projects that are run like this will die off, and the better managed ones will succeed.
+	<p>I guess the beauty of Open Source is that the projects that are run like this will die off, and the better managed ones will succeed.</p>

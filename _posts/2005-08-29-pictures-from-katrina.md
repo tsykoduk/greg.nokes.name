@@ -9,8 +9,8 @@ permalink: /2005/08/29/pictures-from-katrina/
 categories:
   - Mundane
 ---
-A lot of pictures are starting to come in from Katrina on <a href="http://www.flickr.com/photos/tags/hurricanekatrina">Flickr</a>. Some good stuff in there. Our thoughts are with those that were in the path, and we hope that they have come through safely.
+<p>A lot of pictures are starting to come in from Katrina on <a href="http://www.flickr.com/photos/tags/hurricanekatrina">Flickr</a>. Some good stuff in there. Our thoughts are with those that were in the path, and we hope that they have come through safely.</p>
 
 
-<i>Update 10:43 pm <span class="caps">PST</span></i>
-More flickr pictures are <a href="http://www.flickr.com/photos/tags/katrina/clusters/">here</a> - over a sixteen hundred at this time. Long live the new media!
+<p><i>Update 10:43 pm <span class="caps">PST</span></i>
+More flickr pictures are <a href="http://www.flickr.com/photos/tags/katrina/clusters/">here</a> - over a sixteen hundred at this time. Long live the new media!</p>

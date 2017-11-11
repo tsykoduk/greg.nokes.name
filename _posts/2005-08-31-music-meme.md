@@ -9,19 +9,19 @@ permalink: /2005/08/31/music-meme/
 categories:
   - Fun!
 ---
-Gee - this sounds like Fun! (HT: <a href="http://beginaneweachday.blogspot.com/2005/08/music-meme.html">Agent Sierra</a>)
+<p>Gee - this sounds like Fun! (HT: <a href="http://beginaneweachday.blogspot.com/2005/08/music-meme.html">Agent Sierra</a>)</p>
 
 
-A.) Go to <a href="http://www.musicoutfitters.com">musicoutfitters</a>
+<p>A.) Go to <a href="http://www.musicoutfitters.com">musicoutfitters</a></p>
 
 
-B.) Enter the year you graduated from high school in the search function and get the list of 100 most popular songs of that year
+<p>B.) Enter the year you graduated from high school in the search function and get the list of 100 most popular songs of that year</p>
 
 
-C.) Bold the songs you like, strike through the ones you hate and underline your favorite. Do nothing to the ones you don't remember (or don't care about).
+<p>C.) Bold the songs you like, strike through the ones you hate and underline your favorite. Do nothing to the ones you don't remember (or don't care about).</p>
 
 
-&lt;!<del>-more</del>-&gt;
+<p>&lt;!<del>-more</del>-&gt;
 1. <strong>Walk Like An Egyptian, Bangles </strong>
 2. <strong>Alone, Heart</strong>
 3. Shake You Down, Gregory Abbott
@@ -121,4 +121,4 @@ C.) Bold the songs you like, strike through the ones you hate and underline your
 97. I've Been In Love Before, Cutting Crew
 98. <strong>(You Gotta) Fight For Your Right To Party, Beastie Boys</strong>
 99. <strong>Funkytown, Pseudo Echo</strong>
-100. Love You Down, Ready For The World
+100. Love You Down, Ready For The World</p>

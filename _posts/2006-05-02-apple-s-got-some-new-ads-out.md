@@ -9,4 +9,4 @@ permalink: /2006/05/02/apple-s-got-some-new-ads-out/
 categories:
   - Computers! and Code!
 ---
-And, ho boy, they are <a href="http://www.apple.com/getamac/ads/">doozies</a>. My favorite was 'viruses', what was yours?
+<p>And, ho boy, they are <a href="http://www.apple.com/getamac/ads/">doozies</a>. My favorite was 'viruses', what was yours?</p>

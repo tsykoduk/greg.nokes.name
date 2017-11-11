@@ -11,4 +11,4 @@ categories:
 ---
 <center><img src="http://archive.gamespy.com/comics/dorktower/images/ads/unionjack.gif" alt="" /></center>
 
-	(Hat Tip - <a href="http://archive.gamespy.com/comics/dorktower/">John</a>)
+	<p>(Hat Tip - <a href="http://archive.gamespy.com/comics/dorktower/">John</a>)</p>

@@ -11,10 +11,10 @@ categories:
 ---
 <blockquote>In the first story, Spokane police officers were unavailable to respond to a citizen observing and intervening in a felony in progress where the potential for violence was real. In the second story, Spokane police officers were available to be dispatched to investigate a "false alarm" at an unoccupied business, Anthony's Restaurant, a site favored by Spokane Mayor Jim West.</blockquote>
 
--<a href="http://whitecaps.blogspot.com/2005/10/false-alarm-oh-send-cops-anyway.html">Whitecaps</a>
+<p>-<a href="http://whitecaps.blogspot.com/2005/10/false-alarm-oh-send-cops-anyway.html">Whitecaps</a></p>
 
 
-With the current budget woes that Spokane faces, Whitecaps makes some good points. Why respond to unverified alarms, and let citizens swing in the wind?
+<p>With the current budget woes that Spokane faces, Whitecaps makes some good points. Why respond to unverified alarms, and let citizens swing in the wind?</p>
 
 
-Things that make you go Hmmm
+<p>Things that make you go Hmmm</p>

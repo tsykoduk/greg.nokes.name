@@ -10,4 +10,4 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 ---
-<img src="http://greg.nokes.name/assets/2007/11/10/ch071110.gif" width="620px" />
+<p><img src="http://greg.nokes.name/assets/2007/11/10/ch071110.gif" width="620px" /></p>

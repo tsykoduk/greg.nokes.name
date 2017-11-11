@@ -9,4 +9,4 @@ permalink: /2005/09/14/new-maps-interface/
 categories:
   - Computers! and Code!
 ---
-There is a new interface to Google Maps and <span class="caps">MSN VE</span> out there - <a href="http://www.flashearth.com/">Check</a> it out!
+<p>There is a new interface to Google Maps and <span class="caps">MSN VE</span> out there - <a href="http://www.flashearth.com/">Check</a> it out!</p>

@@ -9,7 +9,7 @@ permalink: /2005/09/13/more-information-then-you-can-shake-a-stick-at/
 categories:
   - Computers! and Code!
 ---
-Ok.. so, I wanted to let ya'll know what tunes I was listening to (<em>out of some strange wanting to let the world live through my iTunes playlist</em>). So, if you now look at the 'sidebar' you will see <em>What's Playing</em>. Strangely enough, it shows what I am listening to right now.
+<p>Ok.. so, I wanted to let ya'll know what tunes I was listening to (<em>out of some strange wanting to let the world live through my iTunes playlist</em>). So, if you now look at the 'sidebar' you will see <em>What's Playing</em>. Strangely enough, it shows what I am listening to right now.</p>
 
 
-Ain't technology just cool?
+<p>Ain't technology just cool?</p>

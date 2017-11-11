@@ -31,4 +31,4 @@ By Salvadore Dali</center>
 <a href="http://www.blogthings.com/whatfamousartareyouquiz/">What Famous Work of Art Are You?</a>
 </div></center>
 
-Hat Tip <a href="http://emilyscraziness.blogspot.com">The Quizzer</a>
+<p>Hat Tip <a href="http://emilyscraziness.blogspot.com">The Quizzer</a></p>
