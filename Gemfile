@@ -26,7 +26,7 @@ end
 #gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Theme
-#gem "jekyll-theme-hydeout", "~> 3.3"
+gem "jekyll-theme-hydeout", "~> 3.3"
 gem 'rack-ssl-enforcer'
 #gem "hyde"
 gem "jekyll-paginate"
