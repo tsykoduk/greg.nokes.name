@@ -1,6 +1,6 @@
 ---
 id: 1496
-title: 'It&#039;s best to know when to give up&#8230;'
+title: 'It's best to know when to give up...'
 date: 2006-10-10T10:02:00+00:00
 author: tsykoduk
 layout: post

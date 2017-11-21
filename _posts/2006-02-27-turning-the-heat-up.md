@@ -1,6 +1,6 @@
 ---
 id: 1261
-title: 'Turning the heat up&#8230;'
+title: 'Turning the heat up...'
 date: 2006-02-27T15:58:28+00:00
 author: tsykoduk
 layout: post

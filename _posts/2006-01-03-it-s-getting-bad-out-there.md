@@ -1,6 +1,6 @@
 ---
 id: 1192
-title: 'It&#039;s getting bad out there'
+title: 'It's getting bad out there'
 date: 2006-01-03T18:42:27+00:00
 author: tsykoduk
 layout: post

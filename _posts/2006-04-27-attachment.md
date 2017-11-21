@@ -1,6 +1,6 @@
 ---
 id: 1362
-title: 'Attachment&#8230;'
+title: 'Attachment...'
 date: 2006-04-27T02:52:51+00:00
 author: tsykoduk
 layout: post

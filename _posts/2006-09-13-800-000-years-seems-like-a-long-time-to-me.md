@@ -1,6 +1,6 @@
 ---
 id: 1449
-title: '800,000 Years seems like a long time to me&#8230;'
+title: '800,000 Years seems like a long time to me...'
 date: 2006-09-13T09:39:00+00:00
 author: tsykoduk
 layout: post

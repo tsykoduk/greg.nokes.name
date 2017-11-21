@@ -1,6 +1,6 @@
 ---
 id: 534
-title: 'But I&#039;m a Cheerleader, or Saved!'
+title: 'But I'm a Cheerleader, or Saved!'
 date: 2005-06-14T15:15:38+00:00
 author: tsykoduk
 layout: post

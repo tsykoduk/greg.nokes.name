@@ -1,6 +1,6 @@
 ---
 id: 1124
-title: 'Here we go again&#8230;'
+title: 'Here we go again...'
 date: 2005-11-22T08:46:01+00:00
 author: tsykoduk
 layout: post

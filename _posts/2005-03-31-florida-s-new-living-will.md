@@ -1,6 +1,6 @@
 ---
 id: 127
-title: 'Florida&#039;s New Living Will'
+title: 'Florida's New Living Will'
 date: 2005-03-31T09:15:00+00:00
 author: tsykoduk
 layout: post

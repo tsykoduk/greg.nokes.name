@@ -1,6 +1,6 @@
 ---
 id: 109
-title: 'In the face of storms we fly&#8230;'
+title: 'In the face of storms we fly...'
 date: 2005-02-10T14:37:39+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1430
-title: 'UF scoop on AT&amp;T&#039;s new privacy policy'
+title: 'UF scoop on AT&amp;T's new privacy policy'
 date: 2006-06-26T17:35:18+00:00
 author: tsykoduk
 layout: post

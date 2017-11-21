@@ -1,6 +1,6 @@
 ---
 id: 362
-title: 'Taxes &#8211; the Real Story'
+title: 'Taxes - the Real Story'
 date: 2005-04-28T12:41:49+00:00
 author: tsykoduk
 layout: post

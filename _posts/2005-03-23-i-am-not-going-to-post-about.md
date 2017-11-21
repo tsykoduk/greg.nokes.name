@@ -1,6 +1,6 @@
 ---
 id: 140
-title: 'I am not going to post about&#8230;'
+title: 'I am not going to post about...'
 date: 2005-03-23T21:32:00+00:00
 author: tsykoduk
 layout: post

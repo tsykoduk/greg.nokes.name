@@ -1,6 +1,6 @@
 ---
 id: 907
-title: 'Ahhh.. With a Laaaser in it&#039;s head!'
+title: 'Ahhh.. With a Laaaser in it's head!'
 date: 2005-09-25T22:15:45+00:00
 author: tsykoduk
 layout: post

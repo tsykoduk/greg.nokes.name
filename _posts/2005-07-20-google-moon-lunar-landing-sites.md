@@ -1,6 +1,6 @@
 ---
 id: 676
-title: 'Google Moon &#8211; Lunar Landing Sites'
+title: 'Google Moon - Lunar Landing Sites'
 date: 2005-07-20T11:08:04+00:00
 author: tsykoduk
 layout: post

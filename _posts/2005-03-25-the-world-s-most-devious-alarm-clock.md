@@ -1,6 +1,6 @@
 ---
 id: 135
-title: 'The World&#039;s Most Devious Alarm Clock'
+title: 'The World's Most Devious Alarm Clock'
 date: 2005-03-25T07:50:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 150
-title: 'Don&#039;t Panic!'
+title: 'Don't Panic!'
 date: 2005-03-14T06:48:00+00:00
 author: tsykoduk
 layout: post

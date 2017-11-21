@@ -1,6 +1,6 @@
 ---
 id: 2227
-title: '&#039;Evil is as evil does&#039;'
+title: ''Evil is as evil does''
 date: 2007-03-12T17:27:00+00:00
 author: tsykoduk
 layout: post

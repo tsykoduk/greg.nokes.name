@@ -1,6 +1,6 @@
 ---
 id: 1311
-title: 'Why should I&#8230;'
+title: 'Why should I...'
 date: 2006-03-17T09:07:15+00:00
 author: tsykoduk
 layout: post

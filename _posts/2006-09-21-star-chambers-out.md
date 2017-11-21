@@ -1,6 +1,6 @@
 ---
 id: 1467
-title: 'Star Chambers &#8211; Out!'
+title: 'Star Chambers - Out!'
 date: 2006-09-21T16:41:00+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1497
-title: 'Ain&#039;t technology grand?'
+title: 'Ain't technology grand?'
 date: 2006-10-10T11:06:00+00:00
 author: tsykoduk
 layout: post

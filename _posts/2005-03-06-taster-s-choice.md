@@ -1,6 +1,6 @@
 ---
 id: 181
-title: 'Taster&#039;s Choice'
+title: 'Taster's Choice'
 date: 2005-03-06T14:49:00+00:00
 author: tsykoduk
 layout: post

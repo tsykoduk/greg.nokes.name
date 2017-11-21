@@ -1,6 +1,6 @@
 ---
 id: 1234
-title: 'Well, don&#039;t that just beat all'
+title: 'Well, don't that just beat all'
 date: 2006-01-19T17:34:56+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1479
-title: 'OM&#039;s vs Volts'
+title: 'OM's vs Volts'
 date: 2006-09-27T21:31:00+00:00
 author: tsykoduk
 layout: post

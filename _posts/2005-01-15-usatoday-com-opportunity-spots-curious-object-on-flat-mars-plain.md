@@ -1,6 +1,6 @@
 ---
 id: 52
-title: 'USATODAY.com &#8211; Opportunity spots curious object on flat Mars plain'
+title: 'USATODAY.com - Opportunity spots curious object on flat Mars plain'
 date: 2005-01-15T22:25:51+00:00
 author: tsykoduk
 layout: post

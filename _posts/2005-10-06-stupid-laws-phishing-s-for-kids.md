@@ -1,6 +1,6 @@
 ---
 id: 942
-title: 'Stupid Laws, Phishing&#039;s for Kids!'
+title: 'Stupid Laws, Phishing's for Kids!'
 date: 2005-10-06T14:40:46+00:00
 author: tsykoduk
 layout: post

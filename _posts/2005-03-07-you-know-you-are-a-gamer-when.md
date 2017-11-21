@@ -1,6 +1,6 @@
 ---
 id: 172
-title: 'You know you are a gamer when&#8230;'
+title: 'You know you are a gamer when...'
 date: 2005-03-07T22:48:00+00:00
 author: tsykoduk
 layout: post

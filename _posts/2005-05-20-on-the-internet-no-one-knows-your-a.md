@@ -1,6 +1,6 @@
 ---
 id: 443
-title: '&quot;On the internet no one knows your a &#8230;&quot;'
+title: '&quot;On the internet no one knows your a ...&quot;'
 date: 2005-05-20T08:12:50+00:00
 author: tsykoduk
 layout: post

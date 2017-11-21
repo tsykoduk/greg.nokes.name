@@ -1,6 +1,6 @@
 ---
 id: 996
-title: 'Exxon&#039;s Wad'
+title: 'Exxon's Wad'
 date: 2005-10-28T07:49:35+00:00
 author: tsykoduk
 layout: post

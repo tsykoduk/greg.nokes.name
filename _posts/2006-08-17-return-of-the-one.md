@@ -1,6 +1,6 @@
 ---
 id: 1447
-title: 'Return of the &#039;One&#039;'
+title: 'Return of the 'One''
 date: 2006-08-17T18:30:39+00:00
 author: tsykoduk
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 808
-title: 'Inside Microsoft&#039;s Zotob Situation Room'
+title: 'Inside Microsoft's Zotob Situation Room'
 date: 2005-08-26T16:45:23+00:00
 author: tsykoduk
 layout: post

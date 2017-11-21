@@ -1,6 +1,6 @@
 ---
 id: 2858
-title: 'An&#039;, what do ya&#039;ll talk like?'
+title: 'An', what do ya'll talk like?'
 date: 2007-06-13T17:43:00+00:00
 author: tsykoduk
 layout: post

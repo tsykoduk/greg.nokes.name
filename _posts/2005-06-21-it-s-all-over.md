@@ -1,6 +1,6 @@
 ---
 id: 562
-title: 'It&#039;s all over'
+title: 'It's all over'
 date: 2005-06-21T13:29:56+00:00
 author: tsykoduk
 layout: post

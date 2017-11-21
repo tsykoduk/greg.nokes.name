@@ -1,6 +1,6 @@
 ---
 id: 837
-title: 'It&#039;s a miracle! mice regrow hearts'
+title: 'It's a miracle! mice regrow hearts'
 date: 2005-09-01T14:35:49+00:00
 author: tsykoduk
 layout: post

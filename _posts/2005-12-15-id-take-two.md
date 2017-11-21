@@ -1,6 +1,6 @@
 ---
 id: 1177
-title: 'ID &#8211; take two'
+title: 'ID - take two'
 date: 2005-12-15T13:07:49+00:00
 author: tsykoduk
 layout: post

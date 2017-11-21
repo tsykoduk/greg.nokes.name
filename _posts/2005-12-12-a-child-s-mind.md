@@ -1,6 +1,6 @@
 ---
 id: 1172
-title: 'A Child&#039;s Mind'
+title: 'A Child's Mind'
 date: 2005-12-12T21:20:20+00:00
 author: tsykoduk
 layout: post

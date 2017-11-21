@@ -1,6 +1,6 @@
 ---
 id: 952
-title: 'Buddhism &#8211; Week 2 &#8211; Suffering and the path'
+title: 'Buddhism - Week 2 - Suffering and the path'
 date: 2005-10-09T12:49:40+00:00
 author: tsykoduk
 layout: post
