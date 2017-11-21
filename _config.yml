@@ -3,6 +3,6 @@ name: DaRoost
 description: >
   A wayward journey into the depths of sanity
 
-theme: minima
+theme: type-on-strap
 plugins: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned']
