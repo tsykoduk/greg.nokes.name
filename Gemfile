@@ -35,6 +35,6 @@ gem 'coderay'
 gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
-gem "barnes"
+#gem "barnes"
 gem 'jemoji'
 
