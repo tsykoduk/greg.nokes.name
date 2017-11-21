@@ -28,6 +28,13 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
+<<<<<<< HEAD
+=======
+# Plugins
+#gems:
+#  - jemoji
+plugins: ['kramdown']
+>>>>>>> eacd1ee97bcd4d5cbd09dbaccdb738bbf00d1aae
 
 # Links to include in menu navigation
 # For external links add external: true
@@ -40,4 +47,8 @@ links:
     url: /contact/
 
 plugins: ['kramdown','jemoji']
+<<<<<<< HEAD
 exclude: ['package.json', 'src', 'node_modules','config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned']
+=======
+exclude: ['package.json', 'src', 'node_modules','config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+>>>>>>> eacd1ee97bcd4d5cbd09dbaccdb738bbf00d1aae

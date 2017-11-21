@@ -19,7 +19,11 @@ GEM
     html-pipeline (2.7.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+<<<<<<< HEAD
     i18n (0.9.1)
+=======
+    i18n (0.9.0)
+>>>>>>> eacd1ee97bcd4d5cbd09dbaccdb738bbf00d1aae
       concurrent-ruby (~> 1.0)
     jekyll (3.6.2)
       addressable (~> 2.4)
@@ -37,8 +41,13 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+<<<<<<< HEAD
     jekyll-watch (1.3.1)
       listen (~> 3.0)
+=======
+    jekyll-watch (1.5.0)
+      listen (~> 3.0, < 3.1)
+>>>>>>> eacd1ee97bcd4d5cbd09dbaccdb738bbf00d1aae
     jemoji (0.8.1)
       activesupport (~> 4.0, >= 4.2.9)
       gemoji (~> 3.0)
@@ -77,9 +86,14 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+<<<<<<< HEAD
     statsd-ruby (1.4.0)
     thread_safe (0.3.6)
     tzinfo (1.2.4)
+=======
+    thread_safe (0.3.6)
+    tzinfo (1.2.3)
+>>>>>>> eacd1ee97bcd4d5cbd09dbaccdb738bbf00d1aae
       thread_safe (~> 0.1)
 
 PLATFORMS
