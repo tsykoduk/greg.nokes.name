@@ -17,11 +17,11 @@ tags:
 
 It's a pretty simple tool, as the diagram show. Split the problem's area into two, and determine which side of the split the issue lies on. As you continue to split the set of problems down, you'll either reach a level where you only have one issue, or only have one logical direction to proceed.
 
-<!--more-->For example, if you are presented with a host that will not talk to the internet, you might start by trying to ping the gateway IP address. If you can ping that address, then you know the problem lies on the other side of the gateway.
+For example, if you are presented with a host that will not talk to the internet, you might start by trying to ping the gateway IP address. If you can ping that address, then you know the problem lies on the other side of the gateway.
 
 This is a text book example of how a binary search can save you time over a large set of cases. Yes, if the problem is the NIC drivers, and the first thing you do is reinstall them, you took care of the issue in a lot less time. However every other case where they are not the problem, you just caused yourself extra work and frustration.
 
-This tool has obvious uses in web application scaling as well. For example, most high traffic web applications are broken up into <a href="http://en.wikipedia.org/wiki/Multitier_architecture">NTier </a> layouts. If you can quickly determine which of the tiers is the bottleneck, you can save yourself tons of time.
+This tool has obvious uses in web application scaling as well. For example, most high traffic web applications are broken up into <a href="http://en.wikipedia.org/wiki/Multitier_architecture">N-Tier </a> layouts. If you can quickly determine which of the tiers is the bottleneck, you can save yourself tons of time.
 
 This is one of the core reasons that I recommend people break their applications up into tiers as soon as they can. Luckily, the current technologies employed by web applications fit snugly into this.
 
