@@ -6,47 +6,6 @@ author: tsykoduk
 layout: post
 guid: http://greg.nokes.name/?p=15235
 permalink: /2010/03/26/rooting-with-rvm/
-wp-syntax-cache-content:
-  - |
-    a:8:{i:1;s:896:"
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;">pacman <span style="color: #660033;">-S</span> <span style="color: #660033;">--noconfirm</span> <span style="color: #c20cb9; font-weight: bold;">gcc</span> gcc-libs <span style="color: #c20cb9; font-weight: bold;">make</span> kernel-headers zlib libtool <span style="color: #c20cb9; font-weight: bold;">bison</span> <span style="color: #c20cb9; font-weight: bold;">gdb</span> <span style="color: #c20cb9; font-weight: bold;">strace</span> <span style="color: #c20cb9; font-weight: bold;">gettext</span> openssl <span style="color: #c20cb9; font-weight: bold;">git</span> readline</pre></td></tr></table><p class="theCode" style="display:none;">pacman -S --noconfirm gcc gcc-libs make kernel-headers zlib libtool bison gdb strace gettext openssl git readline</p></div>
-    ;i:2;s:1011:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;"><span style="color: #c20cb9; font-weight: bold;">yum install</span> <span style="color: #660033;">-y</span> <span style="color: #c20cb9; font-weight: bold;">gcc</span> gcc-c++ kernel-devel zlib libtool <span style="color: #c20cb9; font-weight: bold;">bison</span> <span style="color: #c20cb9; font-weight: bold;">gdb</span> <span style="color: #c20cb9; font-weight: bold;">strace</span> <span style="color: #c20cb9; font-weight: bold;">gettext</span> <span style="color: #c20cb9; font-weight: bold;">git</span> rpm-build redhat-rpm-config zlib-devel openssl openssl-devel <span style="color: #c20cb9; font-weight: bold;">git</span> readline-devel</pre></td></tr></table><p class="theCode" style="display:none;">yum install -y gcc gcc-c++ kernel-devel zlib libtool bison gdb strace gettext git rpm-build redhat-rpm-config zlib-devel openssl openssl-devel git readline-devel</p></div>
-    ;i:3;s:741:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;"><span style="color: #c20cb9; font-weight: bold;">aptitude install</span> <span style="color: #660033;">-y</span> build-essential libreadline5-dev libssl-dev <span style="color: #c20cb9; font-weight: bold;">bison</span> libz-dev zlib1g zlib1g-dev libxml2 libxml2-dev libxslt-dev libssl-dev openssl <span style="color: #c20cb9; font-weight: bold;">git</span> readline-devel</pre></td></tr></table><p class="theCode" style="display:none;">aptitude install -y build-essential libreadline5-dev libssl-dev bison libz-dev zlib1g zlib1g-dev libxml2 libxml2-dev libxslt-dev libssl-dev openssl git readline-devel</p></div>
-    ;i:4;s:688:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;"><span style="color: #7a0874; font-weight: bold;">cd</span> ~
-    <span style="color: #c20cb9; font-weight: bold;">git clone</span> git:<span style="color: #000000; font-weight: bold;">//</span>github.com<span style="color: #000000; font-weight: bold;">/</span>wayneeseguin<span style="color: #000000; font-weight: bold;">/</span>rvm.git temp_rvm
-    <span style="color: #7a0874; font-weight: bold;">cd</span> temp_rvm</pre></td></tr></table><p class="theCode" style="display:none;">cd ~
-    git clone git://github.com/wayneeseguin/rvm.git temp_rvm
-    cd temp_rvm</p></div>
-    ;i:5;s:330:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;"><span style="color: #c20cb9; font-weight: bold;">sudo</span> <span style="color: #c20cb9; font-weight: bold;">su</span></pre></td></tr></table><p class="theCode" style="display:none;">sudo su</p></div>
-    ;i:6;s:527:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;">.<span style="color: #000000; font-weight: bold;">/</span><span style="color: #c20cb9; font-weight: bold;">install</span>
-    <span style="color: #7a0874; font-weight: bold;">cd</span> ~
-    <span style="color: #c20cb9; font-weight: bold;">rm</span> <span style="color: #660033;">-rf</span> temp_rvm</pre></td></tr></table><p class="theCode" style="display:none;">./install
-    cd ~
-    rm -rf temp_rvm</p></div>
-    ;i:7;s:525:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;"><span style="color: #7a0874; font-weight: bold;">export</span> <span style="color: #007800;">rvm_path</span>=<span style="color: #000000; font-weight: bold;">/</span>usr<span style="color: #000000; font-weight: bold;">/</span>local<span style="color: #000000; font-weight: bold;">/</span>rvm</pre></td></tr></table><p class="theCode" style="display:none;">export rvm_path=/usr/local/rvm</p></div>
-    ;i:8;s:1846:
-    <div class="wp_syntax" style="position:relative;"><table><tr><td class="code"><pre class="bash" style="font-family:monospace;"><span style="color: #666666; font-style: italic;"># Load RVM if it is installed,</span>
-    <span style="color: #666666; font-style: italic;">#  first try to load  user install</span>
-    <span style="color: #666666; font-style: italic;">#  then try to load root install, if user install is not there.</span>
-    <span style="color: #000000; font-weight: bold;">if</span> <span style="color: #7a0874; font-weight: bold;">&#91;</span> <span style="color: #660033;">-s</span> <span style="color: #ff0000;">&quot;<span style="color: #007800;">$HOME</span>/.rvm/scripts/rvm&quot;</span> <span style="color: #7a0874; font-weight: bold;">&#93;</span> ; <span style="color: #000000; font-weight: bold;">then</span>
-    . <span style="color: #ff0000;">&quot;<span style="color: #007800;">$HOME</span>/.rvm/scripts/rvm&quot;</span>
-    <span style="color: #000000; font-weight: bold;">elif</span> <span style="color: #7a0874; font-weight: bold;">&#91;</span> <span style="color: #660033;">-s</span> <span style="color: #ff0000;">&quot;/usr/local/rvm/scripts/rvm&quot;</span> <span style="color: #7a0874; font-weight: bold;">&#93;</span> ; <span style="color: #000000; font-weight: bold;">then</span>
-    . <span style="color: #ff0000;">&quot;/usr/local/rvm/scripts/rvm&quot;</span>
-    <span style="color: #000000; font-weight: bold;">fi</span></pre></td></tr></table><p class="theCode" style="display:none;"># Load RVM if it is installed,
-    #  first try to load  user install
-    #  then try to load root install, if user install is not there.
-    if [ -s &quot;$HOME/.rvm/scripts/rvm&quot; ] ; then
-    . &quot;$HOME/.rvm/scripts/rvm&quot;
-    elif [ -s &quot;/usr/local/rvm/scripts/rvm&quot; ] ; then
-    . &quot;/usr/local/rvm/scripts/rvm&quot;
-    fi</p></div>
-    ";}
 categories:
   - Computers! and Code!
 tags:
@@ -101,7 +60,7 @@ elif [ -s "/usr/local/rvm/scripts/rvm" ] ; then
   . "/usr/local/rvm/scripts/rvm"
 fi</pre>
 <h2>Cleaning up</h2>
-You'll want to <code>chown</code> the <code>/usr/local/rvm</code> directory to add a group that contains the folks you want to be able to administrate your rubies, install gems and what not. I then <code>chmod -R g+w /usr/local/rvm</code> to allow the group access. I have had mixed luck with this - best case scenario is to grant ownership to the 1 user who is going to be tasked with loading rubies and tell him to get at it.
+You'll want to <code>chown</code> the <code>/usr/local/rvm</code> directory to add a group that contains the folks you want to be able to administrate your rubies, install gems and what not. I then <code>chmod -R g+w /usr/local/rvm</code> to allow the group access. I have had mixed luck with this - best case scenario is to grant ownership to the 1 user who is going to be tasked with loading rubies and tell them to get at it.
 
 I also use the <code>rvm use  ruby_version --default</code> option when I select a ruby for use system wide. It works really well.
 <h2>Closing thoughts, and a present for all that read this far...</h2>
