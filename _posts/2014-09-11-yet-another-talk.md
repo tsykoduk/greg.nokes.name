@@ -13,6 +13,4 @@ I was pressed into service to do a training on Heroku for about 300 developers. 
 
 The second half is  a demo of a loyalty app by by <a href="https://twitter.com/AbePursell" target="_blank">@AbePursell</a>. The app was built using <a href="http://heroku.com">Heroku</a> and <a href="http://salesforce.com">Force</a>.
 
-[embed]http://vimeo.com/102756160[/embed]
-
-&nbsp;
+<iframe src="http://vimeo.com/102756160" height="315" width="560" allowfullscreen="" frameborder="0"></iframe> 
