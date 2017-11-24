@@ -15,7 +15,6 @@ That's pretty cool, but it seems to be a little more work then I really want. Si
 
 That and I wanted a more efficient way to share pictures of <a href="http://creations.nokes.name/cat-ears.gif">cats</a>.
 
-<!--more-->
 
 Enter <a href="https://github.com/tsykoduk/random_tools/blob/master/picture_lister.sh">giflister.sh</a>. This little shell script is designed to be run as a <a href="http://git-scm.com/book/ch7-3.html#Server-Side-Hooks">git post recive hook</a>, and will automate deploying your nanoc site. Oh yeah, and it will also search your site for gifs, pngs, and jpegs, and give you a nice html file listing of links to them. This allows me to easily go to one spot, grab the picture that I want, and paste it into the tweet or chat program of my choice.
 

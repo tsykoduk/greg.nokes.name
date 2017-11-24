@@ -15,8 +15,6 @@ I firmly believe that Mindfulness is integral to any spiritual practice, and I p
 
 That being said, here are a few highlights from my reading on this subject.
 
-<!--more-->
-
 <a href="http://www.amazon.com/Chop-Wood-Carry-Water-Fulfillment/dp/0874772095/ref=sr_1_1?ie=UTF8&amp;qid=1377531250&amp;sr=8-1&amp;keywords=carry+water+chop+wood">Chop Wood, Carry Water</a> was the first book that I read that that introduced me to this whole "thing". I was on a very different path before (not bad, just different) and this book had a profound impact. It really opened my eyes. I went on to reading several others by the same author.
 
 Speaking of Rick Fields, another of the books that I found that he curated was <a href="http://www.amazon.com/The-Awakened-Warrior-Compassion-Consciousness/dp/0874777755">The Awakened Warrior</a>. Parts of it had impact on me. Parts of it left me thinking WTF, but I feel that was the essence of the book. Thinking about things.
