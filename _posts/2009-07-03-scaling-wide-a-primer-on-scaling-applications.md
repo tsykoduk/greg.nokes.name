@@ -17,8 +17,6 @@ One of the questions that I am asked often is "how do I scale my web application
 
 The first however, when asked at an appropriate time, can be what saves you from asking the second. A good knowledge of best practices to start with, and then a rigorous testing and introspection process will do more to inform you "when" then any thing else.
 
-<!--more-->
-
 <strong>Cache, cache, cache...</strong>
 
 You need to cache everything you can. Memcache, disk cache, what ever you can cache should be.
@@ -51,7 +49,7 @@ For example, if you can segment your user base into three groups who do not real
 
 You can also look at this from a business logic view. If you can cut your application into portions (say, photos, chat and games for a social site) you can create smaller applications to handle authentication, user information storage, photos, chat and games. You would have the photos, chat and games applications leverage the back end authentication and user information applications to read and write shared information.
 
-This gives us several advantages. For the back end application remove all unneeded code (i.e., if you are not going to need to use views, then remove ActionView), plugins and gems. Keep the app as light as possible. Optimize the DB access and make use of memcached as much as possible. Host each of the application shards on dedicated resources (i.e., their own Database's and Slices).
+This gives us several advantages. For the back end application remove all unneeded code (i.e., if you are not going to need to use views, then remove ActionView), plugins and gems. Keep the app as light as possible. Optimize the DB access and make use of memcached as much as possible. Host each of the application shards on dedicated resources (i.e., their own Database's and Compute).
 
 One of the large advantages of this approach is that you can start to optimize your hardware spend. If your chat application is 1/2 as intensive as your photo and games applications, it's far easier to assign resources in a targeted fashion and maximize returns. In a monolithic application, if the photo application breaks, or needs more resources the entire stack is effected. With sharding, you get some buffering from some site wide issues, and the ability to assign hardware exactly where it's needed. The big drawback is that it's not easy.
 
@@ -64,5 +62,3 @@ Look for a in-depth treatment of this subject in a later article.
 <strong>Filesystem Sharding</strong>
 
 If your application is filesystem IOPS heavy, filesystem sharding might be the route that you want to look at. Basically you add more hardware disk arrays, and split the reads and writes between them. You need to inject some logic into the save and open functions in your application so that it knows which filesystem each file is to be saved to and opened from. Usually you create a hash of the filename, and key off the first couple of characters in the hash. You can read more on this technique <a href="http://greg.nokes.name/2008/12/25/filesystem-scaling-in-high-traffic-web-applications/">here</a>.
-
-(a repost of the unedited content from <a href="http://www.engineyard.com/blog/2009/a-quick-primer-on-sharding-for-ruby-on-rails">this</a> article)
