@@ -25,8 +25,6 @@ However with the advent of Cloud Storage and higher speed internet pipes you can
 
 Here is what I did to get a dead simple backup from a HP Cloud instance to HP’s Object Storage.
 
-<!--more-->
-
 First, I installed the python tools. I followed the directions below:
 
 For Centos 6.3:

@@ -16,5 +16,4 @@ tags:
 
 <p>Some folks asked me what I meant by viking coders. So, with out further gnashing of teeth, here you go.</p>
 
-<!--more-->
 <script src="https://gist.github.com/3643237.js?file=VikingCoders.md"></script>
