@@ -1,13 +1,13 @@
 ---
-id: 15570
+id: 15571
 title: Markdown in Gmail
-date: 2017-11-2
+date: 2017-12-11
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15570
-permalink: /2017/11/02/markdown-in-gmail/
+guid: http://greg.nokes.name/?p=15571
+permalink: /2017/11/02/coffeshop-quartet/
 categories:
-  - Computers! and Code!
+  - Life and Work
 ---
 As a remote worker, and one that travels at that, finding a good coffee shop to work from is a hassle. Sometimes I want a loud place with a lot of bustle, sometimes I want someplace more like a library. I'm often on calls, so when I have a day with out calls, and I can get out and about I really enjoy it.
 
