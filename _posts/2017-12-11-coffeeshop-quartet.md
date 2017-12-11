@@ -1,6 +1,6 @@
 ---
 id: 15571
-title: Markdown in Gmail
+title: Coffee Shop Quartet
 date: 2017-12-11
 author: Greg Nokes
 layout: post
