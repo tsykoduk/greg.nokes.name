@@ -55,10 +55,45 @@ Percentage of the requests served within a certain time (ms)
  100%   5781 (longest request)
 ```
 
-I then  decided to turn it up to 11, and ran with a concurrency of 100. The max CPU load jumped up above five, and the RAM jumped by about 200m 
+I then  decided to turn it up to 11, and ran with a concurrency of 100. The max CPU load jumped up above five, and the RAM jumped by about 200m. Still not a bad showing!
 
 ```shell
+Server Software:        Cowboy
+Server Hostname:        greg.nokes.name
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,2048,128
+TLS Server Name:        greg.nokes.name
 
+Document Path:          /
+Document Length:        33182 bytes
 
+Concurrency Level:      100
+Time taken for tests:   536.508 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      333830000 bytes
+HTML transferred:       331820000 bytes
+Requests per second:    18.64 [#/sec] (mean)
+Time per request:       5365.083 [ms] (mean)
+Time per request:       53.651 [ms] (mean, across all concurrent requests)
+Transfer rate:          607.64 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      395 3887 1175.6   4212    7946
+Processing:   182 1450 1167.0   1054    5864
+Waiting:      181  779 783.5    524    5740
+Total:        761 5337 1212.1   5290   13795
+
+Percentage of the requests served within a certain time (ms)
+  50%   5290
+  66%   5383
+  75%   5446
+  80%   5571
+  90%   6174
+  95%   6718
+  98%   9109
+  99%   9852
+ 100%  13795 (longest request)
 ```
 
