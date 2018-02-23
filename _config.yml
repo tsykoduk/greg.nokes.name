@@ -5,6 +5,6 @@ description: >
 
 # theme: type-on-strap
 # theme: minima
-theme: hydeout
+theme: jekyll-theme-hydeout
 plugins: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned']
