@@ -11,7 +11,11 @@ source "https://rubygems.org"
 gem "jekyll"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
+<<<<<<< HEAD
 gem "jekyll-theme-hydeout"
+=======
+gem "minima"
+>>>>>>> 2b700f453be3a0030091df4e991212ec141c3594
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

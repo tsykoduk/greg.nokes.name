@@ -16,8 +16,6 @@ tags:
 
 <p>I'm going to talk about just one of the concepts right now. It was one of the ones that made the least amount of sense to me, until I started to use it. I'm also going to show a concrete example of how to use it in a production system.</p>
 
-<!--more-->
-
 <p>Of course, I'm talking about the use of <a href="http://www.12factor.net/config">environment variables for application configuration</a>. At first, I though that it was a "nice to have" or perhaps even a little more work then was really needed. Now, I'm going to standardize on this no matter where I deploy, or what I deploy.</p>
 
 <p>I think that there are several reasons to use this tactic, but the one that hit me over the head was simply "<em>No passwords in version control</em>". You know that you've done it. Committed to a repository with your database.yml or wp-config.php all full of DB passwords. It's almost a necessary evil, right?</p>

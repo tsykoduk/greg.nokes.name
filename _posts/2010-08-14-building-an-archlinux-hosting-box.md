@@ -13,8 +13,6 @@ categories:
 
 However, there is a learning curve with archlinux. Since it's so stripped down, some things that you might expect to see are not installed or configured. And following it's minimalist mantra, packages tend to not configure themselves when you install them. Following is blow by blow to help get a box booted up and running.
 
-<!--more-->
-
 First off, you need to get the installer. archlinux used to come in one flavor (i686), which back when everyone else was running i386 was really really nice. Now days, they offer i686 (for older boxes) or x86-64 (for 64 bit boxes) Head on <a href="http://www.archlinux.org/download/">over</a> and grab a netinstall. Be nice and leave your torrent running for a while. You also can grab a core cd. It's quicker, but you might have a big update to do right after the first boot.
 
 Pop the CD in, start the VM with the image or what have you.

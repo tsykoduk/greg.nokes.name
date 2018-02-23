@@ -17,12 +17,10 @@ tags:
 
 People are very poor at risk analysis. As such, people "in the biz" come up with metrics to determine <a href="http://en.wikipedia.org/wiki/Rate_of_return">ROI</a>. This might seem cold hearted. Since money is not infinite, we need to have some tool that we can use to measure the effectiveness of each dollar that we put into mitigating risks. 
 
-Let's imagine that your mom had been killed by a falling piano. If we could mitigate this threat and it would cost 2/3's of our budget, would you? What if random lunchmeat explosions costs 2/3's of the budget to mitigate as well? What if falling piano's claim 10 people a year, and random lunchmeat explosions claim 100,000?
+Let's imagine that someone had been killed by a falling piano. If we could mitigate this threat and it would cost 2/3's of our budget, would you? What if random lunchmeat explosions costs 2/3's of the budget to mitigate as well? What if falling piano's claim 10 people a year, and random lunchmeat explosions claim 100,000?
 
 When you look at events with the correct lenses, it's possible to start to understand what's really going on. These are the tools that <a href="http://books.google.com/books?id=sKcdsD1v12oC&lpg=PA38&ots=MLzbeddP4i&dq=john%20hodgman%20actuary&pg=PA37#v=onepage&q&f=false">actuaries</a> use to model the world. It's also the tools that security folks should use to model their spending against threats.
 
-
-<!--more-->
 
 <blockquote>There is a general agreement about risk, then, in the established regulatory practices of several developed countries: risks are deemed unacceptable if the annual fatality risk is higher than 1 in 10,000 or perhaps higher than 1 in 100,000 and acceptable if the figure is lower than 1 in 1 million or 1 in 2 million. Between these two ranges is an area in which risk might be considered "tolerable."
 

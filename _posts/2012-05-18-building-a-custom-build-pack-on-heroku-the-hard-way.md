@@ -15,8 +15,6 @@ There are a few caveats that you'll need to understand. The first, is to use goo
 
 One of my many failings is a need to understand how things work at their core. So I actually took the time to do this the hard way, and determine exactly what was going on at each step. Hopefully this helps you in some way, and you'll not have to follow me.
 
-<!--more-->
-
 <strong>Step one. Google</strong>
 
 Make sure that your buildpack was not already created. There are a bunch out there, so just do so. In my case, I needed a PHP buildpack with several minor changes, and there was not an alternative at the time.
