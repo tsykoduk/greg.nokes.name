@@ -8,8 +8,10 @@ guid: http://greg.nokes.name/?p=15436
 permalink: /2012/05/18/building-a-custom-build-pack-on-heroku-the-hard-way/
 categories:
   - Computers! and Code!
+excerpt_separator:  <!--more-->
 ---
 So you want to build yourself a custom <a href="http://heroku.com">heroku</a> buildpack, and you want to do it the hard way? Look no further, for within lies insanity.
+<!--more-->
 
 There are a few caveats that you'll need to understand. The first, is to use google and make sure that some one else has not already embarked on your particular path of insanity. The second is that there are easier ways then this path. You'll especially want to look at things like <a href="https://github.com/ddollar/vulcan">Vulcan</a>, which will make parts of this a lot easier.
 
@@ -50,3 +52,5 @@ To change the buildpack on an existing app:
 <strong>Step six. Beer</strong>
 
 You thought it was going to be profit, right?
+
+[UPDATE 2018 - There are much better ways to do this now. See <a href="https://devcenter.heroku.com/articles/buildpack-api#binaries">This devcenter article</a>.]

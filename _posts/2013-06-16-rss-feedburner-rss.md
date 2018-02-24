@@ -8,6 +8,7 @@ guid: http://greg.nokes.name/?p=15483
 permalink: /2013/06/16/rss-feedburner-rss/
 categories:
   - Mundane
+excerpt_separator:  <!--more-->
 ---
 I'm going to move away from Feedburner, as I am no longer confident in it's long term viability. This is thanks to Google shutting down reader and moving everything towards the walled garden that is Google Plus. So, if you are one of the two or three people that still follow this blog via RSS, you'll want to move to the feed at <a href="http://greg.nokes.name/feed">http://greg.nokes.name/feed</a> instead of any other. I will not be shutting off the feedburner anytime soon but that day is coming.
 

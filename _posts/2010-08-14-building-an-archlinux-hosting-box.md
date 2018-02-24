@@ -8,8 +8,10 @@ guid: http://greg.nokes.name/?p=15325
 permalink: /2010/08/14/building-an-archlinux-hosting-box/
 categories:
   - Computers! and Code!
+excerpt_separator:  <!--more-->
 ---
 <a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit.png"><img class="alignleft size-medium wp-image-15337" style="border: 5px solid black;" title="Other Linux 2.6.x kernel 64-bit" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-300x224.png" alt="" width="300" height="224" /></a>One of my favorite linux distros has been <a href="http://www.archlinux.org/">archlinux</a> since the early oughts. It's default install is super lightweight, and it's configuration system is a joy (especially after working with several distros with many rc directories and hundreds of symlinks).
+<!--more-->
 
 However, there is a learning curve with archlinux. Since it's so stripped down, some things that you might expect to see are not installed or configured. And following it's minimalist mantra, packages tend to not configure themselves when you install them. Following is blow by blow to help get a box booted up and running.
 

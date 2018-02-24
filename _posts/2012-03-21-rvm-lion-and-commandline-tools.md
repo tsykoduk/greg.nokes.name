@@ -8,8 +8,10 @@ guid: http://greg.nokes.name/?p=15418
 permalink: /2012/03/21/rvm-lion-and-commandline-tools/
 categories:
   - Computers! and Code!
+excerpt_separator:  <!--more-->
 ---
 So, I was updating ruby etc on my Lion box, and I ran into a few issues.
+<!--more-->
 
 First off, I'm using <a href="http://kennethreitz.com/xcode-gcc-and-homebrew.html">Apple's commandline tools</a>. I found that I needed to <code>export CC=/usr/bin/gcc</code> before RVM would work.
 

@@ -12,9 +12,11 @@ tags:
   - all your eggs in one basket
   - backups
   - disk partitioning
+excerpt_separator:  <!--more-->
 ---
 In a recent <a title="Removing Viruses from a PC That Won’t Boot —  Krebs on Security" href="http://www.krebsonsecurity.com/2010/03/removing-viruses-from-a-pc-that-wont-boot/">blog</a> post, <a title="About the Author —  Krebs on Security" href="http://www.krebsonsecurity.com/about/">Brian Krebs</a> mentions the following:
 <blockquote>I also urge users to segment their systems so that important data files are on a separate chunk of hard drive space than the Windows operating system, which tends to make restoring backups a far simpler affair.</blockquote>
+<!--more-->
 
 This is fantastic advice, and should be followed by every operating system rather then just Windows. I've espoused this method for years, and have actually gotten some grief about it.
 

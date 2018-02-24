@@ -12,6 +12,7 @@ tags:
   - ruby
   - rvm
   - scaling
+excerpt_separator:  <!--more-->
 ---
 <img class="size-medium wp-image-15206 alignright" title="Screen shot 2009-12-16 at 5.19.10 PM" src="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-16-at-5.19.10-PM-300x207.png" alt="Screen shot 2009-12-16 at 5.19.10 PM" width="210" height="145" />One of the things that I get to do is advise folks on web application architecture and backend process optimization. All of that is to say that I need to know how certain versions of things like ruby perform under different loads, and be able to advise people on when and where to deploy each one. For testing ruby and ruby programs, <a href="http://rvm.beginrescueend.com/">RVM</a> is invaluable. I'll take you through how I tested a slew of ruby version automagically in this article.
 

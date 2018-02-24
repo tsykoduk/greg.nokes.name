@@ -8,6 +8,7 @@ guid: http://greg.nokes.name/?p=15405
 permalink: /2011/08/21/the-hardest-thing/
 categories:
   - Mundane
+excerpt_separator:  <!--more-->
 ---
 Today, I was blindsided by my 3 1/2 year old self. You see, when I was prying my 6 year old son off me, he was screaming "I don't want to leave daddy!" and I was taken back to when I was 3 1/2. That is when, as far as I can recall, my mom and dad split. I really don't remember what happened, but I was hit by a wave of emotion. From way back in the peanut gallery of my past selves. Abandonment, fear, pain, sadness. Uselessness. A feeling of things spiraling out of my control.
 

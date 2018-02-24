@@ -9,10 +9,12 @@ permalink: /2013/07/29/footprints-in-the-sand/
 categories:
   - Fun!
   - Philosophy! and Politics!
+excerpt_separator:  <!--more-->
 ---
 Footprints in the Sand
 
 ...the Discordian version
+<!--more-->
 
 I dreamed that I was walking down the beach with the Goddess. And
 I looked back and saw footprints in the sand. But sometimes there

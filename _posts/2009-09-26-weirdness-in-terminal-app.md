@@ -13,6 +13,7 @@ tags:
   - OSX
   - rxvt
   - terminal
+excerpt_separator:  <!--more-->
 ---
 I have run into this three or four times now. Each time takes some googling, and that is counterproductive. So here you go. For all of the times you get a new mac, or install a new version of OSX, and you start seeing weirdness in terminal.app while SSH'd into a *nix box..
 <!--more-->

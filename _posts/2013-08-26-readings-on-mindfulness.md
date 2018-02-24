@@ -8,8 +8,10 @@ guid: http://greg.nokes.name/?p=15537
 permalink: /2013/08/26/readings-on-mindfulness/
 categories:
   - Mundane
+excerpt_separator:  <!--more-->
 ---
 Just a disclaimer - I am a Buddhist, so I tend to frame my thinking in Buddhist language. However I am not a religious Buddhist. The only reason that I identify as Buddhist is that the philosophies put forward by the Buddha resound with me, as do the ways that they are presented.
+<!--more-->
 
 I firmly believe that Mindfulness is integral to any spiritual practice, and I personally feel that the Buddha explained it best.
 

@@ -13,6 +13,7 @@ tags:
   - Debian
   - RailsBridge
   - ruby
+excerpt_separator:  <!--more-->
 ---
 <img class="alignleft size-thumbnail wp-image-15186" title="corot7b_eso_big" src="http://greg.nokes.name/wp-content/uploads/2009/10/corot7b_eso_big-150x150.jpg" alt="corot7b_eso_big" width="150" height="150" />
 

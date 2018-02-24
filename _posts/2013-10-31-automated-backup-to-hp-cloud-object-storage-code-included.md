@@ -12,10 +12,12 @@ tags:
   - backups
   - HowTo
   - HP Cloud
+excerpt_separator:  <!--more-->
 ---
 (cross posted from the <a href="http://www.hpcloud.com/blog/automated-backup-hp-cloud-object-storage-code-included">HPCloud Blog</a>. With 75% more typos!)
 
 One of the most basic problems with systems that need to persist data, is making sure that you can recover those systems in the case of a critical error. I’ve used and written backup systems for more time then I’d like to admit (<a href="http://greg.nokes.name/2009/01/12/itunes-backups/">for example</a>). With the advent of cloud storage systems such as S3, moving your data offsite has become much easier, and much easier to recover data from your offsite storage system.
+<!--more-->
 
 Back when I got started in this industry, a tape backup would take hours. And then you’d have to drive it to your safety deposit box and store it. When you needed to recover data, it was a drive and then hours to restore it.
 
