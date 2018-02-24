@@ -10,8 +10,9 @@ categories:
   - Mundane
 tags:
   - Talks
+excerpt_separator:  <!--more-->
 ---
-I was invited to speak on a panel about Cloud Computing at Lone Star Ruby Confrence this year. It was a good time, and not much blood was spilled. After the break, find the video...
-
+I was invited to speak on a panel about Cloud Computing at Lone Star Ruby Conference this year. It was a good time, and not much blood was spilled. After the break, find the video...
+<!--more-->
 
 <iframe src="http://www.youtube.com/embed/BL_yHui-80M" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>

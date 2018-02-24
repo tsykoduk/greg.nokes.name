@@ -11,9 +11,10 @@ categories:
 tags:
   - Hardware
   - Storage
+excerpt_separator:  <!--more-->
 ---
 With the advent of low cost, high capacity storage solutions, and really easy SAN tools baked into most linux distros, a DIY SAN solution is a lot easier then it might seem.
-
+<!--more-->
 Lets start with the hardware. Depending on your needs, a <a title="Petabytes on a budget: How to build cheap cloud storage | Backblaze Blog" href="http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/">BackBlaze Storage Pod</a> might be right up your alley, or a <a href="http://pogolinux.com/bomquotes/webbom?system=218">SuperMicro 24 disk 2U SAS</a> chassis with 15k RPM SAS drives might power your virtual database.
 
 The Backblaze is an awesome solution - for massive, low cost storage. Since you are not using RAID cards, you'll want to use <a title="mdadm - Wikipedia, the free encyclopedia" href="http://en.wikipedia.org/wiki/Mdadm">mdadm</a> to arrange the drives into a big RAID10 array. You loose 50% of your space to redundancy - however you gain short rebuild times, and the ability to survive multiple drive failures. You also get quite a nice speed boost, if that's at all important to you. I'd suggest 2 GigE network interfaces, bonded together. You're not concerned about massive speed, however the ability to get good transfer rates no matter what else is happening is nice.

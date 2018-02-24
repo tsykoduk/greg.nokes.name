@@ -12,11 +12,12 @@ tags:
   - analysis
   - risk vs spending
   - value vs perception
+excerpt_separator:  <!--more-->
 ---
 <img class="alignleft size-medium wp-image-15271" title="lunchmeat2" src="http://greg.nokes.name/wp-content/uploads/2010/04/lunchmeat2-235x300.jpg" alt="" width="141" height="180" />
 
 People are very poor at risk analysis. As such, people "in the biz" come up with metrics to determine <a href="http://en.wikipedia.org/wiki/Rate_of_return">ROI</a>. This might seem cold hearted. Since money is not infinite, we need to have some tool that we can use to measure the effectiveness of each dollar that we put into mitigating risks. 
-
+<!--more-->
 Let's imagine that someone had been killed by a falling piano. If we could mitigate this threat and it would cost 2/3's of our budget, would you? What if random lunchmeat explosions costs 2/3's of the budget to mitigate as well? What if falling piano's claim 10 people a year, and random lunchmeat explosions claim 100,000?
 
 When you look at events with the correct lenses, it's possible to start to understand what's really going on. These are the tools that <a href="http://books.google.com/books?id=sKcdsD1v12oC&lpg=PA38&ots=MLzbeddP4i&dq=john%20hodgman%20actuary&pg=PA37#v=onepage&q&f=false">actuaries</a> use to model the world. It's also the tools that security folks should use to model their spending against threats.

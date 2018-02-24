@@ -12,8 +12,10 @@ categories:
 tags:
   - anonymity
   - privacy
+excerpt_separator:  <!--more-->
 ---
 One of the perceived issues with the increased use of social networks and pervasive online activities is eroding of personal privacy. Some would have us believe that there will be no privacy in the future, and we just need to accept that fact. 
+<!--more-->
 
 I feel very differently. What is eroding is personal anonymity, which is very different then privacy. 
 

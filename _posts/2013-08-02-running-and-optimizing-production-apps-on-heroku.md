@@ -11,8 +11,10 @@ categories:
 tags:
   - Talks
   - Webinars
+excerpt_separator:  <!--more-->  
 ---
 Over the last few months, I've done a few webinars. On was<a href="https://blog.heroku.com/archives/2013/7/11/running-production-apps-on-heroku"> Running Production Apps on Heroku</a>, and the other was <a href="https://blog.heroku.com/archives/2013/8/1/video_and_slides_optimizing_production_apps_on_heroku">Optimizing  Production Apps on Heroku</a>. Below the fold I have the slides and video from the talks.
+<!--more-->
 
 <strong>Slides and Video from <a href="https://blog.heroku.com/archives/2013/7/11/running-production-apps-on-heroku">Running Production Apps on Heroku</a>:</strong>
 <iframe src="https://player.vimeo.com/video/69263217" height="381" width="100%" allowfullscreen="" frameborder="0"></iframe>

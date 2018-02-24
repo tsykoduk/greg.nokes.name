@@ -8,8 +8,10 @@ guid: http://greg.nokes.name/?p=15431
 permalink: /2012/04/25/odd-little-gem-error/
 categories:
   - Computers! and Code!
+excerpt_separator:  <!--more-->
 ---
 <p>While hacking at my favorite <a href="http://www.afktavern.com/">tavern</a>, I noted that I needed to update a gem file. When I tried, gem said that it had succeeded, but there were some odd little errors:</p>
+<!--more-->
 
 <script src="https://gist.github.com/2494561.js"> </script>
 

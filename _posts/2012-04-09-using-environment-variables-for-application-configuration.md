@@ -11,9 +11,10 @@ categories:
 tags:
   - Best Practices
   - Deployment
+excerpt_separator:  <!--more-->
 ---
 <p>One of the cool things about what I do, is that I get exposed to some really interesting paradigms. One of the latest is the <a href="http://www.12factor.net/">12 factor app</a>. It's an evolution of some of what I have thought in the past, and a radical departure in others.
-
+<!--more-->
 <p>I'm going to talk about just one of the concepts right now. It was one of the ones that made the least amount of sense to me, until I started to use it. I'm also going to show a concrete example of how to use it in a production system.</p>
 
 <p>Of course, I'm talking about the use of <a href="http://www.12factor.net/config">environment variables for application configuration</a>. At first, I though that it was a "nice to have" or perhaps even a little more work then was really needed. Now, I'm going to standardize on this no matter where I deploy, or what I deploy.</p>

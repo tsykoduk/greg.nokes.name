@@ -1,8 +1,25 @@
 url: http://greg.nokes.name
-name: DaRoost
-description: >
-  A wayward journey into the depths of sanity
+title: DaRoost
+description: 'A wayward journey into the depths of sanity'
 
-theme: minima
-plugins: ['kramdown']
+# theme: type-on-strap
+# theme: minima
+theme: jekyll-theme-hydeout
+
+author:
+  name:           'Greg Nokes'
+  url:            https://twitter.com/tsykoduk
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - kramdown
+
+markdown:         kramdown
+highlighter:      rouge
+  
+sidebar_home_link:  true
+paginate:         5
+
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned']

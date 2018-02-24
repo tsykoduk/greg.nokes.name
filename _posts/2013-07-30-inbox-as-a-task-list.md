@@ -8,8 +8,10 @@ guid: http://greg.nokes.name/?p=15508
 permalink: /2013/07/30/inbox-as-a-task-list/
 categories:
   - Mundane
+excerpt_separator:  <!--more-->
 ---
 So, yesterday I read <a href="http://xph.us/2013/01/22/inbox-zero-for-life.html">this</a>. It echoed a lot of how I approach my inbox as a task list, and some of the ideas there pushed my inbox-fu to black belt levels. However I work in a different environment then Keith does, with a lot more customer facing email. I've merged Keith's ideas with my workflow, and have come up with a gmail centric inbox-fu which is agile, powerful, and above all easy.
+<!--more-->
 
 First off you'll need to get the tools that you will need. I use the wonderful <a href="http://www.boomeranggmail.com/faq.html">boomerang</a> to schedule things. You will also need to set your inbox to "starred first":
 
