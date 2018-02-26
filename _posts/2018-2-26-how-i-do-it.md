@@ -13,9 +13,9 @@ excerpt_separator:  <!--more-->
 I think that the workflow I have developed for this blog is pretty interesting, so I decided to write up how I currently approach it.
 <!--more-->
 
-The first step is to write an outline. I currently use Textmate, but I am thinking about trying out Visual Studio, as a few friends have been gushing about it. On my iPad I will use working copy.
+The first step is to write an outline. I currently use [Textmate 2](http://macromates.com), but I am thinking about trying out [Visual Studio](https://code.visualstudio.com), as a few friends have been gushing about it. On my iPad I will use [Working Copy](https://workingcopyapp.com).
 
-![Textmate Getting Started](/wp-content/uploads/2018/02/textmate-getting-started.png)
+![Getting Started](/wp-content/uploads/2018/02/textmate-getting-started.png)
 
 The second step is to create a local branch for the article:
 
