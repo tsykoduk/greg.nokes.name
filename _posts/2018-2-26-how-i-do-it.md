@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
 ---
-I think that the workflow I have developed for this blog is pretty interesting, so I decided to write up how I currently make the sausage.
+I think that the workflow I have developed for this blog is pretty interesting, so I decided to write up how I currently approach it.
 <!--more-->
 
 The first step is to write an outline. I currently use Textmate, but I am thinking about trying out Visual Studio, as a few freinds have been gushing about it. On my iPad I will use working copy.
