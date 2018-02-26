@@ -33,4 +33,17 @@ Since I have a pipeline set up on Heroku with review apps enabled, once the PR i
 
 I can hand out review app to folks that I want to get feedback from. Also, as I revise the app and push those changes to my PR, those changes automatically appear in the review app.
 
+![Merge PR](/wp-content/uploads/2018/02/Merge-PR.png)
+
+Once I am done with the article, I can push it into staging. I do this by simply merging the PR into my master branch. Once the PR is merged or deleted, the review app is disposed of.
+
+If the PR is merged into the master branch, my staging app detects the new code, and automatically deploys it. If I had unit tests written, I could hook up Heroku CI to automagically run my tests previous to the deploy.
+
+![Building Staging](/wp-content/uploads/2018/02/Building-Staging.png)
+
+Once I am happy with the article, I can promote it into production.
+
+![Promote To Production](/wp-content/uploads/2018/02/Promote-to-Production.png)
+
+What is super nice about this workflow is when I want to do larger changes (for example, swapping out the theme) I can do that with out a fear of breaking the running app. When I used to host on Wordpress, I would often be making larger changes 
 
