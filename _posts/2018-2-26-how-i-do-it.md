@@ -29,6 +29,6 @@ The third step is to create a pull request on Github for this request:
 Since I have a pipeline set up on Heroku with review apps enabled, once the PR is opened on Github you will notice that Heroku automatically creates an app tied to that PR.
 
 ![Pr Opned](../wp-content/uploads/2018/02/pr-opned.png)
-![Review App Created](../wp-content/uploads/2018/02/review%20app%20created.png)
+![Review App Created](../wp-content/uploads/2018/02/review-app-created.png)
 
 I can hand out review app to folks that I want to get feedback from. Aslo, as I revise the app and push those changes to my PR, those changes automatically appear in the review app.
