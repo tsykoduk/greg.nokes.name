@@ -48,4 +48,3 @@ Once I am happy with the article, I can promote it into production.
 What is super nice about this workflow is when I want to do larger changes (for example, swapping out the theme) I can do that with out a fear of breaking the running app. When I used to host on Wordpress, I would often be making larger changes live on my site, with exciting results.
 
 You can read about how to create a pipeline on [Heroku's Devcenter](https://devcenter.heroku.com/articles/pipelines).
-
