@@ -21,7 +21,7 @@ The second step is to create a local branch for the article:
 
 ![Local Branch](/wp-content/uploads/2018/02/local-branch.png)
 
-The third step is to create a pull request on Github for this request:
+The third step is to push the branch to Github and create a pull request:
 
 ![Push To Github](/wp-content/uploads/2018/02/push-to-github.png)
 ![Open Pr](/wp-content/uploads/2018/02/open-pr.png)
@@ -31,4 +31,6 @@ Since I have a pipeline set up on Heroku with review apps enabled, once the PR i
 ![Pr Opned](/wp-content/uploads/2018/02/pr-opned.png)
 ![Review App Created](/wp-content/uploads/2018/02/review-app-created.png)
 
-I can hand out review app to folks that I want to get feedback from. Aslo, as I revise the app and push those changes to my PR, those changes automatically appear in the review app.
+I can hand out review app to folks that I want to get feedback from. Also, as I revise the app and push those changes to my PR, those changes automatically appear in the review app.
+
+
