@@ -26,7 +26,7 @@ The third step is to push the branch to Github and create a pull request:
 ![Push To Github](/wp-content/uploads/2018/02/push-to-github.png)
 ![Open Pr](/wp-content/uploads/2018/02/open-pr.png)
 
-Since I have a pipeline set up on Heroku with review apps enabled, once the PR is opened on Github you will notice that Heroku automatically creates an app tied to that PR.
+Since I have a [pipeline](https://devcenter.heroku.com/articles/pipelines) set up on Heroku with review apps enabled, once the PR is opened on Github you will notice that Heroku automatically creates an app tied to that PR.
 
 ![Pr Opened](/wp-content/uploads/2018/02/pr-opened.png)
 ![Review App Created](/wp-content/uploads/2018/02/review-app-created.png)
