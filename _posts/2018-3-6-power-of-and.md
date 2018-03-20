@@ -13,3 +13,4 @@ excerpt_separator:  <!--more-->
 I was sitting in a session about a consultive approach, and the presenter talked about the power of "and" rather then "or".
 <!--more-->
 
+This really got me thinking about how to apply this to the rest of life
