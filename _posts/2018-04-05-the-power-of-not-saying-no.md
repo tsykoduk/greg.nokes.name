@@ -1,11 +1,11 @@
 ---
 id: 15580
 title: The Power of not saying No
-date: 2018-03-21
+date: 2018-04-05
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15580
-permalink: /2018/03/21/the-power-of-not-saying-no
+permalink: /2018/04/05/the-power-of-not-saying-no
 categories:
   - Computers! and Code!
 ---
