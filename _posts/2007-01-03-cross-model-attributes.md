@@ -38,39 +38,22 @@ categories:
 <p>My solution at this time is to create another model, which I have called Attributes. This has the following layout:</p>
 
 
-<table class="CodeRay"><tr>
-  <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre>1<tt>
-</tt>2<tt>
-</tt>3<tt>
-</tt>4<tt>
-</tt><strong>5</strong><tt>
-</tt>6<tt>
-</tt>7<tt>
-</tt>8<tt>
-</tt>9<tt>
-</tt><strong>10</strong><tt>
-</tt></pre></td>
-  <td class="code"><pre ondblclick="with (this.style) { overflow = (overflow == 'auto' || overflow == '') ? 'visible' : 'auto' }"><span class="r">class</span> <span class="cl">Attribute</span> &lt; <span class="co">ActiveRecord</span>::<span class="co">Base</span><tt>
-</tt>  belongs_to <span class="sy">:owner</span>, <span class="sy">:polymorphic</span> =&gt; <span class="sy">:true</span><tt>
-</tt>  <tt>
-</tt> <span class="c"># Attribute has the following fields:</span><tt>
-</tt> <span class="c"># owner_type as string</span><tt>
-</tt> <span class="c"># owner_id as integer</span><tt>
-</tt> <span class="c"># type as string</span><tt>
-</tt> <span class="c"># value as string</span><tt>
-</tt><tt>
-</tt> <span class="r">end</span></pre></td>
-</tr></table>
+<pre><code>
+class Attribute ActiveRecord::Base
+	belongs_to :owner, :polymorphic :true
+	# Attribute has the following fields:
+	# owner_type as string
+	# owner_id as integer
+	# type as string
+	# value as string
+end</code></pre>
 
 
 <p>Each of my models which will use these will include the has_many directive:</p>
 
-
-<table class="CodeRay"><tr>
-  <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre><tt>
-</tt></pre></td>
-  <td class="code"><pre ondblclick="with (this.style) { overflow = (overflow == 'auto' || overflow == '') ? 'visible' : 'auto' }"> has_many <span class="sy">:attribute</span>, <span class="sy">:as</span> =&gt; <span class="sy">:owner</span></pre></td>
-</tr></table>
+<pre><code> 
+	has_many :attribute, :as :owner
+</pre></code>
 
 
 <p>When a new instance of a model is created, I run an after_create function (which I cleverly call Templater) which figures out which type (or species) of model is being created, and pre-populates a default set of attributes.</p>
