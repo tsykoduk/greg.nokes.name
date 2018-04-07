@@ -53,7 +53,7 @@ end</code></pre>
 
 <pre><code> 
 	has_many :attribute, :as :owner
-</pre></code>
+</code></pre>
 
 
 <p>When a new instance of a model is created, I run an after_create function (which I cleverly call Templater) which figures out which type (or species) of model is being created, and pre-populates a default set of attributes.</p>
