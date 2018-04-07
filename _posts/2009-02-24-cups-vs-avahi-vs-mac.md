@@ -13,9 +13,9 @@ tags:
 ---
 <p>I have an old HP Laser Jet 6L as my primary printer at home. It's a trooper - I got it new years ago, and I have never had a problem with it. A few years ago, I got an <span class="caps">APC</span> Parallel Port to <span class="caps">USB</span> converter. That works great, until I tried to plug it unto my new Airport Express 802.11n. Woops. Lucky me I have a Linux box right next to the printer..</p>
 
-            <!--more-->
+<!--more-->
 
-            <p>So the box was running Debian Etch and a Half. I had Netatalk and Avahi running on it with a custom compiled netatalk including <span class="caps">SSL</span> support for <span class="caps">DHX</span> authentication.</p>
+<p>So the box was running Debian Etch and a Half. I had Netatalk and Avahi running on it with a custom compiled netatalk including <span class="caps">SSL</span> support for <span class="caps">DHX</span> authentication.</p>
 
 
 <p>I plugged the printer in, <span class="caps">CUPS</span> saw it, and presto. But when I went to add it to my mac, I could not browse for it. No problem, right? add it to Avahi. No sweat.</p>

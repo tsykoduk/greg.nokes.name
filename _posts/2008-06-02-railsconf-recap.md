@@ -12,12 +12,12 @@ categories:
   - Mundane
 ---
 <p>So, I got to go hang out with all of the folks at RailsConf in portland this year. Way cool, lots of fun!</p>
-
+<!--more-->
 
 <p>Highlights:</p>
 
 
-<p>"If you think I am lying, just punch me!" <del>- <span class="caps">WACK</span> -</del> OW! (the great stripper brawl of 2008)</p>
+<p>"If you think I am lying, just punch me!" <del>- <span class="caps">WACK</span> -</del> OW! (the great brawl of 2008)</p>
 
 
 <p>"Is that Bacon on that maple bar??" (asks a New Yorker)</p>

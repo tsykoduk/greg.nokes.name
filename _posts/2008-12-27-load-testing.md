@@ -11,9 +11,9 @@ categories:
 ---
 <p>If you notice some slowness, I am playing around with the fantastic <a href="http://newrelic.com">New Relic</a> performance and code introspection tool.</p>
 
-            <!--more-->
+<!--more-->
 
-            <p>I have found that at about 15 - 20 requests per minute per app server, <a href="http://mephistoblog.com/">Mephisto</a> starts to bog down a little. We went from a wall clock of 1 second per page view to about 3. Not to bad.</p>
+<p>I have found that at about 15 - 20 requests per minute per app server, <a href="http://mephistoblog.com/">Mephisto</a> starts to bog down a little. We went from a wall clock of 1 second per page view to about 3. Not to bad.</p>
 
 
 <p>With the <span class="caps">VPS I</span> am running on (a <a href="http://engineyard.com">Engine Yard</a> slice) the <span class="caps">CPU</span> was not taxed. I am running <a href="http://code.macournoyer.com/thin/">Thin</a> and each of them grew to a manageable 200 mb of <span class="caps">RAM</span> and hovered there.</p>

@@ -14,9 +14,9 @@ tags:
 ---
 <p>Now that I had this test bed for new hotness running the new hotness, I decided I should get the caching working again.</p>
 
-            <!--more-->
+<!--more-->
 
-            <p>Well, this is 2.0 of the code. This seems to work a lot better (like, works in general).</p>
+<p>Well, this is 2.0 of the code. This seems to work a lot better (like, works in general).</p>
 
 
 <pre>

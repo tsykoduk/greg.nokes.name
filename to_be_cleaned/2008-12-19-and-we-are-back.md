@@ -10,5 +10,3 @@ categories:
   - Mundane
 ---
 Yup - after some hair pulling, gnashing of teeth etc, we are back up and running. Woo Hoo - another lame blog.
-
-            <!--more-->

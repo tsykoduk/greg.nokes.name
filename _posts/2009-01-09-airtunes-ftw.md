@@ -11,9 +11,9 @@ categories:
 ---
 <p>As many of you (all one of you?) know, I work from home. Yay me. Well I just reorganized my office, and thought I would share</p>
 
-            <!--more-->
+<!--more-->
 
-            <p>My primary workspace is a 3 level corner desk. I have Harmon Kardon Sound Sticks as my speakers, a 19's <span class="caps">NEC</span> Opticlear as my primary monitor, an apple aluminum keyboard and a mighty mouse. My primary computer is a white MacBook, and it's monitor is my secondary screen.</p>
+<p>My primary workspace is a 3 level corner desk. I have Harmon Kardon Sound Sticks as my speakers, a 19's <span class="caps">NEC</span> Opticlear as my primary monitor, an apple aluminum keyboard and a mighty mouse. My primary computer is a white MacBook, and it's monitor is my secondary screen.</p>
 
 
 <p>I have an old Dell Intel&#174; Pentium&#174; 4 <span class="caps">CPU 1</span>.60GHz with  645624 kB <span class="caps">RAM</span>, a 20gb <span class="caps">HDD</span> and Linux 2.6.24-etchnhalf.1-686 running on it. I use the digital port for my macbook, and the analog port for the debian box, but 99% of the time I just ssh into it.</p>

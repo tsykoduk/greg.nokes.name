@@ -13,9 +13,9 @@ categories:
 
 <blockquote>Here's a sobering statistic: Eighty percent of enterprise IT functions are being duplicated by folks outside of the IT department, says Hank Marquis, director of ITSM (IT systems management) consulting at Enterprise Management Associates. In other words, for every 10 people doing IT work as part of their jobs, you've got another eight "shadow IT" staffers doing it on their own. </blockquote>
 
-            <!--more-->
+<!--more-->
 
-            <blockquote>You probably know them. They're the ones who installed their own Wi-Fi network in the break room and distribute homemade number-crunching apps to their coworkers on e-mail. They're hacking their iPhones right now to work with your company's mail servers. In short, they're walking, talking IT governance nightmares. </blockquote>
+<blockquote>You probably know them. They're the ones who installed their own Wi-Fi network in the break room and distribute homemade number-crunching apps to their coworkers on e-mail. They're hacking their iPhones right now to work with your company's mail servers. In short, they're walking, talking IT governance nightmares. </blockquote>
 
 <p>-<a href="http://www.infoworld.com/article/08/04/14/16FE-guerrilla-it_1.html">Infoworld</a> </p>
 

@@ -12,6 +12,6 @@ categories:
 ---
 Some times  you just have to assume that the rest of the world is insane and you are sane....
 
-            <!--more-->
+<!--more-->
 
-            <a href="http://xkcd.com/530/"><img src="http://imgs.xkcd.com/comics/im_an_idiot.png" style="width: 580px;" /></a>
+<a href="http://xkcd.com/530/"><img src="http://imgs.xkcd.com/comics/im_an_idiot.png" style="width: 580px;" /></a>
