@@ -25,14 +25,14 @@ The two scripts simply backup to different directories on the backup volume (<co
 Next week, I add error checking and email reporting to the mix!
 
 <strong>Daily code</strong>
-<code>#!/bin/bash
+<pre><code>#!/bin/bash
 #backup of itunes directory to shared HDD on networky
 #daily backup
 
-rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.dly/</code>
+rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.dly/</code></pre>
 <strong>Weekly code</strong>
-<code>#!/bin/bash
+</pre><code>#!/bin/bash
 # backup of itunes directory to shared HDD on networky
 # Weekly backup
 
-rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.wky/</code>
+rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.wky/</code></pre>
