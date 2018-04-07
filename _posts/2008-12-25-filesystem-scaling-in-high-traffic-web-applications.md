@@ -14,8 +14,8 @@ tags:
   - web application
 ---
 One of the more interesting problems that high traffic, high load web applications face is how to scale the filesystem. As load increases, vertical scaling (bigger servers) simply does not work. You have to add more application servers, and more layers to effectively serve the needs of the users. One of the issues that many such applications have to overcome is how to serve assets (pictures, podcasts, video) to all of the edge servers that a user might access the application from, and allow users to upload user generated content.
-
 <!--more-->
+
 <h3>What is Filesystem Sharding?</h3>
 As disk IO based applications grow, they tend to run into limits of IO speed, file system size and stability. This trend is especially relevant in clustered web applications using a cluster aware filesystem such as <span class="caps">GFS</span>, NFS or Lustre FS. However it effects all applications which use disk to store assets at some point.
 
@@ -31,46 +31,48 @@ Basic Sharding is accomplished by taking the shared file system, and adding seve
 
 As an aside, one of the limitations of many cluster file systems is performance degradation when there are to many files in one directory. In preparation for sharding the filesystem, it's often beneficial to use this hashing system to break up your filesystem before implementing complete filesystem sharding. One of the advantages is that this positions you for painless movement to the goal. Since Linux mounts filesystems as directories, it is a trivial task to move the existing directories, mount the new filesystems, and then move the data back. If you already have the hashing system in place and tested, this makes the move that much less stressful.
 
-<code>if user.name is odd</code>
-
-<code>... use /data/shard_1
-
+<pre><code>
+if user.name is odd
+	... use /data/shard_1
 else
-
-... use /data/shard_2
-
-</code>
-
-<code>end</code>
+	... use /data/shard_2
+end
+</code></pre>
 
 Logically the disk layout will be very simple,
-<pre>/data
+<pre><code>/data
     /shard_1
-    /shard_2</pre>
+    /shard_2</code></pre>
 and the physical layout will be similar.
+
 <pre><code>/dev/sda1 mounts to /
 /dev/sdb1 mounts to /data
 /dev/sdc1 mounts to /data/shard_1
 /dev/sdd1 mounts to /data/shard_2</code></pre>
+
 The advantages of this over a standard one file system approach are two fold. First, mount times and file system repair/check times are decreased, as the file systems are each smaller. Secondly, file system maintenance can be preformed on the live application with less undesirable side effects then simply taking the entire application off line. One can imagine a error rescue that displays a maintenance page when a users file share is not accessible, thereby allowing some users access to the application while other filesystems are being maintained.
 
 From a physical layer, this also allows us to do some interesting things like splitting the filesystem to different <span class="caps">RAID</span> arrays. We can even split out the filesystems across different <span class="caps">RAID</span> controllers. We can also start to explore using expensive, fast <span class="caps">RAID</span> arrays only where you actually need them, and use slower, less expensive disk where warranted.
 
 A more robust version of the sharding algorithm could look like
-<pre><code>case user.name first character
-    when = "abcd"
+<pre><code>
+case user.name first character
+	when = "abcd"
         ... use shard_abcd
     when = "efgh"
-    etc...</code></pre>
+    etc...
+</code></pre>
 It's logical disk layout would be
-<pre><code>/data
+<pre><code>
+	/data
     /shard_abcd
     /shard_efgh
     /shard_ijkl
     /shard_mnop
     /shard_qrst
     /shard_uvwx
-    /shard_yz</code></pre>
+    /shard_yz
+</code></pre>
 It's physical layout would be similar to the first example - each shard mount would be on it's own physical device.
 <h3>Application level filesystem independence</h3>
 Application level filesystem independence is an architectural choice, rather then a quick fix. When you reach the point where you are considering this as an option, you have probably already implemented basic sharding. A low level discussion of how to accomplish this is beyond this paper, however we can present some ideas that we have seen work in production sites.
