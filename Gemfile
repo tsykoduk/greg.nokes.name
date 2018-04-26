@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 #Let's get in the Ruby 2.5 train
 
-ruby "2.5"
+ruby "~> 2.5"
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
