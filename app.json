@@ -1,5 +1,6 @@
 {
   "name": "greg.nokes.name",
+   "stack": "heroku-18",
   "scripts": {
   },
   "env": {
