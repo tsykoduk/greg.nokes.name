@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# brew upgrade
-# heroku update
+brew upgrade
+heroku update
 bundle update
 git status
 git add .
