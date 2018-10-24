@@ -13,8 +13,7 @@ ruby "~> 2.5.3"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
-xgem "jekyll"
+gem "jekyll"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
