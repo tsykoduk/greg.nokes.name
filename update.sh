@@ -7,4 +7,4 @@ git status
 git add .
 git commit -m "updating gems and stuff"
 git push origin master
-heroku logs -t mysterious-depths-92606
+heroku logs -t -a mysterious-depths-92606
