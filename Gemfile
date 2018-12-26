@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-#Let's get in the Ruby 2.5 train
+#Let's get in the Ruby 2.6 train
 
 ruby "~> 2.6"
 
