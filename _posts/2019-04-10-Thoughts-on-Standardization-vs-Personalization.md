@@ -5,7 +5,7 @@ date: 2019-04-10
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15581
-permalink: /2019/04/10/thoughts-on-standardization-vs-personalization
+permalink: /2019/04/10/thoughts-on-standardization-vs-personalization/
 categories:
   - Computers! and Code!
 ---
