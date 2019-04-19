@@ -28,11 +28,11 @@ However you do have to get these experiences right. For example I love when a ho
 
 That being said, I was at a hotel which had rolled that service out, and I had the following conversation:
 
-    "Welcome to _____, Greg! We are here for you, so please text us for suggestions on things to do, housekeeping requests, dinner reservation - really ANYTHING! Text back "____" for special hotel guest offers. **Text & data rates may apply. Text 'STOP' to discontinue receiving messages from ___."
+> "Welcome to _____, Greg! We are here for you, so please text us for suggestions on things to do, housekeeping requests, dinner reservation - really ANYTHING! Text back for special hotel guest offers. **Text & data rates may apply. Text 'STOP' to discontinue receiving messages from ___."
 
-    "Hey I actually forgot my toothbrush and a hair brush. Any chance you could deliver one to my room before tomorrow morning?"
+> "Hey I actually forgot my toothbrush and a hair brush. Any chance you could deliver one to my room before tomorrow morning?"
 
-    "Unfortunately we do not have hairbrushes."
+> "Unfortunately we do not have hairbrushes."
 
 I ended up heading down to the hotel’s gift shop and buying a tooth brush and hair brush. 
 
