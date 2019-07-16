@@ -38,6 +38,6 @@ I ended up heading down to the hotel’s gift shop and buying a tooth brush and 
 
 They had a chance to make a memorable interaction with me. But they failed at their "really ANYTHING!" promise. Was I upset? Not really. But that interaction stuck with me. A little more initiative would have turned that from a memorable meh into an memorable wow moment.
 
-The modern consumer is demanding more and more personalized experiences. And they are demanding it via more and more channels Twitter, SMS, iMessage, FB messenger and WhatsApp to name a few. How can you mange these interactions on these disparate channels?
+The modern consumer is demanding more and more personalized experiences. And they are demanding it via more and more channels: Twitter, SMS, iMessage, FB messenger and WhatsApp to name a few. How can you mange these interactions on these disparate channels?
 
 The technology to accomplish this is already here. Stitching it together, and learning about your customers is the hard part. But the folks that get this right will stand head and shoulders above the ones that just standardize on a common experience.
