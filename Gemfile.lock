@@ -56,7 +56,7 @@ GEM
     mercenary (0.3.6)
     multi_json (1.13.1)
     multipart-post (2.1.1)
-    nio4r (2.5.1)
+    nio4r (2.5.2)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
