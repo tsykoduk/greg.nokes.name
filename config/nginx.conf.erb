@@ -35,12 +35,9 @@ http {
 
     location / {
 		root _site/;
+		index index.html;
     }
 	
-	location ~ ^/(.+?)(/.*)?$ {
-	  alias _site/page$2/;
-	}
-
 
   }
 }
