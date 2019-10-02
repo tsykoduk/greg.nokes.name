@@ -31,12 +31,12 @@ http {
     listen <%= ENV["PORT"] %>;
     error_page 404 404.html;
 	error_page 403 403.html;
-	root _site/;
+
 	
-    #if this works..
     port_in_redirect off;
 
     location / {
+	    root _site/;
 		try_files $uri $uri/ /index.html;
     }
   }
