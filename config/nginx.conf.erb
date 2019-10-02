@@ -30,12 +30,12 @@ http {
 
   server {
     listen <%= ENV["PORT"] %>;
-	root /app/;
+	root app/;
     error_page 404 404.html;
 	error_page 403 403.html;
 
     location / {
-		root /app/_site/;
+		root app/_site/;
     }
 
 
