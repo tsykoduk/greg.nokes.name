@@ -17,8 +17,8 @@ http {
   
   log_format main '$time_iso8601 - $status $request - client IP: $http_x_forwarded_for - <%= ENV['DYNO'] %> to $upstream_addr - upstream status: $upstream_status, upstream_response_time $upstream_response_time, request_time $request_time';
   access_log /dev/stdout main;
-  error_log /dev/stdout warn;
-  redirect_log /dev/stdout debug;
+  error_log /dev/stdout notice;
+  log_not_found on;
   
   log_not_found on;
 
