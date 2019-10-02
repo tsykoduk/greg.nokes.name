@@ -31,10 +31,9 @@ http {
   server {
     listen <%= ENV["PORT"] %>;
 	root /;
-	
+    error_page 404 /404.html;
 
     location / {
- 	  index.htm index.html;
     }
 
 
