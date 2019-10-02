@@ -35,8 +35,11 @@ http {
 
     location / {
 		root _site/;
-		autoindex on;
     }
+	
+	location /page? {
+		root _/site/page$1
+	}
 	
 
   }
