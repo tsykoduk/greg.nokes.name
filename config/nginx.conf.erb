@@ -35,7 +35,7 @@ http {
 
     location / {
 		root _site/;
-		try_files $uri $uri.html $uri/ =404;
+		autoindex on;
     }
 	
 
