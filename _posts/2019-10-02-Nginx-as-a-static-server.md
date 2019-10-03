@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
 ---
 
-I was doing some preformance testing on this site, and while I was impressed, I felt like I could wring some more preformance out of it.  I decided to swtcih from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little qucker and lighter.
+I was doing some preformance testing on this site, and while I was impressed, I felt like I could wring some more preformance out of it.  I decided to swtcih from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little quicker and lighter.
 
 <!--more-->
 
