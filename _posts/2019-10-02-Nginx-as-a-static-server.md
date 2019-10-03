@@ -11,6 +11,7 @@ categories:
 ---
 
 I was doing some preformance testing on this site, and while I was impressed, I felt like I could wring some more preformance out of it.  I decided to swtcih from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little qucker and lighter.
+<<<<<<< HEAD
 
 <!--more-->
 
@@ -131,3 +132,5 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 	  98%    685
 	  99%    696
 	 100%    986 (longest request)
+	 
+
