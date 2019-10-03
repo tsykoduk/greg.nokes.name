@@ -14,7 +14,7 @@ I was doing some preformance testing on this site, and while I was impressed, I 
 
 <!--more-->
 
-The first step was to get Nginx set up on the Heroku App. I had the static buildpack already, so moving to the Nginx buildpack took a few steps.
+The first step was to get Nginx set up on the Heroku App. I had the static buildpack already, so I simply had to remove the Static buildpack and add the Nginx buildpack.
 
 First I create a `config` directory and put my `nginx.conf.erb` file in it. The Nginx buildpack will grab that file, process it, and then use it to run Nginx on the dyno. I found this config to work well:
 
