@@ -33,7 +33,11 @@ http {
 	error_page 403 /403.html;
 	
 	# did not work rewrite https://$host$request_uri;
-	rewrite ^ https://$host$request_uri permanent;
+	# boom failed. I guess a if is needed rewrite ^ https://$host$request_uri permanent;
+
+	if ($http_x_forwarded_proto != "https") {
+	  return 301 https://$host$request_uri;
+	}
 		
     port_in_redirect off;
 
