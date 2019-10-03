@@ -33,14 +33,14 @@ gem "jekyll-theme-hydeout"
 
 #Theme
 #gem "jekyll-theme-hydeout", "~> 3.3"
-gem 'rack-ssl-enforcer'
+#gem 'rack-ssl-enforcer'
 #gem "hyde"
 gem "jekyll-paginate"
 gem 'kramdown'
 gem 'coderay'
-gem 'rack-jekyll'
+#gem 'rack-jekyll'
 gem 'rake'
-gem 'puma'
+#gem 'puma'
 gem "barnes"
 gem 'jekyll-feed'
 
