@@ -1,7 +1,11 @@
 ---
 id: 15581
 title: Nginx as a static site server on Heroku
+<<<<<<< HEAD
 date: 2019-10-05
+=======
+date: 2019-10-02
+>>>>>>> wrong date
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15590
