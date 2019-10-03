@@ -33,7 +33,7 @@ http {
 	error_page 403 /403.html;
 	
 	# did not work rewrite https://$host$request_uri;
-	rewrite ^ https://$server_name$request_uri? permanent;
+	rewrite ^ https://$host$request_uri permanent;
 		
     port_in_redirect off;
 
