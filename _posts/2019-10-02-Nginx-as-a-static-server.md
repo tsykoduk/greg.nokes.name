@@ -5,7 +5,7 @@ date: 2019-10-03
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15590
-permalink: /2019/10/05/Nginx-as-a-static-server
+permalink: /2019/10/03/Nginx-as-a-static-server
 categories:
   - Computers! and Code!
 ---
