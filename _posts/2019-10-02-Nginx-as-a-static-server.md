@@ -2,7 +2,6 @@
 id: 15581
 title: Nginx as a static site server on Heroku
 date: 2019-10--02
->>>>>>> rough draft
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15590
@@ -12,7 +11,6 @@ categories:
 ---
 
 I was doing some preformance testing on this site, and while I was impressed, I felt like I could wring some more preformance out of it.  I decided to swtcih from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little qucker and lighter.
-<<<<<<< HEAD
 
 <!--more-->
 
