@@ -67,7 +67,7 @@ Well, is it fast?
 
 I ran ab on it again, and there is a large improvment. Larger then I expected.
 
-The old configuration had a perc99 under load of 1.7 seconds per request, and the new has a perc99 of 0.6 seconds. More then a second per reqeust faster!
+The old configuration had a perc99 under load of 1.7 seconds per request, and the new has a perc99 of 0.6 seconds. More then a second per request faster!
 
 **Old Config**
 
