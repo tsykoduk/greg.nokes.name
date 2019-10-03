@@ -146,15 +146,7 @@ A redirect would be preferable, however since we are behind the Heroku Router, a
 
 **With SSL Redirect**
 
-	Server Software:        nginx
-	Server Hostname:        mysterious-depths-92606.herokuapp.com
-	Server Port:            443
-	SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,2048,128
-	TLS Server Name:        mysterious-depths-92606.herokuapp.com
-	
-	Document Path:          /
-	Document Length:        6730 bytes
-	
+
 	Concurrency Level:      100
 	Time taken for tests:   26.618 seconds
 	Complete requests:      5000
