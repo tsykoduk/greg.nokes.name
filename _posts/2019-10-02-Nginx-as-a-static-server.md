@@ -1,5 +1,5 @@
 ---
-id: 15581
+id: 15590
 title: Nginx as a static site server on Heroku
 date: 2019-10-05
 author: Greg Nokes
@@ -131,4 +131,6 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 	  98%    685
 	  99%    696
 	 100%    986 (longest request)
-	 
+
+
+
