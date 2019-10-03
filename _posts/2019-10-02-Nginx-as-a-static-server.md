@@ -61,11 +61,11 @@ First I create a `config` directory and put my `nginx.conf.erb` file in it. The 
 	  }
 	}
 
-The imoportant parts are the `port_in_redirect off;` and the `root _site/;` directives. The `port_in_redirect` tells Nginx to not embed it's port into any redirects, and `root` tells Nginx where the static files are.
+The important parts are the `port_in_redirect off;` and the `root _site/;` directives. The `port_in_redirect` tells Nginx to not embed it's port into any redirects, and `root` tells Nginx where the static files are.
 
 Well, is it fast?
 
-I ran 'ab' on the site again, and there is a large improvment. Larger then I expected.
+I ran `ab` on the site again, and there is a large improvment. Larger then I expected.
 
 The old configuration had a perc99 under load of 1.7 seconds per request, and the new has a perc99 of 0.6 seconds. More then a second per request faster!
 
