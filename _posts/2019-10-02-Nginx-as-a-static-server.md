@@ -144,7 +144,7 @@ One of the things that I really liked about the Static Buildpack is that it is b
 
 A redirect would be preferable, however since we are behind the Heroku Router, a simple redirect seems to enter into an infinite redirect loop. This slows down processing considerably.
 
-**With SSL Redirect***
+**With SSL Redirect**
 
 	Server Software:        nginx
 	Server Hostname:        mysterious-depths-92606.herokuapp.com
