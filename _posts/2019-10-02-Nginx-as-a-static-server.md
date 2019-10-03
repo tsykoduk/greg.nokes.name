@@ -51,7 +51,7 @@ First I create a `config` directory and put my `nginx.conf.erb` file in it. The 
 	    listen <%= ENV["PORT"] %>;
 	  
 	    error_page 404 /404.html;
-		error_page 403 /403.html;
+        error_page 403 /403.html;
 	  
 	    port_in_redirect off;
 	  
@@ -73,7 +73,7 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 
 	Concurrency Level:      100
 	Time taken for tests:   7.284 seconds
-	Complete requests:      1000
+	Complete requests:      5000
 	Failed requests:        0
 	Total transferred:      6922000 bytes
 	HTML transferred:       6722000 bytes
@@ -184,4 +184,6 @@ A redirect would be preferable, however since we are behind the Heroku Router, a
 	  99%    704
 	 100%   1740 (longest request)
 
-Still respectable, but you can see the impact of using the `if` statement in the Nginx config. I will contiune to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
+Still respectable, but you can see the impact of using the `if` statement in the Nginx config. The perc99 is only 0.1 seconds faster, but milliseconds count! 
+
+I will contiune to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
