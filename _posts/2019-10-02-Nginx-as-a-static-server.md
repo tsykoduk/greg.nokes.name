@@ -137,7 +137,51 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 
 One of the things that I really liked about the Static Buildpack is that it is based on Rack, and I could use the `rack-ssl-enforcer` gem to make sure that all requests were directed to the encrypted version of the site. I did some investigation and found the following stanza would work with the Heroku router:
 
-    STANZA HERE
-	
+	if ($http_x_forwarded_proto != "https") {
+	  return 301 https://$host$request_uri;
+	}
+
 
 A redirect would be preferable, however since we are behind the Heroku Router, a simple redirect seems to enter into an infinite redirect loop. This slows down processing considerably.
+
+**With SSL Redirect***
+
+	Server Software:        nginx
+	Server Hostname:        mysterious-depths-92606.herokuapp.com
+	Server Port:            443
+	SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,2048,128
+	TLS Server Name:        mysterious-depths-92606.herokuapp.com
+	
+	Document Path:          /
+	Document Length:        6730 bytes
+	
+	Concurrency Level:      100
+	Time taken for tests:   26.618 seconds
+	Complete requests:      5000
+	Failed requests:        0
+	Total transferred:      34870000 bytes
+	HTML transferred:       33650000 bytes
+	Requests per second:    187.85 [#/sec] (mean)
+	Time per request:       532.352 [ms] (mean)
+	Time per request:       5.324 [ms] (mean, across all concurrent requests)
+	Transfer rate:          1279.33 [Kbytes/sec] received
+	
+	Connection Times (ms)
+	              min  mean[+/-sd] median   max
+	Connect:      305  385  40.6    381    1618
+	Processing:   101  134  31.4    123     471
+	Waiting:      101  131  28.0    120     469
+	Total:        422  519  48.5    510    1740
+	
+	Percentage of the requests served within a certain time (ms)
+	  50%    510
+	  66%    523
+	  75%    533
+	  80%    544
+	  90%    569
+	  95%    596
+	  98%    630
+	  99%    704
+	 100%   1740 (longest request)
+
+Still respectable, but you can see the impact of using the `if` statement in the Nginx config. I will contiune to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
