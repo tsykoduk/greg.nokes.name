@@ -135,7 +135,7 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 
 **But what about SSL?**
 
-One of the things that I really liked about the Static Buildpack is that it is based on Rack, and I could use the `rack-ssl-enforcer` gem to make sure that all requests were directed to the encrypted version of the site. I did some investigation and found the following stanza would work with the Heroku router:
+One of the things that I really liked about the Static Buildpack is that it is based on Rack, and I could use the `rack-ssl-enforcer` gem to make sure that all requests were directed to the encrypted version of the site. I did some investigation and found the following stanza in the server block would work with the Heroku router:
 
 	if ($http_x_forwarded_proto != "https") {
 	  return 301 https://$host$request_uri;
