@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
 ---
 
-I was doing some preformance testing on this site, and while I was impressed, I felt like I could wring some more preformance out of it.  I decided to swtcih from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little quicker and lighter.
+I was doing some performance testing on this site, and while I was impressed, I felt like I could wring some more speed out of it.  I decided to switch from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little quicker and lighter.
 
 <!--more-->
 
@@ -70,7 +70,7 @@ The important parts are the `port_in_redirect off;` and the `root _site/;` direc
 
 Well, is it fast?
 
-I ran `ab` on the site before and after, and there is a large improvment. Larger then I expected.
+I ran `ab` on the site before and after, and there is a large improvement. Larger then I expected.
 
 The old configuration had a perc99 under load of 1.7 seconds per request, and the new has a perc99 of 0.6 seconds. More then a second per request faster!
 
@@ -179,4 +179,4 @@ A redirect would be preferable, however since we are behind the Heroku Router, a
 
 Still respectable, but you can see the impact of using the `if` statement in the Nginx config. The perc99 is only 0.1 seconds slower with the SSL redirect, but milliseconds count! 
 
-I will contiune to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
+I will continue to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
