@@ -14,7 +14,7 @@ I was doing some performance testing on this site, and while I was impressed, I 
 
 <!--more-->
 
-The first step was to get Nginx set up on the Heroku App. I had the static buildpack already, so I simply had to remove the Static buildpack and add the Nginx buildpack.
+The first step was to get Nginx set up on the Heroku App. I had the static buildpack already, so I simply had to remove it and add the Nginx Buildpack.
 
 The next step is to modify the `Procfile` to run Ngnix in Solo mode:
 
