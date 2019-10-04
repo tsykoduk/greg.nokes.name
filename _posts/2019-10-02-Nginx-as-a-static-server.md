@@ -16,10 +16,13 @@ I was doing some preformance testing on this site, and while I was impressed, I 
 
 The first step was to get Nginx set up on the Heroku App. I had the static buildpack already, so I simply had to remove the Static buildpack and add the Nginx buildpack.
 
-First I created a `config` directory and put my `nginx.conf.erb` file in it. The Nginx buildpack will grab that file, process it, and then use it to run Nginx on the dyno. 
+The next step is to modify the `Procfile` to run Ngnix in Solo mode:
+
+	web: bin/start-nginx-solo 
+
+Then I created a `config` directory and put my `nginx.conf.erb` file in it. The Nginx buildpack will grab that file, process it, and then use it to run Nginx on the dyno. 
 
 I found this config to work well:
-
 
 	daemon off;
 	# Heroku dynos have at least 4 cores
@@ -102,7 +105,6 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 	  99%   1769
 	 100%   1939 (longest request)
 
-
 **New Config**
 
 	Concurrency Level:      100
@@ -134,7 +136,6 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 	  99%    696
 	 100%    986 (longest request)
 
-
 **But what about SSL?**
 
 One of the things that I really liked about the Static Buildpack is that it is based on Rack, and I could use the `rack-ssl-enforcer` gem to make sure that all requests were directed to the encrypted version of the site. I did some investigation and found the following stanza in the server block would work with the Heroku router:
@@ -143,11 +144,9 @@ One of the things that I really liked about the Static Buildpack is that it is b
 	  return 301 https://$host$request_uri;
 	}
 
-
 A redirect would be preferable, however since we are behind the Heroku Router, a simple redirect seems to enter into an infinite redirect loop. This slows down processing considerably.
 
 **With SSL Redirect**
-
 
 	Concurrency Level:      100
 	Time taken for tests:   26.618 seconds
