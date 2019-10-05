@@ -144,7 +144,7 @@ One of the things that I really liked about the Static Buildpack is that it is b
 	  return 301 https://$host$request_uri;
 	}
 
-A redirect would be preferable, however since we are behind the Heroku Router, a simple redirect seems to enter into an infinite redirect loop. This slows down processing considerably.
+A redirect would be preferable, however since we are behind the Heroku Router, a simple redirect seems to enter into an infinite redirect loop. The `if` loop slows down processing considerably.
 
 **With SSL Redirect**
 
