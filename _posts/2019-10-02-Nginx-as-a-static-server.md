@@ -180,3 +180,5 @@ A redirect would be preferable, however since we are behind the Heroku Router, a
 Still respectable, but you can see the impact of using the `if` statement in the Nginx config. The perc99 is only a few milliseconds slower with the SSL redirect, but milliseconds count! 
 
 I will continue to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
+
+One of the other uses for Nginx on Heroku is a on Dyno proxy and static file server. This experiment shows how efficient Nginx can be at hosting the static assets of a complex web application, like Ruby. Using  Nginx as a front end to proxy requests, and serve static files offloads traffic from the language specific app server, and can improve overall performance of a web application.
