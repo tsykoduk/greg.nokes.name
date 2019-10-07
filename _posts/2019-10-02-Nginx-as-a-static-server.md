@@ -1,10 +1,10 @@
 ---
-id: 15590
+id: 15591
 title: Nginx as a static site server on Heroku
 date: 2019-10-07
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15590
+guid: http://greg.nokes.name/?p=15591
 permalink: /2019/10/07/nginx-as-a-static-server-on-heroku/
 categories:
   - Computers! and Code!
