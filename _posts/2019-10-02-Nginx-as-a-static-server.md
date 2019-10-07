@@ -56,7 +56,7 @@ I found this config to work well:
 	    listen <%= ENV["PORT"] %>;
 	  
 	    error_page 404 /404.html;
-        error_page 403 /403.html;
+      error_page 403 /403.html;
 	  
 	    port_in_redirect off;
 	  
@@ -74,11 +74,13 @@ I ran `ab` on the site before and after, and there is a large improvement. Large
 
 The old configuration had a perc99 under load of 1.7 seconds per request, and the new has a perc99 of 0.6 seconds. More then a second per request faster!
 
+
 **Old Config**
 
 	Concurrency Level:      100
 	Time taken for tests:   7.284 seconds
 	Complete requests:      5000
+
 	Failed requests:        0
 	Total transferred:      6922000 bytes
 	HTML transferred:       6722000 bytes
@@ -134,6 +136,7 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 	  95%    643
 	  98%    685
 	  99%    696
+
 	 100%    986 (longest request)
 
 **But what about SSL?**
