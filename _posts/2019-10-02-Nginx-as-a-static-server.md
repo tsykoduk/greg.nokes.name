@@ -1,11 +1,11 @@
 ---
 id: 15590
 title: Nginx as a static site server on Heroku
-date: 2019-10-04
+date: 2019-10-07
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15590
-permalink: /2019/10/04/nginx-as-a-static-server-on-heroku/
+permalink: /2019/10/07/nginx-as-a-static-server-on-heroku/
 categories:
   - Computers! and Code!
 ---
@@ -177,6 +177,6 @@ A redirect would be preferable, however since we are behind the Heroku Router, a
 	  99%    704
 	 100%   1740 (longest request)
 
-Still respectable, but you can see the impact of using the `if` statement in the Nginx config. The perc99 is only 0.1 seconds slower with the SSL redirect, but milliseconds count! 
+Still respectable, but you can see the impact of using the `if` statement in the Nginx config. The perc99 is only a few milliseconds slower with the SSL redirect, but milliseconds count! 
 
 I will continue to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
