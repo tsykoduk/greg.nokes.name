@@ -185,3 +185,7 @@ Still respectable, but you can see the impact of using the `if` statement in the
 I will continue to research and see if I can remove that `if` statement, and find a cleaner way to implement this.
 
 One of the other uses for Nginx on Heroku is a on Dyno proxy and static file server. This experiment shows how efficient Nginx can be at hosting the static assets of a complex web application, like Ruby. Using  Nginx as a front end to proxy requests, and serve static files offloads traffic from the language specific app server, and can improve overall performance of a web application.
+
+**Update 10/10/19**
+
+I quickly found out that I still needed the static builpack in my devclopment and staging enviroments. It's used to build out the static assets that Nginx serves, after all. If you refer back to [How I post an article](https://greg-nokes-name.herokuapp.com/2018/02/26/how-i-do-it/) you will know that I use a Heroku Pipeline to manage posting. The nice thing is that I don't need the Static buildpack or Ruby on my production site, as the slug is promoted intact between the Staging and Production apps. So I have Ruby and the Static buildpack installed and running in prod, but only the Nginx buildpack associated with the production app. Upon writing this I am not even sure if I need any buildpacks associated with the prod app, as the slug already contains a complete built enviroment. More testing is needed.
