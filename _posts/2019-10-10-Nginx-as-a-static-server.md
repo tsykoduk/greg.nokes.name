@@ -5,7 +5,7 @@ date: 2019-10-10
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15600
-permalink: /2019/10/10/Datalakes
+permalink: /2019/10/10/thoughts-on-data-lakes
 categories:
   - Computers! and Code!
 ---
