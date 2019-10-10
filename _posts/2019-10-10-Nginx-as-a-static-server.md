@@ -1,6 +1,6 @@
 ---
 id: 15600
-title: Nginx as a static site server on Heroku
+title: Thoughts on Data Lakes
 date: 2019-10-10
 author: Greg Nokes
 layout: post
