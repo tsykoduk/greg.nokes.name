@@ -3,9 +3,6 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    barnes (0.0.7)
-      multi_json (~> 1)
-      statsd-ruby (~> 1.1)
     coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
@@ -13,7 +10,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    faraday (0.16.2)
+    faraday (0.17.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
@@ -53,7 +50,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    multi_json (1.13.1)
     multipart-post (2.1.1)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -74,13 +70,11 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
-    statsd-ruby (1.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  barnes
   coderay
   jekyll
   jekyll-feed
