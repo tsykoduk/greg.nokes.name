@@ -42,4 +42,5 @@ gem 'rake'
 #gem 'puma'
 # gem "barnes"
 gem 'jekyll-feed'
+gem 'jekyll-sitemap'
 
