@@ -2,4 +2,9 @@
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://gnokes.com/sitemap.xml
+Sitemap: https://greg.nokes.name/sitemap.xml
+Sitemap: https://gregorynokes.com/sitemap.xml
+Sitemap: https://nokes.biz/sitemap.xml
+Sitemap: https://nokes.blog/sitemap.xml
+
