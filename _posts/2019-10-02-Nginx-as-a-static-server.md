@@ -136,7 +136,6 @@ The old configuration had a perc99 under load of 1.7 seconds per request, and th
 	  95%    643
 	  98%    685
 	  99%    696
-
 	 100%    986 (longest request)
 
 **But what about SSL?**
