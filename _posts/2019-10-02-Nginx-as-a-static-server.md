@@ -189,6 +189,6 @@ One of the other uses for Nginx on Heroku is a on Dyno proxy and static file ser
 
 I quickly found out that I still needed the static buildpack in my development and staging environments. It's used to build out the static assets that Nginx serves, after all. 
 
-If you refer back to [How I post an article](https://greg-nokes-name.herokuapp.com/2018/02/26/how-i-do-it/) you will know that I use a Heroku Pipeline to manage posting. The nice thing is that I don't need the Static buildpack or Ruby on my production site, as the slug is promoted intact between the Staging and Production apps. So I have Ruby and the Static buildpack installed and running in prod, but only the Nginx buildpack associated with the production app. 
+If you refer back to [How I post an article](https://greg-nokes-name.herokuapp.com/2018/02/26/how-i-do-it/) you will know that I use a Heroku Pipeline to manage posting. The nice thing is that I don't need the Static buildpack or Ruby on my production site, as the slug is promoted intact between the Staging and Production apps. So I have Ruby and the Static buildpack installed and running in staging, but only the Nginx buildpack associated with the production app. 
 
 Upon writing this I am not even sure if I need any buildpacks associated with the prod app, as the slug already contains a complete built environment. More testing is needed.
