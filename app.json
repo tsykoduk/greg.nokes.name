@@ -3,23 +3,6 @@
    "stack": "heroku-18",
   "scripts": {
   },
-  "env": {
-    "LANG": {
-      "required": true
-    },
-    "LIBRATO_PASSWORD": {
-      "required": true
-    },
-    "LIBRATO_TOKEN": {
-      "required": true
-    },
-    "LIBRATO_USER": {
-      "required": true
-    },
-    "PAPERTRAIL_API_TOKEN": {
-      "required": true
-    }
-  },
   "formation": {
   },
   "addons": [
