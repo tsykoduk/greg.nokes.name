@@ -11,6 +11,7 @@ categories:
 ---
 <p>I am sure that all of the programmers out there will say "Well, Duh!" but I wanted to put this into writing for my own purposes. Basically so I do not forget it. If you happen to get some good ideas from it, well then score.</p>
 
+<!--more-->
 
 <p>So, I have several models which all need to have attributes. Not all of them need the same attributes, however we want a method of quickly searching and creating new types of attributes for models.</p>
 
