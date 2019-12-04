@@ -40,7 +40,7 @@ categories:
 <p>If you look at the <strong>theory</strong> about the gasses trapped in the permafrost, add in some basic albedo calculations, factoring the loss of ice (highly reflective to heat), the Earth just might become a pressure cooker.</p>
 
 
-<p>Will it? There is a chance. What is that chance? I dunno. Should we try and do something to stop it? I believe that we should. Should the government do it? That is an entire other question, but suffice it to say, since they are taking our taxes, I would rather see that money spend on alternative fuels/energy research then some of the other silly pork barrel projects that are running amok.</p>
+<p>Will it? There is a chance. What is that chance? I dunno. Should we try and do something to stop it? I believe that we should. Should the government do it? That is an entire other question, but suffice it to say, since they are taking our taxes, I would rather see that money spent on alternative fuels/energy research then some of the other silly pork barrel projects that are running amok.</p>
 
 
 <p>Current theories believe that Venus might have been earth like at one time, however due to several factors, dumped all of it's Carbon and <span class="caps">H20</span> into it's atmosphere in a horrific version of global warming.</p>
