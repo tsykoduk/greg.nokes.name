@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-#Let's get in the Ruby 2.6 train
+#Let's get in the Ruby 2.7 train
 
-ruby "~> 2.6.5"
+ruby "~> 2.7.0"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
