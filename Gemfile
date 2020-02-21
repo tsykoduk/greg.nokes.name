@@ -32,7 +32,9 @@ gem "jekyll" #, "~> 4.0.0"
 #gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Theme
-gem "jekyll-theme-hydeout" #, "~> 3.3"
+# gem "jekyll-theme-hydeout" #, "~> 3.3"
+gem "plainwhite"
+
 #gem 'rack-ssl-enforcer'
 #gem "hyde"
 gem "jekyll-paginate"
