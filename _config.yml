@@ -28,7 +28,8 @@ exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefil
 
 plainwhite:
   name: DaRoost
-  tagline: A wayward journey \ninto the depths of sanity
+  tagline: A wayward journey 
+  into the depths of sanity
 
   date_format: "%b %-d, %Y"
 
