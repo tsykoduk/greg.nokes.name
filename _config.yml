@@ -30,8 +30,8 @@ exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefil
 plainwhite:
   name: DaRoost
   tagline: |
-          A wayward journey 
-          into the depths of sanity
+               A wayward journey 
+            into the depths of sanity
 
  # show_excerpts: true
 
