@@ -32,8 +32,8 @@ plainwhite:
 
  plainwhite:
   navigation:
-    - title: About
-      url: "/about"
+    title: About
+    url: "/about"
 
   date_format: "%b %-d, %Y"
 
