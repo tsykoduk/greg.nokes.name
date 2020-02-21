@@ -23,7 +23,7 @@ highlighter:      rouge
   
 sidebar_home_link:  true
 paginate:         5
-# show_excerpts: true
+
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned','static.json','update.sh', 'app.json']
 
@@ -31,7 +31,8 @@ plainwhite:
   name: DaRoost
  # tagline: A wayward journey into the depths of sanity
 
- plainwhite:
+ show_excerpts: true
+
   navigation:
     title: About
     url: "/about"
