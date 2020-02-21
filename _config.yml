@@ -37,9 +37,9 @@ plainwhite:
     title: About
     url: "/about"
    
-    date_format: "%b %-d, %Y"
+  date_format: "%b %-d, %Y"
     
-    social_links:
-      twitter: tsykoduk
-      github: tsykoduk
-      linkedIn: in/gregnokes 
+  social_links:
+    twitter: tsykoduk
+    github: tsykoduk
+    linkedIn: in/gregnokes 
