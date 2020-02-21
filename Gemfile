@@ -31,17 +31,8 @@ gem "jekyll" #, "~> 4.0.0"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 #gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-<<<<<<< HEAD
-## Theme
-#gem "jekyll-theme-hydeout" #, "~> 3.3"
-gem "plainwhite"
-
-## Supporting Cast
-gem "jekyll-gist"
-=======
 #Theme
 gem "jekyll-theme-hydeout" #, "~> 3.3"
->>>>>>> parent of 4499933... let's try the plain white theme, since Hydeout does not currently work with Jekyll 4
 #gem 'rack-ssl-enforcer'
 #gem "hyde"
 gem "jekyll-paginate"
