@@ -1,6 +1,6 @@
 url: http://greg.nokes.name
 title: DaRoost
-description: 'A wayward journey into the depths of sanity'
+description: 'A wayward journey in the depths of sanity'
 
 # theme: type-on-strap
 # theme: minima
@@ -31,7 +31,7 @@ plainwhite:
   name: DaRoost
   show_excerpts: true
   tagline: |
-          A wayward journey into
+          A wayward journey in
           the depths of sanity
 
   navigation:
