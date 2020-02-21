@@ -34,10 +34,12 @@ plainwhite:
   navigation:
     title: About
     url: "/about"
-
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: tsykoduk
-    github: tsykoduk
-    linkedIn: in/gregnokes 
+   
+    date_format: "%b %-d, %Y"
+    
+    show_excerpts: true
+    
+    social_links:
+      twitter: tsykoduk
+      github: tsykoduk
+      linkedIn: in/gregnokes 
