@@ -4,7 +4,8 @@ description: 'A wayward journey into the depths of sanity'
 
 # theme: type-on-strap
 # theme: minima
-theme: jekyll-theme-hydeout
+# theme: jekyll-theme-hydeout
+theme: plainwhite
 
 author:
   name:           'Greg Nokes'
