@@ -21,8 +21,8 @@ plugins:
 markdown:         kramdown
 highlighter:      rouge
   
-sidebar_home_link:  true
-paginate:         5
+# sidebar_home_link:  true
+# paginate:         5
 
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned','static.json','update.sh', 'app.json']
@@ -34,9 +34,9 @@ plainwhite:
           A wayward journey in
           the depths of sanity
 
-  navigation:
-    title: About
-    url: "/about"
+ # navigation:
+ #   title: About
+ #   url: "/about"
    
   date_format: "%b %-d, %Y"
     
