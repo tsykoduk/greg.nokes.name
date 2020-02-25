@@ -38,6 +38,9 @@
         {%- if site.plainwhite.navigation -%}
           <nav class="navigation">
             <ul>
+				<li>
+					<a href="/about">About</a>
+				</li>
               {% for link in site.plainwhite.navigation %}
                 <li>
                   <a href="{{ link.url }}">{{ link.title }}</a>
