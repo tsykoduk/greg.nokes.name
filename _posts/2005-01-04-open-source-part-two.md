@@ -10,6 +10,7 @@ categories:
   - Computers! and Code!
 ---
 Yesterday, I [ranted at length](/2005/01/03/open-source-software.html) about the meaning of FOSS and OSS. I think just about everything has been said about OSS development that can be. We all know that it is a better development model because all of the code is open for world wide peer review. We also know that if you have the desire, you can review the code yourself and assure yourself that it is indeed secure. While this is not an option for most home users, large enterprises can use this option to assure their security and modify the code to do what they need.
+<!--more-->
 
 All of that is well and good. However, for me this whole Free Software movement is more about compassion. While this seems to be a strange link - think of this. If I live in a third world country, and I start a small business, am I going to be able to afford paying the fees to stand up a Windows based Email Server, Web Server, Firewall Server, and put computers with Office and Windows (as well as the all-pervasive virus scanners, spy ware blockers, workstation firewalls, ad naseum) on all of my employees desks? How am I to secure and lock these machines down so that I am sure that my employees are not just playing solitaire and browsing the web? Can I compete with the large company that buys computers by the pallet from Dell?
 

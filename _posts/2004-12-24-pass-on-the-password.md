@@ -10,13 +10,15 @@ categories:
   - Computers! and Code!
   - Philosophy! and Politics!
 ---
+
+I think that in this increasingly digital age, Passwords, accounts and how we handle legacy access is going to become more of a problem. I know that if I were to die today, there are three sites that would die as well, as my brain is the only place the passwords are kept.
+<!--more-->
+
 <p><a href="http://davejustus.blogspot.com/2004/12/email-controversy.html">Dave Justus</a> says in re an article at <a href="http://www.forbes.com/technology/ebusiness/feeds/ap/2004/12/22/ap1725617.html">Forbes</a>:</p>
 
 
 <blockquote>Yahoo! is standing by its policy of protecting the privacy of its e-mail subscribers, spokeswoman Karen Mahon said. This is an interesting dilemma. Should an email account and the electronic documents it contains be considered part of an estate, to be transferred to the heirs of a person after death or should it remain private? Typically I believe traditional letters would become the property of the heirs but one could argue, as I guess Yahoo! is doing, that email accounts do not automatically transfer.
 </blockquote>
-
-I think that in this increasingly digital age, this is going to become more of a problem. I know that if I were to die today, there are three sites that would die as well, as my brain is the only place the passwords are kept.
 
 Passwords and accounts need to be willed. One should leave specific instructions on how to handle all of ones affairs - and now days that includes Blogs, Websites, email accounts, Pay Pal accounts, Ebay - the list goes on and on.
 

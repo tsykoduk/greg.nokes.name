@@ -9,6 +9,8 @@ permalink: /2005/01/03/open-source-software/
 categories:
   - Computers! and Code!
 ---
+What is open source, and why do I support it?
+<!--more-->
 
 First off, we need to be all reading from the same page, so here are some definitions:
 

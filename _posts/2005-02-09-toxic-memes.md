@@ -9,8 +9,12 @@ permalink: /2005/02/09/toxic-memes/
 categories:
   - Philosophy! and Politics!
 ---
-	<a href=http://dictionary.reference.com/search?q=meme>meme</a> n. A unit of cultural information, such as a cultural practice or idea, that is transmitted verbally or by repeated action from one mind to another
-	
+A set of interrelated memes can make up a 'Meme Complex'. These groups of ideas are interrelated and co-supporting. They strengthen and reinforce each other - making the group stronger then the whole. A religion is an example of a Meme Complex. Many of the ideas central to religion are intersupporting. For example the Christian belief that a life time of good works, and belief in the Christian Religion (Meme Complex) will garner great rewards after death.
+
+<!--more--->
+
+<a href=http://dictionary.reference.com/search?q=meme>meme</a> n. A unit of cultural information, such as a cultural practice or idea, that is transmitted verbally or by repeated action from one mind to another
+
 	Richard Dawkins's term for an idea considered as a replicator, especially with the connotation that memes parasitise people into propagating them much as viruses do.
 	
 	Memes can be considered the unit of cultural evolution. Ideas can evolve in a way analogous to biological evolution. Some ideas survive better than others; ideas can mutate through, for example, misunderstandings; and two ideas can recombine to produce a new idea involving elements of each parent idea.
@@ -23,8 +27,6 @@ categories:
 	
 	The term is used especially in the phrase "meme complex" denoting a group of mutually supporting memes that form an organized belief system, such as a religion.
 
-A set of interrelated memes can make up a 'Meme Complex'. These groups of ideas are interrelated and co-supporting. They strengthen and reinforce each other - making the group stronger then the whole. A religion is an example of a Meme Complex. Many of the ideas central to religion are intersupporting. For example the Christian belief that a life time of good works, and belief in the Christian Religion (Meme Complex) will garner great rewards after death.
-
 This sort of interrelationship with in a Meme Complex makes the entire thing stronger, and that much more survivable in the 'wild'. In the world of Memes, it is survival of the fittest. Early Memes were probably very simple (Sun God Hot). Over time, the stronger ones survived, combined and slowly merged into more and more complex structures.
 
 This whole system is very like biological evolution. Not the our uncles were monkeys theories, but rather the 'Real' Theory of Evolution - that things change over time when exposed to environmental pressure. Not that some of my monkeys are not uncles...
@@ -35,7 +37,7 @@ Anyways - so we have ideas or concepts that are able to propagate, change in res
 
 So..
 
-	<a href=http://dictionary.reference.com/search?q=toxic>toxÂ·ic</a> adj. <i>1. Of,  relating to, or caused by a toxin or other poison. 2. Capable of causing injury or death, especially by chemical means; poisonous.
+<a href=http://dictionary.reference.com/search?q=toxic>toxÂ·ic</a> adj. <i>1. Of,  relating to, or caused by a toxin or other poison. 2. Capable of causing injury or death, especially by chemical means; poisonous.
 
 Some Memes or Meme Complexes might become Toxic. They might damage the host in order to propagate more efficiently, or have some aim that is not for the best of the host or host's group. I believe that Toxic Memes are one of the more pressing issues that we, as a culture and race, face at this time. These diseases of the psyche must be investigated, and some form of inoculation or treatment be found.
 
