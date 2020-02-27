@@ -15,9 +15,9 @@ categories:
 
 
 <object width="425" height="350">
-    <param name="movie" value="http://www.youtube.com/v/47EBLD-ISyc"></param>
+    <param name="movie" value="https://www.youtube.com/v/47EBLD-ISyc"></param>
     <param name="wmode" value="transparent"></param>
-    <embed src="http://www.youtube.com/v/47EBLD-ISyc" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+    <embed src="https://www.youtube.com/v/47EBLD-ISyc"  width="425" height="350"></embed>
 </object>
 
 <p>I really believe that we are on the cusp of a transcendence. Not really in a metaphysical way, but in a social way. People have been talking about it for a long time, because they could <em>feel</em> what was coming. Many have tried to wrap their religion or metaphysics around it. It's simpler then that.</p>
