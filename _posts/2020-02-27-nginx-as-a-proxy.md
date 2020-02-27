@@ -5,7 +5,7 @@ date: 2020-02-27
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15690
-permalink: /2020/02/27/nginx-proxy
+permalink: /2020/02/27/nginx-routing-on-heroku/
 categories:
   - Computers! and Code!
 ---
