@@ -13,7 +13,7 @@ categories:
 
  <!--more-->
 
-            <table class="CodeRay"><tr>
+<table class="CodeRay"><tr>
   <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre>1<tt>
 </tt>2<tt>
 </tt>3<tt>
