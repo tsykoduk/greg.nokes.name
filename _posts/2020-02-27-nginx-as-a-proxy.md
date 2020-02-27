@@ -232,4 +232,4 @@ and
 
 Now when you visit [https://ggn-nginx-router-test.herokuapp.com/blog/]([https://ggn-nginx-router-test.herokuapp.com/blog/) you will get the contents of [https://ggn-nginx-router-blog.herokuapp.com/](https://ggn-nginx-router-blog.herokuapp.com/)
 
-In the config directory of this [repo on github](https://github.com/tsykoduk/Heroku-Nginx-Reverse-Proxy) is a sample `nginx.conf.erb` which enables this exact example.
+In the config directory of this [repo on github](https://github.com/tsykoduk/Heroku-Nginx-Reverse-Proxy) is a sample `nginx.conf.erb` which enables this example.
