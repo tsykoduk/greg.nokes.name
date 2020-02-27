@@ -9,7 +9,7 @@ permalink: /2008/03/28/checking-up-on-stuff/
 categories:
   - Computers! and Code!
 ---
-<img style="float: right;" src="https://greg.nokes.name/assets/2008/3/28/rosette_abtps_thumbnail.png" alt="" /><em>In doing some spring cleaning, I found this old article from years past. Enjoy!</em>
+<em>In doing some spring cleaning, I found this old article from years past. Enjoy!</em>
 
 If you work in networking, you probably want to be notified when something crashes, looses connection or just generally goes T.U.
 Enter, Condor NG! Condor NG is a simple shell script used by yours truly to monitor my work network. It's light, easy and just plain works.
