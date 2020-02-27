@@ -10,7 +10,10 @@ categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
 ---
-<a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit.png"><img class="alignleft size-medium wp-image-15337" style="border: 5px solid black;" title="Other Linux 2.6.x kernel 64-bit" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-300x224.png" alt="" width="300" height="224" /></a>One of my favorite linux distros has been <a href="http://www.archlinux.org/">archlinux</a> since the early oughts. It's default install is super lightweight, and it's configuration system is a joy (especially after working with several distros with many rc directories and hundreds of symlinks).
+<a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit.png"><img class="alignleft size-medium wp-image-15337" style="border: 5px solid black;" title="Other Linux 2.6.x kernel 64-bit" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-300x224.png" alt="" width="300" height="224" /></a>
+
+One of my favorite linux distros has been <a href="http://www.archlinux.org/">archlinux</a> since the early oughts. It's default install is super lightweight, and it's configuration system is a joy (especially after working with several distros with many rc directories and hundreds of symlinks).
+
 <!--more-->
 
 However, there is a learning curve with archlinux. Since it's so stripped down, some things that you might expect to see are not installed or configured. And following it's minimalist mantra, packages tend to not configure themselves when you install them. Following is blow by blow to help get a box booted up and running.
@@ -31,7 +34,8 @@ Once you get to the <em>Network is configured</em> screen you are ready to proce
 
 <a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-3.png"><img class="alignnone size-full wp-image-15328" title="Other Linux 2.6.x kernel 64-bit-3" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-3.png" alt="woot!" width="183" height="98" /></a>
 
-You'll want to choose a mirror to download from. Try and make a sane choice. The archlinux.org one is throttled, so it will be rather slow. I personally like kernel.org, but your milage may vary.
+You'll want to choose a mirror to download from. Try and make a sane choice. The archlinux.org one is throttled, so it will be rather slow. I personally like kernel.org, but your milage may vary
+
 
 You'll be prompted to set you clock next. I suggest choosing your timezone, and then setting your system clock to UTC. I normally tell it to just use NTP, and go with it after that.
 
@@ -56,7 +60,9 @@ After the system reboots, you'll be presented with a baseline system. Not much i
 <a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-8.png"><img class="alignnone size-full wp-image-15333" title="Other Linux 2.6.x kernel 64-bit-8" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-8.png" alt="" width="719" height="75" /></a>
 
 <strong>First Update:</strong>
+
 <blockquote>Note: As a rolling-release distribution, updating your Arch Linux system is not always as straightforward as with other fixed-release distributions. Furthermore, pacman is not a "fire-and-forget" package manager. As a result, properly maintaining an Arch Linux system with pacman tends to confuse new users (as recurring forum discussions would indicate). <strong>Please read the following section thoroughly before continuing.</strong></blockquote>
+
 from <a href="http://wiki.archlinux.org/index.php/Pacman#Upgrading_packages">Upgrading packages</a>
 
 You'll want to run a quick update. <a href="http://wiki.archlinux.org/index.php/Pacman">pacman</a> is Arch's package manager. The basic upgrade command is <code>pacman -Syu</code>. You'll want to run this to preload the package files anyways.

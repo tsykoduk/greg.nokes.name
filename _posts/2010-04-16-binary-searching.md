@@ -14,7 +14,10 @@ tags:
   - Tools
 excerpt_separator:  <!--more-->
 ---
-<a href="http://greg.nokes.name/wp-content/uploads/2010/04/binary_search.png"><img class="alignright size-medium wp-image-15294" title="binary_search" src="http://greg.nokes.name/wp-content/uploads/2010/04/binary_search-300x208.png" alt="" width="300" height="208" /></a>One of the tools that I use on an almost daily basis is the Binary Search. I think that this tool is one of the ways that a good troubleshooter seems so much more efficient then a mediocre troubleshooter.
+<a href="http://greg.nokes.name/wp-content/uploads/2010/04/binary_search.png"><img class="alignright size-medium wp-image-15294" title="binary_search" src="http://greg.nokes.name/wp-content/uploads/2010/04/binary_search-300x208.png" alt="" width="300" height="208" /></a>
+
+One of the tools that I use on an almost daily basis is the Binary Search. I think that this tool is one of the ways that a good troubleshooter seems so much more efficient then a mediocre troubleshooter.
+
 <!--more-->
 
 It's a pretty simple tool, as the diagram show. Split the problem's area into two, and determine which side of the split the issue lies on. As you continue to split the set of problems down, you'll either reach a level where you only have one issue, or only have one logical direction to proceed.

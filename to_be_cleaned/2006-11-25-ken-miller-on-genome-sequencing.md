@@ -24,9 +24,6 @@ categories:
 
 </blockquote>
 
-
-
-
 <p>-<a href="http://en.wikipedia.org/wiki/Mark_Twain">Mark Twain</a> in <i>Following the Equator, Pudd'nhead Wilson's Calendar</i></p>
 
 

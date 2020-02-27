@@ -11,6 +11,6 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 I really hate this error. Skype is so unstable for me that I get little slowdowns and lock ups weekly, And about once a month I get this error after I've force killed it. I used to have to google it every time, drop to a command line and do a bunch of stuff. Well no more. Now there is a script to clean up after Skype's mess! Skype - you can barrow this if you want. Just have it run when Skype is launching. 
-
 <!--more-->
+
 <script src="https://gist.github.com/tsykoduk/5986191.js"></script>

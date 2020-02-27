@@ -19,9 +19,6 @@ categories:
 
 </blockquote>
 
-
-
-
 <p>-<a href="http://www.seedmagazine.com/news/2006/11/pacific_ocean_gives_birth_to_n.php">Seed Magazine</a></p>
 
 

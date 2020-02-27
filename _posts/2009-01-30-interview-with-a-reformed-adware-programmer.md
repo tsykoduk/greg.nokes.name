@@ -13,7 +13,7 @@ categories:
 
 <!--more-->
 
-<p><a href="http://www.schneier.com/blog/archives/2006/08/bruce_schneier.html">Bruce</a> has a <a href="http://www.schneier.com/blog/archives/2009/01/interview_with_10.html">link</a> to a great <a href="http://philosecurity.org/2009/01/12/interview-with-an-adware-author">article</a> this morning. Good read. My most jucy bit:</p>
+<p><a href="http://www.schneier.com/blog/archives/2006/08/bruce_schneier.html">Bruce</a> has a <a href="http://www.schneier.com/blog/archives/2009/01/interview_with_10.html">link</a> to a great <a href="http://philosecurity.org/2009/01/12/interview-with-an-adware-author">article</a> this morning. Good read. My most juicy bit:</p>
 
 
 <blockquote>S: In your professional opinion, how can people avoid adware?

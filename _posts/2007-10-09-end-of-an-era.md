@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
 ---
 <p>I cut my teeth on NetWare 3.1x servers oh so many years ago. So this announcement is bitter-sweet</p>
-
+<!--more-->
 
 <blockquote>Novell's long journey from NetWare to Linux is finally complete. On Oct. 8, Novell released Open Enterprise Server 2 to its customers worldwide. Shortly after acquiring <span class="caps">SUSE</span> and its enterprise-focused Linux distribution, Novell announced that its follow-on to NetWare 6.5 would ship as a set of network services that could run atop the NetWare and the Linux kernel, <span class="caps">OES 1</span>.0. <span class="caps">OES</span>, which began shipping in April 2005, was the first major step in Novell moving NetWare's services from its native operating system to Linux. Now, with <span class="caps">OES 2</span>.0, the NetWare operating system kernel, NetWare 6.5 <span class="caps">SP7</span>, is still there if you run it, but it runs on top of the Xen hypervisor. You can also run the NetWare services, or a para-virtualized instance of NetWare, on top of Xen with the <span class="caps">SLES 10 SP 1</span> kernel. So, if you're wedded to NetWare and its way of doing things, you don't have to wave good-bye to it.</blockquote>
 

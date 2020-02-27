@@ -11,9 +11,9 @@ categories:
 ---
 <p>So, I was tasked to create a authentication system for one of the apps that I wrote a while back at work. I had written the application in Ruby on Rails, and we use Microsoft's Active Directory for network authentication. Taking pity on the users of my application, I decided to do some research and see if I could bump my authentication vs the <span class="caps">AD LDAP</span> server. This is what I came up with...</p>
 
-            <!--more-->
+<!--more-->
 
-            <p>First things first - we need to add the secret sauce to the model which will allow use to connect to a <span class="caps">LDAP</span> server. We want to add the following function to the model that handles your users. We also need to add a <code>require 'ldap'</code> to the model, before the class definition. You also want to define <code>AD_DOMAIN_NAME</code> to be what ever the domain that your users will be logging into.</p>
+<p>First things first - we need to add the secret sauce to the model which will allow use to connect to a <span class="caps">LDAP</span> server. We want to add the following function to the model that handles your users. We also need to add a <code>require 'ldap'</code> to the model, before the class definition. You also want to define <code>AD_DOMAIN_NAME</code> to be what ever the domain that your users will be logging into.</p>
 
 
 <table class="CodeRay"><tr>

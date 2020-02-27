@@ -10,13 +10,15 @@ categories:
   - Philosophy! and Politics!
 excerpt_separator:  <!--more-->
 ---
-<a href="http://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png"><img class="size-full wp-image-15340 alignright" title="padlocks_thumbnail" src="http://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png" alt="" width="197" height="182" /></a><em>Sometimes you have to kill the sacred cows in the room to get the job done. Some times the cows kill you.</em>
-<!--more-->
+<a href="http://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png"><img class="size-full wp-image-15340 alignright" title="padlocks_thumbnail" src="http://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png" alt="" width="197" height="182" /></a>
+
+<em>Sometimes you have to kill the sacred cows in the room to get the job done. Some times the cows kill you.</em>
+
 I think that we have moved past "ruby does not scale" or "rails does not scale". However the feedback that I have gotten over the last few months is more along the lines of "Rails is just kids, hackers and rockstars. It's not a serious contender".
 
-We (as a community) have done fantastic work getting rails to scale, and showing the world that it does. Our next challenge is to show that we are grown up. We need to "scale" the community if we want to continue our growth and penetrate more and more markets.
-
 <!--more-->
+
+We (as a community) have done fantastic work getting rails to scale, and showing the world that it does. Our next challenge is to show that we are grown up. We need to "scale" the community if we want to continue our growth and penetrate more and more markets.
 
 I dare say that most of us of us do not "<a href="http://theworkinggeek.com/2009/06/dirty-presentations-xkcd-and-the-perils-of-140-cha.html">code like porn stars</a>", use <a href="http://www.loudthinking.com/posts/15-potty-mouths">profanity</a> in presentations for shock value, or use their bully pulpit to leverage personal attacks against others works and/or past works. We all make mistakes, however poor editing is not an excuse.
 

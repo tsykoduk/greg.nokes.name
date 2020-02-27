@@ -11,7 +11,7 @@ categories:
 ---
 <p>One of the ways I am able to exercise my Ruby skills is in the day to day network admin tasks. For example, I had to come up with a method of saving all of a users 'important' documents off of their desktop computer in preparation for a wipe and re-image. Not only that, but it's a good idea. So I wrote 'scan and copy'</p>
 
-            <!--more-->
+ <!--more-->
 
             <table class="CodeRay"><tr>
   <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre>1<tt>

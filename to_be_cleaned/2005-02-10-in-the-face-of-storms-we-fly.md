@@ -20,7 +20,4 @@ Compassion can de-escalate a situation. If you can respond with compassion at al
 "...<i>Buddhist ethical principles are very noble and in an ideal world their practice would lead to peace and harmony but, unfortunately, as the Buddha has taught, people are motivated by greed hatred and delusion - even Buddhists. </i>"
 
 From <a href=http://www.buddhanet.net/e-learning/budethics.htm>Buddhanet</a>
-
-
-
 -Tsyko

@@ -12,13 +12,12 @@ categories:
 <blockquote>But Mr. Gibson withdrew whenever the discussions grew heated. And by not intervening more forcefully early on in the Republican debate, he allowed much of their discussion to remain staid and uninformative â€” <b>Representative Ron Paul, of all candidates, dominated the foreign policy debate.</b></blockquote>
 
 <p>-<a href="http://www.nytimes.com/2008/01/06/us/politics/06watch.html?_r=1&#38;oref=slogin">NYTimes: He Came, and He Saw, but Did He Moderate?</a></p>
-
+<!--more-->
 
 <p>The other Republican candidates seem out of touch with reality. Rudy Giuliani actually said that the past US Foreign policy had nothing to do with the 9/11 attacks. True, they were carried out by people with a choice; however our foreign policy in the region never has been one that thought of the people in the region. Rather we have sought outcomes which serve our interests, at the detriment of the people. And we wonder why the people of the Middle East dislike the United States. We have used these people for years as pawns in our grand game of world domination. And, now the bill for our misbehavior is coming due.</p>
 
-            <!--more-->
 
-            <p>This philosophy of a 'Just War' that has been bandied about for the last few years is deeply flawed. Any unprovoked aggressive action is not just. Bullets and Bombs do not spread democracy , they spread hate. Think about it this way. If Iran were to bomb us, invade us, occupy us and tell us that we had to install a Islamic government, how would we react?</p>
+<p>This philosophy of a 'Just War' that has been bandied about for the last few years is deeply flawed. Any unprovoked aggressive action is not just. Bullets and Bombs do not spread democracy , they spread hate. Think about it this way. If Iran were to bomb us, invade us, occupy us and tell us that we had to install a Islamic government, how would we react?</p>
 
 
 <p>And yet, the warmongers in Washington keep bombing, invading and occupying other countries, and expecting them to suddenly become a 'democratic' country.  Or, we get an election, and if the people elected are not the ones we want, we take actions which harm the people on the street.</p>

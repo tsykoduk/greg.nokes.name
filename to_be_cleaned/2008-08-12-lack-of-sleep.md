@@ -10,11 +10,7 @@ categories:
   - Mundane
 ---
 <img id="thumber" class="alignleft" src="http://greg.nokes.name/assets/2008/8/12/Screenshot-1.jpg" alt="Nose" width="80" height="80" />General lack of sleep equates to this blog moving in the near future. I don't know if I am going to care and keep the old posts and comments yet. That is in the "to be determined' category.
-
 What has been determined is that this place needs a major revamp. So, a revamping I go, a revamping I go...
-
 Yeah...
-
 Lack of sleep.
-
 Chalk it up to that, not the things hiding in the curves of the corners.

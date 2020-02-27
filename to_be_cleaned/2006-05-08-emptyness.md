@@ -20,7 +20,6 @@ tags:
   - perceptions
 ---
 <blockquote>Buddhism says that suffering is the lot of all creatures (everyone is in hell in a way) and that the only way out is non-existence. I find both the preoccupation with suffering and the concept that not existing is better than existing to be extremely troubling.</blockquote>
-
 <p>Buddhism does indeed say that life is suffering. I don't see this 'preoccupation' as anything other then looking around and seeing that the world is in fact a suffering filled place. Realizing that suffering has been an essential part of life for all of recorded history is the first step towards learning how to live with out the addiction to suffering that we all, well, suffer from.</p>
 
 
@@ -31,7 +30,6 @@ tags:
 
 
 <blockquote>"Emptiness:" this is one of the most subtle, elusive and widely misunderstood of all Buddhist ideas, sometimes summed up with the phrase "the unsubstantiality of all phenomena." Contrary to popular misconception, this is not a nihilistic philosophy, as it does not deny the very real existence of things - it just asserts that things are not as they seem. The concept is that reality as we know it is illusory in many ways, and is actually empty of certain qualities we believe it to have, because our perceptions and conceptions are misleading. This is not to say that things don't really exist, but rather it is to say that they exist in a way that is vastly different to what our perceptions would lead us to believe. So in Buddhist thinking, our ordinary "reality" or "existence" is empty of certain qualities it appears to have. An example of a quality we mistakenly perceive in some things is permanence. Things are actually empty of permanence, because everything changes, and there are no exceptions to this. Even though a mountain might seem like a permanent feature of the planet, or even the universe, in fact the mountain, as well as everything else, is in a state of continuous flux and decay. It's just that we aren't aware of some of those changes which occur too slowly for us to notice. One of the most interesting examples of this principle of Impermanence is that the top of Mt Everest is made of the same stuff as the ocean floor - limestone. That's because the top of Mt Everest once was the ocean floor! Due to the ongoing continental drift, the earth's crust is still buckling and pushing up the height of the Himalayas by a few centimeters each year. . . Other examples of apparent qualities that our existence is actually empty of are self-identity and inherent [ie, non-conditional] existence</blockquote>
-
 <p>-<a href="http://www.dharmathecat.com/buddhism.htm">Dharma the Cat</a></p>
 
 
@@ -39,7 +37,6 @@ tags:
 
 
 <blockquote>The fact is, Nirvana can only be explained to the 'unenlightened' by negation. The Buddhist texts tell us what it cannot be thought of as, but the only positive descriptions of it tend toward non-existence. An example of this is the simile of the fire that the Buddha uses in his dialogue with Vacchagotama. He asks whether the fire, when it is extinguished, can be said to have gone north, south, east, or west. Of course, the obvious answer is that the fire no longer exists. Nirvana, however, cannot be described as existing, not existing, both existing and not, or neither existing nor not. For Buddhism, even nothingness is constituted by the relative contingencies that arise co-dependently as samsara.</blockquote>
-
 <p>-<a href="http://www.the-philosopher.co.uk/buddhism.htm">Omar Moad</a></p>
 
 
@@ -50,7 +47,6 @@ tags:
 
 
 <blockquote>This truth is as equally attainable by the disciples as it was by the Teacher, and their knowledge is independent of him. The Buddha once asked Shariputra, "Do you believe what I have been explaining to you?" Shariputra answered, "Yes, I see that it is so." The Buddha asked him, "Are you saying this just out of faith in me?" Shariputra answered, "No, I answered in agreement not because of faith in the Blessed One, but because I clearly see for myself that it is so." [Pubbakotthaka Sutta, Saim. S.V. 220]</blockquote>
-
 <p>-<a href="http://www.buddhistinformation.com/role_of_faith_in_science_and_bud.htm">Bhikkhu P.A. Payutto</a></p>
 
 
@@ -58,5 +54,4 @@ tags:
 
 
 <blockquote> At least Christianity has a heaven.</blockquote>
-
 <p>Which seems more reasonable? An eternal life sitting on clouds and singing which cannot be proven to exist, or learning how to be happier here and now?</p>

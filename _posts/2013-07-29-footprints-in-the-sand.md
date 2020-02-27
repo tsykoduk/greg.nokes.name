@@ -12,20 +12,23 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 Footprints in the Sand
-
 ...the Discordian version
+
 <!--more-->
 
 I dreamed that I was walking down the beach with the Goddess. And
+
 I looked back and saw footprints in the sand. But sometimes there
+
 were two pairs of footprints and sometimes there was only one.
+
 And the times there was only one set of footprints, those were my
+
 times of greatest trouble. So I asked the Goddess,
-
 "Why in my greatest need did you abandon me?"
-
 She replied, "I never left you. Those were the times we both
-hopped on one foot."
 
+hopped on one foot."
 And I was really embarassed for bothering Her with such a stupid
+
 question.

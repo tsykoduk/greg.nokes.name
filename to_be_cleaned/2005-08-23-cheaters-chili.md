@@ -11,17 +11,29 @@ categories:
   - Philosophy! and Politics!
 ---
 <p>1 tbs. Oregano
+
 	1 tbs. Sage
+
 	4 tbs. dried Onion
+
 	1 tsp Cayenne Powder (more if you like it hotter)
+
 	2 - 4 tbs. Garlic (mushed fresh the best)
+
 	2 lb. ground beef
+
 	1 can tomato sauce
+
 	1 can Black Beans
+
 	1 can Pinto Beans
+
 	6 oz good beer
+
 	6 oz your favorite salsa (heat up to you)
+
 	Jalapeno Tabasco to taste
+
 	Salt to taste</p>
 
 

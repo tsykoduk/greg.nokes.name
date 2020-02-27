@@ -11852,9 +11852,6 @@ Basically, the fact that the program in question was developed specifically for 
 <wp:comment_date_gmt>2005-04-12 22:18:37</wp:comment_date_gmt>
 <wp:comment_content><![CDATA[[...]  Venerable Rail Gun of Rationality. What&amp;#8217;s yours?  	Yes, this is a follow up to this article &amp;#8211; and the namer was pointed out by Justus
 
-
-
-
  				        		 		 	    Leave a [...] ]]></wp:comment_content>
 <wp:comment_approved>1</wp:comment_approved>
 <wp:comment_type></wp:comment_type>
