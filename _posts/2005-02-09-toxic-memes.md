@@ -13,7 +13,7 @@ A set of interrelated memes can make up a 'Meme Complex'. These groups of ideas 
 
 <!--more--->
 
-<a href=http://dictionary.reference.com/search?q=meme>meme</a> n. A unit of cultural information, such as a cultural practice or idea, that is transmitted verbally or by repeated action from one mind to another
+[meme](http://dictionary.reference.com/search?q=meme) n. A unit of cultural information, such as a cultural practice or idea, that is transmitted verbally or by repeated action from one mind to another
 
 	Richard Dawkins's term for an idea considered as a replicator, especially with the connotation that memes parasitise people into propagating them much as viruses do.
 	
@@ -37,7 +37,7 @@ Anyways - so we have ideas or concepts that are able to propagate, change in res
 
 So..
 
-<a href=http://dictionary.reference.com/search?q=toxic>toxÂ·ic</a> adj. <i>1. Of,  relating to, or caused by a toxin or other poison. 2. Capable of causing injury or death, especially by chemical means; poisonous.
+[toxÂ·ic](http://dictionary.reference.com/search?q=toxic) adj. 1. Of,  relating to, or caused by a toxin or other poison. 2. Capable of causing injury or death, especially by chemical means; poisonous.
 
 Some Memes or Meme Complexes might become Toxic. They might damage the host in order to propagate more efficiently, or have some aim that is not for the best of the host or host's group. I believe that Toxic Memes are one of the more pressing issues that we, as a culture and race, face at this time. These diseases of the psyche must be investigated, and some form of inoculation or treatment be found.
 
