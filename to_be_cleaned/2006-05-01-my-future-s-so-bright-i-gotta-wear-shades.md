@@ -10,4 +10,4 @@ categories:
   - Philosophy! and Politics!
   - Science!
 ---
-<center><a href="http://solarsystem.nasa.gov/multimedia/gallery/PIA03149.jpg"><img src="http://greg.nokes.name/PIA03149_thumb.jpg" /></a></center>Just saw this rather bright image... Click through for the <em>large</em> full size image. Rather impressive!
+<center><a href="http://solarsystem.nasa.gov/multimedia/gallery/PIA03149.jpg"><img src="https://greg.nokes.name/PIA03149_thumb.jpg" /></a></center>Just saw this rather bright image... Click through for the <em>large</em> full size image. Rather impressive!

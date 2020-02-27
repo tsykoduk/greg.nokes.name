@@ -4,7 +4,7 @@ title: Footprints in the Sand
 date: 2013-07-29T08:38:16+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15505
+guid: https://greg.nokes.name/?p=15505
 permalink: /2013/07/29/footprints-in-the-sand/
 categories:
   - Fun!

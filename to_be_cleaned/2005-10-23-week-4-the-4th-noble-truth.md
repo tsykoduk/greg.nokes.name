@@ -43,7 +43,7 @@ Right Concentration (samma samadhi)</blockquote></p>
 <p>- <a href="http://www.buddhanet.net/4noble.htm">The Four Noble Truths</a></p>
 
 
-<p>As we spoke about <a href="http://greg.nokes.name/2005/10/09/buddhism-week-2-suffering-and-the-path/">last time</a>, suffering and pain is a very real part of the world that we find ourselves in. By understanding that desire and wanting is the root of all suffering, we can start to elevate ourselves above it. We are still part of the world. However we see, and act differently when we understand that everything suffers, that everything is impermeant, and that desire fuels our suffering.</p>
+<p>As we spoke about <a href="https://greg.nokes.name/2005/10/09/buddhism-week-2-suffering-and-the-path/">last time</a>, suffering and pain is a very real part of the world that we find ourselves in. By understanding that desire and wanting is the root of all suffering, we can start to elevate ourselves above it. We are still part of the world. However we see, and act differently when we understand that everything suffers, that everything is impermeant, and that desire fuels our suffering.</p>
 
 
 <p>When we put our desire on something - be it physical (I want this new car), spiritual (I want to be a better person) or personal (I hope s/he loves me) we attach energy to that object. When that object is not as we wish it, or when it fails us (as everything will, due to nothing being permeant) we feel suffering due to the loss of that energy. We give it power over our feelings and our lives.</p>

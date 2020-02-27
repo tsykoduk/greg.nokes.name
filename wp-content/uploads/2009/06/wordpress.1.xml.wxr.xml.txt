@@ -26,14 +26,14 @@
 
 <channel>
 	<title>DaRoost</title>
-	<link>http://greg.nokes.name</link>
+	<link>https://greg.nokes.name</link>
 	<description>A wayward journey into the depths of sanity</description>
 	<pubDate>Sat, 27 Jun 2009 00:00:45 +0000</pubDate>
 	<generator>http://wordpress.org/?v=2.8</generator>
 	<language>en</language>
 	<wp:wxr_version>1.0</wp:wxr_version>
-	<wp:base_site_url>http://greg.nokes.name</wp:base_site_url>
-	<wp:base_blog_url>http://greg.nokes.name</wp:base_blog_url>
+	<wp:base_site_url>https://greg.nokes.name</wp:base_site_url>
+	<wp:base_blog_url>https://greg.nokes.name</wp:base_blog_url>
 	<wp:category><wp:category_nicename>computers-and-code</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Computers and Code]]></wp:cat_name></wp:category>
 	<wp:category><wp:category_nicename>fun</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Fun]]></wp:cat_name></wp:category>
 	<wp:category><wp:category_nicename>mundane</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Mundane]]></wp:cat_name></wp:category>
@@ -57,7 +57,7 @@
 	<wp:tag><wp:tag_slug>web-application</wp:tag_slug><wp:tag_name><![CDATA[web application]]></wp:tag_name></wp:tag>
 		<item>
 <title>Political Tests and scores</title>
-<link>http://greg.nokes.name/2004/10/14/political-tests-and-scores/</link>
+<link>https://greg.nokes.name/2004/10/14/political-tests-and-scores/</link>
 <pubDate>Thu, 14 Oct 2004 16:13:43 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -128,7 +128,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 	</item>
 <item>
 <title>Some ruminating about why I started this blog</title>
-<link>http://greg.nokes.name/2004/10/14/some-ruminating-about-why-i-started-this-blog/</link>
+<link>https://greg.nokes.name/2004/10/14/some-ruminating-about-why-i-started-this-blog/</link>
 <pubDate>Thu, 14 Oct 2004 16:18:42 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -182,7 +182,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 	</item>
 <item>
 <title>Politics, Media and Personal Safety</title>
-<link>http://greg.nokes.name/2004/10/19/politics-media-and-personal-safety/</link>
+<link>https://greg.nokes.name/2004/10/19/politics-media-and-personal-safety/</link>
 <pubDate>Tue, 19 Oct 2004 22:43:42 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -254,7 +254,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 <wp:comment_id>397</wp:comment_id>
 <wp:comment_author><![CDATA[The Roost &raquo; Blogs Ate My Teenager!]]></wp:comment_author>
 <wp:comment_author_email></wp:comment_author_email>
-<wp:comment_author_url>http://greg.nokes.name/?p=426</wp:comment_author_url>
+<wp:comment_author_url>https://greg.nokes.name/?p=426</wp:comment_author_url>
 <wp:comment_author_IP>none</wp:comment_author_IP>
 <wp:comment_date>2004-10-19 22:43:42</wp:comment_date>
 <wp:comment_date_gmt>2004-10-19 22:43:42</wp:comment_date_gmt>
@@ -268,7 +268,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 <wp:comment_id>398</wp:comment_id>
 <wp:comment_author><![CDATA[The Roost &raquo; Culture of Fear grows]]></wp:comment_author>
 <wp:comment_author_email></wp:comment_author_email>
-<wp:comment_author_url>http://greg.nokes.name/?p=486</wp:comment_author_url>
+<wp:comment_author_url>https://greg.nokes.name/?p=486</wp:comment_author_url>
 <wp:comment_author_IP>none</wp:comment_author_IP>
 <wp:comment_date>2004-10-19 22:43:42</wp:comment_date>
 <wp:comment_date_gmt>2004-10-19 22:43:42</wp:comment_date_gmt>
@@ -281,7 +281,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 	</item>
 <item>
 <title>And darkness consumes us</title>
-<link>http://greg.nokes.name/2004/11/01/and-darkness-consumes-us/</link>
+<link>https://greg.nokes.name/2004/11/01/and-darkness-consumes-us/</link>
 <pubDate>Mon, 01 Nov 2004 16:49:46 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -325,7 +325,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 	</item>
 <item>
 <title>Spokane Catholic Diocese declares bankruptcy</title>
-<link>http://greg.nokes.name/2004/11/18/spokane-catholic-diocese-declares-bankruptcy/</link>
+<link>https://greg.nokes.name/2004/11/18/spokane-catholic-diocese-declares-bankruptcy/</link>
 <pubDate>Thu, 18 Nov 2004 16:50:17 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -383,7 +383,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 	</item>
 <item>
 <title>It's getting Cold in here - why don't you put on some clothes!</title>
-<link>http://greg.nokes.name/2004/11/24/it-s-getting-cold-in-here-why-don-t-you-put-on-some-clothes/</link>
+<link>https://greg.nokes.name/2004/11/24/it-s-getting-cold-in-here-why-don-t-you-put-on-some-clothes/</link>
 <pubDate>Wed, 24 Nov 2004 16:50:47 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -440,7 +440,7 @@ Wow. Some of those questions and category's are really... um... biased. But what
 	</item>
 <item>
 <title>Everything is true!</title>
-<link>http://greg.nokes.name/2004/12/09/everything-is-true/</link>
+<link>https://greg.nokes.name/2004/12/09/everything-is-true/</link>
 <pubDate>Thu, 09 Dec 2004 16:51:35 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -525,7 +525,7 @@ Russ]]></wp:comment_content>
 	</item>
 <item>
 <title>Zorba the Buddha</title>
-<link>http://greg.nokes.name/2004/12/09/zorba-the-buddha/</link>
+<link>https://greg.nokes.name/2004/12/09/zorba-the-buddha/</link>
 <pubDate>Thu, 09 Dec 2004 16:52:03 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -565,7 +565,7 @@ Russ]]></wp:comment_content>
 	</item>
 <item>
 <title>Have you heard that the world's gone crazy?</title>
-<link>http://greg.nokes.name/2004/12/22/have-you-heard-that-the-world-s-gone-crazy/</link>
+<link>https://greg.nokes.name/2004/12/22/have-you-heard-that-the-world-s-gone-crazy/</link>
 <pubDate>Wed, 22 Dec 2004 16:52:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -618,7 +618,7 @@ Knowing that we can't lose<br />
 	</item>
 <item>
 <title>Pass on the password</title>
-<link>http://greg.nokes.name/2004/12/24/pass-on-the-password/</link>
+<link>https://greg.nokes.name/2004/12/24/pass-on-the-password/</link>
 <pubDate>Fri, 24 Dec 2004 16:44:29 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -661,7 +661,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>They extracted the Christmas Spirit!</title>
-<link>http://greg.nokes.name/2004/12/24/they-extracted-the-christmas-spirit/</link>
+<link>https://greg.nokes.name/2004/12/24/they-extracted-the-christmas-spirit/</link>
 <pubDate>Fri, 24 Dec 2004 16:52:20 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -721,7 +721,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Yes, I own stock!</title>
-<link>http://greg.nokes.name/2004/12/27/yes-i-own-stock/</link>
+<link>https://greg.nokes.name/2004/12/27/yes-i-own-stock/</link>
 <pubDate>Mon, 27 Dec 2004 15:49:03 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -755,7 +755,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Open Source Software</title>
-<link>http://greg.nokes.name/2005/01/03/open-source-software/</link>
+<link>https://greg.nokes.name/2005/01/03/open-source-software/</link>
 <pubDate>Mon, 03 Jan 2005 10:51:20 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -781,7 +781,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Open Source Part Two</title>
-<link>http://greg.nokes.name/2005/01/04/open-source-part-two/</link>
+<link>https://greg.nokes.name/2005/01/04/open-source-part-two/</link>
 <pubDate>Tue, 04 Jan 2005 16:05:15 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -821,7 +821,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Craziness: Back to the governor thing...</title>
-<link>http://greg.nokes.name/2005/01/04/craziness-back-to-the-governor-thing/</link>
+<link>https://greg.nokes.name/2005/01/04/craziness-back-to-the-governor-thing/</link>
 <pubDate>Tue, 04 Jan 2005 22:06:22 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -903,7 +903,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Dork Tidings - Be Ye Not...</title>
-<link>http://greg.nokes.name/2005/01/06/dork-tidings-be-ye-not/</link>
+<link>https://greg.nokes.name/2005/01/06/dork-tidings-be-ye-not/</link>
 <pubDate>Thu, 06 Jan 2005 15:04:38 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -929,7 +929,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Something Fishy in Seattle</title>
-<link>http://greg.nokes.name/2005/01/07/something-fishy-in-seattle/</link>
+<link>https://greg.nokes.name/2005/01/07/something-fishy-in-seattle/</link>
 <pubDate>Fri, 07 Jan 2005 10:22:25 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -955,7 +955,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Justus for All: Necromancy in Washington</title>
-<link>http://greg.nokes.name/2005/01/08/justus-for-all-necromancy-in-washington/</link>
+<link>https://greg.nokes.name/2005/01/08/justus-for-all-necromancy-in-washington/</link>
 <pubDate>Sat, 08 Jan 2005 17:04:21 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -995,7 +995,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Yummyness</title>
-<link>http://greg.nokes.name/2005/01/09/yummyness/</link>
+<link>https://greg.nokes.name/2005/01/09/yummyness/</link>
 <pubDate>Sun, 09 Jan 2005 09:23:31 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1021,7 +1021,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Whitecaps</title>
-<link>http://greg.nokes.name/2005/01/09/whitecaps/</link>
+<link>https://greg.nokes.name/2005/01/09/whitecaps/</link>
 <pubDate>Sun, 09 Jan 2005 12:55:20 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1047,7 +1047,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Buddhist resources in Spokane</title>
-<link>http://greg.nokes.name/2005/01/10/buddhist-resources-in-spokane/</link>
+<link>https://greg.nokes.name/2005/01/10/buddhist-resources-in-spokane/</link>
 <pubDate>Mon, 10 Jan 2005 13:01:21 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1073,7 +1073,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Doubt</title>
-<link>http://greg.nokes.name/2005/01/10/doubt/</link>
+<link>https://greg.nokes.name/2005/01/10/doubt/</link>
 <pubDate>Mon, 10 Jan 2005 16:49:08 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1104,7 +1104,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Macs for the Masses</title>
-<link>http://greg.nokes.name/2005/01/11/macs-for-the-masses/</link>
+<link>https://greg.nokes.name/2005/01/11/macs-for-the-masses/</link>
 <pubDate>Tue, 11 Jan 2005 13:42:04 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1144,7 +1144,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>BBC NEWS | Science/Nature | Huygens moon probe lands on Titan</title>
-<link>http://greg.nokes.name/2005/01/14/bbc-news-science-nature-huygens-moon-probe-lands-on-titan/</link>
+<link>https://greg.nokes.name/2005/01/14/bbc-news-science-nature-huygens-moon-probe-lands-on-titan/</link>
 <pubDate>Fri, 14 Jan 2005 08:41:48 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1212,7 +1212,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>USATODAY.com - Opportunity spots curious object on flat Mars plain</title>
-<link>http://greg.nokes.name/2005/01/15/usatoday-com-opportunity-spots-curious-object-on-flat-mars-plain/</link>
+<link>https://greg.nokes.name/2005/01/15/usatoday-com-opportunity-spots-curious-object-on-flat-mars-plain/</link>
 <pubDate>Sat, 15 Jan 2005 22:25:51 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1238,7 +1238,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>NASA - Huygens at Titan - 2</title>
-<link>http://greg.nokes.name/2005/01/15/nasa-huygens-at-titan-2/</link>
+<link>https://greg.nokes.name/2005/01/15/nasa-huygens-at-titan-2/</link>
 <pubDate>Sat, 15 Jan 2005 22:43:56 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1264,7 +1264,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Attack of the Killer Back Flab!</title>
-<link>http://greg.nokes.name/2005/01/19/attack-of-the-killer-back-flab/</link>
+<link>https://greg.nokes.name/2005/01/19/attack-of-the-killer-back-flab/</link>
 <pubDate>Wed, 19 Jan 2005 09:00:22 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1290,7 +1290,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Galaxy.OSNews.com - Exploring the OS Bloggers</title>
-<link>http://greg.nokes.name/2005/01/19/galaxy-osnews-com-exploring-the-os-bloggers/</link>
+<link>https://greg.nokes.name/2005/01/19/galaxy-osnews-com-exploring-the-os-bloggers/</link>
 <pubDate>Wed, 19 Jan 2005 15:33:12 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1316,7 +1316,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>NPR : Firings Raise Questions of Blogger Freedoms</title>
-<link>http://greg.nokes.name/2005/01/19/npr-firings-raise-questions-of-blogger-freedoms/</link>
+<link>https://greg.nokes.name/2005/01/19/npr-firings-raise-questions-of-blogger-freedoms/</link>
 <pubDate>Wed, 19 Jan 2005 21:40:17 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1342,7 +1342,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Morning Coffee</title>
-<link>http://greg.nokes.name/2005/01/21/morning-coffee/</link>
+<link>https://greg.nokes.name/2005/01/21/morning-coffee/</link>
 <pubDate>Fri, 21 Jan 2005 06:37:47 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1438,7 +1438,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Gaming Funny</title>
-<link>http://greg.nokes.name/2005/01/21/gaming-funny/</link>
+<link>https://greg.nokes.name/2005/01/21/gaming-funny/</link>
 <pubDate>Fri, 21 Jan 2005 08:22:54 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1482,7 +1482,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>Yahoo! News - Army Prepares 'Robo-Soldier' for Iraq</title>
-<link>http://greg.nokes.name/2005/01/23/yahoo-news-army-prepares-robo-soldier-for-iraq/</link>
+<link>https://greg.nokes.name/2005/01/23/yahoo-news-army-prepares-robo-soldier-for-iraq/</link>
 <pubDate>Sun, 23 Jan 2005 10:00:53 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1508,7 +1508,7 @@ I think that in this increasingly digital age, this is going to become more of a
 	</item>
 <item>
 <title>What is really real?</title>
-<link>http://greg.nokes.name/2005/01/24/what-is-really-real/</link>
+<link>https://greg.nokes.name/2005/01/24/what-is-really-real/</link>
 <pubDate>Mon, 24 Jan 2005 13:55:42 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1602,7 +1602,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>The Buddhist Attitude to God</title>
-<link>http://greg.nokes.name/2005/01/24/the-buddhist-attitude-to-god/</link>
+<link>https://greg.nokes.name/2005/01/24/the-buddhist-attitude-to-god/</link>
 <pubDate>Mon, 24 Jan 2005 15:13:25 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1810,7 +1810,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Sicko Computers...</title>
-<link>http://greg.nokes.name/2005/01/25/sicko-computers/</link>
+<link>https://greg.nokes.name/2005/01/25/sicko-computers/</link>
 <pubDate>Tue, 25 Jan 2005 08:55:13 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1836,7 +1836,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Windows viruses under Linux</title>
-<link>http://greg.nokes.name/2005/01/26/windows-viruses-under-linux/</link>
+<link>https://greg.nokes.name/2005/01/26/windows-viruses-under-linux/</link>
 <pubDate>Wed, 26 Jan 2005 20:50:07 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1880,7 +1880,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>End of win2k</title>
-<link>http://greg.nokes.name/2005/01/27/end-of-win2k/</link>
+<link>https://greg.nokes.name/2005/01/27/end-of-win2k/</link>
 <pubDate>Thu, 27 Jan 2005 09:21:51 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1906,7 +1906,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>insanity strikes my head often</title>
-<link>http://greg.nokes.name/2005/01/27/insanity-strikes-my-head-often/</link>
+<link>https://greg.nokes.name/2005/01/27/insanity-strikes-my-head-often/</link>
 <pubDate>Thu, 27 Jan 2005 20:39:41 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -1946,7 +1946,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Movies that Matter!</title>
-<link>http://greg.nokes.name/2005/01/28/movies-that-matter/</link>
+<link>https://greg.nokes.name/2005/01/28/movies-that-matter/</link>
 <pubDate>Fri, 28 Jan 2005 13:56:11 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2014,7 +2014,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Microsoft under more attack</title>
-<link>http://greg.nokes.name/2005/02/04/microsoft-under-more-attack/</link>
+<link>https://greg.nokes.name/2005/02/04/microsoft-under-more-attack/</link>
 <pubDate>Fri, 04 Feb 2005 13:28:04 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2044,7 +2044,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Linare launches low cost Linux laptops for 498 USD - OSNews.com</title>
-<link>http://greg.nokes.name/2005/02/05/linare-launches-low-cost-linux-laptops-for-498-usd-osnews-com/</link>
+<link>https://greg.nokes.name/2005/02/05/linare-launches-low-cost-linux-laptops-for-498-usd-osnews-com/</link>
 <pubDate>Sat, 05 Feb 2005 09:57:26 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2070,7 +2070,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Saying good by to a good freind...</title>
-<link>http://greg.nokes.name/2005/02/07/saying-good-by-to-a-good-freind/</link>
+<link>https://greg.nokes.name/2005/02/07/saying-good-by-to-a-good-freind/</link>
 <pubDate>Mon, 07 Feb 2005 22:09:25 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2110,7 +2110,7 @@ I agree. Like the four blind men and the elephant. We do not see reality, we cou
 	</item>
 <item>
 <title>Toxic Memes</title>
-<link>http://greg.nokes.name/2005/02/09/toxic-memes/</link>
+<link>https://greg.nokes.name/2005/02/09/toxic-memes/</link>
 <pubDate>Wed, 09 Feb 2005 14:07:14 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2202,7 +2202,7 @@ So..
 	</item>
 <item>
 <title>Have I worked here before?</title>
-<link>http://greg.nokes.name/2005/02/09/have-i-worked-here-before/</link>
+<link>https://greg.nokes.name/2005/02/09/have-i-worked-here-before/</link>
 <pubDate>Wed, 09 Feb 2005 16:38:36 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2232,7 +2232,7 @@ So..
 	</item>
 <item>
 <title>Fun Work</title>
-<link>http://greg.nokes.name/2005/02/09/fun-work/</link>
+<link>https://greg.nokes.name/2005/02/09/fun-work/</link>
 <pubDate>Wed, 09 Feb 2005 21:37:26 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2258,7 +2258,7 @@ So..
 	</item>
 <item>
 <title>In the face of storms we fly...</title>
-<link>http://greg.nokes.name/2005/02/10/in-the-face-of-storms-we-fly/</link>
+<link>https://greg.nokes.name/2005/02/10/in-the-face-of-storms-we-fly/</link>
 <pubDate>Thu, 10 Feb 2005 14:37:39 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2298,7 +2298,7 @@ So..
 	</item>
 <item>
 <title>Bud Light...</title>
-<link>http://greg.nokes.name/2005/02/10/bud-light/</link>
+<link>https://greg.nokes.name/2005/02/10/bud-light/</link>
 <pubDate>Thu, 10 Feb 2005 15:23:02 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2366,7 +2366,7 @@ So..
 	</item>
 <item>
 <title>Stealing: Online vs Offline</title>
-<link>http://greg.nokes.name/2005/02/10/stealing-online-vs-offline/</link>
+<link>https://greg.nokes.name/2005/02/10/stealing-online-vs-offline/</link>
 <pubDate>Thu, 10 Feb 2005 20:55:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2392,7 +2392,7 @@ So..
 	</item>
 <item>
 <title>Strange things afoot...</title>
-<link>http://greg.nokes.name/2005/02/10/strange-things-afoot/</link>
+<link>https://greg.nokes.name/2005/02/10/strange-things-afoot/</link>
 <pubDate>Thu, 10 Feb 2005 21:31:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2418,7 +2418,7 @@ So..
 	</item>
 <item>
 <title>Cardexchange</title>
-<link>http://greg.nokes.name/2005/02/11/cardexchange/</link>
+<link>https://greg.nokes.name/2005/02/11/cardexchange/</link>
 <pubDate>Fri, 11 Feb 2005 12:04:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2444,7 +2444,7 @@ So..
 	</item>
 <item>
 <title>iFolder - It's all about Sharing</title>
-<link>http://greg.nokes.name/2005/02/12/ifolder-it-s-all-about-sharing/</link>
+<link>https://greg.nokes.name/2005/02/12/ifolder-it-s-all-about-sharing/</link>
 <pubDate>Sat, 12 Feb 2005 21:47:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2470,7 +2470,7 @@ So..
 	</item>
 <item>
 <title>Macworld UK - PC makers want to license Mac OS - Jobs</title>
-<link>http://greg.nokes.name/2005/02/12/macworld-uk-pc-makers-want-to-license-mac-os-jobs/</link>
+<link>https://greg.nokes.name/2005/02/12/macworld-uk-pc-makers-want-to-license-mac-os-jobs/</link>
 <pubDate>Sat, 12 Feb 2005 21:59:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2556,7 +2556,7 @@ you tube and sexy legs and erotic scenes &lt;a href=http://pornadultxxx.info/por
 	</item>
 <item>
 <title>copyrighteous</title>
-<link>http://greg.nokes.name/2005/02/12/copyrighteous/</link>
+<link>https://greg.nokes.name/2005/02/12/copyrighteous/</link>
 <pubDate>Sat, 12 Feb 2005 22:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2582,7 +2582,7 @@ you tube and sexy legs and erotic scenes &lt;a href=http://pornadultxxx.info/por
 	</item>
 <item>
 <title>Watching the Grammys</title>
-<link>http://greg.nokes.name/2005/02/13/watching-the-grammys/</link>
+<link>https://greg.nokes.name/2005/02/13/watching-the-grammys/</link>
 <pubDate>Sun, 13 Feb 2005 21:15:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2608,7 +2608,7 @@ you tube and sexy legs and erotic scenes &lt;a href=http://pornadultxxx.info/por
 	</item>
 <item>
 <title>Choicepoint data stolen!</title>
-<link>http://greg.nokes.name/2005/02/14/choicepoint-data-stolen/</link>
+<link>https://greg.nokes.name/2005/02/14/choicepoint-data-stolen/</link>
 <pubDate>Mon, 14 Feb 2005 20:29:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2638,7 +2638,7 @@ you tube and sexy legs and erotic scenes &lt;a href=http://pornadultxxx.info/por
 	</item>
 <item>
 <title>How to feed Cats with Linux</title>
-<link>http://greg.nokes.name/2005/02/14/how-to-feed-cats-with-linux/</link>
+<link>https://greg.nokes.name/2005/02/14/how-to-feed-cats-with-linux/</link>
 <pubDate>Mon, 14 Feb 2005 20:42:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2668,7 +2668,7 @@ you tube and sexy legs and erotic scenes &lt;a href=http://pornadultxxx.info/por
 	</item>
 <item>
 <title>More about God</title>
-<link>http://greg.nokes.name/2005/02/15/more-about-god/</link>
+<link>https://greg.nokes.name/2005/02/15/more-about-god/</link>
 <pubDate>Tue, 15 Feb 2005 11:51:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2823,7 +2823,7 @@ So, in summary - Yes, God could be a Nth dimensional creature that we cannot per
 <wp:comment_id>53</wp:comment_id>
 <wp:comment_author><![CDATA[tsykoduk]]></wp:comment_author>
 <wp:comment_author_email>tsykoduk@gmail.com</wp:comment_author_email>
-<wp:comment_author_url>http://greg.nokes.name</wp:comment_author_url>
+<wp:comment_author_url>https://greg.nokes.name</wp:comment_author_url>
 <wp:comment_author_IP>none</wp:comment_author_IP>
 <wp:comment_date>2005-02-15 11:51:00</wp:comment_date>
 <wp:comment_date_gmt>2005-02-15 11:51:00</wp:comment_date_gmt>
@@ -2838,7 +2838,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Saw this, and just had to share</title>
-<link>http://greg.nokes.name/2005/02/16/saw-this-and-just-had-to-share/</link>
+<link>https://greg.nokes.name/2005/02/16/saw-this-and-just-had-to-share/</link>
 <pubDate>Wed, 16 Feb 2005 13:44:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2864,7 +2864,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Out of town</title>
-<link>http://greg.nokes.name/2005/02/17/out-of-town/</link>
+<link>https://greg.nokes.name/2005/02/17/out-of-town/</link>
 <pubDate>Thu, 17 Feb 2005 18:36:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2890,7 +2890,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>All your wifi are belong to us!</title>
-<link>http://greg.nokes.name/2005/02/18/all-your-wifi-are-belong-to-us/</link>
+<link>https://greg.nokes.name/2005/02/18/all-your-wifi-are-belong-to-us/</link>
 <pubDate>Fri, 18 Feb 2005 15:51:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2934,7 +2934,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Uncleanable spyware??</title>
-<link>http://greg.nokes.name/2005/02/18/uncleanable-spyware/</link>
+<link>https://greg.nokes.name/2005/02/18/uncleanable-spyware/</link>
 <pubDate>Fri, 18 Feb 2005 19:01:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2960,7 +2960,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Top of the morning to ya!</title>
-<link>http://greg.nokes.name/2005/02/19/top-of-the-morning-to-ya/</link>
+<link>https://greg.nokes.name/2005/02/19/top-of-the-morning-to-ya/</link>
 <pubDate>Sat, 19 Feb 2005 08:57:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -2986,7 +2986,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>One of the best...</title>
-<link>http://greg.nokes.name/2005/02/21/one-of-the-best/</link>
+<link>https://greg.nokes.name/2005/02/21/one-of-the-best/</link>
 <pubDate>Mon, 21 Feb 2005 22:03:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3016,7 +3016,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Cool spoilers from Star Wars III</title>
-<link>http://greg.nokes.name/2005/02/23/cool-spoilers-from-star-wars-iii/</link>
+<link>https://greg.nokes.name/2005/02/23/cool-spoilers-from-star-wars-iii/</link>
 <pubDate>Wed, 23 Feb 2005 21:08:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3070,7 +3070,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Zogg..</title>
-<link>http://greg.nokes.name/2005/02/25/zogg/</link>
+<link>https://greg.nokes.name/2005/02/25/zogg/</link>
 <pubDate>Fri, 25 Feb 2005 09:09:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3096,7 +3096,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Shocking Trends</title>
-<link>http://greg.nokes.name/2005/02/27/shocking-trends/</link>
+<link>https://greg.nokes.name/2005/02/27/shocking-trends/</link>
 <pubDate>Sun, 27 Feb 2005 15:58:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3164,7 +3164,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Unhappy Birthday!</title>
-<link>http://greg.nokes.name/2005/03/02/unhappy-birthday/</link>
+<link>https://greg.nokes.name/2005/03/02/unhappy-birthday/</link>
 <pubDate>Wed, 02 Mar 2005 12:07:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3194,7 +3194,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Green Tea out the Nose</title>
-<link>http://greg.nokes.name/2005/03/04/green-tea-out-the-nose/</link>
+<link>https://greg.nokes.name/2005/03/04/green-tea-out-the-nose/</link>
 <pubDate>Fri, 04 Mar 2005 14:45:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3262,7 +3262,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>I just don't know what I am doing wrong..</title>
-<link>http://greg.nokes.name/2005/03/06/i-just-don-t-know-what-i-am-doing-wrong/</link>
+<link>https://greg.nokes.name/2005/03/06/i-just-don-t-know-what-i-am-doing-wrong/</link>
 <pubDate>Sun, 06 Mar 2005 14:44:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3288,7 +3288,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Taster's Choice</title>
-<link>http://greg.nokes.name/2005/03/06/taster-s-choice/</link>
+<link>https://greg.nokes.name/2005/03/06/taster-s-choice/</link>
 <pubDate>Sun, 06 Mar 2005 14:49:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3314,7 +3314,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>My kung-foo is strong...</title>
-<link>http://greg.nokes.name/2005/03/07/my-kung-foo-is-strong/</link>
+<link>https://greg.nokes.name/2005/03/07/my-kung-foo-is-strong/</link>
 <pubDate>Mon, 07 Mar 2005 18:45:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3340,7 +3340,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Hatty-ness</title>
-<link>http://greg.nokes.name/2005/03/07/hatty-ness/</link>
+<link>https://greg.nokes.name/2005/03/07/hatty-ness/</link>
 <pubDate>Mon, 07 Mar 2005 18:56:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3380,7 +3380,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>You know you are a gamer when...</title>
-<link>http://greg.nokes.name/2005/03/07/you-know-you-are-a-gamer-when/</link>
+<link>https://greg.nokes.name/2005/03/07/you-know-you-are-a-gamer-when/</link>
 <pubDate>Mon, 07 Mar 2005 22:48:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3476,7 +3476,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>I guess...</title>
-<link>http://greg.nokes.name/2005/03/07/i-guess/</link>
+<link>https://greg.nokes.name/2005/03/07/i-guess/</link>
 <pubDate>Mon, 07 Mar 2005 23:17:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3502,7 +3502,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Shelia took the test...</title>
-<link>http://greg.nokes.name/2005/03/08/shelia-took-the-test/</link>
+<link>https://greg.nokes.name/2005/03/08/shelia-took-the-test/</link>
 <pubDate>Tue, 08 Mar 2005 18:44:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3528,7 +3528,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>LAMP made Easy</title>
-<link>http://greg.nokes.name/2005/03/09/lamp-made-easy/</link>
+<link>https://greg.nokes.name/2005/03/09/lamp-made-easy/</link>
 <pubDate>Wed, 09 Mar 2005 09:24:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3554,7 +3554,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>New Iraq Exit Strategy Announced</title>
-<link>http://greg.nokes.name/2005/03/09/new-iraq-exit-strategy-announced/</link>
+<link>https://greg.nokes.name/2005/03/09/new-iraq-exit-strategy-announced/</link>
 <pubDate>Wed, 09 Mar 2005 11:11:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3598,7 +3598,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Screenshot!</title>
-<link>http://greg.nokes.name/2005/03/11/screenshot/</link>
+<link>https://greg.nokes.name/2005/03/11/screenshot/</link>
 <pubDate>Fri, 11 Mar 2005 14:56:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3624,7 +3624,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>How much am I worth?</title>
-<link>http://greg.nokes.name/2005/03/11/how-much-am-i-worth/</link>
+<link>https://greg.nokes.name/2005/03/11/how-much-am-i-worth/</link>
 <pubDate>Fri, 11 Mar 2005 15:59:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3678,7 +3678,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Things that go bump in the night...</title>
-<link>http://greg.nokes.name/2005/03/12/things-that-go-bump-in-the-night/</link>
+<link>https://greg.nokes.name/2005/03/12/things-that-go-bump-in-the-night/</link>
 <pubDate>Sat, 12 Mar 2005 22:29:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3750,7 +3750,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Hmmm</title>
-<link>http://greg.nokes.name/2005/03/12/hmmm/</link>
+<link>https://greg.nokes.name/2005/03/12/hmmm/</link>
 <pubDate>Sat, 12 Mar 2005 22:59:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3794,7 +3794,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Geek I am!</title>
-<link>http://greg.nokes.name/2005/03/12/geek-i-am/</link>
+<link>https://greg.nokes.name/2005/03/12/geek-i-am/</link>
 <pubDate>Sat, 12 Mar 2005 23:09:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3820,7 +3820,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Coding</title>
-<link>http://greg.nokes.name/2005/03/13/coding/</link>
+<link>https://greg.nokes.name/2005/03/13/coding/</link>
 <pubDate>Sun, 13 Mar 2005 15:31:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3846,7 +3846,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>PTM: II - Physics for the Third Millenium</title>
-<link>http://greg.nokes.name/2005/03/13/ptm-ii-physics-for-the-third-millenium/</link>
+<link>https://greg.nokes.name/2005/03/13/ptm-ii-physics-for-the-third-millenium/</link>
 <pubDate>Sun, 13 Mar 2005 20:01:15 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3872,7 +3872,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>F/OSS vs Commercial development theories</title>
-<link>http://greg.nokes.name/2005/03/13/f-oss-vs-commercial-development-theories/</link>
+<link>https://greg.nokes.name/2005/03/13/f-oss-vs-commercial-development-theories/</link>
 <pubDate>Sun, 13 Mar 2005 21:30:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3898,7 +3898,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Don't Panic!</title>
-<link>http://greg.nokes.name/2005/03/14/don-t-panic/</link>
+<link>https://greg.nokes.name/2005/03/14/don-t-panic/</link>
 <pubDate>Mon, 14 Mar 2005 06:48:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3952,7 +3952,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Obiligatory Nose Photo</title>
-<link>http://greg.nokes.name/2005/03/14/obiligatory-nose-photo/</link>
+<link>https://greg.nokes.name/2005/03/14/obiligatory-nose-photo/</link>
 <pubDate>Mon, 14 Mar 2005 19:02:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -3978,7 +3978,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>I want one</title>
-<link>http://greg.nokes.name/2005/03/14/i-want-one/</link>
+<link>https://greg.nokes.name/2005/03/14/i-want-one/</link>
 <pubDate>Mon, 14 Mar 2005 20:42:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4004,7 +4004,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Linux is insecure, unscalable</title>
-<link>http://greg.nokes.name/2005/03/16/linux-is-insecure-unscalable/</link>
+<link>https://greg.nokes.name/2005/03/16/linux-is-insecure-unscalable/</link>
 <pubDate>Wed, 16 Mar 2005 13:44:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4058,7 +4058,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Zombie-Fest</title>
-<link>http://greg.nokes.name/2005/03/17/zombie-fest/</link>
+<link>https://greg.nokes.name/2005/03/17/zombie-fest/</link>
 <pubDate>Thu, 17 Mar 2005 15:25:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4098,7 +4098,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Andre MIA</title>
-<link>http://greg.nokes.name/2005/03/17/andre-mia/</link>
+<link>https://greg.nokes.name/2005/03/17/andre-mia/</link>
 <pubDate>Thu, 17 Mar 2005 15:34:12 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4124,7 +4124,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Gimme my Ogg!</title>
-<link>http://greg.nokes.name/2005/03/17/gimme-my-ogg/</link>
+<link>https://greg.nokes.name/2005/03/17/gimme-my-ogg/</link>
 <pubDate>Thu, 17 Mar 2005 20:24:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4150,7 +4150,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>I am not going to post about...</title>
-<link>http://greg.nokes.name/2005/03/23/i-am-not-going-to-post-about/</link>
+<link>https://greg.nokes.name/2005/03/23/i-am-not-going-to-post-about/</link>
 <pubDate>Wed, 23 Mar 2005 21:32:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4176,7 +4176,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>New screenshot</title>
-<link>http://greg.nokes.name/2005/03/24/new-screenshot/</link>
+<link>https://greg.nokes.name/2005/03/24/new-screenshot/</link>
 <pubDate>Thu, 24 Mar 2005 15:03:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4202,7 +4202,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>More on the non-story</title>
-<link>http://greg.nokes.name/2005/03/24/more-on-the-non-story/</link>
+<link>https://greg.nokes.name/2005/03/24/more-on-the-non-story/</link>
 <pubDate>Thu, 24 Mar 2005 15:27:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4256,7 +4256,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>The World's Most Devious Alarm Clock</title>
-<link>http://greg.nokes.name/2005/03/25/the-world-s-most-devious-alarm-clock/</link>
+<link>https://greg.nokes.name/2005/03/25/the-world-s-most-devious-alarm-clock/</link>
 <pubDate>Fri, 25 Mar 2005 07:50:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4286,7 +4286,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>PyMusique vs Apple</title>
-<link>http://greg.nokes.name/2005/03/25/pymusique-vs-apple/</link>
+<link>https://greg.nokes.name/2005/03/25/pymusique-vs-apple/</link>
 <pubDate>Fri, 25 Mar 2005 08:19:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4368,7 +4368,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Older Screenshots</title>
-<link>http://greg.nokes.name/2005/03/27/older-screenshots/</link>
+<link>https://greg.nokes.name/2005/03/27/older-screenshots/</link>
 <pubDate>Sun, 27 Mar 2005 22:09:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4394,7 +4394,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>I am proud of this one!</title>
-<link>http://greg.nokes.name/2005/03/29/i-am-proud-of-this-one/</link>
+<link>https://greg.nokes.name/2005/03/29/i-am-proud-of-this-one/</link>
 <pubDate>Tue, 29 Mar 2005 19:26:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4420,7 +4420,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Florida's New Living Will</title>
-<link>http://greg.nokes.name/2005/03/31/florida-s-new-living-will/</link>
+<link>https://greg.nokes.name/2005/03/31/florida-s-new-living-will/</link>
 <pubDate>Thu, 31 Mar 2005 09:15:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4450,7 +4450,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Watch your behind.. guess who's coming for dinner..</title>
-<link>http://greg.nokes.name/2005/03/31/watch-your-behind-guess-who-s-coming-for-dinner/</link>
+<link>https://greg.nokes.name/2005/03/31/watch-your-behind-guess-who-s-coming-for-dinner/</link>
 <pubDate>Thu, 31 Mar 2005 13:10:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4504,7 +4504,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Go Go Gadget-Tax!</title>
-<link>http://greg.nokes.name/2005/03/31/go-go-gadget-tax/</link>
+<link>https://greg.nokes.name/2005/03/31/go-go-gadget-tax/</link>
 <pubDate>Thu, 31 Mar 2005 14:45:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4530,7 +4530,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Spamroll?</title>
-<link>http://greg.nokes.name/2005/03/31/spamroll/</link>
+<link>https://greg.nokes.name/2005/03/31/spamroll/</link>
 <pubDate>Thu, 31 Mar 2005 15:01:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4556,7 +4556,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Good Flash Movie</title>
-<link>http://greg.nokes.name/2005/03/31/good-flash-movie/</link>
+<link>https://greg.nokes.name/2005/03/31/good-flash-movie/</link>
 <pubDate>Thu, 31 Mar 2005 15:13:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4582,7 +4582,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>I rock</title>
-<link>http://greg.nokes.name/2005/03/31/i-rock/</link>
+<link>https://greg.nokes.name/2005/03/31/i-rock/</link>
 <pubDate>Thu, 31 Mar 2005 17:23:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4592,7 +4592,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 
 <guid isPermaLink="false">30/2008/12/27/i-rock</guid>
 <description></description>
-<content:encoded><![CDATA[<p>New domain name for this blog - <a href="http://greg.nokes.name">greg.nokes.name</a>! Cool - hu? If I ever decide to roll my own blogsite (which I am close to right now) that <span class="caps">URL</span> will stay the 'offical' one.</p>]]></content:encoded>
+<content:encoded><![CDATA[<p>New domain name for this blog - <a href="https://greg.nokes.name">greg.nokes.name</a>! Cool - hu? If I ever decide to roll my own blogsite (which I am close to right now) that <span class="caps">URL</span> will stay the 'offical' one.</p>]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>119</wp:post_id>
 <wp:post_date>2005-03-31 17:23:00</wp:post_date>
@@ -4622,7 +4622,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>New blog</title>
-<link>http://greg.nokes.name/2005/03/31/new-blog-2/</link>
+<link>https://greg.nokes.name/2005/03/31/new-blog-2/</link>
 <pubDate>Thu, 31 Mar 2005 21:25:28 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4669,7 +4669,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Geeeorge!</title>
-<link>http://greg.nokes.name/2005/04/01/geeeorge/</link>
+<link>https://greg.nokes.name/2005/04/01/geeeorge/</link>
 <pubDate>Fri, 01 Apr 2005 00:39:34 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4715,7 +4715,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Google Gulp!</title>
-<link>http://greg.nokes.name/2005/04/01/google-gulp/</link>
+<link>https://greg.nokes.name/2005/04/01/google-gulp/</link>
 <pubDate>Fri, 01 Apr 2005 09:47:58 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4741,7 +4741,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>New communications methods discovered!</title>
-<link>http://greg.nokes.name/2005/04/01/new-communications-methods-discovered/</link>
+<link>https://greg.nokes.name/2005/04/01/new-communications-methods-discovered/</link>
 <pubDate>Fri, 01 Apr 2005 14:15:38 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4779,7 +4779,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Why I dislike Microsoft Products part 72</title>
-<link>http://greg.nokes.name/2005/04/01/why-i-dislike-microsoft-products-part-72/</link>
+<link>https://greg.nokes.name/2005/04/01/why-i-dislike-microsoft-products-part-72/</link>
 <pubDate>Fri, 01 Apr 2005 16:24:18 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4841,7 +4841,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Proof of water on Mars!!</title>
-<link>http://greg.nokes.name/2005/04/01/proof-of-water-on-mars/</link>
+<link>https://greg.nokes.name/2005/04/01/proof-of-water-on-mars/</link>
 <pubDate>Fri, 01 Apr 2005 16:56:03 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4873,7 +4873,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>History of the Universe in 200 words or less</title>
-<link>http://greg.nokes.name/2005/04/02/history-of-the-universe-in-200-words-or-less/</link>
+<link>https://greg.nokes.name/2005/04/02/history-of-the-universe-in-200-words-or-less/</link>
 <pubDate>Sat, 02 Apr 2005 10:36:26 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -4902,7 +4902,7 @@ Then see argument #1 - He is bound by time/space - which is part of Him. Logical
 	</item>
 <item>
 <title>Good Taste</title>
-<link>http://greg.nokes.name/2005/04/04/good-taste/</link>
+<link>https://greg.nokes.name/2005/04/04/good-taste/</link>
 <pubDate>Mon, 04 Apr 2005 14:12:03 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -7603,7 +7603,7 @@ Pixel Perfect Design Prize Winner
 	</item>
 <item>
 <title>Open Office 2 Pre-Review</title>
-<link>http://greg.nokes.name/2005/04/04/open-office-2-pre-review/</link>
+<link>https://greg.nokes.name/2005/04/04/open-office-2-pre-review/</link>
 <pubDate>Mon, 04 Apr 2005 20:05:43 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -7641,7 +7641,7 @@ Pixel Perfect Design Prize Winner
 	</item>
 <item>
 <title>Feds Hack Wireless Network in 3 Minutes</title>
-<link>http://greg.nokes.name/2005/04/05/feds-hack-wireless-network-in-3-minutes/</link>
+<link>https://greg.nokes.name/2005/04/05/feds-hack-wireless-network-in-3-minutes/</link>
 <pubDate>Tue, 05 Apr 2005 10:14:37 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10365,7 +10365,7 @@ You daaaa maaaaan!]]></wp:comment_content>
 	</item>
 <item>
 <title>Browsing can be dangerous...</title>
-<link>http://greg.nokes.name/2005/04/05/browsing-can-be-dangerous/</link>
+<link>https://greg.nokes.name/2005/04/05/browsing-can-be-dangerous/</link>
 <pubDate>Tue, 05 Apr 2005 12:57:11 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10397,7 +10397,7 @@ You daaaa maaaaan!]]></wp:comment_content>
 	</item>
 <item>
 <title>Washington State proposes 15-cent gas tax hike</title>
-<link>http://greg.nokes.name/2005/04/05/washington-state-proposes-15-cent-gas-tax-hike/</link>
+<link>https://greg.nokes.name/2005/04/05/washington-state-proposes-15-cent-gas-tax-hike/</link>
 <pubDate>Tue, 05 Apr 2005 15:15:58 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10441,7 +10441,7 @@ This is just getting silly. Higher and more complex taxes do not engender a stro
 	</item>
 <item>
 <title>More about Gas Taxes</title>
-<link>http://greg.nokes.name/2005/04/06/more-about-gas-taxes/</link>
+<link>https://greg.nokes.name/2005/04/06/more-about-gas-taxes/</link>
 <pubDate>Wed, 06 Apr 2005 10:53:28 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10571,7 +10571,7 @@ Great Blog though Tsycko!!!!]]></wp:comment_content>
 	</item>
 <item>
 <title>I Murder Hate</title>
-<link>http://greg.nokes.name/2005/04/06/i-murder-hate/</link>
+<link>https://greg.nokes.name/2005/04/06/i-murder-hate/</link>
 <pubDate>Wed, 06 Apr 2005 11:29:55 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10606,7 +10606,7 @@ Than be the death of twenty.</center></p>]]></content:encoded>
 	</item>
 <item>
 <title>Google Maps</title>
-<link>http://greg.nokes.name/2005/04/06/google-maps/</link>
+<link>https://greg.nokes.name/2005/04/06/google-maps/</link>
 <pubDate>Wed, 06 Apr 2005 13:18:25 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10660,7 +10660,7 @@ Than be the death of twenty.</center></p>]]></content:encoded>
 	</item>
 <item>
 <title>Cool write up!</title>
-<link>http://greg.nokes.name/2005/04/06/cool-write-up/</link>
+<link>https://greg.nokes.name/2005/04/06/cool-write-up/</link>
 <pubDate>Wed, 06 Apr 2005 22:00:32 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10703,7 +10703,7 @@ The Roost
 	</item>
 <item>
 <title>On Searching</title>
-<link>http://greg.nokes.name/2005/04/07/on-searching/</link>
+<link>https://greg.nokes.name/2005/04/07/on-searching/</link>
 <pubDate>Thu, 07 Apr 2005 10:44:16 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10737,7 +10737,7 @@ The Roost
 	</item>
 <item>
 <title>Addicted, I tell ya!</title>
-<link>http://greg.nokes.name/2005/04/07/addicted-i-tell-ya/</link>
+<link>https://greg.nokes.name/2005/04/07/addicted-i-tell-ya/</link>
 <pubDate>Thu, 07 Apr 2005 11:53:26 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10785,7 +10785,7 @@ By Salvadore Dali</center>
 	</item>
 <item>
 <title>Home Theatre PC Guide</title>
-<link>http://greg.nokes.name/2005/04/07/home-theatre-pc-guide/</link>
+<link>https://greg.nokes.name/2005/04/07/home-theatre-pc-guide/</link>
 <pubDate>Thu, 07 Apr 2005 12:34:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10849,7 +10849,7 @@ I think that the building will be the easy part :)]]></wp:comment_content>
 	</item>
 <item>
 <title>Tam O' Shanter</title>
-<link>http://greg.nokes.name/2005/04/08/tam-o-shanter/</link>
+<link>https://greg.nokes.name/2005/04/08/tam-o-shanter/</link>
 <pubDate>Fri, 08 Apr 2005 10:13:05 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10889,7 +10889,7 @@ Nursing her wrath to keep it warm. </center></em></p>]]></content:encoded>
 	</item>
 <item>
 <title>Bloggers Woes, or why I left..</title>
-<link>http://greg.nokes.name/2005/04/08/bloggers-woes-or-why-i-left/</link>
+<link>https://greg.nokes.name/2005/04/08/bloggers-woes-or-why-i-left/</link>
 <pubDate>Fri, 08 Apr 2005 11:31:17 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10936,7 +10936,7 @@ Nursing her wrath to keep it warm. </center></em></p>]]></content:encoded>
 	</item>
 <item>
 <title>This is just to much fun!</title>
-<link>http://greg.nokes.name/2005/04/08/this-is-just-to-much-fun/</link>
+<link>https://greg.nokes.name/2005/04/08/this-is-just-to-much-fun/</link>
 <pubDate>Fri, 08 Apr 2005 12:19:25 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10969,7 +10969,7 @@ Nursing her wrath to keep it warm. </center></em></p>]]></content:encoded>
 	</item>
 <item>
 <title>Why switch to linux?</title>
-<link>http://greg.nokes.name/2005/04/08/why-switch-to-linux/</link>
+<link>https://greg.nokes.name/2005/04/08/why-switch-to-linux/</link>
 <pubDate>Fri, 08 Apr 2005 12:29:29 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -10999,7 +10999,7 @@ Nursing her wrath to keep it warm. </center></em></p>]]></content:encoded>
 	</item>
 <item>
 <title>Heh!</title>
-<link>http://greg.nokes.name/2005/04/08/heh-2/</link>
+<link>https://greg.nokes.name/2005/04/08/heh-2/</link>
 <pubDate>Fri, 08 Apr 2005 12:46:02 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11033,7 +11033,7 @@ Nursing her wrath to keep it warm. </center></em></p>]]></content:encoded>
 	</item>
 <item>
 <title>Some intresting ideas on ID</title>
-<link>http://greg.nokes.name/2005/04/08/some-intresting-ideas-on-id/</link>
+<link>https://greg.nokes.name/2005/04/08/some-intresting-ideas-on-id/</link>
 <pubDate>Fri, 08 Apr 2005 13:45:53 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11063,7 +11063,7 @@ But you'd think one thing that opponents of ID (like myself) should invoke more 
 	</item>
 <item>
 <title>Rebuild the Twin Towers?</title>
-<link>http://greg.nokes.name/2005/04/08/rebuild-the-twin-towers/</link>
+<link>https://greg.nokes.name/2005/04/08/rebuild-the-twin-towers/</link>
 <pubDate>Fri, 08 Apr 2005 16:08:21 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11103,7 +11103,7 @@ But you'd think one thing that opponents of ID (like myself) should invoke more 
 	</item>
 <item>
 <title>Alternative Fuels</title>
-<link>http://greg.nokes.name/2005/04/09/alternative-fuels/</link>
+<link>https://greg.nokes.name/2005/04/09/alternative-fuels/</link>
 <pubDate>Sat, 09 Apr 2005 15:38:27 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11218,7 +11218,7 @@ Here is &lt;a href=&quot;http://denbeste.nu/cd_log_entries/2002/09/Obscureenergy
 	</item>
 <item>
 <title>Safe Blogging</title>
-<link>http://greg.nokes.name/2005/04/09/safe-blogging/</link>
+<link>https://greg.nokes.name/2005/04/09/safe-blogging/</link>
 <pubDate>Sat, 09 Apr 2005 17:55:33 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11289,7 +11289,7 @@ I don't feel any need to moderate or hide my beliefs though.]]></wp:comment_cont
 	</item>
 <item>
 <title>Under False Colors, by L. Neil Smith</title>
-<link>http://greg.nokes.name/2005/04/10/under-false-colors-by-l-neil-smith/</link>
+<link>https://greg.nokes.name/2005/04/10/under-false-colors-by-l-neil-smith/</link>
 <pubDate>Sun, 10 Apr 2005 23:15:20 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11505,7 +11505,7 @@ It's late - facts might be a wee bit off, but the gist is there. :)]]></wp:comme
 	</item>
 <item>
 <title>What is this world coming to?</title>
-<link>http://greg.nokes.name/2005/04/10/what-is-this-world-coming-to/</link>
+<link>https://greg.nokes.name/2005/04/10/what-is-this-world-coming-to/</link>
 <pubDate>Sun, 10 Apr 2005 23:15:52 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11567,7 +11567,7 @@ My favorite quote:
 	</item>
 <item>
 <title>A big win for Free Software</title>
-<link>http://greg.nokes.name/2005/04/11/a-big-win-for-free-software/</link>
+<link>https://greg.nokes.name/2005/04/11/a-big-win-for-free-software/</link>
 <pubDate>Mon, 11 Apr 2005 11:18:50 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11667,7 +11667,7 @@ Basically, the fact that the program in question was developed specifically for 
 	</item>
 <item>
 <title>This game is wrong</title>
-<link>http://greg.nokes.name/2005/04/11/this-game-is-wrong/</link>
+<link>https://greg.nokes.name/2005/04/11/this-game-is-wrong/</link>
 <pubDate>Mon, 11 Apr 2005 20:18:44 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11707,7 +11707,7 @@ Basically, the fact that the program in question was developed specifically for 
 	</item>
 <item>
 <title>PostSecret</title>
-<link>http://greg.nokes.name/2005/04/12/postsecret-2/</link>
+<link>https://greg.nokes.name/2005/04/12/postsecret-2/</link>
 <pubDate>Tue, 12 Apr 2005 11:00:27 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11747,7 +11747,7 @@ Basically, the fact that the program in question was developed specifically for 
 	</item>
 <item>
 <title>On Blogging</title>
-<link>http://greg.nokes.name/2005/04/12/on-blogging/</link>
+<link>https://greg.nokes.name/2005/04/12/on-blogging/</link>
 <pubDate>Tue, 12 Apr 2005 22:01:55 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11809,7 +11809,7 @@ Basically, the fact that the program in question was developed specifically for 
 	</item>
 <item>
 <title>New Terrorist Threat!</title>
-<link>http://greg.nokes.name/2005/04/12/new-terrorist-threat/</link>
+<link>https://greg.nokes.name/2005/04/12/new-terrorist-threat/</link>
 <pubDate>Tue, 12 Apr 2005 22:18:37 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11846,7 +11846,7 @@ Basically, the fact that the program in question was developed specifically for 
 <wp:comment_id>289</wp:comment_id>
 <wp:comment_author><![CDATA[The Roost &raquo; My name is...]]></wp:comment_author>
 <wp:comment_author_email></wp:comment_author_email>
-<wp:comment_author_url>http://greg.nokes.name/?p=347</wp:comment_author_url>
+<wp:comment_author_url>https://greg.nokes.name/?p=347</wp:comment_author_url>
 <wp:comment_author_IP>none</wp:comment_author_IP>
 <wp:comment_date>2005-04-12 22:18:37</wp:comment_date>
 <wp:comment_date_gmt>2005-04-12 22:18:37</wp:comment_date_gmt>
@@ -11861,7 +11861,7 @@ Basically, the fact that the program in question was developed specifically for 
 	</item>
 <item>
 <title>Nuclear pullet surprise</title>
-<link>http://greg.nokes.name/2005/04/13/nuclear-pullet-surprise/</link>
+<link>https://greg.nokes.name/2005/04/13/nuclear-pullet-surprise/</link>
 <pubDate>Wed, 13 Apr 2005 13:33:12 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11899,7 +11899,7 @@ Basically, the fact that the program in question was developed specifically for 
 	</item>
 <item>
 <title>The road ahead</title>
-<link>http://greg.nokes.name/2005/04/13/the-road-ahead/</link>
+<link>https://greg.nokes.name/2005/04/13/the-road-ahead/</link>
 <pubDate>Wed, 13 Apr 2005 13:55:09 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -11980,7 +11980,7 @@ We need to take ownership of our hand in the matter, where it makes sense.]]></w
 	</item>
 <item>
 <title>Sometimes</title>
-<link>http://greg.nokes.name/2005/04/14/sometimes/</link>
+<link>https://greg.nokes.name/2005/04/14/sometimes/</link>
 <pubDate>Thu, 14 Apr 2005 18:08:08 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 
@@ -12006,7 +12006,7 @@ We need to take ownership of our hand in the matter, where it makes sense.]]></w
 	</item>
 <item>
 <title>Root Causes</title>
-<link>http://greg.nokes.name/2005/04/15/root-causes/</link>
+<link>https://greg.nokes.name/2005/04/15/root-causes/</link>
 <pubDate>Fri, 15 Apr 2005 13:35:50 +0000</pubDate>
 <dc:creator><![CDATA[Tsykoduk]]></dc:creator>
 

@@ -9,7 +9,7 @@ permalink: /2008/03/29/perfect-pour/
 categories:
   - Mundane
 ---
-<p><img src="http://greg.nokes.name/assets/2008/3/28/guinnessbottle1.jpg" style="float:left;">One of the things that I have started to enjoy over the past year or so, is a pint of Guinness every once in a while. I just got set straight on how to pour a perfect pint, and thought that I would share the lesson...</p>
+<p><img src="https://greg.nokes.name/assets/2008/3/28/guinnessbottle1.jpg" style="float:left;">One of the things that I have started to enjoy over the past year or so, is a pint of Guinness every once in a while. I just got set straight on how to pour a perfect pint, and thought that I would share the lesson...</p>
 
 <!--more-->
 

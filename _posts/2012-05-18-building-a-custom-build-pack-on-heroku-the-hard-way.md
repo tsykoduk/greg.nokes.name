@@ -4,7 +4,7 @@ title: 'Building a custom build pack on Heroku - the HARD WAY'
 date: 2012-05-18T15:14:02+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15436
+guid: https://greg.nokes.name/?p=15436
 permalink: /2012/05/18/building-a-custom-build-pack-on-heroku-the-hard-way/
 categories:
   - Computers! and Code!

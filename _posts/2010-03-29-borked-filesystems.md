@@ -4,7 +4,7 @@ title: Borked Filesystems
 date: 2010-03-29T20:47:52+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15250
+guid: https://greg.nokes.name/?p=15250
 permalink: /2010/03/29/15250/
 categories:
   - Computers! and Code!

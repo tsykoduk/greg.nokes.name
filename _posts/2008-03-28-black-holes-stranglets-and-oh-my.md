@@ -15,7 +15,7 @@ categories:
 This is serious. Globe Gobbling Black Holes? Destruction of the Planet? Stop the Presses!
 <!--more-->
 
-<p style="text-align: center;"><img id="thumber" class="aligncenter" src="http://greg.nokes.name/assets/2008/3/28/bad_earth.png" alt="" width="444" height="490" /><span style="font-size: 11px;"><a href="http://deanreevesii.deviantart.com/art/An-Earth-Shattering-Experience-146786821?q=gallery%3Adeanreevesii%2F23937479&amp;qo=0">Amazing Image</a> © 2008 <a href="http://www.deanreevesii.com">Dean Reeves</a> II</span></p>
+<p style="text-align: center;"><img id="thumber" class="aligncenter" src="https://greg.nokes.name/assets/2008/3/28/bad_earth.png" alt="" width="444" height="490" /><span style="font-size: 11px;"><a href="http://deanreevesii.deviantart.com/art/An-Earth-Shattering-Experience-146786821?q=gallery%3Adeanreevesii%2F23937479&amp;qo=0">Amazing Image</a> © 2008 <a href="http://www.deanreevesii.com">Dean Reeves</a> II</span></p>
 
 (from <a href="http://cosmiclog.msnbc.msn.com/archive/2008/03/27/823924.aspx">MSNBC</a>)
 

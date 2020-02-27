@@ -10,4 +10,4 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 ---
-<p><a href="http://www.tmcm.com/comics/tags/too+much+coffee+man/169_athe"><img src="http://greg.nokes.name/assets/2008/4/20/169_athe.gif"></a></p>
+<p><a href="http://www.tmcm.com/comics/tags/too+much+coffee+man/169_athe"><img src="https://greg.nokes.name/assets/2008/4/20/169_athe.gif"></a></p>

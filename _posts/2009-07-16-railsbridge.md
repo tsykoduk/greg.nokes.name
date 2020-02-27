@@ -4,7 +4,7 @@ title: RailsBridge
 date: 2009-07-16T16:57:19+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15130
+guid: https://greg.nokes.name/?p=15130
 permalink: /2009/07/16/railsbridge/
 categories:
   - Computers! and Code!

@@ -4,7 +4,7 @@ title: Coffee Shop Quartet
 date: 2017-12-11
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15571
+guid: https://greg.nokes.name/?p=15571
 permalink: /2017/11/02/coffeshop-quartet/
 categories:
   - Life and Work

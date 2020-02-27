@@ -4,7 +4,7 @@ title: How I post an article
 date: 2018-2-26
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15572
+guid: https://greg.nokes.name/?p=15572
 permalink: /2018/02/26/how-i-do-it/
 categories:
   - Computers! and Code!

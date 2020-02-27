@@ -4,7 +4,7 @@ title: Readings on Mindfulness
 date: 2013-08-26T12:22:58+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15537
+guid: https://greg.nokes.name/?p=15537
 permalink: /2013/08/26/readings-on-mindfulness/
 categories:
   - Mundane

@@ -4,7 +4,7 @@ title: Yet Another Talk
 date: 2014-09-11T16:34:01+00:00
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15597
+guid: https://greg.nokes.name/?p=15597
 permalink: /2014/09/11/yet-another-talk/
 categories:
   - Computers! and Code!

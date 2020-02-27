@@ -9,7 +9,7 @@ permalink: /2008/04/14/shadow-it-departments/
 categories:
   - Computers! and Code!
 ---
-<p><img src="http://greg.nokes.name/assets/2008/4/14/the-shadow-knows.png" alt="The Shadow Knows" style="float:right;">This morning I read an interesting <a href="http://www.infoworld.com/article/08/04/14/16FE-guerrilla-it_1.html">article</a> at Infoworld. It deals with the collision of paradigms between old IT and the new Infoworkers.</p>
+<p><img src="https://greg.nokes.name/assets/2008/4/14/the-shadow-knows.png" alt="The Shadow Knows" style="float:right;">This morning I read an interesting <a href="http://www.infoworld.com/article/08/04/14/16FE-guerrilla-it_1.html">article</a> at Infoworld. It deals with the collision of paradigms between old IT and the new Infoworkers.</p>
 <!--more-->
 
 <blockquote>Here's a sobering statistic: Eighty percent of enterprise IT functions are being duplicated by folks outside of the IT department, says Hank Marquis, director of ITSM (IT systems management) consulting at Enterprise Management Associates. In other words, for every 10 people doing IT work as part of their jobs, you've got another eight "shadow IT" staffers doing it on their own. </blockquote>

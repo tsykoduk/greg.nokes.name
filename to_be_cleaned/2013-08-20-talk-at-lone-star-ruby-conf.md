@@ -4,7 +4,7 @@ title: Talk at Lone Star Ruby Conf
 date: 2013-08-20T14:08:43+00:00
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15534
+guid: https://greg.nokes.name/?p=15534
 permalink: /2013/08/20/talk-at-lone-star-ruby-conf/
 categories:
   - Mundane

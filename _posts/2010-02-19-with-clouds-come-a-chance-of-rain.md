@@ -4,7 +4,7 @@ title: With Clouds, Come a Chance of Rain
 date: 2010-02-19T09:54:44+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15224
+guid: https://greg.nokes.name/?p=15224
 permalink: /2010/02/19/with-clouds-come-a-chance-of-rain/
 categories:
   - Computers! and Code!

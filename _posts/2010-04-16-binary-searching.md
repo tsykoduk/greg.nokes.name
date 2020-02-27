@@ -4,7 +4,7 @@ title: Binary Searching and other tools of the trade
 date: 2010-04-16T10:29:30+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15290
+guid: https://greg.nokes.name/?p=15290
 permalink: /2010/04/16/binary-searching/
 categories:
   - Mundane
@@ -14,7 +14,7 @@ tags:
   - Tools
 excerpt_separator:  <!--more-->
 ---
-<a href="http://greg.nokes.name/wp-content/uploads/2010/04/binary_search.png"><img class="alignright size-medium wp-image-15294" title="binary_search" src="http://greg.nokes.name/wp-content/uploads/2010/04/binary_search-300x208.png" alt="" width="300" height="208" /></a>
+<a href="https://greg.nokes.name/wp-content/uploads/2010/04/binary_search.png"><img class="alignright size-medium wp-image-15294" title="binary_search" src="https://greg.nokes.name/wp-content/uploads/2010/04/binary_search-300x208.png" alt="" width="300" height="208" /></a>
 
 One of the tools that I use on an almost daily basis is the Binary Search. I think that this tool is one of the ways that a good troubleshooter seems so much more efficient then a mediocre troubleshooter.
 

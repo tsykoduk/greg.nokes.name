@@ -9,7 +9,7 @@ permalink: /2008/04/18/syncscript/
 categories:
   - Computers! and Code!
 ---
-<img style="float: left;" alt="nSync" src="http://greg.nokes.name/assets/2008/4/20/images-1_thumbnail.png" />One of the challenges where I work is keeping a near line copy of large amounts of data. Tape is to slow to restore off of, and can be a hassle since we have off site tape storage requirements. Thus SyncScript was born. It's a windows only, quick and dirty little ruby app to move about large amounts of data using a rather brute force method...
+<img style="float: left;" alt="nSync" src="https://greg.nokes.name/assets/2008/4/20/images-1_thumbnail.png" />One of the challenges where I work is keeping a near line copy of large amounts of data. Tape is to slow to restore off of, and can be a hassle since we have off site tape storage requirements. Thus SyncScript was born. It's a windows only, quick and dirty little ruby app to move about large amounts of data using a rather brute force method...
 
 <!--more-->
 Did I mention that it's windows only?
@@ -387,5 +387,5 @@ The crc32 is from when I was coding this as a linux app. However, that was shunt
 </table>
 
 Where do you want the reports sent to.
-You can go ahead and <a href="http://greg.nokes.name/assets/2008/4/18/SyncScript.zip">download</a> the full app if you wish. It's fully <a href="http://en.wikipedia.org/wiki/Copyleft">copyleft</a> - please just drop me a comment if you choose to use it or a child.
+You can go ahead and <a href="https://greg.nokes.name/assets/2008/4/18/SyncScript.zip">download</a> the full app if you wish. It's fully <a href="http://en.wikipedia.org/wiki/Copyleft">copyleft</a> - please just drop me a comment if you choose to use it or a child.
 <strong>update:</strong> Just moved the code to <a href="https://github.com/tsykoduk/sync_script">github</a>

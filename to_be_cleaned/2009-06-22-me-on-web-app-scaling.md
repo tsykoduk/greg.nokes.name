@@ -4,7 +4,7 @@ title: Me on Web App Scaling
 date: 2009-06-22T07:35:49+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=14966
+guid: https://greg.nokes.name/?p=14966
 permalink: /2009/06/22/me-on-web-app-scaling/
 categories:
   - Computers! and Code!

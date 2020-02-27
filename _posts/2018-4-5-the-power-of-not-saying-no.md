@@ -4,7 +4,7 @@ title: The Power of not saying No
 date: 2018-4-5
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15580
+guid: https://greg.nokes.name/?p=15580
 permalink: /2018/04/05/the-power-of-not-saying-no/
 categories:
   - Computers! and Code!

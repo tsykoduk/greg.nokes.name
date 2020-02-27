@@ -4,7 +4,7 @@ title: Viking Coding
 date: 2012-09-05T20:58:21+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15442
+guid: https://greg.nokes.name/?p=15442
 permalink: /2012/09/05/viking-coding/
 categories:
   - Computers! and Code!

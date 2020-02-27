@@ -10,7 +10,7 @@ categories:
   - Philosophy! and Politics!
 excerpt_separator:  <!--more-->
 ---
-<a href="http://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png"><img class="size-full wp-image-15340 alignright" title="padlocks_thumbnail" src="http://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png" alt="" width="197" height="182" /></a>
+<a href="https://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png"><img class="size-full wp-image-15340 alignright" title="padlocks_thumbnail" src="https://greg.nokes.name/wp-content/uploads/2009/06/padlocks_thumbnail.png" alt="" width="197" height="182" /></a>
 
 <em>Sometimes you have to kill the sacred cows in the room to get the job done. Some times the cows kill you.</em>
 

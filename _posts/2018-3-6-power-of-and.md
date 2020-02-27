@@ -4,7 +4,7 @@ title: The Power of And
 date: 2018-3-6
 author: Greg Nokes
 layout: post
-guid: http://greg.nokes.name/?p=15573
+guid: https://greg.nokes.name/?p=15573
 permalink: /2018/02/26/power-of-and/
 categories:
   - Computers! and Code!

@@ -4,7 +4,7 @@ title: Resources for learning Rails and Ruby
 date: 2009-07-01T14:36:06+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/2009/07/01/resources-for-learning-rails-and-ruby/
+guid: https://greg.nokes.name/2009/07/01/resources-for-learning-rails-and-ruby/
 permalink: /2009/07/01/resources-for-learning-rails-and-ruby/
 categories:
   - Computers! and Code!

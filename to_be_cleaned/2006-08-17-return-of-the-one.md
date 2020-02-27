@@ -9,4 +9,4 @@ permalink: /2006/08/17/return-of-the-one/
 categories:
   - Philosophy! and Politics!
 ---
-<p>If you cast your eyes to the upper right hand side of this site, you will see that the little 'ribbon banner' back. If you are a long time reader, you might recall <a href="http://greg.nokes.name/?s=one.org&#38;sbutt=Go">a few articles</a> about One.org. Go, and check it out. After all, they do not want you're money, just your voice...</p>
+<p>If you cast your eyes to the upper right hand side of this site, you will see that the little 'ribbon banner' back. If you are a long time reader, you might recall <a href="https://greg.nokes.name/?s=one.org&#38;sbutt=Go">a few articles</a> about One.org. Go, and check it out. After all, they do not want you're money, just your voice...</p>

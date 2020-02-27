@@ -10,4 +10,4 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<a href="http://ars.userfriendly.org/cartoons/?id=20071216"><img class="aligncenter" src="http://greg.nokes.name/assets/2008/1/3/uf011016.gif" alt="" width="432" height="317" /></a>
+<a href="http://ars.userfriendly.org/cartoons/?id=20071216"><img class="aligncenter" src="https://greg.nokes.name/assets/2008/1/3/uf011016.gif" alt="" width="432" height="317" /></a>

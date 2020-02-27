@@ -4,7 +4,7 @@ title: The Hardest Thing
 date: 2011-08-21T14:59:55+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15405
+guid: https://greg.nokes.name/?p=15405
 permalink: /2011/08/21/the-hardest-thing/
 categories:
   - Mundane

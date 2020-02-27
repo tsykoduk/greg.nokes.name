@@ -4,7 +4,7 @@ title: Interesting Woops
 date: 2010-06-08T21:42:18+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15311
+guid: https://greg.nokes.name/?p=15311
 permalink: /2010/06/08/interesting-woops/
 categories:
   - Computers! and Code!

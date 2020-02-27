@@ -15,7 +15,7 @@ categories:
 	<p>This just in from <a href="http://brain.mu.nu/">Brain Fertilizer</a>:</p>
 
 
-	<blockquote>Yes, I do think there is a <a href="http://greg.nokes.name/?p=356">recently-undertaken campaign</a> against religion in America. <a href="http://www.mcgeheezone.com/weblog/index.php/weblog/categories/C12/">Here are some more indications</a> of that campaign.
+	<blockquote>Yes, I do think there is a <a href="https://greg.nokes.name/?p=356">recently-undertaken campaign</a> against religion in America. <a href="http://www.mcgeheezone.com/weblog/index.php/weblog/categories/C12/">Here are some more indications</a> of that campaign.
 
 	<p>As I said in the comments on the first linked post:</p>
 

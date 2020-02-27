@@ -4,7 +4,7 @@ title: IBM claims method of homomorphic encryption
 date: 2009-06-26T14:03:28+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=14998
+guid: https://greg.nokes.name/?p=14998
 permalink: /2009/06/26/ibm-claims-method-of-homomorphic-encryption/
 categories:
   - Computers! and Code!

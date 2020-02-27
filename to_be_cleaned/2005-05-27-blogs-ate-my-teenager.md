@@ -14,7 +14,7 @@ categories:
 	<p>From <a href="http://secretlair.com/index.php?/clickableculture/entry/blogs_ate_my_teenager/">Clickable Culture</a></p>
 
 
-	<p>Yet another case of statistics gone wrong. It's like I said <a href="http://greg.nokes.name/?p=425">before</a>,  The media is in the business of selling papers, air time or what ever. They are not going to report things that will not sell. I agree that parents should be aware of their children's activities, but to be terrorified because they have less then a 0.00001% (5000 acts vs 297 million people in the US) of being victimised? It's more dangerous to step off the curb.</p>
+	<p>Yet another case of statistics gone wrong. It's like I said <a href="https://greg.nokes.name/?p=425">before</a>,  The media is in the business of selling papers, air time or what ever. They are not going to report things that will not sell. I agree that parents should be aware of their children's activities, but to be terrorified because they have less then a 0.00001% (5000 acts vs 297 million people in the US) of being victimised? It's more dangerous to step off the curb.</p>
 
 
 	<p>(Hat Tip <a href="http://weblogtoolscollection.com/archives/2005/05/26/blogs-ate-my-teenager/">Weblogs Tools Collection</a>)</p>

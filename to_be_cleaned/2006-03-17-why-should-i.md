@@ -9,7 +9,7 @@ permalink: /2006/03/17/why-should-i/
 categories:
   - Philosophy! and Politics!
 ---
-<p><a href="http://greg.nokes.name/spirit/712/#comment-1587">Dave</a> posed this intresting question a few days ago, and I really wanted to highlight it and my response to it.
+<p><a href="https://greg.nokes.name/spirit/712/#comment-1587">Dave</a> posed this intresting question a few days ago, and I really wanted to highlight it and my response to it.
 <blockquote>Let me ask you something else. In a simple paragraph, can you answer why I should follow Buddhism? What benefits it will give me and what I will miss out on if I don't?</blockquote>
 You should not. You should follow what ever path your own feet lead you to. You should also see that other people's paths are just as valid as the one that you tread on. Religions are based on faith, which by definition is unprovable, so to assume that you know better then your neigbhor is silly. Acting on that assumption by forcing them to follow your beliefs is a special kind of Hubris.</p>
 
@@ -20,7 +20,7 @@ You should not. You should follow what ever path your own feet lead you to. You 
 <p>Note the use of the word Force. That's important.</p>
 
 
-<p>So, in an earlier <a href="http://greg.nokes.name/spirit/buddhism/680/">post,</a> I expounded on a way of looking at reality and the universe that depends on your internal filters. To sum up, there are three universes. The real external universe, the universe of what you perceive and the universe of how you comprehend what you perceive. You cannot directly interact with or perceive the outermost real universe, because of the time delay between when something emits a signal and when that signal makes it back through your sense receptors and sense processors to your subconscious.</p>
+<p>So, in an earlier <a href="https://greg.nokes.name/spirit/buddhism/680/">post,</a> I expounded on a way of looking at reality and the universe that depends on your internal filters. To sum up, there are three universes. The real external universe, the universe of what you perceive and the universe of how you comprehend what you perceive. You cannot directly interact with or perceive the outermost real universe, because of the time delay between when something emits a signal and when that signal makes it back through your sense receptors and sense processors to your subconscious.</p>
 
 
 <p>Your interaction with the middle universe is tenuous at best, as everything that comes out of your signal processors in your subconscious is filtered through the interface between your subconscious and conscious minds. Your culture, perceptions, upbringing and everything else 'spins' the data slightly and then presents it in the altered fashion.</p>

@@ -4,7 +4,7 @@ title: Railsbridge BugMash VM
 date: 2009-10-05T22:22:11+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15171
+guid: https://greg.nokes.name/?p=15171
 permalink: /2009/10/05/railsbridge-bugmash-vm/
 categories:
   - Mundane

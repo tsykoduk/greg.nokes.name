@@ -9,6 +9,6 @@ permalink: /2006/12/19/view-from-the-office/
 categories:
   - Philosophy! and Politics!
 ---
-<center><img src="http://greg.nokes.name/assets/2006/12/19/DSC00168.jpg" width="400" / style="border: 1px solid black;"></center>
+<center><img src="https://greg.nokes.name/assets/2006/12/19/DSC00168.jpg" width="400" / style="border: 1px solid black;"></center>
 
 <p>I had to take a little trip yesterday, and I snapped this photo when we were where we were going.</p>

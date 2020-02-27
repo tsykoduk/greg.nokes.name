@@ -44,4 +44,4 @@ categories:
 <p>If Windows were to <a href="http://en.wikipedia.org/wiki/Sandbox_%28computer_security%29">sandbox</a> the user space in better, then most of these issues would not be issues. If you are logged in, and you visit a evil web page that tries to install evil spy ware, if windows sandboxed the userspace your machine would be o.k. There are just so many processes running in the background in windows, trying to make your life easier for you, that the evil software piggybacks off of one of them, and presto - you are infected.</p>
 
 
-<p>In the mean time - if you are buying a new computer, get a <a href="http://www.apple.com">Mac.</a> Practice <a href="http://greg.nokes.name/safe.jpg">safe computing</a>! Be careful out there!</p>
+<p>In the mean time - if you are buying a new computer, get a <a href="http://www.apple.com">Mac.</a> Practice <a href="https://greg.nokes.name/safe.jpg">safe computing</a>! Be careful out there!</p>

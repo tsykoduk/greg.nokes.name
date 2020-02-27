@@ -10,7 +10,7 @@ categories:
   - Fun!
   - Science!
 ---
-<p>In a <a href="http://greg.nokes.name/2005/05/26/top-10-ways-to-destroy-earth/">related article</a>, Sam has his <a href="http://ned.ucam.org/<sub>sdh31/misc/mundicide/moving.html"&gt; Guide to moving Earth</a> posted.</p>
+<p>In a <a href="https://greg.nokes.name/2005/05/26/top-10-ways-to-destroy-earth/">related article</a>, Sam has his <a href="http://ned.ucam.org/<sub>sdh31/misc/mundicide/moving.html"&gt; Guide to moving Earth</a> posted.</p>
 
 
 	<p><em>Edit: Sam has a better '10 ways' article <a href="http://ned.ucam.org/</sub>sdh31/misc/destroy.html"&gt;here</a></em></p>

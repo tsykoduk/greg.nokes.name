@@ -4,7 +4,7 @@ title: Automated Nanoc deploys via git push
 date: 2014-01-23T17:30:44+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15577
+guid: https://greg.nokes.name/?p=15577
 permalink: /2014/01/23/automated-nanoc-deploys-via-git-push/
 categories:
   - Computers! and Code!

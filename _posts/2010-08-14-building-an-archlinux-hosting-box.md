@@ -4,13 +4,13 @@ title: Building an ArchLinux hosting box (part 1)
 date: 2010-08-14T20:31:23+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15325
+guid: https://greg.nokes.name/?p=15325
 permalink: /2010/08/14/building-an-archlinux-hosting-box/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
 ---
-<a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit.png"><img class="alignleft size-medium wp-image-15337" style="border: 5px solid black;" title="Other Linux 2.6.x kernel 64-bit" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-300x224.png" alt="" width="300" height="224" /></a>
+<a href="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit.png"><img class="alignleft size-medium wp-image-15337" style="border: 5px solid black;" title="Other Linux 2.6.x kernel 64-bit" src="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-300x224.png" alt="" width="300" height="224" /></a>
 
 One of my favorite linux distros has been <a href="http://www.archlinux.org/">archlinux</a> since the early oughts. It's default install is super lightweight, and it's configuration system is a joy (especially after working with several distros with many rc directories and hundreds of symlinks).
 
@@ -24,7 +24,7 @@ Pop the CD in, start the VM with the image or what have you.
 
 You are then presented with a nice grub screen. Choose the default, and proceed.
 
-<img class="alignnone size-full wp-image-15327" title="Other Linux 2.6.x kernel 64-bit-2" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-2.png" alt="" width="717" height="221" />
+<img class="alignnone size-full wp-image-15327" title="Other Linux 2.6.x kernel 64-bit-2" src="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-2.png" alt="" width="717" height="221" />
 
 Login as root and fire up /arch/setup. You'll want to read the intro screen, but the main takeaway is that alt-f7 will show your stdout, should you need it.
 
@@ -32,14 +32,14 @@ Choose option 1 <em>select source</em> and then choose http/ftp. It will ask you
 
 Once you get to the <em>Network is configured</em> screen you are ready to proceed onwards.
 
-<a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-3.png"><img class="alignnone size-full wp-image-15328" title="Other Linux 2.6.x kernel 64-bit-3" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-3.png" alt="woot!" width="183" height="98" /></a>
+<a href="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-3.png"><img class="alignnone size-full wp-image-15328" title="Other Linux 2.6.x kernel 64-bit-3" src="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-3.png" alt="woot!" width="183" height="98" /></a>
 
 You'll want to choose a mirror to download from. Try and make a sane choice. The archlinux.org one is throttled, so it will be rather slow. I personally like kernel.org, but your milage may vary
 
 
 You'll be prompted to set you clock next. I suggest choosing your timezone, and then setting your system clock to UTC. I normally tell it to just use NTP, and go with it after that.
 
-<a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-4.png"><img class="alignnone size-full wp-image-15329" title="Other Linux 2.6.x kernel 64-bit-4" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-4.png" alt="" width="703" height="240" /></a>
+<a href="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-4.png"><img class="alignnone size-full wp-image-15329" title="Other Linux 2.6.x kernel 64-bit-4" src="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-4.png" alt="" width="703" height="240" /></a>
 
 Next up, the always scary hard drive partitioning. You are using a system with drives that have nothing on them, right?
 
@@ -57,7 +57,7 @@ All of the above is pretty straightforward, if you ever have installed linux bef
 
 After the system reboots, you'll be presented with a baseline system. Not much is running, and not much is installed. We need to do some work to get the system into a useable state.
 
-<a href="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-8.png"><img class="alignnone size-full wp-image-15333" title="Other Linux 2.6.x kernel 64-bit-8" src="http://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-8.png" alt="" width="719" height="75" /></a>
+<a href="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-8.png"><img class="alignnone size-full wp-image-15333" title="Other Linux 2.6.x kernel 64-bit-8" src="https://greg.nokes.name/wp-content/uploads/2010/08/Other-Linux-2.6.x-kernel-64-bit-8.png" alt="" width="719" height="75" /></a>
 
 <strong>First Update:</strong>
 

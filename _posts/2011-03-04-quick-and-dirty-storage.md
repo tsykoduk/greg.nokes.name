@@ -4,7 +4,7 @@ title: Quick and dirty storage
 date: 2011-03-04T13:14:41+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/2011/03/04/quick-and-dirty-storage/
+guid: https://greg.nokes.name/2011/03/04/quick-and-dirty-storage/
 permalink: /2011/03/04/quick-and-dirty-storage/
 categories:
   - Computers! and Code!

@@ -9,7 +9,7 @@ permalink: /2005/07/14/suicide-bombing-as-a-virus/
 categories:
   - Philosophy! and Politics!
 ---
-<p>It seems that some other folks are starting to 'get it'. <a href="http://greg.nokes.name/index.php?s=memes&#38;submit=Search">Toxic Memes</a> are the most dangerous threat to our race of all time.</p>
+<p>It seems that some other folks are starting to 'get it'. <a href="https://greg.nokes.name/index.php?s=memes&#38;submit=Search">Toxic Memes</a> are the most dangerous threat to our race of all time.</p>
 
 
 	<blockquote>It seems that what we're dealing with here is something far more elusive than a shadowy and sinister organization. It's an idea, a particularly virulent viral meme. It seeds itself via websites and chat rooms, is nurtured and grown in the soil of hate and disenfranchisement and eventually kills it's host. Trying to fight this idea with guns, arrests and an 'US' against 'THEM' dichotomy is stupid, pointless and just produces more mental fertilizer for the idea to grow in. The only way to fight ideas is through other ideas. Ideological antibiotics, administered through the opening of dialogue between communities, breaking down boundaries instead of setting them up and nurturing more beneficial strains of meme.</blockquote>

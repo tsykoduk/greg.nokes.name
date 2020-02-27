@@ -4,7 +4,7 @@ title: RVM, Lion and Commandline Tools
 date: 2012-03-21T11:46:53+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15418
+guid: https://greg.nokes.name/?p=15418
 permalink: /2012/03/21/rvm-lion-and-commandline-tools/
 categories:
   - Computers! and Code!

@@ -4,7 +4,7 @@ title: 'Theater - fun to see, not fun to be'
 date: 2009-11-17T10:24:12+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15199
+guid: https://greg.nokes.name/?p=15199
 permalink: /2009/11/17/theater-fun-to-see-not-fun-to-be/
 categories:
   - Philosophy! and Politics!

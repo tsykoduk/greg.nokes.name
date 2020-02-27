@@ -10,4 +10,4 @@ categories:
   - Computers! and Code!
   - Fun!
 ---
-<img class="aligncenter" src="http://greg.nokes.name/assets/2008/3/2/cQabNGVQIvrsACFGdd.jpg" alt="" width="420" height="252" />
+<img class="aligncenter" src="https://greg.nokes.name/assets/2008/3/2/cQabNGVQIvrsACFGdd.jpg" alt="" width="420" height="252" />

@@ -4,7 +4,7 @@ title: Using RVM to benchmark Ruby
 date: 2009-12-22T11:33:02+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15204
+guid: https://greg.nokes.name/?p=15204
 permalink: /2009/12/22/using-rvm-to-benchmark-ruby/
 categories:
   - Computers! and Code!
@@ -14,7 +14,7 @@ tags:
   - scaling
 excerpt_separator:  <!--more-->
 ---
-<img class="size-medium wp-image-15206 alignright" title="Screen shot 2009-12-16 at 5.19.10 PM" src="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-16-at-5.19.10-PM-300x207.png" alt="Screen shot 2009-12-16 at 5.19.10 PM" width="210" height="145" />
+<img class="size-medium wp-image-15206 alignright" title="Screen shot 2009-12-16 at 5.19.10 PM" src="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-16-at-5.19.10-PM-300x207.png" alt="Screen shot 2009-12-16 at 5.19.10 PM" width="210" height="145" />
 
 One of the things that I get to do is advise folks on web application architecture and backend process optimization. All of that is to say that I need to know how certain versions of things like ruby perform under different loads, and be able to advise people on when and where to deploy each one. For testing ruby and ruby programs, <a href="http://rvm.beginrescueend.com/">RVM</a> is invaluable. I'll take you through how I tested a slew of ruby version automagically in this article.
 <!--more-->
@@ -91,6 +91,6 @@ Out of the gate, 1.9.1 was a strong competitor. The first run took only .0075 se
 I think it's safe to say, look at moving your applications to Ruby 1.9. It appears that there are some very strong benefits to be gained by the move. You should also keep an eye on REE when they update it to run 1.9, as well as when Rubinus makes it out of the gate.
 <strong><em>update</em><span style="font-weight: normal;"> - after some data normalization, I was able to cobble together these charts:</span></strong>
 
-<p style="text-align: center;"><strong><span style="font-weight: normal;"><a href="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.41-AM.png"><img class="size-medium wp-image-15215 aligncenter" title="Screen shot 2009-12-23 at 10.25.41 AM" src="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.41-AM-300x193.png" alt="" width="300" height="193" /></a><a href="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.49-AM.png"><img class="aligncenter size-medium wp-image-15216" title="Screen shot 2009-12-23 at 10.25.49 AM" src="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.49-AM-300x201.png" alt="" width="300" height="201" /></a><a href="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.56-AM.png"><img class="aligncenter size-medium wp-image-15217" title="Screen shot 2009-12-23 at 10.25.56 AM" src="http://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.56-AM-300x182.png" alt="" width="300" height="182" /></a>
+<p style="text-align: center;"><strong><span style="font-weight: normal;"><a href="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.41-AM.png"><img class="size-medium wp-image-15215 aligncenter" title="Screen shot 2009-12-23 at 10.25.41 AM" src="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.41-AM-300x193.png" alt="" width="300" height="193" /></a><a href="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.49-AM.png"><img class="aligncenter size-medium wp-image-15216" title="Screen shot 2009-12-23 at 10.25.49 AM" src="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.49-AM-300x201.png" alt="" width="300" height="201" /></a><a href="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.56-AM.png"><img class="aligncenter size-medium wp-image-15217" title="Screen shot 2009-12-23 at 10.25.56 AM" src="https://greg.nokes.name/wp-content/uploads/2009/12/Screen-shot-2009-12-23-at-10.25.56-AM-300x182.png" alt="" width="300" height="182" /></a>
 
 </span></strong></p>

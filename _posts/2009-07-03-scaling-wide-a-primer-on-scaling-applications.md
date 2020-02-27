@@ -4,7 +4,7 @@ title: Scaling Wide
 date: 2009-07-03T15:20:46+00:00
 author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15043
+guid: https://greg.nokes.name/?p=15043
 permalink: /2009/07/03/scaling-wide-a-primer-on-scaling-applications/
 categories:
   - Computers! and Code!
@@ -109,5 +109,5 @@ Look for a in-depth treatment of this subject in a later article.
 
 
 
-If your application is filesystem IOPS heavy, filesystem sharding might be the route that you want to look at. Basically you add more hardware disk arrays, and split the reads and writes between them. You need to inject some logic into the save and open functions in your application so that it knows which filesystem each file is to be saved to and opened from. Usually you create a hash of the filename, and key off the first couple of characters in the hash. You can read more on this technique <a href="http://greg.nokes.name/2008/12/25/filesystem-scaling-in-high-traffic-web-applications/">here</a>.
+If your application is filesystem IOPS heavy, filesystem sharding might be the route that you want to look at. Basically you add more hardware disk arrays, and split the reads and writes between them. You need to inject some logic into the save and open functions in your application so that it knows which filesystem each file is to be saved to and opened from. Usually you create a hash of the filename, and key off the first couple of characters in the hash. You can read more on this technique <a href="https://greg.nokes.name/2008/12/25/filesystem-scaling-in-high-traffic-web-applications/">here</a>.
 

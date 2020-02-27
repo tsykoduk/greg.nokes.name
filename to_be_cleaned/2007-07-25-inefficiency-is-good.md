@@ -9,7 +9,7 @@ permalink: /2007/07/25/inefficiency-is-good/
 categories:
   - Philosophy! and Politics!
 ---
-<p><img src="http://greg.nokes.name/assets/2007/7/25/160px-EugeneMcCarthy.jpg" style="float: right; padding: 5px;" /></p>
+<p><img src="https://greg.nokes.name/assets/2007/7/25/160px-EugeneMcCarthy.jpg" style="float: right; padding: 5px;" /></p>
 
 
 <blockquote>The only thing that saves us from the bureaucracy is inefficiency.

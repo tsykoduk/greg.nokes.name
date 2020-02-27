@@ -10,5 +10,5 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 ---
-<p><center><a class="imagelink" href="http://greg.nokes.name/wp-content/uploads/2006/03/116204838_862deb998e.jpg" title="116204838_862deb998e.jpg"><img id="image720" src="http://greg.nokes.name/wp-content/uploads/2006/03/116204838_862deb998e.thumbnail.jpg" alt="116204838_862deb998e.jpg" /></a></center></p>
+<p><center><a class="imagelink" href="https://greg.nokes.name/wp-content/uploads/2006/03/116204838_862deb998e.jpg" title="116204838_862deb998e.jpg"><img id="image720" src="https://greg.nokes.name/wp-content/uploads/2006/03/116204838_862deb998e.thumbnail.jpg" alt="116204838_862deb998e.jpg" /></a></center></p>
 <p>So - imagine my surprise when I woke up to this!</p>

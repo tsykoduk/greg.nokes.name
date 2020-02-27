@@ -9,7 +9,7 @@ permalink: /2006/03/09/is-faith-allergic-to-sunlight/
 categories:
   - Philosophy! and Politics!
 ---
-In a <a href="http://greg.nokes.name/spirit/710/#comment-1560">comment</a>, <a href="http://studentoftheforce.blogspot.com">Obidavekenobi</a> said:
+In a <a href="https://greg.nokes.name/spirit/710/#comment-1560">comment</a>, <a href="http://studentoftheforce.blogspot.com">Obidavekenobi</a> said:
 <blockquote>The percentage of your posts that deal with bashing the Christian religious world view is rather high. It sometimes disturbs me.</blockquote>
 Is faith allergic to sunlight? If you cannot even question it with out breaking it, how strong is it?
 
