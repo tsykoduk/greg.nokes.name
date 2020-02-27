@@ -232,7 +232,7 @@ and
     }
 ```
 
-Now when you visit [ggn-nginx-router-test.herokuapp.com/blog/]([https://ggn-nginx-router-test.herokuapp.com/blog/) you will get the contents of [ggn-nginx-router-blog.herokuapp.com/](https://ggn-nginx-router-blog.herokuapp.com/)
+Now when you visit [ggn-nginx-router-test.herokuapp.com/blog/](https://ggn-nginx-router-test.herokuapp.com/blog/) you will get the contents of [ggn-nginx-router-blog.herokuapp.com/](https://ggn-nginx-router-blog.herokuapp.com/).
 
 In the config directory of this [repo on github](https://github.com/tsykoduk/Heroku-Nginx-Reverse-Proxy) is a sample `nginx.conf.erb` which enables this example.
 
