@@ -156,7 +156,7 @@ http {
 }
 ```
 
-You should now be able to hit https://ggn-nginx-router-test.herokuapp.com and get the app living at https://ggn-nginx-test-target.herokuapp.com delivered to you.
+You should now be able to hit [https://ggn-nginx-router-test.herokuapp.com](https://ggn-nginx-router-test.herokuapp.com ) and get the app living at [https://ggn-nginx-test-target.herokuapp.com]( https://ggn-nginx-test-target.herokuapp.com) delivered to you.
 
 Or you can simply deploy this repo.
 
@@ -230,6 +230,6 @@ and
     }
 ```
 
-Now when you visit https://ggn-nginx-router-test.herokuapp.com/blog/ you will get the contents of https://ggn-nginx-router-blog.herokuapp.com/
+Now when you visit [https://ggn-nginx-router-test.herokuapp.com/blog/]([https://ggn-nginx-router-test.herokuapp.com/blog/) you will get the contents of [https://ggn-nginx-router-blog.herokuapp.com/](https://ggn-nginx-router-blog.herokuapp.com/)
 
 In the config directory of this [repo on github](https://github.com/tsykoduk/Heroku-Nginx-Reverse-Proxy) is a sample `nginx.conf.erb` which enables this exact example.
