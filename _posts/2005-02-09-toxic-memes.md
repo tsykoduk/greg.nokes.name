@@ -15,17 +15,17 @@ A set of interrelated memes can make up a 'Meme Complex'. These groups of ideas 
 
 [meme](http://dictionary.reference.com/search?q=meme) n. A unit of cultural information, such as a cultural practice or idea, that is transmitted verbally or by repeated action from one mind to another
 
-	Richard Dawkins's term for an idea considered as a replicator, especially with the connotation that memes parasitise people into propagating them much as viruses do.
-	
-	Memes can be considered the unit of cultural evolution. Ideas can evolve in a way analogous to biological evolution. Some ideas survive better than others; ideas can mutate through, for example, misunderstandings; and two ideas can recombine to produce a new idea involving elements of each parent idea.
-	
-	The term is used especially in the phrase "meme complex" denoting a group of mutually supporting memes that form an organized belief system, such as a religion. However, "meme" is often misused to mean "meme complex".
-	
-	Use of the term connotes acceptance of the idea that in humans (and presumably other tool- and language-using sophonts) cultural evolution by selection of adaptive ideas has become more important than biological evolution by selection of hereditary traits. Hackers find this idea congenial for tolerably obvious reasons.
-	
-	Memes in general are a very interesting concept. Ideas can be like mental 'viruses'. They want to survive, and they can (and do) spread.
-	
-	The term is used especially in the phrase "meme complex" denoting a group of mutually supporting memes that form an organized belief system, such as a religion.
+> Richard Dawkins's term for an idea considered as a replicator, especially with the connotation that memes parasitise people into propagating them much as viruses do.
+> 
+> Memes can be considered the unit of cultural evolution. Ideas can evolve in a way analogous to biological evolution. Some ideas survive better than others; ideas can mutate through, for example, misunderstandings; and two ideas can recombine to produce a new idea involving elements of each parent idea.
+> 
+> The term is used especially in the phrase "meme complex" denoting a group of mutually supporting memes that form an organized belief system, such as a religion. However, "meme" is often misused to mean "meme complex".
+>
+> Use of the term connotes acceptance of the idea that in humans (and presumably other tool- and language-using sophonts) cultural evolution by selection of adaptive ideas has become more important than biological evolution by selection of hereditary traits. Hackers find this idea congenial for tolerably obvious reasons.
+>
+> Memes in general are a very interesting concept. Ideas can be like mental 'viruses'. They want to survive, and they can (and do) spread.
+>
+> The term is used especially in the phrase "meme complex" denoting a group of mutually supporting memes that form an organized belief system, such as a religion.
 
 This sort of interrelationship with in a Meme Complex makes the entire thing stronger, and that much more survivable in the 'wild'. In the world of Memes, it is survival of the fittest. Early Memes were probably very simple (Sun God Hot). Over time, the stronger ones survived, combined and slowly merged into more and more complex structures.
 
