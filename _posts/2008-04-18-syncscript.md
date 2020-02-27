@@ -9,9 +9,9 @@ permalink: /2008/04/18/syncscript/
 categories:
   - Computers! and Code!
 ---
-<img style="float: left;" alt="nSync" src="https://greg.nokes.name/assets/2008/4/20/images-1_thumbnail.png" />One of the challenges where I work is keeping a near line copy of large amounts of data. Tape is to slow to restore off of, and can be a hassle since we have off site tape storage requirements. Thus SyncScript was born. It's a windows only, quick and dirty little ruby app to move about large amounts of data using a rather brute force method...
-
+One of the challenges where I work is keeping a near line copy of large amounts of data. Tape is to slow to restore off of, and can be a hassle since we have off site tape storage requirements. Thus SyncScript was born. It's a windows only, quick and dirty little ruby app to move about large amounts of data using a rather brute force method...
 <!--more-->
+
 Did I mention that it's windows only?
 
 You will need to have either Ruby installed or use the spiffy <a href="http://www.erikveen.dds.nl/allinoneruby/index.html">AllInOneRuby</a> script to build yourself a ruby.exe.
