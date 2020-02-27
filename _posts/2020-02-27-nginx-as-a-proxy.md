@@ -27,12 +27,16 @@ ggn-nginx-test-blog will simply be a second HTML target.
 
 Install PHP and Composer Locally (`brew install php && brew install composer` on a Mac) 
 
-Set up your working directory and create a `.gitignore` file
+Set up your working directory in your code directory:
 
 ```
+☯ mkdir test-target
+☯ cd test-target
 ☯ git init .
 ☯ heroku create ggn-nginx-test-target
 ```
+
+Set up a `.gitignore` file:
 
 ```
 ☯ cat .gitignore 
@@ -59,9 +63,7 @@ Create a `composer.json` :
 }
 ```
 
-Run `composer update`
-
-Create an `index.php`:
+Run `composer update` and then create an `index.php`:
 
 ```
 ☯ cat index.php 
@@ -78,9 +80,11 @@ foreach (getallheaders() as $name => $value) {
 
 **Setup nginx-router-test**
 
-Set up your working directory 
+Set up your working directory in your code directory:
 
 ```
+☯ mkdir router-target
+☯ cd router-target
 ☯ git init .
 ☯ heroku create ggn-nginx-router-test
 ```
@@ -158,7 +162,7 @@ Or you can simply deploy this repo.
 
 **Setup nginx-test-blog**
 
-Set up your working directory and create a `.gitignore` file
+Set up your working directory in your code directory and create a `.gitignore` file
 
 ```
 ☯ git init .
