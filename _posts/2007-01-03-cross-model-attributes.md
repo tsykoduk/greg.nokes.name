@@ -29,7 +29,7 @@ categories:
  <li>Laptop </li>
  <li>Desktop </li>
  <li>Server </li>
- <li>Person </li>
+ <li>Car </li>
  <li>Building </li>
 </ul>
 
