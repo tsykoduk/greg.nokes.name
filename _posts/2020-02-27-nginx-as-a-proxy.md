@@ -11,7 +11,7 @@ categories:
 ---
 
 
-Sometimes, we want to be able to route requests based on URL paths easily, or have a front end app that serve data from private back end services. For example, if you have several services in a Private Space that serve HTML, you might not want to expose them to the internet, and rather have a routing app in front which will handle this. Or you might want to route your asset delivery to S3, and completely offload that processing from the local app server. Nginx is a powerful, fast and lightweight web server which can also operate as a reverse proxy. It also runs well on Heroku.
+Sometimes, we want to be able to route requests based on URL paths easily, or have a front end app that serves data from private back end services. For example, if you have several services in a Private Space that serve HTML, you might not want to expose them to the internet, and rather have a routing app in front which will handle this. Or you might want to route your asset delivery to S3, and completely offload that processing from the local app server. Nginx is a powerful, fast and lightweight web server which can also operate as a reverse proxy. It also runs well on Heroku.
 
 For this example, we will set up 3 apps
 
@@ -235,3 +235,5 @@ and
 Now when you visit [ggn-nginx-router-test.herokuapp.com/blog/]([https://ggn-nginx-router-test.herokuapp.com/blog/) you will get the contents of [ggn-nginx-router-blog.herokuapp.com/](https://ggn-nginx-router-blog.herokuapp.com/)
 
 In the config directory of this [repo on github](https://github.com/tsykoduk/Heroku-Nginx-Reverse-Proxy) is a sample `nginx.conf.erb` which enables this example.
+
+In closing, we created three applications on Heroku. One was a proxy and router, and the other two were backing services. The proxy examines the URL, and based on the path, renders one of the two backing services. This is a small example of the many uses of Nginx on Heroku. More use cases include delivering static content and reverse proxying into a Private Space.
