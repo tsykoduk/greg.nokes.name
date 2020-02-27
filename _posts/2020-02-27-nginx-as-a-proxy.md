@@ -165,8 +165,10 @@ Or you can simply deploy this repo.
 Set up your working directory in your code directory and create a `.gitignore` file
 
 ```
+☯ mkdir test-blog
+☯ cd test-blog
 ☯ git init .
-☯ heroku create ggn-nginx-test-target
+☯ heroku create ggn-nginx-test-blog
 ```
 
 ```
@@ -211,7 +213,7 @@ foreach (getallheaders() as $name => $value) {
 ?>
 ```
 
-Adding in additonal routes is as simple as setting up new location blocks and their corresponding upstream blocks. For example you could add
+Adding in additional routes is as simple as setting up new location blocks and their corresponding upstream blocks. For example you could add
 
 ```
   upstream upstream_blog {
