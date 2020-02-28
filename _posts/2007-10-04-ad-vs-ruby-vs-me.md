@@ -15,153 +15,82 @@ categories:
 
 <p>First things first - we need to add the secret sauce to the model which will allow use to connect to a <span class="caps">LDAP</span> server. We want to add the following function to the model that handles your users. We also need to add a <code>require 'ldap'</code> to the model, before the class definition. You also want to define <code>AD_DOMAIN_NAME</code> to be what ever the domain that your users will be logging into.</p>
 
+```ruby
+  attr_accessor :password
+  
+  def self.login(login, password, host)
+    begin
+      if password.nil? || password == "" || login.nil? || login == ""
+        return false
+      else
+        conn = LDAP::Conn.new(host, 389)
+        conn.set_option(LDAP::LDAP_OPT_PROTOCOL_VERSION, 3 )
+        fulllogin = AD_DOMAIN_NAME + login
+        conn.bind(fulllogin, password)
+        if conn.err == 0
+          conn.unbind
+          return true
+        else
+          conn.unbind
+          return false
+        end
+      end
+      
+    rescue
+      return false
+    end
+  
+  end
+```
 
-<table class="CodeRay"><tr>
-  <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre>1<tt>
-</tt>2<tt>
-</tt>3<tt>
-</tt>4<tt>
-</tt><strong>5</strong><tt>
-</tt>6<tt>
-</tt>7<tt>
-</tt>8<tt>
-</tt>9<tt>
-</tt><strong>10</strong><tt>
-</tt>11<tt>
-</tt>12<tt>
-</tt>13<tt>
-</tt>14<tt>
-</tt><strong>15</strong><tt>
-</tt>16<tt>
-</tt>17<tt>
-</tt>18<tt>
-</tt>19<tt>
-</tt><strong>20</strong><tt>
-</tt>21<tt>
-</tt>22<tt>
-</tt>23<tt>
-</tt>24<tt>
-</tt><strong>25</strong><tt>
-</tt></pre></td>
-  <td class="code"><pre ondblclick="with (this.style) { overflow = (overflow == 'auto' || overflow == '') ? 'visible' : 'auto' }">  attr_accessor <span class="sy">:password</span><tt>
-</tt>  <tt>
-</tt>  <span class="r">def</span> <span class="pc">self</span>.login(login, password, host)<tt>
-</tt>    <span class="r">begin</span><tt>
-</tt>      <span class="r">if</span> password.nil? || password == <span class="s"><span class="dl">&quot;</span><span class="dl">&quot;</span></span> || login.nil? || login == <span class="s"><span class="dl">&quot;</span><span class="dl">&quot;</span></span><tt>
-</tt>        <span class="r">return</span> <span class="pc">false</span><tt>
-</tt>      <span class="r">else</span><tt>
-</tt>        conn = <span class="co">LDAP</span>::<span class="co">Conn</span>.new(host, <span class="i">389</span>)<tt>
-</tt>        conn.set_option(<span class="co">LDAP</span>::<span class="co">LDAP_OPT_PROTOCOL_VERSION</span>, <span class="i">3</span> )<tt>
-</tt>        fulllogin = <span class="co">AD_DOMAIN_NAME</span> + login<tt>
-</tt>        conn.bind(fulllogin, password)<tt>
-</tt>        <span class="r">if</span> conn.err == <span class="i">0</span><tt>
-</tt>          conn.unbind<tt>
-</tt>          <span class="r">return</span> <span class="pc">true</span><tt>
-</tt>        <span class="r">else</span><tt>
-</tt>          conn.unbind<tt>
-</tt>          <span class="r">return</span> <span class="pc">false</span><tt>
-</tt>        <span class="r">end</span><tt>
-</tt>      <span class="r">end</span><tt>
-</tt>      <tt>
-</tt>    <span class="r">rescue</span><tt>
-</tt>      <span class="r">return</span> <span class="pc">false</span><tt>
-</tt>    <span class="r">end</span><tt>
-</tt>  <tt>
-</tt>  <span class="r">end</span></pre></td>
-</tr></table>
+I also added the following to allow me to create the basic user skeleton with out the validations running on it.
 
+```ruby  
+  def build
+      self.save(false)
+  end
+```
 
-<p>I also added the following to allow me to create the basic user skeleton with out the validations running on it.</p>
+I did not want the users passwords to be recorded in the log files, so we need to add this to the application controller
 
+```ruby
+ filter_parameter_logging :password
+```
 
-<table class="CodeRay"><tr>
-  <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre>1<tt>
-</tt>2<tt>
-</tt>3<tt>
-</tt></pre></td>
-  <td class="code"><pre ondblclick="with (this.style) { overflow = (overflow == 'auto' || overflow == '') ? 'visible' : 'auto' }">  <span class="r">def</span> <span class="fu">build</span><tt>
-</tt>      <span class="pc">self</span>.save(<span class="pc">false</span>)<tt>
-</tt>  <span class="r">end</span></pre></td>
-</tr></table>
+Now, we need to add some code to the controller which controls your users and their authentication. I use the following
 
-
-<p>I did not want the users passwords to be recorded in the log files, so we need to add this to the application controller</p>
-
-
-<table class="CodeRay"><tr>
-  <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre><tt>
-</tt></pre></td>
-  <td class="code"><pre ondblclick="with (this.style) { overflow = (overflow == 'auto' || overflow == '') ? 'visible' : 'auto' }">   filter_parameter_logging <span class="sy">:password</span></pre></td>
-</tr></table>
-
-
-<p>Now, we need to add some code to the controller which controls your users and their authentication. I use the following</p>
-
-
-<table class="CodeRay"><tr>
-  <td class="line_numbers" title="click to toggle" onclick="with (this.firstChild.style) { display = (display == '') ? 'none' : '' }"><pre>1<tt>
-</tt>2<tt>
-</tt>3<tt>
-</tt>4<tt>
-</tt><strong>5</strong><tt>
-</tt>6<tt>
-</tt>7<tt>
-</tt>8<tt>
-</tt>9<tt>
-</tt><strong>10</strong><tt>
-</tt>11<tt>
-</tt>12<tt>
-</tt>13<tt>
-</tt>14<tt>
-</tt><strong>15</strong><tt>
-</tt>16<tt>
-</tt>17<tt>
-</tt>18<tt>
-</tt>19<tt>
-</tt><strong>20</strong><tt>
-</tt>21<tt>
-</tt>22<tt>
-</tt>23<tt>
-</tt>24<tt>
-</tt><strong>25</strong><tt>
-</tt>26<tt>
-</tt>27<tt>
-</tt>28<tt>
-</tt>29<tt>
-</tt><strong>30</strong><tt>
-</tt></pre></td>
-  <td class="code"><pre ondblclick="with (this.style) { overflow = (overflow == 'auto' || overflow == '') ? 'visible' : 'auto' }">  <span class="r">def</span> <span class="fu">authenticate</span><tt>
-</tt>   temp = params[<span class="sy">:login</span>]<tt>
-</tt>   <span class="r">if</span> <span class="co">User</span>.login(temp[<span class="sy">:userid</span>], temp[<span class="sy">:password</span>], <span class="co">LDAP_SERVER</span>)<tt>
-</tt>     <span class="r">if</span> <span class="iv">@user</span> = <span class="co">User</span>.find_by_userid(temp[<span class="sy">:userid</span>].downcase)<tt>
-</tt>       <span class="iv">@user</span>.last_login = <span class="co">Time</span>.now<tt>
-</tt>       <span class="iv">@user</span>.save<tt>
-</tt>       session[<span class="sy">:id</span>] = <span class="iv">@user</span>.id<tt>
-</tt>       flash[<span class="sy">:notice</span>] = <span class="s"><span class="dl">'</span><span class="k">Login Successful! &lt;br/&gt; Welcome back, </span><span class="dl">'</span></span> + <span class="iv">@user</span>.firstname<tt>
-</tt>       session[<span class="sy">:timeout</span>] = <span class="co">Time</span>.now<tt>
-</tt>       redirect_to <span class="sy">:controller</span> =&gt; <span class="s"><span class="dl">'</span><span class="k">tickets</span><span class="dl">'</span></span>, <span class="sy">:action</span> =&gt; <span class="s"><span class="dl">'</span><span class="k">new</span><span class="dl">'</span></span><tt>
-</tt>     <span class="r">else</span><tt>
-</tt>       <span class="iv">@newuser</span> = <span class="co">User</span>.new<tt>
-</tt>       <span class="iv">@newuser</span>.userid = temp[<span class="sy">:userid</span>].downcase<tt>
-</tt>       <span class="iv">@newuser</span>.last_login = <span class="co">Time</span>.now<tt>
-</tt>       session[<span class="sy">:timeout</span>] = <span class="co">Time</span>.now<tt>
-</tt>       <span class="r">if</span> <span class="iv">@newuser</span>.build<tt>
-</tt>         session[<span class="sy">:id</span>] = <span class="iv">@newuser</span>.id<tt>
-</tt>         flash[<span class="sy">:notice</span>] = <span class="s"><span class="dl">'</span><span class="k">Please update your information</span><span class="dl">'</span></span><tt>
-</tt>         redirect_to <span class="sy">:action</span> =&gt; <span class="s"><span class="dl">&quot;</span><span class="k">myaccount</span><span class="dl">&quot;</span></span><tt>
-</tt>       <span class="r">else</span><tt>
-</tt>         flash[<span class="sy">:warning</span>] = <span class="s"><span class="dl">'</span><span class="k">Error saving your account information</span><span class="dl">'</span></span><tt>
-</tt>         reset_session()<tt>
-</tt>         redirect_to <span class="sy">:controller</span> =&gt; <span class="s"><span class="dl">'</span><span class="k">users</span><span class="dl">'</span></span>, <span class="sy">:action</span> =&gt; <span class="s"><span class="dl">'</span><span class="k">index</span><span class="dl">'</span></span><tt>
-</tt>      <span class="r">end</span><tt>
-</tt>    <span class="r">end</span><tt>
-</tt>   <span class="r">else</span><tt>
-</tt>     flash[<span class="sy">:warning</span>] = <span class="s"><span class="dl">'</span><span class="k">Login Failed! Please verify your user ID and password and try again</span><span class="dl">'</span></span><tt>
-</tt>     redirect_to <span class="sy">:action</span> =&gt; <span class="s"><span class="dl">'</span><span class="k">login</span><span class="dl">'</span></span><tt>
-</tt>  <span class="r">end</span> <tt>
-</tt> <span class="r">end</span></pre></td>
-</tr></table>
-
+```ruby
+  def authenticate
+   temp = params[:login]
+   if User.login(temp[:userid], temp[:password], LDAP_SERVER)
+     if @user = User.find_by_userid(temp[:userid].downcase)
+       @user.last_login = Time.now
+       @user.save
+       session[:id] = @user.id
+       flash[:notice] = 'Login Successful! <br/> Welcome back, ' + @user.firstname
+       session[:timeout] = Time.now
+       redirect_to :controller => 'tickets', :action => 'new'
+     else
+       @newuser = User.new
+       @newuser.userid = temp[:userid].downcase
+       @newuser.last_login = Time.now
+       session[:timeout] = Time.now
+       if @newuser.build
+         session[:id] = @newuser.id
+         flash[:notice] = 'Please update your information'
+         redirect_to :action => "myaccount"
+       else
+         flash[:warning] = 'Error saving your account information'
+         reset_session()
+         redirect_to :controller => 'users', :action => 'index'
+      end
+    end
+   else
+     flash[:warning] = 'Login Failed! Please verify your user ID and password and try again'
+     redirect_to :action => 'login'
+  end 
+ end
+```
 
 <p>What does this mess do? Let's look at it.</p>
 
