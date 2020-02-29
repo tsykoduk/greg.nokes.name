@@ -19,13 +19,13 @@ I have run into this three or four times now. Each time takes some googling, and
 
 <!--more-->
 
-<blockquote>Through trial-and-error, this seems to be the best way to unbreak the Backspace key on a Mac when using the native Terminal.app to SSH to a (Debian) Linux machine, and then running Emacs inside a Screen session.
+Through trial-and-error, this seems to be the best way to unbreak the Backspace key on a Mac when using the native Terminal.app to SSH to a (Debian) Linux machine, and then running Emacs inside a Screen session.
 
-<pre>Open Terminal -&gt; Preferences
+Open Terminal - Preferences
 
 Declare terminal type ($TERM) as: rxvt
 
-Open Terminal -&gt; Window Settings
+Open Terminal - Window Settings
 
 Choose Keyboard panel
 
@@ -33,10 +33,11 @@ Uncheck "Delete key sends backspace"
 
   (i.e., this setting is "off")
 
-Click button "Use Settings as Defaults"</pre>
+Click button "Use Settings as Defaults"
 
 This way, you shouldn't have to mess with stty; you'll still get all the features of xterm-color (ANSI color text, screen save/restore, etc.); and the Backspace key will work normally, even in this situation:
-Terminal.app -&gt; SSH (to Debian box) -&gt; Screen -&gt; Emacs</blockquote>
+Terminal.app - SSH (to Debian box) - Screen - Emacs
 
-Under Snow Lepoard - you do not need to mess with the <span style="font-family: Consolas, Monaco, 'Courier New', Courier, monospace; line-height: 18px; font-size: 12px; white-space: pre;">Uncheck Delete key.. <span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: 19px; white-space: normal; font-size: 13px;">stuff.</span></span>
+Under Snow Lepoard - you do not need to mess with the Uncheck Delete key stuff.
+
 Thanks, <a href="http://chad.glendenin.com/macosx-backspace.html">Chad</a>!
