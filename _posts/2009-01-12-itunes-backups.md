@@ -24,18 +24,22 @@ Next week, I add error checking and email reporting to the mix.
 
 <strong>Daily code</strong>
 
-<pre><code>#!/bin/bash
+```bash
+#!/bin/bash
 
 #backup of itunes directory to shared HDD on networky
 
 #daily backup
-rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.dly/</code></pre>
+rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.dly/
+```
 
 <strong>Weekly code</strong>
 
-</pre><code>#!/bin/bash
+```bash 
+#!/bin/bash
 
 # backup of itunes directory to shared HDD on networky
 
 # Weekly backup
-rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.wky/</code></pre>
+rsync -r --eahfs /Volumes/monolith/iTunes/* /Volumes/backup/itunes.wky/
+```
