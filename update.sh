@@ -2,6 +2,7 @@
 
 brew upgrade
 heroku update
+sfdx update
 bundle update
 git status
 git add .
