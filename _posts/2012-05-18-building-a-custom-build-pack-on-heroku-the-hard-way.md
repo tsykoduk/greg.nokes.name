@@ -51,7 +51,7 @@ heroku create -b git://github.com/myname/mykillernewbuildpack.git
 To change the buildpack on an existing app:
 
 ```
-heroku config:add BUILDPACK_URL=git://github.com/myname/mykillernewbuildpack.gi
+heroku config:add BUILDPACK_URL=git://github.com/myname/mykillernewbuildpack.git
 ```
 
 **Step six. Beer**
