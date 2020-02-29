@@ -22,13 +22,15 @@ I found a really simple fix. Open up markedscroller.rb and comment out line 40. 
 Simply do <code>sudo mate /Applications/LimeChat.app/Contents/Resources/markedscroller.rb</code> and scroll down to line 40. make the changes below.
 
 
-<pre><code># draw lines
+```
+# draw lines
 #This line seems to blow chunks when highlights happen. W/o it it seems to work?
 # NSRectClip(self.rectForPart(NSScrollerKnobSlot).inset(3.0, 4.0)) 
 # end changes
 @dataSource.scroller_markColor(self).set
 lines.each {|i| i.stroke }
 self.drawKnob
-end</pre></code>
+end
+```
 
 <em>Note, if you do not use textmate, or do not have the command line bindings installed, substitute your favorite text editor for the <code>mate</code> command.</em>
