@@ -24,15 +24,15 @@ Installing it is not for the faint of heart, but here are the steps that I took:
 
 	<li>Installed nanoc, got a basic site up and running</li>
 
-	<li>SSH'd to my hosting server, set up a bare git repo (<code>git init --bare</code>)</li>
+	<li>SSH'd to my hosting server, set up a bare git repo (`git init --bare`)</li>
 
 	<li>Back on my local machine, set up the git remote, and pushed to my hosting site</li>
 
-	<li>SSH'd back to my hosting server, and copied the <code>post-receive.sample</code> to <code>post-receive</code></li>
+	<li>SSH'd back to my hosting server, and copied the `post-receive.sample` to `post-receive`</li>
 
 	<li>Copied <a href="https://github.com/tsykoduk/random_tools/blob/master/picture_lister.sh">giflister</a> into the new hook</li>
 
-	<li>Git cloned the bare repo into a real repo (at <code>~/nanoc</code>)</li>
+	<li>Git cloned the bare repo into a real repo (at `~/nanoc`)</li>
 
 	<li>Made sure the paths etc in the post-receive hook were accurate</li>
 
@@ -44,9 +44,10 @@ Installing it is not for the faint of heart, but here are the steps that I took:
 
 </ul>
 
-Not a trival install process, and not something that anyone who is not familiar with git and bash should try, however the results are impressive as you can see:
+Not a trivial install process, and not something that anyone who is not familiar with git and bash should try, however the results are impressive as you can see:
 
-<pre><code>~/Code/Nanoc ☯  git commit -m "add more bros"
+```bash
+~/Code/Nanoc ☯  git commit -m "add more bros"
 
 [master d4c8ca2] add more bros
 
@@ -72,13 +73,13 @@ remote: Get updates
 
 remote: From /home/mysite/git/creations.nokes.name
 
-remote:    63d06bc..d4c8ca2  master     -&gt; origin/master
+remote:    63d06bc..d4c8ca2  master     -> origin/master
 
 remote: Updating 63d06bc..d4c8ca2
 
 remote: Fast-forward
 
-remote:  content/come-at-me-bro-2.jpg | Bin 0 -&gt; 338843 bytes
+remote:  content/come-at-me-bro-2.jpg | Bin 0 -> 338843 bytes
 
 remote:  1 file changed, 0 insertions(+), 0 deletions(-)
 
@@ -94,6 +95,7 @@ remote: done!
 
 To myuser@mysite:~/git/creations.nokes.name.git
 
-   63d06bc..d4c8ca2  master -&gt; master</code></pre>
+   63d06bc..d4c8ca2  master -> master
+```
 
-And, presto, we have <a href="http://creations.nokes.name/come-at-me-bro-2.jpg">more bros</a>!
+And, presto, we have more bros!
