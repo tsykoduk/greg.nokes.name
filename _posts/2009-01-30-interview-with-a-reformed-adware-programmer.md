@@ -30,4 +30,5 @@ categories:
 <p>S: That seems like a bit of a stretch!</p>
 
 
-<p>M: That was a pretty limited market, I’d say</blockquote></p>
+<p>M: That was a pretty limited market, I’d say</p>
+</blockquote>
