@@ -10,7 +10,7 @@ categories:
   - Computers! and Code!
 ---
 
-I was doing some performance testing on this site, and while I was impressed, I felt like I could wring some more speed out of it.  I decided to switch from heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little quicker and lighter.
+I was doing some performance testing on this site, and while I was impressed, I felt like I could wring some more speed out of it.  I decided to switch from Heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little quicker and lighter.
 
 <!--more-->
 
