@@ -46,7 +46,7 @@ Installing it is not for the faint of heart, but here are the steps that I took:
 
 Not a trivial install process, and not something that anyone who is not familiar with git and bash should try, however the results are impressive as you can see:
 
-```bash
+```
 ~/Code/Nanoc ☯  git commit -m "add more bros"
 
 [master d4c8ca2] add more bros
