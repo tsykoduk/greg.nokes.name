@@ -29,15 +29,21 @@ Yes, you heard me correctly. After needling Wayne into getting root support buil
 The first step is to prep the system for rvm.
 On a <strong>ArchLinux</strong> system run the following:
 
-<pre lang="bash">pacman -S --noconfirm gcc gcc-libs make kernel-headers zlib libtool bison gdb strace gettext openssl git readline</pre>
+```bash
+pacman -S --noconfirm gcc gcc-libs make kernel-headers zlib libtool bison gdb strace gettext openssl git readline
+```
 
 <strong>Centos</strong>:
 
-<pre lang="bash">yum install -y gcc gcc-c++ kernel-devel zlib libtool bison gdb strace gettext git rpm-build redhat-rpm-config zlib-devel openssl openssl-devel git readline-devel</pre>
+```bash
+yum install -y gcc gcc-c++ kernel-devel zlib libtool bison gdb strace gettext git rpm-build redhat-rpm-config zlib-devel openssl openssl-devel git readline-devel
+```
 
 <strong>Debian</strong>:
 
-<pre lang="bash">aptitude install -y build-essential libreadline5-dev libssl-dev bison libz-dev zlib1g zlib1g-dev libxml2 libxml2-dev libxslt-dev libssl-dev openssl git readline-devel</pre>
+```bash
+aptitude install -y build-essential libreadline5-dev libssl-dev bison libz-dev zlib1g zlib1g-dev libxml2 libxml2-dev libxslt-dev libssl-dev openssl git readline-devel
+```
 
 And on your <strong>Mac</strong>, you'll want to get the latest XCode installed.
 
@@ -46,11 +52,13 @@ And on your <strong>Mac</strong>, you'll want to get the latest XCode installed.
 I normally add <code>gem: --no-rdoc --no-ri</code> to the <code>/etc/gemrc</code> file. I really dislike getting all of the RI and RDoc stuff generated, at it normally takes more time then the gem install.
 When I install the base rvm package, I tend to use the latest git head. That way, I do not need to muck about getting ruby and rubygems installed on the machine in question. As long as I have git, I am good to go.
 
-<pre lang="bash">cd ~
+```bash
+cd ~
 
 git clone git://github.com/wayneeseguin/rvm.git temp_rvm
 
-cd temp_rvm</pre>
+cd temp_rvm
+```
 
 This is all straight forward up to this point. We've done everything "by the <a href="http://rvm.beginrescueend.com/">book</a>" as it were. From here on out, be advised that installing things as root might cause breakage or instability.
 
@@ -58,24 +66,31 @@ This is all straight forward up to this point. We've done everything "by the <a 
 
 We'll start off with this:
 
-<pre lang="bash">sudo su</pre>
+```bash
+sudo su
+```
 
 and then continue from the temp_rvm directory we just created:
 
-<pre lang="bash">./install
+```bash
+./install
 
 cd ~
 
-rm -rf temp_rvm</pre>
+rm -rf temp_rvm
+```
 
 Now, you should have a non-working rvm install located in <code>/usr/local/rvm</code>. We are almost done, just a few more little things left.
 First off, create a <code>/etc/rvmrc</code> file and add this line:
 
-<pre lang="bash">export rvm_path=/usr/local/rvm</pre>
+```bash
+export rvm_path=/usr/local/rvm
+```
 
 Next, edit your <code>/etc/profile</code> to include the following line on the bottom:
 
-<pre lang="bash"># Load RVM if it is installed,
+```bash
+# Load RVM if it is installed,
 
 #  first try to load  user install
 
@@ -89,15 +104,17 @@ elif [ -s "/usr/local/rvm/scripts/rvm" ] ; then
 
   . "/usr/local/rvm/scripts/rvm"
 
-fi</pre>
+fi
+```
 
 <h2>Cleaning up</h2>
 
 You'll want to <code>chown</code> the <code>/usr/local/rvm</code> directory to add a group that contains the folks you want to be able to administrate your rubies, install gems and what not. I then <code>chmod -R g+w /usr/local/rvm</code> to allow the group access. I have had mixed luck with this - best case scenario is to grant ownership to the 1 user who is going to be tasked with loading rubies and tell them to get at it.
+
 I also use the <code>rvm use  ruby_version --default</code> option when I select a ruby for use system wide. It works really well.
 
 <h2>Closing thoughts, and a present for all that read this far...</h2>
 
 rvm is an excellent tool. I have run it on several production systems as root, and only run it that way any more. It sits next to homebrew on my Mac, and makes testing stuff super simple.
-Here is the setup script that I use which automates everything above:
-<script src="http://gist.github.com/418634.js?file=rvm_systemizer_setup"></script>
+
+Here is the setup [script that I use which automates everything above](http://gist.github.com/418634.js?file=rvm_systemizer_setup)

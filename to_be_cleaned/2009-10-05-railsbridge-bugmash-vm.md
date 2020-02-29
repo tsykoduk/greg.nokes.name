@@ -20,7 +20,9 @@ excerpt_separator:  <!--more-->
 One of the things that came out of our <a href="http://wiki.railsbridge.org/projects/railsbridge/wiki/BugMash">rails bugmash</a> team and time at <a href="http://blueboxgrp.com">Blue Box Group</a> was that the real time killer was a lot of the prep work. Installing 3 databases, and all of the other tools and goodies can take hours which could be used mashing bugs and racking up points.
 <!--more-->
 Enter the BugMash VM - in VMWare flavor right now. It's an early beta - but right now it has everything that you could need to test Rails or a Rails application.
+
 The next iteration might just run on <a href="http://www.archlinux.org/">Arch Linux</a> and be a <a href="http://www.virtualbox.org/">VirtualBox</a> image, or perhaps just be an install script.
+
 Below is the start of the read me - and attached is the (HUGE) image file. Beware, this weighs in at about 1.2 GB. If you have some time to spare, grab a copy of the <del datetime="2010-04-16T04:31:13+00:00">Bugmash VM Image</del>, and send me feedback.
 <strong>UPDATE</strong><em>: Check out the script article above. It does everything for you. It's being updated to include rails3 bundler etc.</em>
 <strong>RUBY ON RAILS TESTING VM IMAGE</strong>
