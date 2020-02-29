@@ -11,30 +11,6 @@
           <a href="/">{{ site.plainwhite.name }}</a>
         </h2>
         <p class="tagline">{{ site.plainwhite.tagline }}</p>
-        <ul class="social">
-          {%- if site.plainwhite.social_links.github -%}
-            <a href="https://github.com/{{ site.plainwhite.social_links.github }}">
-              <li>
-                <i class="icon-github-circled"></i>
-              </li>
-            </a>
-          {%- endif -%}
-          {%- if site.plainwhite.social_links.linkedIn -%}
-            <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}">
-              <li>
-                <i class="icon-linkedin-squared"></i>
-              </li>
-            </a>
-          {%- endif -%}
-          {%- if site.plainwhite.social_links.twitter -%}
-            <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}">
-              <li>
-                <i class="icon-twitter-squared"></i>
-              </li>
-            </a>
-          {%- endif -%}
-        </ul>
-
           <nav class="navigation">
             <ul>
 				<li>
@@ -44,7 +20,7 @@
 					<a href="/about.html">About</a>
 				</li>
 				<li>
-					<a href="/feed.xml">Suscribe</a>
+					<a href="/feed.xml">feed</a>
 				</li>
               {% for link in site.plainwhite.navigation %}
                 <li>
@@ -55,7 +31,29 @@
 			</li>
             </ul>
           </nav>
-
+          <ul class="social">
+            {%- if site.plainwhite.social_links.github -%}
+              <a href="https://github.com/{{ site.plainwhite.social_links.github }}">
+                <li>
+                  <i class="icon-github-circled"></i>
+                </li>
+              </a>
+            {%- endif -%}
+            {%- if site.plainwhite.social_links.linkedIn -%}
+              <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}">
+                <li>
+                  <i class="icon-linkedin-squared"></i>
+                </li>
+              </a>
+            {%- endif -%}
+            {%- if site.plainwhite.social_links.twitter -%}
+              <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}">
+                <li>
+                  <i class="icon-twitter-squared"></i>
+                </li>
+              </a>
+            {%- endif -%}
+          </ul>
         <p>&copy;
           {{ "now" | date: "%Y" }} Greg Nokes</p>
 		  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
