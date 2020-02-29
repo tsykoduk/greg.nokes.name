@@ -12,14 +12,13 @@ tags:
   - linkedin
   - nginx
 ---
-<p>Now that I had this test bed for new hotness running the new hotness, I decided I should get the caching working again.</p>
+Now that I had this test bed for new hotness running the new hotness, I decided I should get the caching working again.
 
 <!--more-->
 
-<p>Well, this is 2.0 of the code. This seems to work a lot better (like, works in general).</p>
+Well, this is 2.0 of the code. This seems to work a lot better (like, works in general).
 
-
-<pre>
+```
 server {
 
   listen  80;
@@ -40,16 +39,15 @@ server {
    }
 
 }
+```
 
-</pre>
-
-<p>And, as an added bonus, it's much easier to read!</p>
-
-
-<p>Thanks to mibb in <span class="caps">IRC</span>, we were able to hack the following out:</p>
+And, as an added bonus, it's much easier to read!
 
 
-<pre>server {
+Thanks to mibb in IRC , we were able to hack the following out:
+
+```
+ server {
 
   listen  80;
   server_name d;
@@ -79,4 +77,5 @@ location /assets/ {
     rewrite (.*) /cache/$host$1 break;
   }
 
-}</pre>
+}
+```
