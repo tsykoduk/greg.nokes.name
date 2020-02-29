@@ -21,18 +21,12 @@ One of the things that I get to do is advise folks on web application architectu
 For reference, the machine that I ran these tests on looks like this:
 
 >MemTotal: 16,416,772 kB
->
 >CPU: Dual Core AMD Opteron(tm) Processor 880
->
 >CPU MHz: 2405.522
->
 >CPU cache size: 1024 KB
->
 >CPU bogomips: 4813.78
->
 >Total number of Cores: 4
->
->OS: Centos 5.4 x86_64</pre>
+>OS: Centos 5.4 x86_64
 
 The first step is to make sure that you have RVM installed, and the rubies that you want to test against installed.
 
