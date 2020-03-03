@@ -30,11 +30,9 @@ Now days, I have a laptop riser, a big monitor, a Yeti Blue mic on a boom, and m
 
 I also moved from a chair, to a yoga ball, to a standing desk. Now days, I am full time at a standing desk - and that has made a big difference as well. When I need a short break, I can simply walk out of the office, and do a lap around the kitchen.
 
-Good Lighting is also important. I have good back lighting, but need to get a ring light for my Video
-
 **Dedicated Work Environment**
 
-I personally have found that having a distraction free work environment is important. So I have two computers on my desk - one that is dedicated to work - email, coding, chats, calls. And one that is dedicated to my personal stuff (personal email, social media, music.
+I personally have found that having a distraction free work environment is important. So I have two computers on my desk - one that is dedicated to work - email, coding, chats, and calls. And a machine that is dedicated to my personal stuff  - personal email, social media, and music.
 
  A few years ao, I was forced to get a second cell phone for work, and that has been great. Now when I quit working for the day, I simply drop the work phone on the charger, and walk away. There is a lot less temptation to "just check my work email once before bed".
  
@@ -48,7 +46,7 @@ I also try hard to go work from a coffee shop (or at least drive to a coffee sho
 
 **Video On**
 
-I also try and have meetings with my video on. It's more for me then for anyone else. I make sure that I and my workspace are presentable every day.
+I also try and have meetings with my video on. It's more for me then for anyone else. I make sure that I and my workspace are presentable every day. Good back lighting is important - I know that since I face a window, I look way better on sunny day then I do on cloudy ones.
 
 **Healthy Snacks**
 
@@ -56,6 +54,9 @@ This one took me a few years and a few pounds before I go it. Having healthy lun
 
 I used to have pretty bland lunches. I have really tried to up my game. One of the things that helps is blocking out 45 minutes or so for lunch, so I have time to make something good, and not feel rushed.
 
+In closing, working remote is takes a bit of thought and work, but it's a great life style. I can take the time that I would loose to a commute, and get caught up on news, brew a Chemex of coffee, or even sleep a little more. The disconnection can be scary at first, however with some adjustments the focus that you can gain can return large productivity gains.
+
+All it takes is discipline and a slightly diffrent way of looking at work/life balance.
 
 
 
