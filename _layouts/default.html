@@ -5,6 +5,9 @@
   </head>
   <body>
     <main class="container">
+        <section class="content">
+          {{ content }}
+        </section>
       <section class="about">
         <a href="/"><img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}"></a>
         <h2 id="title">
@@ -58,9 +61,6 @@
           {{ "now" | date: "%Y" }} Greg Nokes</p>
 		  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 		  <!-- <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> -->
-      </section>
-      <section class="content">
-        {{ content }}
       </section>
     </main>
   </body>
