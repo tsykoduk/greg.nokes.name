@@ -57,6 +57,12 @@ This one took me a few years and a few pounds before I got it. Having healthy lu
 
 I used to have pretty bland lunches. I have really tried to up my game. One of the things that helps is blocking out 45 minutes or so for lunch, so I have time to make something good, and not feel rushed.
 
+**Water coolers**
+
+Having some sort of "water cooler" chat system is important. Over the years, I have seen IRC, Campfire, HipChat, Slack and Quip Chat in this role. As long as everyone has a "safe-ish" space to talk about coffee, dogs, weather, or what ever crosses their mind. I have seen gaming groups, music chatter, coffee talk and technology randomness. 
+
+What's important is a space for folks to talk with each other about work, work related, and not work related things.
+
 **Meetups**
 
 Meeting up with coworkers on the same team is vitally important as well. In the past I would spend a week every few months at HQ, to wander the halls, get face time with folks, and generally catch up. 
