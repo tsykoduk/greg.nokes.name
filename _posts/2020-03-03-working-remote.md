@@ -27,6 +27,8 @@ I started years ago with a nice computer desk and a comfy chair.
 
 I also moved from a chair, to a yoga ball, to a standing desk. I have switched to full time at a standing desk. That has made a big difference as well. When I need a short break, I can simply walk out of the office, and do a lap around the kitchen.
 
+I have some co-workers that go so far as install sound proofing in their offices, or build unattached offices in their back yards.
+
 **Dedicated Work Environment**
 
 I personally have found that having a distraction free work environment is important. So I have two computers on my desk - one that is dedicated to work - email, coding, chats, and calls. And a machine that is dedicated to my personal stuff - personal email, social media, and music.
@@ -41,7 +43,7 @@ A few years ago, I was forced to get a second cell phone for work, and that has 
 
 Having time set aside for “work hours”, and making sure that I take breaks is very important. It’s easy to get hyper focused on something, and forget to eat, or spend the day in PJ’s by mistake.
 
-I make sure that I set aside time to make sure that I am human, and that I dress for work. Does that mean buttoned down? No, I would wear a tee-shirt and jeans into the office, so working from home is no different.
+I make sure that I set aside time to make myself human, and that I dress for work. Does that mean buttoned down? No, I would wear a tee-shirt and jeans into the office, so working from home is no different.
 
 I also try hard to go work from a coffee shop (or at least drive to a coffee shop, get out, stand in line and get something) a few times a week. Interaction with other humans is important.
 
@@ -55,7 +57,15 @@ This one took me a few years and a few pounds before I got it. Having healthy lu
 
 I used to have pretty bland lunches. I have really tried to up my game. One of the things that helps is blocking out 45 minutes or so for lunch, so I have time to make something good, and not feel rushed.
 
-In closing, working remote is takes a bit of thought and work, but it’s a great life style. I can take the time that I would loose to a commute, and get caught up on news, brew a Chemex of coffee, or even sleep a little more. The disconnection can be scary at first, however with some adjustments the focus that you can gain can return large productivity gains.
+**Meetups**
+
+Meeting up with coworkers on the same team is vitally important as well. In the past I would spend a week every few months at HQ, to wander the halls, get face time with folks, and generally catch up. 
+
+Team off sites are also important. Some of the best team building times that I have had were at off sites. It does not need to be something fancy, a lot of the time we would all head to the same conference, and make some time to catch up.
+
+**Takeways**
+
+In closing, working remote takes a bit of thought and work, but it’s a great life style. I can take the time that I would loose to a commute, and get caught up on news, brew a Chemex of coffee, or even sleep a little more. The disconnection can be scary at first, however with some adjustments the focus that you can gain can return large productivity gains.
 
 All it takes is discipline and a slightly diffrent way of looking at work/life balance.
 
