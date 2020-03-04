@@ -15,7 +15,7 @@ I started working 100% remote in early 2008. Over the years I have learned quite
 
 <!--more -->
 
-Over the years, I have worked as member of a majority remote company, as one of 7 people that made up the 10% of the company that was remote, and as a member of a fully remote team.
+I have worked as member of a majority remote company, as one of 7 people that made up the 10% of the company that was remote, and as a member of a fully remote team.
 
 Honestly, early on it was pretty tough. There were tons of interruptions, a lot of stress and almost no work/life balance. Over the years I have come to realize that working from home can bring isolation, withdrawal and a feeling of disconnection.
 
