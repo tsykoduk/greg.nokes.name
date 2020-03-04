@@ -1,6 +1,6 @@
 ---
 id: 15700
-title: Reflections on 11 years of 100% remote work
+title: Reflections on 12 years of 100% remote work
 date: 2020-03-03
 author: Greg Nokes
 layout: post
