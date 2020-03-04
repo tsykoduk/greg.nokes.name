@@ -47,7 +47,7 @@ Having time set aside for “work hours”, and making sure that I take breaks i
 
 I make sure that I set aside time to make myself human, and that I dress for work. Does that mean buttoned down? No, I would wear a tee-shirt and jeans into the office, so working from home is no different.
 
-I also try hard to go work from a coffee shop (or at least drive to a coffee shop, get out, stand in line and get something) a few times a week. Interaction with other humans is important.
+I also try hard to go work from a coffee sho pa few times a week. Or at least drive to a coffee shop, get out of the car, stand in line and get something. Interaction with other humans is important.
 
 **Video On**
 
