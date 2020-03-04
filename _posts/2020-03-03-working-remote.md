@@ -61,7 +61,7 @@ I used to have pretty bland lunches. I have really tried to up my game. One of t
 
 Having some sort of "water cooler" chat system is important. Over the years, I have seen IRC, Campfire, HipChat, Slack and Quip Chat in this role. As long as everyone has a "safe-ish" space to talk about coffee, dogs, weather, space, or what ever crosses their mind then this need is met. I have seen gaming groups, music chatter, coffee talk and technology randomness. 
 
-What's important is a space for folks to talk with each other about work, work related, and not work related things. Cross team water coolers can also provide a method to cross pollinate culture.
+What's important is a space for folks to talk with each other about work, work related, and not work related things. 
 
 **Meetups**
 
