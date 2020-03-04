@@ -23,11 +23,11 @@ I have a few go-to tactics that I make sure that I employ to combat these issues
 
 **Dedicated Space**
 
-This is one of the first things that I discovered. I needed to set up a dedicated work space, with a door that closes, comfortable furniture, a sound system, good keyboards, microphones, cameras and all of the other essentials.
+This is one of the first things that I discovered. I needed to set up a dedicated work space, with a door that closes, comfortable furniture, a sound system, good keyboards, microphones, cameras, and all of the other essentials.
 
-I started years ago with a nice computer desk and a comfy chair.
+I started years ago with a nice computer desk and a comfy chair in a spare bedroom.
 
-I also moved from a chair, to a yoga ball, to a standing desk. I have switched to full time at a standing desk. That has made a big difference as well. When I need a short break, I can simply walk out of the office, and do a lap around the kitchen.
+Over the years, I have moved from a chair, to a yoga ball, to a standing desk. I have switched to full time at a standing desk. That has made a big difference as well. When I need a short break, I can simply walk out of the office, and do a lap around the kitchen.
 
 I have some co-workers that go so far as install sound proofing in their offices, or build unattached offices in their back yards.
 
@@ -35,7 +35,7 @@ I have some co-workers that go so far as install sound proofing in their offices
 
 I personally have found that having a distraction free work environment is important. So I have two computers on my desk. One that is dedicated to work - email, coding, chats, and calls. And a machine that is dedicated to my personal stuff - personal email, social media, and music.
 
-I started with a work laptop and a 1st Gen Mac Mini as my personal computer. That was plugged into the speakers, and ran music, personal email etc. I had a KVM switch, and used that to swap my Monitor, Keyboard and Mouse between the Mac Mini and my work laptop.
+I started with a work laptop and a 1st Gen Mac Mini as my personal computer. That was plugged into the speakers, and ran music, personal email etc. I had a KVM switch, and used that to swap my monitor, keyboard and mouse between the Mac Mini and my work laptop.
 
 Now I have a laptop riser, a big monitor, a Yeti Blue mic on a boom, and my personal iPad for music and distractions.
 
@@ -43,7 +43,7 @@ A few years ago, I was forced to get a second cell phone for work, and that has 
 
 **Dedicated Hours**
 
-Having time set aside for “work hours”, and making sure that I take breaks is very important. It’s easy to get hyper focused on something, and forget to eat, or spend the day in PJ’s by mistake.
+Having time set aside for “work hours”, and making sure that I take breaks is very important. It’s easy to get hyper focused on something and forget to eat, or spend the day in PJ’s by mistake.
 
 I make sure that I set aside time to make myself human, and that I dress for work. Does that mean buttoned down? No, I would wear a tee-shirt and jeans into the office, so working from home is no different.
 
@@ -55,7 +55,7 @@ I also try and have meetings with my video on. It’s more for me then for anyon
 
 **Healthy Snacks**
 
-This one took me a few years and a few pounds before I got it. Having healthy lunches and snacks around the house is important. Not having boxes of Oreos is also important.
+This one took a few years and a few pounds before I got it. Having healthy lunches and snacks around the house is important. Not having boxes of Oreos is also important.
 
 I used to have pretty bland lunches. I have really tried to up my game. One of the things that helps is blocking out 45 minutes or so for lunch, so I have time to make something good, and not feel rushed.
 
@@ -69,7 +69,7 @@ What's important is a space for folks to talk with each other about work, work r
 
 Meeting up with coworkers on the same team is vitally important as well. In the past I would spend a week every few months at HQ, to wander the halls, get face time with folks, and generally catch up. 
 
-Team off sites are also important. Some of the best team building times that I have had were at off sites. It does not need to be something fancy, a lot of the time we would all head to the same conference, and make some time to catch up.
+Team off sites are also important. Some of the best team building times that I have had were at off sites. It does not need to be something fancy. A lot of the time we would all head to the same conference, and make some time to catch up.
 
 **Takeways**
 
