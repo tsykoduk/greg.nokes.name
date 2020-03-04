@@ -77,6 +77,7 @@ main {
     height: 100vh;
     padding-bottom: 15vh;
     @media screen and (max-width: $mobileW) {
+	  visibility: hidden;
       height: auto;
       padding: 10vh 0;
     }
