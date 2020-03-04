@@ -15,6 +15,8 @@ I started working 100% remote in early 2008. Over the years I have learned quite
 
 <!--more -->
 
+Over the years, I have worked as member of a majority remote company, as one of 7 people that made up the 10% of the company that was remote, and as a member of a fully remote team.
+
 Honestly, early on it was pretty tough. There were tons of interruptions, a lot of stress and almost no work/life balance. Over the years I have come to realize that working from home can bring isolation, withdrawal and a feeling of disconnection.
 
 I have a few go-to tactics that I make sure that I employ to combat these issues. As I discovered them over the years, my appreciation for remote work has increased to the point where I am not sure that I would take an office job in the future.
@@ -31,7 +33,7 @@ I have some co-workers that go so far as install sound proofing in their offices
 
 **Dedicated Work Environment**
 
-I personally have found that having a distraction free work environment is important. So I have two computers on my desk - one that is dedicated to work - email, coding, chats, and calls. And a machine that is dedicated to my personal stuff - personal email, social media, and music.
+I personally have found that having a distraction free work environment is important. So I have two computers on my desk. One that is dedicated to work - email, coding, chats, and calls. And a machine that is dedicated to my personal stuff - personal email, social media, and music.
 
 I started with a work laptop and a 1st Gen Mac Mini as my personal computer. That was plugged into the speakers, and ran music, personal email etc. I had a KVM switch, and used that to swap my Monitor, Keyboard and Mouse between the Mac Mini and my work laptop.
 
