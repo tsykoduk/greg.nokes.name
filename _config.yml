@@ -31,8 +31,9 @@ plainwhite:
   name: DaRoost
   show_excerpts: true
   tagline: |
-          A wayward journey in
-          the depths of sanity
+          A wayward journey 
+		  in the depths 
+		  of sanity
 
  # navigation:
  #   title: About
