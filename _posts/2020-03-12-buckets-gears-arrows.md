@@ -27,7 +27,7 @@ During this step I think about what each bucket is going to hold, what each gear
 
 **Step 3: Add complexity where needed**
 
-Now that we have a detailed architecture, I can start to look at specifics. I can start to detail out what database tables look like, how relationships between tables are formed, exactly what data is flowing through the pipes, and what langages and frameworks would be most effecent for each portion of the cluster.
+Now that we have a detailed architecture, I can start to look at specifics. I can start to detail out what database tables look like, how relationships between tables are formed, exactly what data is flowing through the pipes, and what langages and frameworks would be most efficient for each portion of the cluster.
 
 
 
