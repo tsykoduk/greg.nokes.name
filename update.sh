@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 
 # We want to stash the current branch, checkout master,
-#  do our work on master, and then switch back to the original branch
+#  do our work on master, and then switch back to the 
+#  original branch
+
+# If you are already on master, it just complains 
+#  and does not do anythiung
 
 myvar=$(git rev-parse --abbrev-ref HEAD)
 git checkout master
