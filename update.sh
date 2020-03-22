@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# We want to stash the current branch, checkout master,
+#  do our work on master, and then switch back to the original branch
+
 myvar=$(git rev-parse --abbrev-ref HEAD)
 git checkout master
 brew upgrade
