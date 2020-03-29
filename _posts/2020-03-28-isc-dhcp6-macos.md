@@ -29,6 +29,11 @@ Install the DHCP server via brew.
 ~ ☯ brew install isc-dhcp
 ``
 
+**Step 2**
+
+Set up the IPv4 plist and config files.
+
+
 
 
 
