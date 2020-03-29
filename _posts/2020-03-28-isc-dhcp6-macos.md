@@ -15,7 +15,7 @@ One of the frustrations with my current network setup is that the router is very
 
 <!--more -->
 
-Well, since I have set up many DHCP servers in the past, I did not think this would be a problem. I have an older Mac that I used, as it stays plugged into the network and is already operating as a Apple iCloud Cache server.
+Well, since I have set up many DHCP servers in the past, I did not think this would be a problem. I have an older Mac that I could use, as it stays plugged into the network and is already operating as a Apple iCloud Cache server.
 
 I also wanted to be able to deliver IPv6 DNS servers to my machines as well.
 
