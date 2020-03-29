@@ -25,18 +25,81 @@ Well, it was not quite as easy as I thought it was going to be. I had to learn h
 
 Install the DHCP server via brew.
 
-``
-~ ☯ brew install isc-dhcp
-``
+	~ ☯ brew install isc-dhcp
 
 **Step 2**
 
 Set up the IPv4 plist and config files.
 
+The config file was pretty simple: 
 
 
+	# dhcpd.conf
+	#
+
+	default-lease-time 600;
+	max-lease-time 7200;
+
+	# Use this to enble / disable dynamic dns updates globally.
+	#ddns-update-style none;
+
+	# If this DHCP server is the official DHCP server for the local
+	# network, the authoritative directive should be uncommented.
+	authoritative;
+
+	# Use this to send dhcp log messages to a different log file (you also
+	# have to hack syslog.conf to complete the redirection).
+	#log-facility local7;
 
 
-hat tip to (Steven Diver)[https://stevendiver.com/2020/02/19/install-isc-dhcp-on-macos-catalina/] for the syntax for the `org-isc-dhcpd.plist` file
+	# My First Subnet
+	subnet 192.168.1.0 netmask 255.255.255.0 {
+	  range 192.168.1.10 192.168.1.200;
+	  option domain-name-servers 1.1.1.1, 1.0.0.1;
+	  option routers 192.168.1.1;
+	  option broadcast-address 192.168.1.255;
+
+	  # Let's let folks keep their IP's for a while
+	  default-lease-time 6000;
+	  max-lease-time 72000;
+	}
+
+Next up was getting it installed as a service. The `brew` stuff was unhelpful, and, honestly I wanted to play with the underlying plist files anyways.
+
+After some gnashing of teeth and frantic googling, I came across a helpful article by (Steven Diver)[https://stevendiver.com/2020/02/19/install-isc-dhcp-on-macos-catalina/] that outlined the syntax of the `org-isc-dhcpd.plist` file.
+
+Anyway, this is what I came up with:
+
+	<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+	<!DOCTYPE plist PUBLIC \"-//Apple Computer//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">
+	<plist version=\"1.0\">
+	<dict>
+	     <key>Label</key>
+	          <string>org.isc.dhcpd</string>
+	     <key>OnDemand</key>
+	          <false/>
+	     <key>ProgramArguments</key>
+	          <array>
+	          <string>/usr/local/sbin/dhcpd</string>
+	          <string>-q</string>
+	          <string>-f</string>
+	          </array>
+	     <key>RunAtLoad</key>
+	          <true/>
+	     <key>ServiceDescription</key>
+	          <string>ISC DHCP Server</string>
+	</dict>
+	</plist>
+
+Next I figured out that I had to load the plist, and then it would hopeful start up.
+
+	~ ☯ sudo launchctl load /Library/LaunchDaemons/org.isc.dhcpd.plist
+
+I could then use `sudo launchctl list |grep dhcp` to see that the service was in fact started. I also rebooted the machine to insure that it would survive a reboot - no one wants their DHCP server vanishing, right?
+
+**Step 3**
+
+Next up was setting up IPv6.
+
 
 TODO - shout out to ^ when twitter posting article
