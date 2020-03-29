@@ -117,19 +117,8 @@ This is the config file that I came up with:
 	/usr/local/etc ☯ cat dhcpd6.conf 
 	# dhcpd6.conf
 
-	# option definitions common to all supported networks...
-	#option domain-name "example.org";
-	#option domain-name-servers ns1.example.org, ns2.example.org;
-
 	default-lease-time 600;
 	max-lease-time 7200;
-
-	# Use this to enble / disable dynamic dns updates globally.
-	#ddns-update-style none;
-
-	# If this DHCP server is the official DHCP server for the local
-	# network, the authoritative directive should be uncommented.
-	authoritative;
 
 	# Use this to send dhcp log messages to a different log file (you also
 	# have to hack syslog.conf to complete the redirection).
