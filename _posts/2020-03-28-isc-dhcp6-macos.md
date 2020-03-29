@@ -20,3 +20,12 @@ Well, since I have set up may DHCP (Dynamic Host Control Protocol) servers in th
 I also wanted to be able to deliver IPv6 DNS servers to my machines as well.
 
 Well, it was not quite as easy as I thought it was going to be. I had to learn how to use `launchctl` and `launchd`. I came from a background of using `init` and `systemd` so I assumed this would be fairly easy.
+
+**Step 1**
+
+I went ahead and installed the DHCP server via brew.
+
+``
+~ ☯ brew install isc-dhcp
+``
+
