@@ -11,15 +11,17 @@ categories:
 ---
 
 
-One of the frustrations with my current WiFi setup is that the router is very inflexible. For example, it would not allow me to set the Domain Name servers that I wanted to use for my internal devices. It would only deliver the DNS servers that my internet provider delivered to it. And who wants that?
+One of the frustrations with my current network setup is that the router is very inflexible. For example, it would not allow me to set the Domain Name servers that I wanted to use for my internal devices. It would only deliver the DNS servers that my internet provider delivered to it. And who wants that?
 
 <!--more -->
 
-Well, since I have set up many DHCP (Dynamic Host Control Protocol) servers in the past, I did not think this would be a problem. I have an older Mac that I could use, as it stays plugged into the network and is already operating as a Apple iCloud Cache.
+Well, since I have set up many DHCP servers in the past, I did not think this would be a problem. I have an older Mac that I used, as it stays plugged into the network and is already operating as a Apple iCloud Cache server.
 
 I also wanted to be able to deliver IPv6 DNS servers to my machines as well.
 
-Well, it was not quite as easy as I thought it was going to be. I had to learn how to use `launchctl` and `launchd`. I come from a background of using `init` and `systemd` so I *assumed* this would be fairly easy. Here are the steps that I found to work on a machine running 10.15. I set up IPv4 first, so the steps will walk you through that first.
+Well, it was not quite as easy as I thought it was going to be. I had to learn how to use `launchctl` and `launchd`. I come from a background of using `init` and `systemd` so I *assumed* this would be fairly easy. 
+
+Here are the steps that I found to work on a machine running 10.15. I set up IPv4 first.
 
 **Step 1**
 
@@ -93,11 +95,16 @@ Anyway, this is what I came up with:
 	</dict>
 	</plist>
 
-Next I figured out that I had to load the plist, and then it would hopeful start up.
+Next I figured out that I had to load the plist, and then it would hopefully start up.
 
 	~ ☯ sudo launchctl load /Library/LaunchDaemons/org.isc.dhcpd.plist
 
-I could then use `sudo launchctl list |grep dhcp` to see that the service was in fact started. I also rebooted the machine to insure that it would survive a reboot - no one wants their DHCP server vanishing, right?
+I could then use `sudo launchctl list |grep dhcp` to see that the service was in fact started. 
+
+	~ ☯ sudo launchctl list |grep dhcp
+	47891	-15	org.isc.dhcpd
+
+I also rebooted the machine to insure that it would survive a reboot - no one wants their DHCP server vanishing, right?
 
 **Step 3**
 
@@ -162,7 +169,13 @@ And the plist:
 	</dict>
 	</plist>
 
-The only thing left was to load the plist and see if this all worked. Again, with the reboot test. I also dropped the network on a few devices, and watched the logs:
+The only thing left was to load the plist and see if this all worked. Again, with the reboot test.
+
+	~ ☯ sudo launchctl list |grep dhcp
+	47891	-15	org.isc.dhcpd
+	48425	0	org.isc.dhcpd-6
+
+I also dropped the network on a device, and watched the logs:
 
 	dhcpd: Information-request message from a0a0::a0a0:a0a0:a0a0:a0a0 port 546, transaction ID 0x158E3D00
 	dhcpd: Sending Reply to a0a0::a0a0:a0a0:a0a0:a0a0 port 546
