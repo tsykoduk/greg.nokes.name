@@ -164,7 +164,7 @@ The only thing left was to load the plist and see if this all worked. Again, wit
 	47891	-15	org.isc.dhcpd
 	48425	0	org.isc.dhcpd-6
 
-I also restarted the network interface on a device, and watched the logs:
+I also restarted the network interface on another device, and watched the logs on the server to see if this all worked together:
 
 	dhcpd: Information-request message from a0a0::a0a0:a0a0:a0a0:a0a0 port 546, transaction ID 0x158E3D00
 	dhcpd: Sending Reply to a0a0::a0a0:a0a0:a0a0:a0a0 port 546
