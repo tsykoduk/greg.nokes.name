@@ -7,7 +7,7 @@ layout: post
 guid: http://greg.nokes.name/?p=15710
 permalink: /2020/03/03/isc-dhcpd-6/
 categories:
-  - Mundane
+  - Computers! and Code!
 ---
 
 
