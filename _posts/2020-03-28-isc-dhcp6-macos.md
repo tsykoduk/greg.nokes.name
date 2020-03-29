@@ -110,7 +110,7 @@ I also rebooted the machine to insure that it would survive a reboot - no one wa
 
 Next up was setting up IPv6.
 
-I did a bit of reading, and figured out that you would have to have 2 DHCPD services running, one for IPv4 and one for IPv6. I also learned a bit about [IPv6 and SLAAC](https://en.wikipedia.org/wiki/IPv6#Stateless_address_autoconfiguration_(SLAAC)). It seemed that I could keep using my ISP's SLAAC, and use DHCP to deliver additional information to the hosts, like a proper DNS server's address.
+I did a bit of reading, and figured out that you would have to have 2 DHCPD services running, one for IPv4 and one for IPv6. I also learned a bit about [IPv6 and SLAAC](https://en.wikipedia.org/wiki/IPv6#Stateless_address_autoconfiguration_(SLAAC)). It seemed that I could keep using my ISP's SLAAC to hand out proper addresses, and use DHCP to deliver additional information to the hosts, like a proper DNS server's address.
 
 This is the config file that I came up with:
 
