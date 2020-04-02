@@ -1,6 +1,6 @@
 ---
 id: 15700
-title: Reflections on 11 years of 100% remote work
+title: Reflections on 12 years of 100% remote work
 date: 2020-03-03
 author: Greg Nokes
 layout: post
@@ -15,7 +15,7 @@ I started working 100% remote in early 2008. Over the years I have learned quite
 
 <!--more -->
 
-Over the years, I have worked as member of a majority remote company, as one of 7 people that made up the 10% of the company that was remote, and as a member of a fully remote team.
+I have worked as member of a majority remote company, as one of 7 people that made up the 10% of the company that was remote, and as a member of a fully remote team.
 
 Honestly, early on it was pretty tough. There were tons of interruptions, a lot of stress and almost no work/life balance. Over the years I have come to realize that working from home can bring isolation, withdrawal and a feeling of disconnection.
 
@@ -47,7 +47,7 @@ Having time set aside for “work hours”, and making sure that I take breaks i
 
 I make sure that I set aside time to make myself human, and that I dress for work. Does that mean buttoned down? No, I would wear a tee-shirt and jeans into the office, so working from home is no different.
 
-I also try hard to go work from a coffee sho pa few times a week. Or at least drive to a coffee shop, get out of the car, stand in line and get something. Interaction with other humans is important.
+I also try hard to go work from a coffee shop a few times a week. Or at least drive to a coffee shop, get out of the car, stand in line and get something. Interaction with other humans is important.
 
 **Video On**
 

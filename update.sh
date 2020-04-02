@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# We want to stash the current branch, checkout master,
+#  do our work on master, and then switch back to the 
+#  original branch
+
+# If you are already on master, it just complains 
+#  and does not do anythiung
+
+myvar=$(git rev-parse --abbrev-ref HEAD)
+git checkout master
 brew upgrade
 heroku update
 sfdx update
@@ -9,4 +18,5 @@ git add .
 git commit -m "updating gems and stuff"
 git commit --allow-empty -m "Trigger rebuild" 
 git push origin master
+git checkout $myvar
 heroku logs -t -a mysterious-depths-92606
