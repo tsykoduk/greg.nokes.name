@@ -7,8 +7,14 @@
 # If you are already on master, it just complains 
 #  and does not do anythiung
 
+
+# Determine what branch we are on and save 
 myvar=$(git rev-parse --abbrev-ref HEAD)
+#save working state of current branch
+git stash
+#Switch to master
 git checkout master
+#do the work
 brew upgrade
 heroku update
 sfdx update
@@ -18,5 +24,10 @@ git add .
 git commit -m "updating gems and stuff"
 git commit --allow-empty -m "Trigger rebuild" 
 git push origin master
+#switch back to my working branch
 git checkout $myvar
+#restore the working state
+git stash pop
+
+#watch heroku rebuild the app
 heroku logs -t -a mysterious-depths-92606
