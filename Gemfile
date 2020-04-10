@@ -47,3 +47,4 @@ gem 'rake'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem "jekyll-gist"
+gem "jekyll-environment-variables"
