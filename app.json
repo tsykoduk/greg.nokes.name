@@ -3,6 +3,12 @@
    "stack": "heroku-18",
   "scripts": {
   },
+  "env": {
+    "FATHOM_KEY": {
+      "description": "A key for setting the Fathom App",
+      "value": "TECOGLDS"
+    }	
+	},
   "formation": {
   },
   "addons": [
