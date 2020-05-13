@@ -16,6 +16,7 @@ git stash
 git checkout master
 #do the work
 brew upgrade
+gem update --system
 heroku update
 sfdx update
 bundle update
