@@ -14,6 +14,7 @@ myvar=$(git rev-parse --abbrev-ref HEAD)
 git stash
 #Switch to master
 git checkout master
+git pull origin master
 #do the work
 brew upgrade
 gem update --system
