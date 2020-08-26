@@ -23,4 +23,4 @@ git push heroku main
 heroku open
 ```
 
-There you go - a few lines to create a new app, build environment, load balancers and everything else you need to run a highly scaleable, secured, web application.
+There you go - a few lines to create a new app, build environment, load balancers and everything else you need to run a highly scaleable, secured, web application. All thanks to the power of Heroku.
