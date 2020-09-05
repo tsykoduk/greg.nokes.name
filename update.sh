@@ -13,8 +13,8 @@ myvar=$(git rev-parse --abbrev-ref HEAD)
 #save working state of current branch
 git stash
 #Switch to master
-git checkout master
-git pull origin master
+git checkout main
+git pull origin main
 #do the work
 brew upgrade
 gem update --system
@@ -25,7 +25,7 @@ git status
 git add .
 git commit -m "updating gems and stuff"
 git commit --allow-empty -m "Trigger rebuild" 
-git push origin master
+git push origin main
 #switch back to my working branch
 git checkout $myvar
 #restore the working state
