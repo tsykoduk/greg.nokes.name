@@ -7,7 +7,7 @@ layout: post
 guid: http://greg.nokes.name/?p=15600
 permalink: /2020/04/08/condos-and-lumberjacks/
 categories:
-  - Computers! and Code!
+ - Computers! and Code!
 ---
 I have been involved in and with various infrastructure and platform providers for well over 12 years now. Often I am asked to explain "why use a infrastructure provider?" or "why use a platform?".
 
@@ -22,7 +22,7 @@ Icebergs and Lumberjacks
 
 **With bad drawings**
 
-AWS loves to say “*AWS is for builders*” and Iopen cannot agree more. AWS is for builders, but Heroku is for developers. 
+AWS loves to say “*AWS is for builders*” and I cannot agree more. AWS is for builders, but Heroku is for developers. 
 
 Why? 
 
@@ -54,7 +54,9 @@ Well, at it’s most basic this is what you would have to build, before your dev
 
 ![Architecture Diagram](/wp-content/uploads/2020/09/img_0107.png)
 
-This does not include things like autoscaling, auto-healing, multi-AZ failover, build environments, developer tooling, CI/CD pipelines and a host of other things that you will need. Oh you want to use Kuberntes (K8s)? That’s just as hard.
+This does not include things like autoscaling, auto-healing, multi-AZ failover, build environments, developer tooling, CI/CD pipelines and a host of other things that you will need. 
+
+Oh you want to use Kuberntes (K8s)? That’s just as hard.
 
 Functions as a Service is getting closer to “Heroku easy” for certain use cases and certain architectures. For example, if your code can handle intermittent “cold start” delays, then FaaS might be for you. However it is not a silver bullet, and it does not solve every problem.
 
@@ -62,21 +64,23 @@ If we think of it like needing a house, AWS is going to the lumber yard, and buy
 
 And, K8s, FaaS, Docker? They were born out of looking at how Heroku was and is doing things. 
 
-* 12factor? Heroku wrote it. 
-* Buildpacks? Heroku invented them.
-*  git push heroku master? You guessed it. Invented at Heroku.
+* [12factor](12factor.net)? Heroku wrote it. 
+* [Buildpacks](https://buildpacks.io)? Heroku invented them.
+* `git push heroku master`? You guessed it. Invented at Heroku.
 
-When I started in the industry, we did not even have lumber yards. We had to cut down trees and get our lumber that way! We had to call Dell or HP or Gateway and have them send us servers. We then had to assemble those servers, and put them into racks. Next we had to install the operating system and any software packages that we needed.  That’s on premises for you. The most control, and the most manual labor and time.
+When I started in the industry, we did not even have lumber yards. We had to cut down trees and get our lumber that way! We had to call Dell or HP or Gateway and have them send us servers. We then had to assemble those servers, and put them into racks. Next we had to install the operating system and any software packages that we needed. 
+
+That’s on premises for you. The most control, and the most manual labor and time.
 
 AWS has elevated the game. AWS gives us a lumber store. And it is really awesome. You can go in, and find a vast array of different types and sizes of lumber, lots of connectors, electrical stuff and plumbing. You can pick and choose from a huge menu of services on AWS. However you have to choose the correct menu items, and then you have to configure them correctly, integrate them, and manage those services and integration.
 
-Oh and by the way, after you are done  with all of that lumber and your house is built, who’s going to fix your house when something goes wrong with it? 
+Oh and by the way, after you are done with all of that lumber and your house is built, who’s going to fix your house when something goes wrong with it? 
 
 You. 
 
 You will.
 
-When we say Heroku is easier to use then AWS this is exactly what we mean. Instead of buying lumber,  you are buying a Condo with landscaping and maintenance included.
+When we say Heroku is easier to use then AWS this is exactly what we mean. Instead of buying lumber, you are buying a Condo with landscaping and maintenance included.
 
 ![Simple Architecture Diagram](/wp-content/uploads/2020/09/IMG_0108.jpg)
 
