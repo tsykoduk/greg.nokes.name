@@ -15,7 +15,7 @@ I wrote this out to try and explain these concepts in concrete terms.
 
 Lucky for me, a few co-workers decided to help me with art and video production help, and we were able to remove the "*with bad drawings*" subtitle. Also we made a cool animation explaining this. You can see the [video here](https://youtu.be/_N8Zf_nPZkQ).
 
-Thanks to the awesome Nichole Johnson, Jennifer Hooper and the entire [Heroku marketing team](https://www.heroku.com/podcasts) for taking my idea and making it shine.
+Thanks to the awesome [Nichole Johnson](https://www.linkedin.com/in/nicolecjohnson/), Jennifer Hooper and the entire [Heroku marketing team](https://www.heroku.com/podcasts) for taking my idea and making it shine.
 
 Icebergs and Lumberjacks
 ====================
