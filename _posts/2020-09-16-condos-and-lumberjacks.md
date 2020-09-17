@@ -9,13 +9,13 @@ permalink: /2020/04/08/condos-and-lumberjacks/
 categories:
  - Computers! and Code!
 ---
-I have been involved in and with various infrastructure and platform providers for well over 12 years now. Often I am asked to explain "why use a infrastructure provider?" or "why use a platform?".
+I have been involved in and with various infrastructure as a service and platform as a service providers for well over 12 years now. Often I am asked to explain "why use a IaaS provider?" or "why use a PaaS?" or "Why use [Heroku](https://www.heroku.com)?".
 
 I wrote this out to try and explain these concepts in concrete terms. 
 
 Lucky for me, a few co-workers decided to help me with art and video production help, and we were able to remove the "*with bad drawings*" subtitle. Also we made a cool animation explaining this. You can see the [video here](https://youtu.be/_N8Zf_nPZkQ).
 
-Thanks to the awesome [Nichole Johnson](https://www.linkedin.com/in/nicolecjohnson/), Jennifer Hooper and the entire [Heroku marketing team](https://www.heroku.com/podcasts) for taking my idea and making it shine.
+Thanks to the awesome [Nicole Johnson](https://www.linkedin.com/in/nicolecjohnson/), Jennifer Hooper and the entire [Heroku marketing team](https://www.heroku.com/podcasts) for taking my idea and making it shine.
 
 Icebergs and Lumberjacks
 ====================
