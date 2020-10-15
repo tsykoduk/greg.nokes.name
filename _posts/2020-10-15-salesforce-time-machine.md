@@ -9,29 +9,26 @@ permalink: /2020/04/08/salesforce-time-machine/
 categories:
  - Computers! and Code!
 ---
-# Using Heroku’s Streaming Data Connectors to build a Salesforce Object Time Machine
-
-### With Bad Pictures
-
 
 So, you want to have every change made to the data in a Saleforce Object stored.. forever?
 
 ![IMG 0010 2](/wp-content/uploads/2020/10/IMG_0010_2.jpeg)
-Let’s explore how CDG and I used out of the box tools and a little coding to build a time machine, and what it looked like after we ran it on test data for several months.
+
+Let’s explore how I used out of the box tools and a little coding to build a time machine, and what it looked like after I ran it on test data for several months.
 
 First about our test data environment:  We are using a test org with randomly generated accounts, and opportunities associated with those accounts. We also have a service that runs to make changes to a small subset of the accounts every few minutes. 
 
 The first step was to set up an collector app. This app will emit all of the changes as messages into Kafka.
 
-* Set up a Heroku App in a Private Space
-* Add a Heroku Private Postgres Database
-* Add Heroku Connect
+* [Set up a Heroku App in a Private Space](https://devcenter.heroku.com/articles/getting-started-with-ruby)
+* [Add a Heroku Private Postgres Database](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-heroku-postgres)
+* Add [Heroku Connect](https://devcenter.heroku.com/articles/getting-started-with-heroku-and-connect-without-local-dev)
 * Choose and Configure the objects to sync in Heroku Connect
 
 We then needed to stream changes somewhere:
 
-* Add a Heroku Private Kakfa cluster to the app
-* Configure the Streaming Data Connector to point at the Heroku Connect tables
+* Add a [Heroku Private Kakfa](https://devcenter.heroku.com/articles/kafka-on-heroku) cluster to the app
+* Configure the [Streaming Data Connector](https://devcenter.heroku.com/articles/heroku-data-connectors) to point at the Heroku Connect tables
 
 We were then mirroring our Salesforce Data into Heroku Postgres, preforming CDC on the data, and streaming the changes into Kafka.
 
