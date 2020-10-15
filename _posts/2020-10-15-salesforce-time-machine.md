@@ -131,4 +131,4 @@ where External_id__c = '7f4acaad-6c77-4342-a533-83bb580aaf681586878813' ORDER BY
 (21 rows)
 ```
 
-
+This pattern can be used for Saleforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do, is to create the listener who will grab all of the updates, and store them into your target database. The Heroku Streaming Data Connectors really enable a lot of interesting use cases, and accelerate development!
