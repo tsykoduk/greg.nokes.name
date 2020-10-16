@@ -5,7 +5,7 @@ date: 2020-09-16
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15600
-permalink: /2020/04/08/condos-and-lumberjacks/
+permalink: /2020/09/16/condos-and-lumberjacks/
 categories:
  - Computers! and Code!
 ---

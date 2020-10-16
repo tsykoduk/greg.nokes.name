@@ -5,7 +5,7 @@ date: 2020-08-26
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=15900
-permalink: /2020/04/08/simplest-heroku-demo/
+permalink: /2020/08/26/simplest-heroku-demo/
 categories:
   - Computers! and Code!
 ---
