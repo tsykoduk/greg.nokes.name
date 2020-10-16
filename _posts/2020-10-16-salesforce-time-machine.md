@@ -10,7 +10,7 @@ categories:
  - Computers! and Code!
 ---
 
-So, you want to have every change made to the data in a Saleforce Object stored.. forever?
+So, you want to have every change made to the data in a Salesforce Object stored.. forever?
 
 ![IMG 0010 2](/wp-content/uploads/2020/10/IMG_0010_2.jpeg)
 
@@ -42,7 +42,7 @@ We decided to use Node to listen to the event stream in Kakfa, and take the upda
 
 ![IMG 0011 2](/wp-content/uploads/2020/10/IMG_0011_2.jpeg)
 
-This is not only scalable to many objects in a single Salesforce org, it’s also scaleable to many Salesforce orgs - including Work.com, Service Cloud and SalesCloud. Not only can you easily provide visibility across orgs, but you are capturing all changes and you can report on how records have evolved over time, as well as how records relate to each other in diffrent orgs.
+This is not only scalable to many objects in a single Salesforce org, it’s also scaleable to many Salesforce orgs - including Work.com, Service Cloud and Sales Cloud. Not only can you easily provide visibility across orgs, but you are capturing all changes and you can report on how records have evolved over time, as well as how records relate to each other in diffrent orgs.
 
 What are the results now that we have all of this data flowing? 
 
@@ -131,6 +131,6 @@ where External_id__c = '7f4acaad-6c77-4342-a533-83bb580aaf681586878813' ORDER BY
 (21 rows)
 ```
 
-This pattern can be used for Saleforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do, is to create the listener who will grab all of the updates, and store them into your target database.
+This pattern can be used for Salesforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do, is to create the listener who will grab all of the updates, and store them into your target database.
 
 This is really the power of the Heroku Platform - using it's tools to reduce the amount of work needed to be done to accomplish powerful things, in data as well as in traditional apps.
