@@ -1,11 +1,11 @@
 ---
 id: 16100
 title: Building a Time Machine for Salesforce Data, the Easy Way
-date: 2020-10-15
+date: 2020-10-16
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16100
-permalink: /2020/04/08/salesforce-time-machine/
+permalink: /2020/10/16/salesforce-time-machine/
 categories:
  - Computers! and Code!
 ---
@@ -14,9 +14,9 @@ So, you want to have every change made to the data in a Saleforce Object stored.
 
 ![IMG 0010 2](/wp-content/uploads/2020/10/IMG_0010_2.jpeg)
 
-Let’s explore how I used out of the box tools and a little coding to build a time machine, and what it looked like after I ran it on test data for several months.
+Let’s explore how we used out of the box tools and a little coding to build a time machine, and what it looked like after I ran it on test data for several months.
 
-First about our test data environment:  We are using a test org with randomly generated accounts, and opportunities associated with those accounts. We also have a service that runs to make changes to a small subset of the accounts every few minutes. 
+First about our test data environment:  We are using a test org with randomly generated accounts, and opportunities associated with those accounts. We also have a service that runs every few minutes to make changes to a small, random subset of the accounts. 
 
 The first step was to set up an collector app. This app will emit all of the changes as messages into Kafka.
 
@@ -42,7 +42,7 @@ We decided to use Node to listen to the event stream in Kakfa, and take the upda
 
 ![IMG 0011 2](/wp-content/uploads/2020/10/IMG_0011_2.jpeg)
 
-This is not only scalable to many objects in a single Salesforce org, it’s also scaleable to many Salesforce orgs - including Work.com, Service Cloud and SalesCloud. Not only can you easily provide visibility across orgs, but you can capture changes and report on how records have changed over time across objects and orgs.
+This is not only scalable to many objects in a single Salesforce org, it’s also scaleable to many Salesforce orgs - including Work.com, Service Cloud and SalesCloud. Not only can you easily provide visibility across orgs, but you are capturing all changes and you can report on how records have evolved over time, as well as how records relate to each other in diffrent orgs.
 
 What are the results now that we have all of this data flowing? 
 
@@ -131,4 +131,6 @@ where External_id__c = '7f4acaad-6c77-4342-a533-83bb580aaf681586878813' ORDER BY
 (21 rows)
 ```
 
-This pattern can be used for Saleforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do, is to create the listener who will grab all of the updates, and store them into your target database. The Heroku Streaming Data Connectors really enable a lot of interesting use cases, and accelerate development!
+This pattern can be used for Saleforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do, is to create the listener who will grab all of the updates, and store them into your target database.
+
+This is really the power of the Heroku Platform - using it's tools to reduce the amount of work needed to be done to accomplish powerful things, in data as well as in traditional apps.
