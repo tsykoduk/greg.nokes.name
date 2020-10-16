@@ -20,7 +20,7 @@ First about our test data environment:  We are using a test org with randomly ge
 
 The first step was to set up an collector app. This app will emit all of the changes as messages into Kafka.
 
-* [Set up a Heroku App in a Private Space](https://devcenter.heroku.com/articles/getting-started-with-ruby)
+* Set up a Heroku App in a Private Space
 * [Add a Heroku Private Postgres Database](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-heroku-postgres)
 * Add [Heroku Connect](https://devcenter.heroku.com/articles/getting-started-with-heroku-and-connect-without-local-dev)
 * Choose and Configure the objects to sync in Heroku Connect
