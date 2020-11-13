@@ -10,7 +10,7 @@ categories:
  - Computers! and Code!
 ---
 
-So, you want to have every change made to the data in a Salesforce Object stored.. forever?
+So, you want to have every change made to the data in a Salesforce Object stored... forever?
 
 ![IMG 0010 2](/wp-content/uploads/2020/10/IMG_0010_2.jpeg)
 
