@@ -14,8 +14,8 @@ layout: default
       <h1 id="posts-label">posts</h1>
     </li>
 
-    {%- for post in site.posts -%}
-      <li>
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
         <a class="post-link" href="{{ post.url | relative_url }}">
           <h2 class="post-title">{{ post.title | escape }}</h2>
@@ -33,7 +33,27 @@ layout: default
         <div class="post">
             {{ post.excerpt }}
         </div>
-      </li>
     {%- endfor -%}
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
   </ul>
 {%- endif -%}
