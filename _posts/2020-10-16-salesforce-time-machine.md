@@ -131,6 +131,6 @@ where External_id__c = '7f4acaad-6c77-4342-a533-83bb580aaf681586878813' ORDER BY
 (21 rows)
 ```
 
-This pattern can be used for Salesforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do, is to create the listener who will grab all of the updates, and store them into your target database.
+This pattern can be used for Salesforce objects via Heroku Connect, or any table that you have on Heroku Postgres. As you can see, it is super easy to set up - the only coding you have to do is to create the listener who will grab all of the updates, and store them into your target database.
 
 This is really the power of the Heroku Platform - using it's tools to reduce the amount of work needed to be done to accomplish powerful things, in data as well as in traditional apps.
