@@ -20,10 +20,10 @@ I currently use the following gear for my standing desk:
 * **[Razer Kyo Pro]( https://www.razer.com/streaming-cameras/razer-kiyo-pro/RZ19-03640100-R3U1 -)** camera - not the best in the world, but not super expensive and reasonable quality. Hit and miss with Mac - sometimes the camera needs a hard reboot to work.
 * **[Rain Design M laptop stand](https://www.raindesigninc.com/mstand.html)** - I’ve had this stand for going on 15 years. It’s a tank.
 * **Dell 4K UHD 2160p Monitor** (U3219Q):  Looks like it EOL’d but a solid USB-C driven monitor. My only complaint is that it does not have enough ports.
-* **[Elgato Key Light](: https://www.elgato.com/en/key-light)**: Two (one on each side) would be better, but I have a window in front of me, and Seattle willing sometimes I get natural light ;D
+* **[Elgato Key Light](: https://www.elgato.com/en/key-light)**: Two (one on each side) would be better, but I have a window in front of me, and Seattle willing sometimes I get natural light.
 * **[Blue Yeti Mic](https://www.bluemic.com/en-us/products/yeti)**: Good solid microphone.
 * **[Rode PSA1 Boom](https://www.rode.com/accessories/stands/psa1)**: I played around with a few, and landed on this one. It's worked for going on 3 years.
-* **Blue Yeti Shockmount** - EOL’d but they have a newer one called a Radius III at https://www.bluemic.com/en-us/accessories/. 
+* **Blue Yeti Shockmount** - EOL’d but they have a newer one called a [Radius III](https://www.bluemic.com/en-us/accessories/). 
 * **Sony MDR7506** Wired Headphones. I have a extension cable running from my mic around to the underside of my desk, and then the headphones plug into that, to keep my desk fairly cable free.
 * **VocalBeat Foam Windscreen for Blue Yeti** - the best $15 I have ever spent on my desk AV set up.
 * **[Caldigit Element USB4 Hub](https://www.caldigit.com/thunderbolt-4-element-hub/ )**: I just upgraded my hub, and now when I switch computers, it's one USB-C cable for everything.
