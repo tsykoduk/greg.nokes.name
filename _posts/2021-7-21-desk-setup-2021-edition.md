@@ -28,4 +28,4 @@ I currently use the following gear for my standing desk:
 * **VocalBeat Foam Windscreen for Blue Yeti** - the best $15 I have ever spent on my desk AV set up.
 * **[Caldigit Element USB4 Hub](https://www.caldigit.com/thunderbolt-4-element-hub/ )**: I just upgraded my hub, and now when I switch computers, it's one USB-C cable for everything.
 
-I run my keyboard and trackpad in wired mode, to make swapping computers easier, and to just never have to worry about charging them.
+I run my keyboard and trackpad in wired mode to make swapping computers easier, and to just never have to worry about charging them.
