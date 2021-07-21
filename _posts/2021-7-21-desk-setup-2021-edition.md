@@ -1,11 +1,11 @@
 ---
 id: 16200
 title: Desk Setup, 2021 Edition
-date: 2021-07-23
+date: 2021-07-21
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16200
-permalink: /2021/07/23/desk-setup-2021-edition/
+permalink: /2021/07/21/desk-setup-2021-edition/
 categories:
  - Computers! and Code!
 ---
