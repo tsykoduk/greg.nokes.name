@@ -9,8 +9,11 @@ permalink: /2021/07/21/desk-setup-2021-edition/
 categories:
  - Computers! and Code!
 ---
+I often get asked about my desk setup. I've put a lot of research and thought into my setup, but each desk is personal, and should be modified to fit your space. 
 
-![Desk](../wp-content/uploads/2021/07/IMG_0105.jpeg)]
+For example, I have a window in front of my desk, so I only run one light panel, because of the window. That being said, the gear that I have picked out is pretty solid, and has for the most part withstood the test of working at home 100% over the last year and a half.
+
+![Desk](../wp-content/uploads/2021/07/IMG_0105.jpeg)
 
 I currently use the following gear for my standing desk:
 
@@ -23,6 +26,6 @@ I currently use the following gear for my standing desk:
 * **Blue Yeti Shockmount** - EOL’d but they have a newer one called a Radius III: https://www.bluemic.com/en-us/accessories/ 
 * **Sony MDR7506** Wired Headphones. I have a extension cable running from my mic around to the underside of my desk, and then the headphones plug into that, to keep my desk fairly cable free.
 * **VocalBeat Foam Windscreen for Blue Yeti** - the best $15 I have ever spent on my desk AV set up.
-* **Caldigit Element USB4 Hub** - https://www.caldigit.com/thunderbolt-4-element-hub/
+* **Caldigit Element USB4 Hub** - https://www.caldigit.com/thunderbolt-4-element-hub/ 
 
 
