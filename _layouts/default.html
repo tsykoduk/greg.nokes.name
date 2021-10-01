@@ -5,9 +5,6 @@
   </head>
   <body>
     <main class="container">
-        <section class="content">
-          {{ content }}
-        </section>
       <section class="about">
         <a href="/"><img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}"></a>
         <h2 id="title">
@@ -66,5 +63,8 @@
 	<!-- Fathom - beautiful, simple website analytics -->
 		<script src="https://cdn.usefathom.com/script.js" site="NFNFICZS" defer></script>
 	<!-- / Fathom -->
+    <section class="content">
+      {{ content }}
+    </section>
   </body>
 </html>
