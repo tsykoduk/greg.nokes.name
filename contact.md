@@ -1,12 +1,12 @@
 ---
 
-id: 14939
+id: 1000000
 
-title: About
+title: Contact
 
-date: 2009-06-19T20:36:31+00:00
+date: 2021-10-1T20:36:31+00:00
 
-author: tsykoduk
+author: Greg Nokes
 
 layout: page
 
@@ -14,11 +14,9 @@ guid: http://nwgamers.org/greg/?page_id=2
 
 ---
 
-<meta http-equiv="Refresh" content="0; url='https://www.linkedin.com/in/gregnokes/'" />
-
-<!-- People ask me why I keep this site up and running - and have for so long. I don’t think it’s about ego - it’s more like a snapshot of who I am each time I sit down to write. Everything changes, all the time. We die each second, and are reborn as someone new. The ability to look backwards, and see who I was a week, a month or a year ago is an interesting exercise in self examination.
+People ask me why I keep this site up and running - and have for so long. I don’t think it’s about ego - it’s more like a snapshot of who I am each time I sit down to write. Everything changes, all the time. We die each second, and are reborn as someone new. The ability to look backwards, and see who I was a week, a month or a year ago is an interesting exercise in self examination.
 
 And, I look back at the people all over the world whose lives have touched mine, and I am truly thankful to be living in a time of such ubiquitous communication. Democracy, peace and freedom are fostered by discourse. As long as we keep talking, everything will turn out ok…  
 
-You can check out "about me" on <a href="http://www.linkedin.com/in/gregnokes/">LinkedIn</a>, and my <a href="https://twitter.com/tsykoduk">tweets</a>. -->
+You can check out "about me" on <a href="http://www.linkedin.com/in/gregnokes/">LinkedIn</a>, and my <a href="https://twitter.com/tsykoduk">tweets</a>.
 
