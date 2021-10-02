@@ -18,11 +18,13 @@ People ask me why I keep this site up and running - and have for so long. I donâ
 
 And, I look back at the people all over the world whose lives have touched mine, and I am truly thankful to be living in a time of such ubiquitous communication. Democracy, peace and freedom are fostered by discourse. As long as we keep talking, everything will turn out okâ€¦  
 
-<h2><a id="contact">Contact Info:</a></h2>
+<a id="contact"><h1 id="posts-label">Contact</h1></a>
 
-<a href="http://www.linkedin.com/in/gregnokes/">LinkedIn</a>
-<a href="https://twitter.com/tsykoduk">Tweets</a>
-<a href="https://github.com/tsykoduk">GitHub</a>
+<ul>
+	<li><a href="http://www.linkedin.com/in/gregnokes/">LinkedIn</a></li>
+	<li><a href="https://twitter.com/tsykoduk">Tweets</a></li>
+	<li><a href="https://github.com/tsykoduk">GitHub</a></li>
+</ul>
 
 
 
