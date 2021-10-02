@@ -8,7 +8,7 @@ date: 2021-10-1T20:36:31+00:00
 
 author: Greg Nokes
 
-layout: page
+layout: post
 
 guid: http://greg.nokes.name/contact.html
 
@@ -22,7 +22,7 @@ And, I look back at the people all over the world whose lives have touched mine,
 </div>
 
 <a class="post-link" id="contact">
-    <h2 class="post-title">Cpntact Me</h2>
+    <h2 class="post-title">Contact Me</h2>
 </a>
   
 <ul>
