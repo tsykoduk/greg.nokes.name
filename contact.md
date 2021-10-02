@@ -14,12 +14,10 @@ guid: http://greg.nokes.name/contact.html
 
 ---
 
-<div class="post-container">
-<div class="post">
-People ask me why I keep this site up and running - and have for so long. I don’t think it’s about ego - it’s more like a snapshot of who I am each time I sit down to write. Everything changes, all the time. We die each second, and are reborn as someone new. The ability to look backwards, and see who I was a week, a month or a year ago is an interesting exercise in self examination.
+<!-- People ask me why I keep this site up and running - and have for so long. I don’t think it’s about ego - it’s more like a snapshot of who I am each time I sit down to write. Everything changes, all the time. We die each second, and are reborn as someone new. The ability to look backwards, and see who I was a week, a month or a year ago is an interesting exercise in self examination.
 
-And, I look back at the people all over the world whose lives have touched mine, and I am truly thankful to be living in a time of such ubiquitous communication. Democracy, peace and freedom are fostered by discourse. As long as we keep talking, everything will turn out ok…
-</div>
+And, I look back at the people all over the world whose lives have touched mine, and I am truly thankful to be living in a time of such ubiquitous communication. Democracy, peace and freedom are fostered by discourse. As long as we keep talking, everything will turn out ok… -->
+
 
 <a id="contact">
     <p>Contact Me</p>
@@ -27,8 +25,7 @@ And, I look back at the people all over the world whose lives have touched mine,
   
 <ul>
 	<li><a class="post-link" href="http://www.linkedin.com/in/gregnokes/">LinkedIn</a></li>
-	<li><a class="post-link" href="https://twitter.com/tsykoduk">Tweets</a></li>
-	<li><a class="post-link" href="https://github.com/tsykoduk">GitHub</a></li>
+	<li><a class="post-link" href="https://twitter.com/tsykoduk">Twitter</a></li>
 </ul>
 </div>
 
