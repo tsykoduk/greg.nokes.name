@@ -18,7 +18,7 @@ I literally mean I try to not use the word "no" when dealing with people.
 
 That's a pretty strong statement. How does that work?
 
-Well, if someone comes to me and makes a request that I cannot fulfill, I try and give them a redirect to something or someone who can help them. Failing that, I ask if we can revisit it at a later date when I have the time. If it's totally outside of the realm of possiblity I will point that out.
+Well, if someone comes to me and makes a request that I cannot fulfill, I try and give them a redirect to something or someone who can help them. Failing that, I ask if we can revisit it at a later date when I have the time. If it's totally outside of the realm of possibility I will point that out.
 
 This does burn more time for me then a simple "no" however it can have long reaching implications. First off when one takes this approach they are seen as a "team player". People will come more often because you can help them, even by simple showing them the tool that they need to use or introducing them to the folks that can help.
 
