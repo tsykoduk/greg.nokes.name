@@ -2,15 +2,15 @@
 
 id: 1000000
 
-title: Contact
+title: Status
 
 date: 2021-10-1T20:36:31+00:00
 
 author: Greg Nokes
 
-layout: contact
+layout: status
 
-guid: http://greg.nokes.name/contact.html
+guid: http://greg.nokes.name/status.html
 
 ---
 
