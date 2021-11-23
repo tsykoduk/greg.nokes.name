@@ -17,7 +17,7 @@ git checkout main
 git pull origin main
 #do the work
 brew upgrade
-gem update --system
+gem update --system -N
 heroku update
 sfdx update
 bundle update
