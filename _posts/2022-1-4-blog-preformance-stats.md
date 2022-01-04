@@ -103,4 +103,17 @@ Percentage of the requests served within a certain time (ms)
  100%  10199 (longest request)
 ```
 
+|Perc|Old Speed|New Speed|% Improvment|
+|---|---|---|---|
+| 50% | 5290| 657 | 88% |
+| 66% | 5383 | 713 | 87% |
+| 75% | 5446 | 928 | 83% |
+| 80% | 5571 | 943 | 83% |
+| 90% | 6174 | 963 | 84% |
+| 95% | 6718 | 980 | 85% |
+| 98% | 9109 | 998 | 89% |
+| 99% | 9109 | 1021 | 90% |
+|100% | 9109 | 10199 | 26% |
+| Average| | | 74%|
+
 So, it appears that I am seeing between a 3 and 10x improvment in preformace, with nothing really done on my side. I'll attrubute it to [Faster Dynos for All](https://blog.heroku.com/faster-dynos-for-all).
