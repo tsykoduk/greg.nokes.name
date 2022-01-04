@@ -120,4 +120,6 @@ Percentage of the requests served within a certain time (ms)
 | Slowest | 9109 | 10199 | 26% |
 | Average | 7482 | 1934 | 74% |
 
-So, it appears that I am seeing big improvment in performance, with nothing really done on my side. I'll attribute it to [Faster Dynos for All](https://blog.heroku.com/faster-dynos-for-all).
+So, it appears that I am seeing a big improvement in performance, with no real changes on my side. 
+
+I'll attribute it to [Faster Dynos for All](https://blog.heroku.com/faster-dynos-for-all).
