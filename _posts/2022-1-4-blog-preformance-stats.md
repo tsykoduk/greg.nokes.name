@@ -101,10 +101,10 @@ Percentage of the requests served within a certain time (ms)
   98%    998
   99%   1021
  100%  10199 (longest request)
-```
+````
 
 |  Perc. |  Old Speed |  New Speed  |  Improvment |
-| :---: | :---: | :---: | :---: |
+|    :---:    |    :---:    |    :---:    |    :---:    |
 | 50% | 5290| 657 | 88% |
 | 66% | 5383 | 713 | 87% |
 | 75% | 5446 | 928 | 83% |
