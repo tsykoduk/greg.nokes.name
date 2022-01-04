@@ -118,7 +118,7 @@ Percentage of the requests served within a certain time (ms)
 | 98% | 9109 | 998 | 89% |
 | 99% | 9852 | 1021 | 90% |
 | Slowest | 13795 | 10199 | 26% |
-| Average | 7482 | 1934 | 74% |
+| Mean | 7482 | 1934 | 74% |
 
 So, it appears that I am seeing a big improvement in performance, with no real changes on my side. 
 
