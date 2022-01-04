@@ -17,7 +17,7 @@ For example, I have a window in front of my desk, so I only run one light panel,
 
 I currently use the following gear for my standing desk:
 
-* **[Razer Kyo Pro]( https://www.razer.com/streaming-cameras/razer-kiyo-pro/RZ19-03640100-R3U1 -)** camera - not the best in the world, but not super expensive and reasonable quality. Hit and miss with Mac - sometimes the camera needs a hard reboot to work.
+* **[Razer Kyo Pro]( https://www.razer.com/streaming-cameras/razer-kiyo-pro/RZ19-03640100-R3U1 -)** camera - not the best in the world, but not super expensive and reasonable quality. Hit and miss with Mac - sometimes the camera needs a hard reboot to work. -- UPDATE - after upgrading to MacOS 12, the camera has seemed to stablize. Also, protip - do not install Razer's software.
 * **[Rain Design M laptop stand](https://www.raindesigninc.com/mstand.html)** - I’ve had this stand for going on 15 years. It’s a tank.
 * **Dell 4K UHD 2160p Monitor** (U3219Q):  Looks like it EOL’d but a solid USB-C driven monitor. My only complaint is that it does not have enough ports.
 * **[Elgato Key Light](: https://www.elgato.com/en/key-light)**: Two (one on each side) would be better, but I have a window in front of me, and Seattle willing sometimes I get natural light.

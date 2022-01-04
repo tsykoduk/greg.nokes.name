@@ -1,11 +1,11 @@
 ---
 id: 16300
 title: Blog Preformance 2020 edition
-date: 2021-01-05
+date: 2021-01-04
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16300
-permalink: /2022/01/05/blog-preformance-stats/
+permalink: /2022/01/04/blog-preformance-stats/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
