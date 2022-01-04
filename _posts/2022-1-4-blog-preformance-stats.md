@@ -1,11 +1,11 @@
 ---
 id: 16300
-title: Blog Preformance 2022 edition
+title: Blog Performance 2022 edition
 date: 2022-01-04
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16300
-permalink: /2022/01/04/blog-preformance-stats/
+permalink: /2022/01/04/blog-performance-stats/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
@@ -116,4 +116,4 @@ Percentage of the requests served within a certain time (ms)
 |100% | 9109 | 10199 | 26% |
 | Average | 7482 | 1934 | 74% |
 
-So, it appears that I am seeing big improvment in preformace, with nothing really done on my side. I'll attribute it to [Faster Dynos for All](https://blog.heroku.com/faster-dynos-for-all).
+So, it appears that I am seeing big improvment in performance, with nothing really done on my side. I'll attribute it to [Faster Dynos for All](https://blog.heroku.com/faster-dynos-for-all).
