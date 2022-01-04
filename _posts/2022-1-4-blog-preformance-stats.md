@@ -61,7 +61,7 @@ Percentage of the requests served within a certain time (ms)
  100%   9456 (longest request)
 ```
 
-I then  decided to turn it up to 11, and ran with a concurrency of 100. The max CPU load jumped up above five, and the RAM jumped by about 200m. Still not a bad showing. 18 rps is not bad for a single, small container.
+I then  decided to turn it up to 11, and ran with a concurrency of 100. The max CPU load jumped up above five, and the RAM jumped by about 200m. Still not a bad showing. 132 rps is really good for a single, small container.
 
 ```shell
 Server Software:        nginx
