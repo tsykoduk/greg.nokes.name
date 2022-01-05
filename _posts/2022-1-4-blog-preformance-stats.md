@@ -17,7 +17,7 @@ It's running on a single Heroku Hobby Dyno, with 512m of RAM. It's running nginx
 
 **Testing**
 
-I ran AB with a concurrency of 20 on it, and it handled it very well. There was no appreciable CPU load generated during the test. Average RAM jumped by about 100m during the test, and started to back off afterwards.
+I ran AB with a concurrency of 20 on it, and it handled it very well. 
 
 ```
 Server Software:        nginx
@@ -61,7 +61,7 @@ Percentage of the requests served within a certain time (ms)
  100%   9456 (longest request)
 ```
 
-I then  decided to turn it up to 11, and ran with a concurrency of 100. The max CPU load jumped up above five, and the RAM jumped by about 200m. Still not a bad showing. 132 rps is really good for a single, small container.
+I then  decided to turn it up to 11, and ran with a concurrency of 100. Not a bad showing, 132 rps is really good for a single, small container.
 
 ```
 Server Software:        nginx
