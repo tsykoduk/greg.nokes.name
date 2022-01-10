@@ -107,7 +107,7 @@ Percentage of the requests served within a certain time (ms)
 
 **Results**
 
-| &nbsp; &nbsp; &nbsp;Perc &nbsp; &nbsp; &nbsp; |   &nbsp; &nbsp; &nbsp;Old Speed  &nbsp; &nbsp; &nbsp;|   &nbsp; &nbsp; &nbsp;New Speed &nbsp; &nbsp; &nbsp;  |   &nbsp; &nbsp; &nbsp;Improvement &nbsp; &nbsp; &nbsp; |
+| &nbsp; &nbsp; &nbsp; Perc &nbsp; &nbsp; &nbsp; |   &nbsp; &nbsp; &nbsp; Old Speed  &nbsp; &nbsp; &nbsp;|   &nbsp; &nbsp; &nbsp; New Speed &nbsp; &nbsp; &nbsp;  |   &nbsp; &nbsp; &nbsp; Improvement &nbsp; &nbsp; &nbsp; |
 |    :---:    |    :---:    |    :---:    |    :---:    |
 | 50% | 5290| 657 | 88% |
 | 66% | 5383 | 713 | 87% |
