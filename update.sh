@@ -25,7 +25,14 @@ git status
 git add .
 git commit -m "updating gems and stuff"
 git commit --allow-empty -m "Trigger rebuild" 
+
+for fn in `git remote`; do
+	echo "processing remote $fn now"
+    git push $fn main
+done
+
 git push origin main
+
 #switch back to my working branch
 git checkout $myvar
 #restore the working state
