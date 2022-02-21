@@ -27,7 +27,7 @@ git commit -m "updating gems and stuff"
 git commit --allow-empty -m "Trigger rebuild" 
 
 for fn in `git remote`; do
-	echo -e "\n \033[34m processing remote $fn now \033[0;39m\n\n"
+	echo -e "\033[34m processing remote $fn now \033[0;39m\n"
     git push $fn main
 done
 
