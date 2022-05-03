@@ -19,6 +19,7 @@ git pull origin main
 #do the work
 if command -v brew &> /dev/null
 then
+  echo -e "\033[34m running brew upgrade  \033[0;39m\n"
   brew upgrade
 else
   echo -e "\033[34m Brew not installed  \033[0;39m\n"
@@ -26,6 +27,7 @@ fi
 
 if command -v heroku &> /dev/null
 then
+  echo -e "\033[34m running heroku update  \033[0;39m\n"
   heroku update
 else
   echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
@@ -33,6 +35,7 @@ fi
 
 if command -v sfdx &> /dev/null
 then
+  echo -e "\033[34m running sfdx update  \033[0;39m\n"
   sfdx update
 else
   echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
