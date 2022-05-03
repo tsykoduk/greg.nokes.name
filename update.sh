@@ -15,11 +15,31 @@ git stash
 #Switch to master
 git checkout main
 git pull origin main
+
 #do the work
-brew upgrade
+if command -v brew &> /dev/null
+then
+  brew upgrade
+else
+  echo -e "\033[34m Brew not installed  \033[0;39m\n"
+fi
+
+if command -v heroku &> /dev/null
+then
+  heroku update
+else
+  echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
+fi
+
+if command -v sfdx &> /dev/null
+then
+  sfdx update
+else
+  echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
+fi
+
 gem update --system -N
-heroku update
-sfdx update
+
 bundle update
 git status
 git add .
@@ -39,4 +59,10 @@ git checkout $myvar
 git stash pop
 
 #watch heroku rebuild the app
-heroku logs -t -a mysterious-depths-92606
+
+if command -v heroku &> /dev/null
+then
+  heroku logs -t -a mysterious-depths-92606
+else
+  echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
+fi
