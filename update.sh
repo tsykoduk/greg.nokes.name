@@ -52,7 +52,8 @@ for fn in `git remote`; do
     git push $fn main
 done
 
-git push origin main
+#why push to origin twice??
+# git push origin main
 
 #switch back to my working branch
 git checkout $myvar
