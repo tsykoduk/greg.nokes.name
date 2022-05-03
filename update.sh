@@ -38,7 +38,8 @@ else
   echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
 fi
 
-gem update --system -N
+# Do we really need this?
+# gem update --system -N
 
 bundle update
 git status
