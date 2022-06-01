@@ -1,7 +1,7 @@
 ---
 id: 16500
 title: Reflections on a Decade at Heroku
-date: 2022-06-18
+date: 2022-06-01
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16500
@@ -29,5 +29,7 @@ After 8 years however, I started to doubt the mission, and did not feel like I w
 
 I ended up spending time at places like Engine Yard, Point Inside, and Bluebox Group. These were early cloud based companies - either providers like EY and BBG or consumers like Point Inside. I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background.
 
-All of that lead to me standing outside Heroku's door on that early SF morning, wondering if I had made the right choice.
+All of that lead to me standing outside Heroku's door on that early SF morning, wondering if I had made the right choice. Little did I know how much I would learn over the next decade.
+
+
 
