@@ -21,6 +21,8 @@ So I went and got some really bad coffee at the [DNA Lounge](https://www.dnaloun
 
 <!--more-->
 
+####Before Heroku
+
 I got my start in technology far before it was "tech". My first exposure was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
 
 In the 90's I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet _and_ ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served 1,000's of users with file and print services. I was firmly grounded as a BOFH.
@@ -33,6 +35,8 @@ I ended up spending time at places like Engine Yard, Point Inside, and Bluebox G
 
 These were also early cloud based companies - either providers like EY and BBG or consumers like Point Inside. As I started to work with newer technologies like AWS I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background. The ability to get a box provisioned in a few moments, rather then a few weeks was a real game changer.
 
+####First Tour
+
 All of that lead to me standing outside Heroku's door on that early SF morning, wondering if I had made the right choice. Little did I know how much I would learn over the next decade.
 
 My first job was to work with Heroku's largest customers at the time. I helped them with things like superbowl ad landing pages, architecture advice, launch planning and support escalation. I also carried their concerns and desires for the platform to the team. I got to help with some really cool projects. Things like Zero Downtime Deploys, PHP support, and larger dynos.
@@ -44,6 +48,8 @@ This was the team that turned into the CSA team. As we kept on going, we hired a
 Early Heroku was a special place. I always felt like I was surrounded by some of the smartest people that I had ever met. I even got to meet Matz! We were tackling some of the hardest problems at the time and everyone deeply cared about our customers.
 
 We were pushing the boundaries of scale, design and inventing new things every day it seemed.
+
+####The Height of Heroku's Power
 
 After a year and a half, I took a six month break, and came back as the first Solutions architect. Heroku had grown to much to have the CSA team act as SE's, so we founded HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for 6 years. Over the years, I matriculated from a Lead Solutions Architect to a Distinguished Technical Architect. 
 
@@ -74,6 +80,16 @@ I was able to spearhead creation of the [Heroku Architect Exam](https://trailhea
 
 A friend has said that this was "the Hight of Heroku's Power" and I agree. We delivered [private spaces](https://www.heroku.com/private-spaces) and [fully managed HIPAA and PCI lvl 1 hosting environments](https://www.heroku.com/shield). [Heroku Connect](https://www.heroku.com/connect) powers billions and billions of rows of sync between Core Salesforce and Heroku.
 
-We were customer obsessed and preaching [12 Factor](https://12factor.net) everywhere. Heroku truly changed the world for development.
+We were customer obsessed and preaching [12 Factor](https://12factor.net) everywhere. We were helping people build the next generation of apps and ideas. We truly believed that democratization of infrastructure was important. Giving everyone the power to develop something and host it safely and scalably lowered the bar and allowed a entire new crop of startups and companies.
 
-Someone told me that this was the "good old days", and looking back they really were. However I feel like you can have many "good old days".
+####I Want to live in a city of the elves
+
+As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over.
+
+
+
+Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life.
+
+I learned to love great coffee and pour overs rather then Espresso at Heroku. I learned how good a well made Sazerac can be. I was able to focus on important family transitions when I needed to step away.
+
+Someone told me that this was the "good old days", and looking back they really were. However I feel like you can have many "good old days". While I am taking another break from Heroku, I know that there are more good old days on the horizon.
