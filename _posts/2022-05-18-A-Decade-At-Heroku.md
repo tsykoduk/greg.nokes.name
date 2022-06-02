@@ -11,7 +11,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-<img src="/wp-content/uploads/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched" style="float: left; padding: 0 20px 20px 0;"> 
+<img src="/wp-content/uploads/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched" style="float: left; padding: 0 10px 10px 0;"> 
 
 At about 7:45am March 26th 2011, I walked up to the doors at Heroku for the first time. I was early because that's what you did where I came from.
 
