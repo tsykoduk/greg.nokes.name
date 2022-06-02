@@ -21,11 +21,11 @@ So I went and got some really bad coffee at the [DNA Lounge](https://www.dnaloun
 
 <h3>Before Heroku</h3>
 
-I got my start in technology far before it was "tech". My first experince was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
+I got my start in technology far before it was "tech". My first experience was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
 
 In the 90's I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served 1,000's of users with file and print services. I was firmly grounded as a BOFH. I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
 
-One of the things that I have always wanted is to have greater impact. Looking to work on bigger things, I ended up getting hired as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there and and then the US Department of Homeland Security, building data centers and coding network montoring tools, migration tools and applications.
+One of the things that I have always wanted is to have greater impact. Looking to work on bigger things, I ended up getting hired as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there and and then the US Department of Homeland Security, building data centers and coding network monitoring tools, migration tools and applications.
 
 After 8 years however, I started to doubt the mission, and did not feel like I was able to actually have any impact beyond keeping things running. So I started to look outside of government service, and back towards working in the "real world". I also wanted to get out of the hands on keyboard work, and start to see if I could increase my impact.
 
@@ -51,13 +51,13 @@ We were pushing the boundaries of scale, design and inventing new things every d
 
 <h3>The Height of Heroku's Power</h3>
 
-After a year and a half, I took a six month break, and came back as the first Solutions architect. Heroku had grown to much to have the CSA team act as SE's, so we founded HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for 6 years. Over the years, I matriculated from a Lead Solutions Architect to a Distinguished Technical Architect. 
+After a year and a half, I took a six month break, and came back as the first Solutions Architect. Heroku had grown to much to have the CSA team act as SE's, so we founded HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for the next 6 years. Over the years, I matriculated from a Lead Solutions Architect to a Distinguished Technical Architect. 
 
 We still worked closely with the CSA team, to replicate that single thread. I was happy to work closely with my old team, and get to see customers that we had onboarded grow and prosper.
 
-*Knowledge, Truth and Wisdom* were my internal mantra. Steering customers away bad choices, and insuring that they were set up to be successful on the platform was my primary goal. We would rather tell someone to go to AWS then have them buy Heroku and find out that it would not work with their use case.
+*Knowledge, Truth and Wisdom* were my internal mantra. Steering customers away from bad choices, and insuring that they were set up to be successful on the platform was my primary goal. We would rather tell someone to go to AWS then have them buy Heroku and find out that it would not work with their use case.
 
-We structured the team a little different then I have seen in the past. The team was compensated on how the entire business did, not on deals that the individual worked on. This fostered a truly collaborative environment. I treasured the esprit d'corps that this environment fostered. In the first year, I told my boss that I would probably get bored and start looking in 2 years. Well, 6 years later I was still happily training folks, talking to customers and building.
+We structured the team a little different then I have seen in the past. The team was compensated on how the entire business did, not on deals that the individual worked on. This fostered a truly collaborative environment. I treasured the esprit d'corps that this environment fostered. In the first year, I told my boss that I would probably get bored and start looking for something else in 2 years. Well, 6 years later I was still happily training folks, talking to customers and creating education and demos.
 
 I learned so much during this time. Things like
 
@@ -88,17 +88,17 @@ As the team was moving on to diffrent parts of Salesforce, I decided it was time
 
 Over the past year and a half I have learned a ton about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I also had to dust off some of my Agile skills. I had to learn a bevy of new TLA's - things like PRD and OKR. I have really enjoyed being able to set time aside to focus on writing.
 
-I have really liked working with the engineering teams behind these products, and I can say that they are some of smartest and most empathic humans I have ever worked with.
+I have really liked working with the engineering teams behind these products, and I can say that they are some of smartest and most empathic humans I have ever worked with. Every day, they work at a scale that boggles the mind. Even with the pressures and scale, they still keep the customer at the forefront.
 
 <!--TODO Decide on this: 
 
-There has been a lot of hot takes, including my [favorite, error ridden article](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html). I have enjoyed reading these looks from the outside in.
+There has been a lot of hot takes, including my [favorite, error ridden article](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html). I have enjoyed reading these looks from the outside in, and chuckling at what they get wrong and what they get right.
 
- -->
+-->
 
 <h3>What's next?</h3>
 
-Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life.
+Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life. I have made life long friends during my time at Heroku.
 
 I learned to love great coffee and pour overs rather then Espresso at Heroku. I learned how good a well made Sazerac can be. I was able to focus on important family transitions when I needed to step away.
 
