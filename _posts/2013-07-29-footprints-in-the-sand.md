@@ -29,6 +29,6 @@ times of greatest trouble. So I asked the Goddess,
 She replied, "I never left you. Those were the times we both
 
 hopped on one foot."
-And I was really embarassed for bothering Her with such a stupid
+And I was really embarrassed for bothering Her with such a stupid
 
 question.
