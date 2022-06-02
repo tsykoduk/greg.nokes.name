@@ -86,8 +86,11 @@ We were customer obsessed and preaching [12 Factor](https://12factor.net) everyw
 
 ####I Want to live in a city of the elves
 
-As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over. I was honored to be chosen to take over Heroku Data and Heroku Connect as product manager.
+As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to product folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over. I was honored to be chosen to take over Heroku Data and Heroku Connect as Product Manager. 
 
+Over the past year and a half I have learned a ton about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I also had to dust off some of my Agile skills.
+
+I have really enjoyed working with the engineering teams behind these products, and I can say that they are some of smartest and most empathic humans I have ever worked with.
 
 ####What's next?
 
