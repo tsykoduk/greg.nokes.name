@@ -60,17 +60,19 @@
 		  <!-- <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> -->
       </section>
       <section class="content">
-        {{ content }}	
+        {{ content }}
+			
 		{% if paginator.total_pages > 1 %}
-		<ul>
+		<p>
 		  {% if paginator.previous_page %}
 		    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
 		  {% endif %}
 		  {% if paginator.next_page %}	
 		   ... <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
 		  {% endif %}
-		</ul>
+		</p>
 		{% endif %}
+		
       </section>
     </main>
 	<!-- Fathom - beautiful, simple website analytics -->
