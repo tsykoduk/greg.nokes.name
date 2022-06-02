@@ -33,7 +33,9 @@ After 8 years however, I started to doubt the mission, and did not feel like I w
 
 I ended up spending time at places like Engine Yard, Point Inside, and Bluebox Group. I did things like DevOps at Point Inside, TAM at EY and SE at BBG. A pretty big change from sitting in data centers poking at servers!
 
-These were also early cloud based companies - either providers like EY and BBG or consumers like Point Inside. As I started to work with newer technologies like AWS I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background. The ability to get a box provisioned in a few moments, rather then a few weeks was a real game changer.
+These were also early cloud based companies - either providers like EY and BBG or consumers like Point Inside. As I started to work with newer technologies like AWS I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background. The ability to get a box provisioned in a few moments, rather then a few weeks to get one shipped to me was a real game changer.
+
+But building on AWS was hard. Not quite as hard as building a datacenter, and a lot quicker however it still took time, focus and a team to run the infrastructure.
 
 ####First Tour
 
@@ -84,9 +86,10 @@ We were customer obsessed and preaching [12 Factor](https://12factor.net) everyw
 
 ####I Want to live in a city of the elves
 
-As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over.
+As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over. I was honored to be chosen to take over Heroku Data and Heroku Connect as product manager.
 
 
+####What's next?
 
 Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life.
 
