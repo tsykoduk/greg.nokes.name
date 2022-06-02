@@ -21,7 +21,7 @@ So I went and got some really bad coffee at the [DNA Lounge](https://www.dnaloun
 
 <!--more-->
 
-####Before Heroku####
+<h3>Before Heroku</h3>
 
 I got my start in technology far before it was "tech". My first exposure was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
 
@@ -37,7 +37,7 @@ These were also early cloud based companies - either providers like EY and BBG o
 
 But building on AWS was hard. Not quite as hard as building a datacenter, and a lot quicker however it still took time, focus and a team to run the infrastructure.
 
-####First Tour####
+<h3>First Tour</h3>
 
 All of that lead to me standing outside Heroku's door on that early SF morning, wondering if I had made the right choice. Little did I know how much I would learn over the next decade.
 
@@ -51,7 +51,7 @@ Early Heroku was a special place. I always felt like I was surrounded by some of
 
 We were pushing the boundaries of scale, design and inventing new things every day it seemed.
 
-####The Height of Heroku's Power####
+<h3>The Height of Heroku's Power</h3>
 
 After a year and a half, I took a six month break, and came back as the first Solutions architect. Heroku had grown to much to have the CSA team act as SE's, so we founded HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for 6 years. Over the years, I matriculated from a Lead Solutions Architect to a Distinguished Technical Architect. 
 
@@ -84,7 +84,7 @@ A friend has said that this was "the Hight of Heroku's Power" and I agree. We de
 
 We were customer obsessed and preaching [12 Factor](https://12factor.net) everywhere. We were helping people build the next generation of apps and ideas. We truly believed that democratization of infrastructure was important. Giving everyone the power to develop something and host it safely and scalably lowered the bar and allowed a entire new crop of startups and companies.
 
-####I Want to live in a city of the elves####
+<h3>I Want to live in a city of the elves</h3>
 
 As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to product folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over. I was honored to be chosen to take over Heroku Data and Heroku Connect as Product Manager. 
 
@@ -92,7 +92,7 @@ Over the past year and a half I have learned a ton about being a Product Manager
 
 I have really enjoyed working with the engineering teams behind these products, and I can say that they are some of smartest and most empathic humans I have ever worked with.
 
-####What's next?####
+<h3>What's next?</h3>
 
 Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life.
 
