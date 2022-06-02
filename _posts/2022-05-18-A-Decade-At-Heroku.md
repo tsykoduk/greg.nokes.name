@@ -11,9 +11,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-<img src="/wp-content/uploads/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched" style="float: left; padding: 0 10px 10px 0;"> 
-
-At about 7:45am March 26th 2011, I walked up to the doors at Heroku for the first time. I was early because that's what you did where I came from.
+<img src="/wp-content/uploads/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched" style="float: left; padding: 0 10px 10px 0;"> At about 7:45am March 26th 2011, I walked up to the doors at Heroku for the first time. I was early because that's what you did where I came from.
 
 The doors were locked. No one responded to the buzzer.
 
@@ -23,11 +21,11 @@ So I went and got some really bad coffee at the [DNA Lounge](https://www.dnaloun
 
 <h3>Before Heroku</h3>
 
-I got my start in technology far before it was "tech". My first exposure was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
+I got my start in technology far before it was "tech". My first experince was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
 
-In the 90's I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet _and_ ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served 1,000's of users with file and print services. I was firmly grounded as a BOFH.
+In the 90's I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served 1,000's of users with file and print services. I was firmly grounded as a BOFH. I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
 
-However I saw greater potential. I ended up getting hired as a contractor to help the US Department of Justice and then the US Department of Homeland Security run their network in Washington State. I spent 8 great years there, building data centers and coding.
+One of the things that I have always wanted is to have greater impact. Looking to work on bigger things, I ended up getting hired as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there and and then the US Department of Homeland Security, building data centers and coding network montoring tools, migration tools and applications.
 
 After 8 years however, I started to doubt the mission, and did not feel like I was able to actually have any impact beyond keeping things running. So I started to look outside of government service, and back towards working in the "real world". I also wanted to get out of the hands on keyboard work, and start to see if I could increase my impact.
 
@@ -41,7 +39,7 @@ But building on AWS was hard. Not quite as hard as building a datacenter, and a 
 
 All of that lead to me standing outside Heroku's door on that early SF morning, wondering if I had made the right choice. Little did I know how much I would learn over the next decade.
 
-My first job was to work with Heroku's largest customers at the time. I helped them with things like superbowl ad landing pages, architecture advice, launch planning and support escalation. I also carried their concerns and desires for the platform to the team. I got to help with some really cool projects. Things like Zero Downtime Deploys, PHP support, and larger dynos.
+My first job was to work with Heroku's largest customers at the time. I helped them with things like superbowl ad landing pages, architecture advice, launch planning and support escalation. I also carried their concerns and desires for the platform to the team. I got to help with some really cool projects, things like Zero Downtime Deploys, PHP support, and larger dynos.
 
 The job was customer facing. I would act as a Solutions Engineer, and help folks understand the platform and how to onboard. I would then take on those accounts for their entire lifecycle. We were the single thread for a customer. 
 
@@ -88,9 +86,11 @@ We were customer obsessed and preaching [12 Factor](https://12factor.net) everyw
 
 As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to product folks at Heroku for several years about what makes a good Product Manager, so I decided to make the leap over. I was honored to be chosen to take over Heroku Data and Heroku Connect as Product Manager. 
 
-Over the past year and a half I have learned a ton about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I also had to dust off some of my Agile skills.
+Over the past year and a half I have learned a ton about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I also had to dust off some of my Agile skills. I had to learn a bevy of new TLA's - things like PRD and OKR.
 
 I have really enjoyed working with the engineering teams behind these products, and I can say that they are some of smartest and most empathic humans I have ever worked with.
+
+There has been a lot of hot takes, including my [favorite, error ridden article](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html)
 
 <h3>What's next?</h3>
 
