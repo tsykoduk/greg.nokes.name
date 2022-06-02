@@ -37,7 +37,7 @@ gem "plainwhite"
 
 #gem 'rack-ssl-enforcer'
 #gem "hyde"
-gem "jekyll-paginate"
+gem "jekyll-paginate-v2"
 gem 'kramdown'
 gem 'coderay'
 #gem 'rack-jekyll'
