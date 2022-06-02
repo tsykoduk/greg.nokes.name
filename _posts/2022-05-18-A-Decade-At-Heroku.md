@@ -92,6 +92,20 @@ Over the past year and a half I have learned a ton about being a Product Manager
 
 I have really liked working with the engineering teams behind these products, and I can say that they are some of smartest and most empathic humans I have ever worked with. Every day, they work at a scale that boggles the mind. Even with the pressures and scale, they still keep the customer at the forefront.
 
+<h3>Take Aways</h3>
+
+In past decade, I have had the chance to learn from some of the best out there. And I am taking away a few lessions:
+
+<h4>Work slow, think hard</h4>
+
+When you are developing something new, or thinking about adding a new feature to something, work slowly. Often you will find that with more time and reflection you may come up with a better way to solve the problem.
+
+<h4>Consensus does not matter as much as you think</h4>
+
+Back when I worked for DHS, I learned a phrase "shut up and color". At some point, after you have expressed your opinion, it's time to just buckle down. The view from the top of the hill may reveal things that the folks on the ground may not see. It's very important to have a space where folks can discuss and opine. In fact some of my best ideas have come from brainstorming sessions. However at some point you need to stop discussing what color to paint the bike shed, and just start to build it.
+
+
+
 <!--TODO Decide on this: 
 
 There has been a lot of hot takes, including my [favorite, error ridden article](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html). I have enjoyed reading these looks from the outside in, and chuckling at what they get wrong and what they get right.
