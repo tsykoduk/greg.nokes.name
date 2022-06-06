@@ -29,9 +29,9 @@ One of the things that I have always wanted is to have greater impact. Looking t
 
 After 8 years however, I started to doubt the mission, and did not feel like I was able to actually have any impact beyond keeping things running. So I started to look outside of government service, and back towards working in the "real world". I also wanted to get out of the hands on keyboard work, and start to see if I could increase my impact.
 
-I ended up spending time at places like Engine Yard, Point Inside, and Bluebox Group. I did things like DevOps at Point Inside, Technical Account Management at EY and Sales Engineering at BBG. A pretty big change from sitting in data centers poking at servers!
+I ended up spending time at places like Engine Yard, Point Inside, and Bluebox Group. I did things like DevOps at Point Inside, Technical Account Management at Engine Yard and Sales Engineering at Bluebox Group. A pretty big change from sitting in data centers poking at servers!
 
-These were also early cloud based companies - either providers like EY and BBG or consumers like Point Inside. As I started to work with newer technologies like AWS I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background. The ability to get a box provisioned in a few moments, rather then a few weeks to get one shipped to me was a real game changer.
+These were also early cloud based companies - either providers like Engine Yard and Bluebox Group or consumers like Point Inside. As I started to work with newer technologies like AWS I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background. The ability to get a box provisioned in a few moments, rather then a few weeks to get one shipped to me was a real game changer.
 
 But building on AWS was hard. Not quite as hard as building a datacenter. It was a lot quicker however it still took time, focus, and a team to run the infrastructure.
 
@@ -96,6 +96,8 @@ I have been truly blessed to have partnered with the engineering teams behind th
 
 Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life. I have made life long friends during my time at Heroku.
 
-I learned to love great coffee and pour overs rather then Espresso at Heroku. I learned how good a well made Sazerac can be. I was able to focus on important family transitions when I needed to step away. Someone told me that this was the "good old days", and looking back they really were. However I feel like you can have many "good old days". 
+I learned to love great coffee and pour overs rather then Espresso at Heroku. I learned how good a well made Sazerac can be. I was able to focus on important family transitions when I needed to step away. 
+
+Someone told me that this was the "good old days", and looking back they really were. However I feel like you can have many "good old days". 
 
 While I am taking another break from Heroku, I know that there are more good old days on the horizon.
