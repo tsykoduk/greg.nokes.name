@@ -34,7 +34,7 @@ plainwhite:
   tagline: |
           A wayward journey
           into the depths of sanity
-
+  dark_mode: true
  # navigation:
  #   title: About
  #   url: "/about"
