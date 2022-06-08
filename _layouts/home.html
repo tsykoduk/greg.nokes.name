@@ -33,8 +33,8 @@ layout: default
         <div class="post">
             {{ post.excerpt }}
         </div> 
-		<div style="color: #555;">
-			<a class="post-link" href="{{ post.url | relative_url }}">Read More...</a>
+		<div>
+			<a class="post-link" href="{{ post.url | relative_url }}" style="color: #555;">Read More...</a>
 		</div>
       </li>
     {%- endfor -%}
