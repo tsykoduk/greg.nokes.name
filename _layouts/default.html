@@ -22,6 +22,16 @@
 				<li>
 					<a href="/#posts">posts</a>
 				</li>
+				<li>
+						{% if paginator.total_pages > 1 %}
+						  {% if paginator.next_page %}	
+						   <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older Posts</a>
+						  {% endif %}
+						  {% if paginator.previous_page %}
+						   ... <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer Posts</a>
+						  {% endif %}
+						{% endif %}
+					</li>
               {% for link in site.plainwhite.navigation %}
                 <li>
                   <a href="{{ link.url }}">{{ link.title }}</a>
@@ -53,16 +63,6 @@
                 </li>
               </a>
             {%- endif -%}
-			<li>
-				{% if paginator.total_pages > 1 %}
-				  {% if paginator.next_page %}	
-				   <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-				  {% endif %}
-				  {% if paginator.previous_page %}
-				   ... <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-				  {% endif %}
-				{% endif %}
-			</li>
           </ul>
         <p>&copy;
           {{ "now" | date: "%Y" }} Greg Nokes</p>
