@@ -20,15 +20,15 @@
 					<a href="/about.html">about</a>
 				</li> -->
 				<li>
-					<a href="/#posts">posts</a>
+					<a href="/#posts">home</a>
 				</li>
 				<li>
 						{% if paginator.total_pages > 1 %}
 						  {% if paginator.next_page %}	
-						   <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older Posts</a>
+						   <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">older posts</a>
 						  {% endif %}
 						  {% if paginator.previous_page %}
-						   <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer Posts</a>
+						   <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">newer posts</a>
 						  {% endif %}
 						{% endif %}
 					</li>
