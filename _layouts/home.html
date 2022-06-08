@@ -32,8 +32,10 @@ layout: default
         </div>
         <div class="post">
             {{ post.excerpt }}
-        </div>
-		<a class="post-link" href="{{ post.url | relative_url }}">Read More...</a>
+        </div> 
+		<div class="post-date">
+			<a class="post-link" href="{{ post.url | relative_url }}"><i>Read More...</i></a>
+		</div>
       </li>
     {%- endfor -%}
   </ul>
