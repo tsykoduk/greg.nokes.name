@@ -1,7 +1,7 @@
 ---
 id: 16500
 title: Reflections on a Decade at Heroku
-date: 2022-06-01
+date: 2022-06-18
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16500
@@ -94,9 +94,9 @@ I have been truly blessed to have partnered with the engineering teams behind th
 
 <h3>I Want to live in a city of the elves</h3>
 
-Heroku truly changed the world for development. Heroku was magical and it and the people there impacted just about every aspect of my life. I have made life long friends during my time at Heroku.
+Heroku truly changed the world for development. Heroku is magical and it and the people around Heroku impacted just about every aspect of my life. I have made life long friends during my time at Heroku. I am still proud to call my self a Herokai.
 
-I learned to love great coffee and pour overs rather then Espresso at Heroku. I learned how good a well made Sazerac can be. I was able to focus on important family transitions when I needed to step away. 
+I learned to love great coffee and pour overs rather then Espresso at Heroku. I learned how good a well made Sazerac can be. I was able to focus on important family transitions when I needed to step away. I learned how to be a better human, father and mentor.
 
 Someone told me that this was the "good old days", and looking back they really were. However I feel like you can have many "good old days". 
 
