@@ -14,7 +14,7 @@ layout: default
       <h1 id="posts-label">posts</h1>
     </li>
 
-    {%- for post in site.posts -%}
+    {%- for post in paginator.posts -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
         <a class="post-link" href="{{ post.url | relative_url }}">
@@ -33,6 +33,7 @@ layout: default
         <div class="post">
             {{ post.excerpt }}
         </div>
+		<a class="post-link" href="{{ post.url | relative_url }}">Read More...</a>
       </li>
     {%- endfor -%}
   </ul>

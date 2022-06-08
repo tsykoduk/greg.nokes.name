@@ -2,7 +2,9 @@ source "https://rubygems.org"
 
 #Let's get in the Ruby 2.7 train
 
+
 ruby "~> 3.1.2"
+
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -37,7 +39,7 @@ gem "plainwhite"
 
 #gem 'rack-ssl-enforcer'
 #gem "hyde"
-gem "jekyll-paginate"
+gem "jekyll-paginate-v2"
 gem 'kramdown'
 gem 'coderay'
 #gem 'rack-jekyll'
