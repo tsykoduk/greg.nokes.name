@@ -63,14 +63,14 @@
         {{ content }}
 			
 		{% if paginator.total_pages > 1 %}
-		<p>
+		<div style"float: center">
 		  {% if paginator.next_page %}	
 		   <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
 		  {% endif %}
 		  {% if paginator.previous_page %}
 		   ... <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
 		  {% endif %}
-		</p>
+		</div>
 		{% endif %}
 		
       </section>
