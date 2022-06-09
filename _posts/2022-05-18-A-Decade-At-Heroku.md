@@ -21,7 +21,7 @@ So I went and got some really bad coffee at the [DNA Lounge](https://www.dnaloun
 
 <h3>Before Heroku</h3>
 
-I got my start in technology far before it was "tech". My first experience was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
+I got my start in technology far before it was "tech". My first experience was working on a [NetWare 3](https://en.wikipedia.org/wiki/NetWare) network running [ARCNet](https://en.wikipedia.org/wiki/ARCNET). Look it up, I'll wait.
 
 In the 90's as a consultant and sysadmin I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served thousands of users with file and print services. I was firmly grounded as a [BOFH](http://www.bofharchive.com). I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
 
@@ -31,7 +31,7 @@ At the end of my time there, I felt my impact had never gone beyond just keeping
 
 I subsequently spent time in roles at Engine Yard, Point Inside, and Bluebox Group. I performed roles in DevOps at Point Inside, as a Technical Account Management at Engine Yard and in Sales Engineering at Bluebox Group. All-in-all, this career phase was a pretty big change from sitting in data centers poking at servers! 
 
-These companies were also early cloud based ones – some were service providers like Engine Yard and Bluebox Group and others consumer-centric ones like Point Inside. As I started to work with newer technologies such as AWS, I really started to value “the cloud”and the agility it brought me as someone with a sysadmin background. The ability to get a box provisioned in a few moments rather than a few weeks was a real game changer.
+These companies were also early cloud based ones – some were service providers like Engine Yard and Bluebox Group and others consumer-centric ones like Point Inside. As I started to work with newer technologies such as AWS, I really started to value “the cloud” and the agility it brought me as someone with a sysadmin background. The ability to get a box provisioned in a few moments rather than a few weeks was a real game changer.
 
 But building on AWS was challenging; Not quite as hard as building a datacenter, but still 
 complicated. While it was a lot quicker, it still took time, focus and a team to run the 
@@ -39,7 +39,7 @@ infrastructure.
 
 <h3>First Tour</h3>
 
-The journey back into public sector and back out had led me to this moment...standing outside Heroku’s door on that early San Francisco morning, wondering if I had made the right choice. Little did I know how much I would learn over the next decade! 
+The journey back into public sector and back out had led me to this moment... standing outside Heroku’s door on that early San Francisco morning, wondering if I had made the right choice. Little did I know how much I would learn over the next decade! 
 
 My first assignment was to work with Heroku's largest customers at the time. I provided 
 guidance on things like Superbowl Ad landing pages, architecture, launch planning and support escalation. I also triaged their concerns and feature requests with the Platform product teams. I got to help with some really cool projects, things like Zero Downtime Deploys, PHP language support, and enabling larger dynos.
@@ -61,7 +61,7 @@ it seemed.
 
 After these early years with my nose to the grindstone, I took a short hiatus before returning as the first Solutions Architect. Heroku had grown to much to have the CSA team act as Solutions Engineers, so we founded the HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for the next 6 years.
 
-*Knowledge, Truth and Wisdom* were my internal mantra. Steering customers away from bad choices and insuring that they were set up to be successful on the platform was my primary goal. We worked closely with the CSA team, replicating that single thread. I enjoyed collaborating with my old team and seeing customers we had onboarded long ago grow and prosper. We found ourselves architectural purists...we would rather guide the customer to AWS than have them be an unhappy Heroku customer.
+*Knowledge, Truth and Wisdom* were my internal mantra. Steering customers away from bad choices and insuring that they were set up to be successful on the platform was my primary goal. We worked closely with the CSA team, replicating that single thread. I enjoyed collaborating with my old team and seeing customers we had onboarded long ago grow and prosper. We found ourselves architectural purists... we would rather guide the customer to AWS than have them be an unhappy Heroku customer.
 
 We structured the team differently than I had seen in the past. We were compensated on the performance of the entire business, not on individual deals that we worked on. This fostered a truly collaborative environment, an esprit d’corps, and one I treasured. 
 
