@@ -25,15 +25,15 @@ I got my start in technology far before it was "tech". My first experience was w
 
 In the 90's I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served 1,000's of users with file and print services. I was firmly grounded as a BOFH. I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
 
-One of the things that I have always wanted is to have greater impact. Looking to work on bigger things, I ended up getting hired as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there and and the US Department of Homeland Security, building data centers and coding network monitoring tools, migration tools and applications.
+One of the things that I have always wanted is to have greater impact. Looking to work on bigger things, I ended up getting hired as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there and and the US Department of Homeland Security, building data centers, coding network monitoring tools, migration tools and applications.
 
-After 8 years however, I started to doubt the mission, and did not feel like I was able to actually have any impact beyond keeping things running. So I started to look outside of government service, and back towards working in the "real world". I also wanted to get out of the hands on keyboard work, and start to see if I could increase my impact.
+After 8 years however, I did not feel like I was able to actually have any impact beyond keeping things locally running. So I started to look outside of government service, and back towards working in the "real world". I also wanted to get out of the hands on keyboard work, and start to see if I could increase my impact.
 
 I ended up spending time at places like Engine Yard, Point Inside, and Bluebox Group. I did things like DevOps at Point Inside, Technical Account Management at Engine Yard and Sales Engineering at Bluebox Group. A pretty big change from sitting in data centers poking at servers!
 
 These were also early cloud based companies - either providers like Engine Yard and Bluebox Group or consumers like Point Inside. As I started to work with newer technologies like AWS I really started to value "the cloud", and the agility that it could bring me as someone with a sysadmin background. The ability to get a box provisioned in a few moments, rather then a few weeks to get one shipped to me was a real game changer.
 
-But building on AWS was hard. Not quite as hard as building a datacenter. It was a lot quicker however it still took time, focus, and a team to run the infrastructure.
+But building on AWS was hard. Not quite as hard as building a datacenter, but still complicated. It was a lot quicker however it still took time, focus, and a team to run the infrastructure.
 
 <h3>First Tour</h3>
 
@@ -51,15 +51,15 @@ We were pushing the boundaries of scale, design and inventing new things every d
 
 <h3>The Height of Heroku's Power</h3>
 
-After a year and a half, I took a six month break, and came back as the first Solutions Architect. Heroku had grown to much to have the CSA team act as SE's, so we founded HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for the next 6 years.
+After a year and a half, I took a six month break, and came back as the first Solutions Architect. Heroku had grown to much to have the CSA team act as Solutions Engineers, so we founded the HEAT (Heroku Enterprise Architect Team). This was my home at Heroku for the next 6 years.
 
-We still worked closely with the CSA team, to replicate that single thread. I was happy to collaborate with my old team, and get to see customers that we had onboarded grow and prosper.
+We worked closely with the CSA team, to replicate that single thread. I was happy to collaborate with my old team, and get to see customers that we had onboarded grow and prosper.
 
 *Knowledge, Truth and Wisdom* were my internal mantra. Steering customers away from bad choices, and insuring that they were set up to be successful on the platform was my primary goal. We would rather tell someone to go to AWS then have them buy Heroku and find out that it would not work with their use case.
 
 We structured the team a little different then I have seen in the past. The team was compensated on how the entire business did, not on deals that the individual worked on. This fostered a truly collaborative environment. I treasured the esprit d'corps that this fostered. 
 
-In the first year, I told my boss that I would probably get bored and start looking for something else in 2 years. Well, 6 years later I was still happily training folks, talking to customers and creating education and demos.
+In the first year, I told my boss that I would probably get bored and start looking for something else in 2 years. Well, 6 years later I was still happily training folks, talking to customers and creating customer facing education and demos.
 
 I learned so much during this time. Things like
 
@@ -82,15 +82,15 @@ I was able to spearhead creation of the [Heroku Architect Exam](https://trailhea
 
 A friend has said that this was "the Hight of Heroku's Power" and I agree. We delivered [private spaces](https://www.heroku.com/private-spaces) and [fully managed HIPAA and PCI lvl 1 hosting environments](https://www.heroku.com/shield). [Heroku Connect](https://www.heroku.com/connect) powers billions and billions of rows of sync between Core Salesforce and Heroku.
 
-We were customer obsessed and preaching [12 Factor](https://12factor.net) everywhere. We were helping people build the next generation of apps and ideas. We truly believed that democratization of infrastructure was important. Giving everyone the power to develop something and host it safely and scalably lowered the bar and allowed a entire new crop of startups and companies.
+We were customer obsessed and preaching [12 Factor](https://12factor.net) everywhere. We were helping people build the next generation of apps and ideas. We truly believed that democratization of infrastructure was important. Giving everyone the power to develop something and host it safely and scalably lowered the bar that infrastructure set and allowed a entire new crop of startups and companies.
 
 <h3>Current Chapter</h3>
 
 As the team was moving on to diffrent parts of Salesforce, I decided it was time to pursue my next goal. I had been talking to product folks at Heroku for several years about what makes a good Product Manager, and I decided to made the leap over. I was honored to be chosen to take over Heroku Data and Heroku Connect as Product Manager. 
 
-Over the past year and a half I have learned a ton about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I also had to dust off some of my Agile skills. I had to learn a bevy of new TLA's - things like PRD and OKR. I have really enjoyed being able to set time aside to focus on writing.
+Over the past year and a half I have learned a ton about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I was able to dust off some of my Agile skills. I even had to learn a bevy of new TLA's - things like PRD and OKR. I have really enjoyed being able to set time aside to focus on writing.
 
-I have been truly blessed to have partnered with the engineering teams behind these products. I can say that they are some of smartest and most empathic humans I have ever worked with. Every day, they work at a scale that boggles the mind. Even with the pressures and scale, they still keep the customer at the forefront.
+I have been truly blessed to have partnered with the engineering teams behind Heroku Data. I can say that they are some of smartest and most empathic humans I have worked with. Every day, they work at a scale that boggles the mind. Even with the pressures and scale, they still keep the customer at the forefront.
 
 <h3>I Want to live in a city of the elves</h3>
 
