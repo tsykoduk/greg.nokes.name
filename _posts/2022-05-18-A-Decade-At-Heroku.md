@@ -23,11 +23,11 @@ So I went and got some really bad coffee at the [DNA Lounge](https://www.dnaloun
 
 I got my start in technology far before it was "tech". My first experience was working on a NetWare 3 network running ARCNet. Look it up, I'll wait.
 
-In the 90's I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served thousands of users with file and print services. I was firmly grounded as a [BOFH](http://www.bofharchive.com). I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
+In the 90's as a consultant and sysadmin I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served thousands of users with file and print services. I was firmly grounded as a [BOFH](http://www.bofharchive.com). I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
 
 One of the things that I have always wanted is to have greater impact. To make that happen and work on bigger things, I was hired as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there as well as at the US Department of Homeland Security building data centers, creating [network monitoring](https://github.com/tsykoduk/CondorNG) and [migration tools](https://github.com/tsykoduk/sync_script) as well as developing applications
 
-At the end of my time there, I felt my impact had never gone beyond just keeping things running. This prompted me to explore roles outside of government service and get back to the “real world;” I knew there I could give up hands on keyboard tasks and work on more impactful projects.
+At the end of my time there, I felt my impact had never gone beyond just keeping things running. This prompted me to explore roles outside of government service and get back to the “real world”. I knew there I could give up hands on keyboard tasks and work on more impactful projects.
 
 I subsequently spent time in roles at Engine Yard, Point Inside, and Bluebox Group. I performed roles in DevOps at Point Inside, as a Technical Account Management at Engine Yard and in Sales Engineering at Bluebox Group. All-in-all, this career phase was a pretty big change from sitting in data centers poking at servers! 
 
