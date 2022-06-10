@@ -96,7 +96,7 @@ As the team evolved, the platform grew and members moved on to work in different
 
 Over the past year and a half I have learned a lot about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I was able to dust off some of my Agile skills. I even had to learn a bevy of new TLA's - things like PRD and OKR. I also have really enjoyed being able to set time aside to focus on writing.
 
-I have been truly blessed to have been a working partner with the engineering teams behind Heroku’s Data products. I can truly say they are some of smartest and most empathic humans I have ever worked with. Each day I watch them they work at a pace that boggles my mind. Despite the pressures and scale, they still keep the customer at the forefront of all they do. Together, I once again feel we’ve made an impact! 
+I have been truly blessed to have been a working partner with the engineering, UX and documentation teams behind Heroku’s Data products. I can truly say they are some of smartest and most empathic humans I have ever worked with. Each day I watch them they work at a pace that boggles my mind. Despite the pressures and scale, they still keep the customer at the forefront of all they do. Together, I once again feel we’ve made an impact! 
 
 <h3>I Want to live in a lost city of the elves</h3>
 
