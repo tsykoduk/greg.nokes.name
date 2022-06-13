@@ -1,7 +1,7 @@
 ---
 id: 16500
 title: Reflections on a Decade at Heroku
-date: 2022-06-1
+date: 2022-06-15
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16500
@@ -25,7 +25,7 @@ I got my start in technology far before it was "tech". While I had a [C64](https
 
 In the 90's as a consultant and sysadmin I got to work on NetWare 2, 3, and 4. Windows for Workgroups, Windows NT 3.5, 3.51, and 4. ARCNet, Token Ring, ThickNet and ThinNet, CAT3, CAT5 and Fibre. I built early internet proxies and ran WAN's that served thousands of users with internet, file and print services. I installed [Vampire Taps](https://en.wikipedia.org/wiki/Vampire_tap) and pulled cable. I was firmly grounded as a [BOFH](http://www.bofharchive.com). I even held certifications as a Certified NetWare Engineer and Microsoft Certified Systems Engineer.
 
-One of the things that I have always wanted is to have greater impact. To make that happen and work on bigger things, got a job as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there as well as at the US Department of Homeland Security building data centers, creating [network monitoring](https://github.com/tsykoduk/CondorNG) and [migration tools](https://github.com/tsykoduk/sync_script) as well as developing applications.
+One of the things that I have always wanted is to have greater impact. To make that happen and work on bigger things, I got a job as a contractor to help the US Department of Justice run their network in Washington State. I spent 8 great years there as well as at the US Department of Homeland Security building data centers, creating [network monitoring](https://github.com/tsykoduk/CondorNG) and [migration tools](https://github.com/tsykoduk/sync_script) as well as developing applications.
 
 It was a great job, but it felt like my impact was still limited to keeping things running. I wanted more. This prompted me to explore roles outside of government service and get back to the “real world”. I knew there I could give up hands on keyboard tasks and work on even more impactful projects.
 
@@ -33,8 +33,7 @@ I subsequently spent time in roles at Engine Yard, Point Inside, and Bluebox Gro
 
 These companies were also early cloud based ones – some were service providers like Engine Yard and Bluebox Group and others consumer-centric ones like Point Inside. As I started to work with newer technologies such as AWS, I really started to value “the cloud” and the agility it brought me as someone with a sysadmin background. The ability to get a box provisioned in a few moments rather than a few weeks was a real game changer.
 
-But building on AWS was challenging; Not quite as hard as building a datacenter, but still 
-complicated. While it was a lot quicker, it still took time, focus and a team to run the 
+But building on AWS was challenging; Not quite as hard as building a datacenter, but still complicated. While it was a lot quicker, it still took time, focus and a team to run the 
 infrastructure.
 
 <h3>First Tour</h3>
