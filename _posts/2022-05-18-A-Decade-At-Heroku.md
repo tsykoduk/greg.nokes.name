@@ -1,11 +1,11 @@
 ---
 id: 16500
 title: Reflections on a Decade at Heroku
-date: 2022-06-15
+date: 2022-06-14
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16500
-permalink: /2022/06/18/a-decade-at-heroku/
+permalink: /2022/06/14/a-decade-at-heroku/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
