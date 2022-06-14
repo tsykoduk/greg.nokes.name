@@ -69,7 +69,7 @@ I learned so much during this time and thought I’d pass a few of them along:
 * "Write down 5 things you want to accomplish this year". 
 * "6 questions to ask before accepting a meeting". 
 * What stages of an opportunity mean. 
-* How always keep learning about new things
+* How to always keep learning about new things
 * Powerpoint Powerpoint Powerpoint.
 * The best demo is not having to do a demo.
 * The best slides are not having to use slides.
