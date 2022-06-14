@@ -85,7 +85,7 @@ We were customer obsessed and evangelizing the tenants of [12 Factor](https://12
 
 <h3>Current Chapter</h3>
 
-As the team evolved, the platform grew and members moved on to work in different products at Salesforce, I too decided it was time to pursue my next goal. I had been close to product leaders at Heroku for several years, and talked often about what it takes to be a good Product Manager, so I decided to made the leap and become one. I was honored to be assume the ownership of Heroku Data and Heroku Connect as Product Manager.
+As the team evolved, the platform grew and members moved on to work in different products at Salesforce, I too decided it was time to pursue my next goal. I had been close to product leaders at Heroku for several years, and talked often about what it takes to be a good Product Manager. So I decided to made the leap and become one. I was honored to be assume the ownership of Heroku Data and Heroku Connect as Product Manager.
 
 Over the past year and a half I have learned a lot about being a Product Manager. Coming from Sales into Product I had to slow down and learn how think much longer term. I was able to dust off some of my Agile skills. I even had to learn a bevy of new TLA's - things like PRD and OKR. I also have really enjoyed being able to set time aside to focus on writing.
 
