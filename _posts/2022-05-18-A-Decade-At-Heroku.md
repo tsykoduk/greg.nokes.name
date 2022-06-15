@@ -11,8 +11,8 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/wp-content/uploads/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched">
-<sub>Image by <a href="https://twitter.com/seaofclouds">seaofclouds</a></sub></div>
+<div style="float: left; padding: 0 10px 10px 0;"><img src="/wp-content/uploads/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched"><br />
+<sub><i>Image by <a href="https://twitter.com/seaofclouds">seaofclouds</a></i></sub></div>
 
 At about 7:45am March 26th 2011, I walked up to the doors at Heroku for the first time. I was early because that's what you did where I came from.
 
