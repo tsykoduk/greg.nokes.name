@@ -39,6 +39,12 @@ I propose a simpler philosophy:
 
 When we are able to see that all belief structures come from the same essential chaos, our lives will be happier and simpler. When we see that anything that we hold dear is simply a fleeting image and not real, we will be able to deal with life, death, and politics with grace and ease.
 
->This was on the fifth night, and when they slept that night each had a vivid dream of a splendid woman whose eyes were as soft as a feather and as deep as eternity itself... she spoke in a warm and gentle voice: ‘I have come to tell you that you are free. Many ages ago, My consciousness left man, that he might develop himself. I return to find this development approaching completion, but hindered by fear and by misunderstanding. You have built yourselves psychic suits of armor, and clad in them, your vision is restricted... your spirit broiled by the sun. I am chaos. I am the substance from which your artists and scientists build rhythms...I am alive and I tell you that you are free
+>This was on the fifth night, and when they slept that night each had a vivid dream of a splendid woman whose eyes were as soft as a feather and as deep as eternity itself... 
+>
+>She spoke in a warm and gentle voice: ‘I have come to tell you that you are free. Many ages ago, My consciousness left man, that he might develop himself. I return to find this development approaching completion, but hindered by fear and by misunderstanding. You have built yourselves psychic suits of armor, and clad in them, your vision is restricted... 
+>
+>Your spirit broiled by the sun. I am chaos. I am the substance from which your artists and scientists build rhythms...
+>
+>I am alive and I tell you that you are free
 
 - No one
