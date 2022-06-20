@@ -28,23 +28,23 @@ highlighter:      rouge
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned','static.json','update.sh', 'app.json']
 
-plainwhite:
-  name: DaRoost
-  show_excerpts: true
-  tagline: |
-          A wayward journey
-          into the depths of sanity
-  dark_mode: true
+#plainwhite:
+#  name: DaRoost
+#  show_excerpts: true
+#  tagline: |
+#          A wayward journey
+#          into the depths of sanity
+#  dark_mode: true
  # navigation:
  #   title: About
  #   url: "/about"
    
-  date_format: "%b %-d, %Y"
+#  date_format: "%b %-d, %Y"
     
-  social_links:
-    twitter: tsykoduk
-    github: tsykoduk
-    linkedIn: in/gregnokes 
+#  social_links:
+#    twitter: tsykoduk
+#    github: tsykoduk
+#    linkedIn: in/gregnokes 
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
