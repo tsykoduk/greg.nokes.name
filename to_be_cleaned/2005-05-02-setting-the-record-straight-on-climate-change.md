@@ -10,14 +10,14 @@ categories:
   - Philosophy! and Politics!
   - Science!
 ---
-<blockquote>A vast majority of climate scientists agree that global warming is happening and that it poses a serious threat to society. They also agree that it is being caused largely by human activities that release greenhouse gases, such as burning fossil fuels in power plants and cars and deforesting the land. These highlights <del>- and the full full report -</del> lay out some common myths and misunderstandings regarding climate change.</blockquote>
+>A vast majority of climate scientists agree that global warming is happening and that it poses a serious threat to society. They also agree that it is being caused largely by human activities that release greenhouse gases, such as burning fossil fuels in power plants and cars and deforesting the land. These highlights - and the full full report - lay out some common myths and misunderstandings regarding climate change.
 
-	<p>Read the rest of the article at <a href="http://www.undoit.org/what_is_gb_myth.cfm">Undoit.org</a></p>
-
-
-	<p>Here is a choice passage:</p>
+Read the rest of the article at <a href="http://www.undoit.org/what_is_gb_myth.cfm">Undoit.org</a></p>
 
 
-	<blockquote>Before the Industrial Revolution, the amount of <span class="caps">CO2</span> emitted from large natural sources closely matched the amount that was removed through natural processes. That balance has now been upset by human activities, which since the Industrial Revolution have put twice as much <span class="caps">CO2</span> into the atmosphere as can be readily removed by the oceans and forests. This has resulted in the accumulation of <span class="caps">CO2</span> to the highest levels in 420,000 years.</blockquote>
+<p>Here is a choice passage:</p>
 
-	<p>The highest in 420,000 years!</p>
+
+<blockquote>Before the Industrial Revolution, the amount of <span class="caps">CO2</span> emitted from large natural sources closely matched the amount that was removed through natural processes. That balance has now been upset by human activities, which since the Industrial Revolution have put twice as much <span class="caps">CO2</span> into the atmosphere as can be readily removed by the oceans and forests. This has resulted in the accumulation of <span class="caps">CO2</span> to the highest levels in 420,000 years.</blockquote>
+
+<p>The highest in 420,000 years!</p>

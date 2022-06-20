@@ -12,6 +12,6 @@ categories:
 <p>The <a href="http://www.buddhistchannel.tv/index.php?id=7,1194,0,0,1,0">Buddhist Channel</a> has a good cross-religion article about creating sacred space in our homes.</p>
 
 
-	<blockquote>Creating sacred space in the everyday world is part of honoring the fact that the spiritual is part of life and that all our life is sacred.</blockquote>
+<blockquote>Creating sacred space in the everyday world is part of honoring the fact that the spiritual is part of life and that all our life is sacred.</blockquote>
 
-	<p>I have felt this for a long time, and usally have items around the house that remind me of sacred. Ones home should be sacred space - there is no safer and more comfy place to relax.</p>
+<p>I have felt this for a long time, and usally have items around the house that remind me of sacred. Ones home should be sacred space - there is no safer and more comfy place to relax.</p>

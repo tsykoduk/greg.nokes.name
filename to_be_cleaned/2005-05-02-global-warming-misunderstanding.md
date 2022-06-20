@@ -11,11 +11,9 @@ categories:
 ---
 <p><em>(I have not been able to get in and comment on this on Justus For All - Blogger is having issues again. So, my comment is posted here)</em></p>
 
+<p>On <a href="http://davejustus.blogspot.com/2005/04/new-data-show-global-warming.html#comments">Justus for All</a>, <a href="http://www.blogger.com/profile/1891511">Cube</a> says the following:</p>
 
-	<p>On <a href="http://davejustus.blogspot.com/2005/04/new-data-show-global-warming.html#comments">Justus for All</a>, <a href="http://www.blogger.com/profile/1891511">Cube</a> says the following:</p>
-
-
-	<blockquote>Global warming is a problem that will solve itself.
+<blockquote>Global warming is a problem that will solve itself.
 
 	<p>If things get warmer and ice melts, then you are going to have longer growing seasons and more greenery.</p>
 
