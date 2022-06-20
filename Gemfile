@@ -35,7 +35,7 @@ gem "jekyll" #, "~> 4.0.0"
 
 #Theme
 # gem "jekyll-theme-hydeout" #, "~> 3.3"
-gem "plainwhite"
+gem "jekyll-theme-tao"
 
 #gem 'rack-ssl-enforcer'
 #gem "hyde"
