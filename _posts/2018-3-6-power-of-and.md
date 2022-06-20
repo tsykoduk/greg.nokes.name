@@ -17,4 +17,4 @@ This really got me thinking about how to apply this to the rest of life. It's li
 
 It's when we are dealing with people that have a "me" or "all or nothing" outlook that we can run into problems. If we can approach from a perspective of "and" we can always bring value to the table. And small wins can lead to big wins.
 
-It's my personal philosophy that by always bringing value, by never saying no and by always bringing value to the table, you can succeed in just about anything.
+It's my personal philosophy that by always bringing value and by (almost) never saying no you can succeed in just about anything.
