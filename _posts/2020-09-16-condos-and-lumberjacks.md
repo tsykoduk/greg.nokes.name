@@ -13,7 +13,7 @@ I have been involved in and with various infrastructure as a service and platfor
 
 I wrote this out to try and explain these concepts in concrete terms. 
 
-Lucky for me, a few co-workers decided to help me with art and video production help, and we were able to remove the "*with bad drawings*" subtitle. Also we made a cool animation explaining this. You can see the [video here](https://youtu.be/_N8Zf_nPZkQ).
+Lucky for me, a few co-workers decided to help me with art and video production help, and we were able to remove the "*with bad drawings*" subtitle. Also we made a cool animation explaining this. You can see the [video here](https://www.youtube.com/watch?v=VrhW9NXfKmg).
 
 Thanks to the awesome [Nicole Johnson](https://www.linkedin.com/in/nicolecjohnson/), Jennifer Hooper and the entire [Heroku marketing team](https://www.heroku.com/podcasts) for taking my idea and making it shine.
 
