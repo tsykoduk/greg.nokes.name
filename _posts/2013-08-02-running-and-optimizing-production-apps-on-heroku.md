@@ -49,11 +49,11 @@ Resources from the presentation:
 
 &nbsp;
 <strong>Slides and Video from <a href="https://blog.heroku.com/archives/2013/8/1/video_and_slides_optimizing_production_apps_on_heroku">Optimizing  Production Apps on Heroku</a>:</strong>
-
+<br />
 <iframe src="https://player.vimeo.com/video/71442888" height="359" width="637" allowfullscreen="" frameborder="0"></iframe>
-
+<br />
 <iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="https://www.slideshare.net/slideshow/embed_code/24810045?rel=0" height="359" width="637" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
+<br />
 
 Resources from the presentation:
 
