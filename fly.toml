@@ -6,7 +6,10 @@ kill_timeout = 5
 processes = []
 
 [build]
-  dockerfile = "jekyll/jekyll"
+  dockerfile = "jekyll"
+  
+[deploy]
+	release_command = "bundle exec jekyll b"
 
 [env]
   PORT = "8080"
