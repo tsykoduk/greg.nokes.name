@@ -20,9 +20,9 @@ After fooling around with creating a VM for the RailsBridge Bugmash insta-server
 <!--more-->
 
 Enter the script!
-I have hacked together a basic Debian script which will take a bare bones system, install all of the requirements and use <a href="http://rvm.beginrescueend.com/">rvm</a> to download, install, configure and gem up several flavors of ruby.
-It's over on <a href="http://github.com/tsykoduk/Rails-Bugmasher">github</a> - so please feel free to fork, improve, and send pull requests.
+I have hacked together a basic Debian script which will take a bare bones system, install all of the requirements and use <a href="https://rvm.beginrescueend.com/">rvm</a> to download, install, configure and gem up several flavors of ruby.
+It's over on <a href="https://github.com/tsykoduk/Rails-Bugmasher">github</a> - so please feel free to fork, improve, and send pull requests.
 
 
 
-<script src="http://gist.github.com/219880.js"></script>
+<script src="https://gist.github.com/219880.js"></script>
