@@ -22,7 +22,7 @@ Over the last few months, I've done a few webinars. On was<a href="https://blog.
 <iframe src="https://player.vimeo.com/video/69263217" height="381" width="100%" allowfullscreen="" frameborder="0">
 </iframe>
 
-<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/23588612" height="359" width="637" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="https://www.slideshare.net/slideshow/embed_code/23588612" height="359" width="637" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
 </iframe>
 
 Resources from the presentation:
@@ -50,9 +50,9 @@ Resources from the presentation:
 &nbsp;
 <strong>Slides and Video from <a href="https://blog.heroku.com/archives/2013/8/1/video_and_slides_optimizing_production_apps_on_heroku">Optimizing  Production Apps on Heroku</a>:</strong>
 
-<iframe src="http://player.vimeo.com/video/71442888" height="359" width="637" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/71442888" height="359" width="637" allowfullscreen="" frameborder="0"></iframe>
 
-<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/24810045?rel=0" height="359" width="637" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="https://www.slideshare.net/slideshow/embed_code/24810045?rel=0" height="359" width="637" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 Resources from the presentation:
@@ -61,7 +61,7 @@ Resources from the presentation:
 
 	<li><a href="https://devcenter.heroku.com/articles/s3">S3 Best Practices</a></li>
 
-	<li><a href="http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/">Postgres Performance</a></li>
+	<li><a href="https://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/">Postgres Performance</a></li>
 
 	<li><a href="https://devcenter.heroku.com/articles/upgrade-heroku-postgres-with-pgbackups">Using PG Backups to Upgrade Heroku Postgres Databases</a></li>
 
