@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="150" alt="purple lit buddha with a black cowboy hat"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
-Well, if you have not seen it yet, [Heroku is removing its free tier on November 22nd, 2022](https://blog.heroku.com/next-chapter).
+Well, if you have not seen it yet, [Heroku is removing its free tier on November 28nd, 2022](https://blog.heroku.com/next-chapter).
 
 If you use the free tier, you need to decide if you want to upgrade or move. And don't forget to grab SQL dumps of your hobby Postgres!
 
