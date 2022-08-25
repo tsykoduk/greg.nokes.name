@@ -1,11 +1,11 @@
 ---
 id: 16400
 title: Blog Performance 2022 edition
-date: 2022-09-25
+date: 2022-08-25
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16400
-permalink: /2022/09/25/heroku-removing-free-teir/
+permalink: /2022/08/25/heroku-removing-free-teir/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
