@@ -32,5 +32,5 @@ More importantly, I have a feeling that given the cold, hard facts this was the 
 
 In a more close to home change, this new world has left me with some choices about the future of where this screed lives. I've removed the review apps and pipeline, and have a test site up with [Netlify](https://www.netlify.com). You are probably reading that version right now. If you use one of the other domain names to access this side like [gregorynokes.com](https://gregorynokes.com/) then you are hitting a Heroku Dyno.
 
-I've not landed on [Netlify](https://www.netlify.com) as a permiant home. I am looking at [Render](https://render.com), [Fly.io](https://fly.io) and [Railway](https://railway.app). I've been on Jekyll for a few years. Perhaps it's time to dust off my coding skills to create a home rolled blogging engine again.
+I've not landed on [Netlify](https://www.netlify.com) as a permiant home. I am looking at [Render](https://render.com), [Fly.io](https://fly.io) and [Railway](https://railway.app). I've been on Jekyll for a few years. Perhaps it's time to dust off my coding skills to create a home rolled blogging engine again. Quite honestly, writing this article with out a review app has been painful. I have some work cut out for me.
 
