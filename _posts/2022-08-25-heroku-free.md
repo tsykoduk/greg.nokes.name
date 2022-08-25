@@ -34,7 +34,7 @@ Heroku then moved to offering a "free tier" Dyno. You could only have one in an 
 
 Still rampant with abuse.
 
-I'm personally going to pour one out for the death of Heroku 2.0, and the birth of Heroku 3.0. This does not mean that I *disagree* with this decision. After all, I gave up any agency I had in the direction of Heroku when I [left](https://greg.nokes.name/2022/06/14/a-decade-at-heroku/). 
+I'm personally going to pour one out for the death of Heroku 2.0, and the birth of Heroku 3.0. This does not mean that I *disagree* with the decision to turn off free. After all, I gave up any agency I had in the direction of Heroku when I [left](https://greg.nokes.name/2022/06/14/a-decade-at-heroku/). 
 
 More importantly, I have a feeling that given the cold, hard facts this was the best option to move Heroku forward. They have taken the bold step of publishing their [roadmap publicly](https://github.com/heroku/roadmap). We can all watch along as they evolve the platform into it's next version. And I am cheering them on. Heroku is a magical place, and the humans that build it are amazing folks.
 
