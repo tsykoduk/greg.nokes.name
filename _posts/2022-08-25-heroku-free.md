@@ -26,9 +26,13 @@ With the removal of the free tier at Heroku, the industry has lost a [powerful l
 
 In the heady early days of Heroku, we gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you had a platform that enabled folks to break into tech. It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
 
-This was rampant with abuse. Folks would spin up lots of apps with 1 Dyno, and then load balance across them. Folks also developed "Dyno pinger" tools to make sure that their free dynos never went to sleep. This meant that it became burdensome to support.
+This was rampant with abuse. Folks would spin up lots of apps with 1 Dyno, and then load balance across them. Folks also developed "Dyno pinger" tools to make sure that their free dynos never went to sleep. 
 
-Heroku then moved to offering a "free tier" Dyno. You could only have one in an app, and you had an hours budget that you would burn down. Couple this with review apps, and you could build a modern CI/CD pipeline easily and almost for free. For example, this blog has lived on Heroku for years, with [review apps and a pipeline](https://greg.nokes.name/2018/02/26/how-i-do-it/). Again, empowering customers and users to have rich, professional tools at their fingertips. And enabling easy adoption of the [12 Factor](https://12factor.net) methodology. Still rampant with abuse.
+This meant that it became burdensome to support.
+
+Heroku then moved to offering a "free tier" Dyno. You could only have one in an app, and you had an hours budget that you would burn down. Coupled with review apps and pipelines, and you could build a modern CI/CD pipeline easily and almost for free. For example, this blog has lived on Heroku for years, with [review apps and a pipeline](https://greg.nokes.name/2018/02/26/how-i-do-it/). Again, empowering customers and users to have rich, professional tools at their fingertips. And enabling easy adoption of the [12 Factor](https://12factor.net) methodology. 
+
+Still rampant with abuse.
 
 I'm personally going to pour one out for the death of Heroku 2.0, and the birth of Heroku 3.0. This does not mean that I *disagree* with this decision. After all, I gave up any agency I had in the direction of Heroku when I [left](https://greg.nokes.name/2022/06/14/a-decade-at-heroku/). 
 
