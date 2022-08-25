@@ -26,7 +26,7 @@ A few days ago, Les Paul left us. Walter Cronkite too. I was laid off from my jo
 
 <!--more-->
 
-<img class="alignleft size-medium wp-image-15144" title="tumblr_kon03ndTxn1qzln4lo1_400" src="https://greg.nokes.name/wp-content/uploads/2009/08/tumblr_kon03ndTxn1qzln4lo1_400-177x300.jpg" alt="tumblr_kon03ndTxn1qzln4lo1_400" width="177" height="300" /> Just yesterday _why left us. All of his digital presence is gone. Code, Writing, Songs, Chunky Bacon. "But, wait, who is _why, and why do we care about _why?" you ask.
+<img class="alignleft size-medium wp-image-15144" title="tumblr_kon03ndTxn1qzln4lo1_400" src="https://greg.nokes.name/binaries/2009/08/tumblr_kon03ndTxn1qzln4lo1_400-177x300.jpg" alt="tumblr_kon03ndTxn1qzln4lo1_400" width="177" height="300" /> Just yesterday _why left us. All of his digital presence is gone. Code, Writing, Songs, Chunky Bacon. "But, wait, who is _why, and why do we care about _why?" you ask.
 
 
 Well, I guess you are not a rubyist. He was one of three luminaries in the community, and one of the reasons that many of us got involved. He wrote the greatest programming book ever (with a sound track!), and coined "Chunky Bacon". DHH gave us "and, Woops" and matz the language itself. But _why gave us the quirky character. The oddness. The wonder and joy. Being ok to look at some code and go "wow, that's cool" with a childlike glint in our eyes.

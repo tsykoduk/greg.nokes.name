@@ -15,7 +15,7 @@ tags:
   - rvm
 excerpt_separator:  <!--more-->
 ---
-<a href="https://greg.nokes.name/wp-content/uploads/2010/03/GrowlHelperApp-1.jpg"><img class="alignleft size-medium wp-image-15236" title="GrowlHelperApp-1" src="https://greg.nokes.name/wp-content/uploads/2010/03/GrowlHelperApp-1-300x71.jpg" alt="" width="300" height="71" /></a>
+<a href="https://greg.nokes.name/binaries/2010/03/GrowlHelperApp-1.jpg"><img class="alignleft size-medium wp-image-15236" title="GrowlHelperApp-1" src="https://greg.nokes.name/binaries/2010/03/GrowlHelperApp-1-300x71.jpg" alt="" width="300" height="71" /></a>
 
 rvm (ruby version manager) is a kick ass tool that I use on a daily basis. It allows you to install lots of ruby versions, gems, gem sets, and what have you. You can test your app against new (or old) versions of ruby easily. You can also use it to manage rubies on a production system, for all users of that system.
 

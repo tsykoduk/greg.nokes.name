@@ -12,7 +12,7 @@ categories:
 
 So, you want to have every change made to the data in a Salesforce Object stored... forever?
 
-![IMG 0010 2](/wp-content/uploads/2020/10/IMG_0010_2.jpeg)
+![IMG 0010 2](/binaries/2020/10/IMG_0010_2.jpeg)
 
 Let’s explore how we used out of the box tools and a little coding to build a time machine, and what it looked like after I ran it on test data for several months.
 
@@ -40,7 +40,7 @@ We decided to use Node to listen to the event stream in Kakfa, and take the upda
 * Create a table in the Postgres database - insuring that the validations would allow for duplicate values in things like `External_id__c` and `sfid` fields.
 * Write code that listens to Kafka for events, and inserts the events as new records into the TARDIS ..um.. Postgres.
 
-![IMG 0011 2](/wp-content/uploads/2020/10/IMG_0011_2.jpeg)
+![IMG 0011 2](/binaries/2020/10/IMG_0011_2.jpeg)
 
 This is not only scalable to many objects in a single Salesforce org, it’s also scaleable to many Salesforce orgs - including Work.com, Service Cloud and Sales Cloud. Not only can you easily provide visibility across orgs, but you are capturing all changes and you can report on how records have evolved over time, as well as how records relate to each other in diffrent orgs.
 

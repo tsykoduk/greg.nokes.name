@@ -13,7 +13,7 @@ I often get asked about my desk setup. I've put a lot of research and thought in
 
 For example, I have a window in front of my desk, so I only run one light panel, because of the window. That being said, the gear that I have picked out is pretty solid, and has for the most part withstood the test of working at home 100% over the last year and a half, as well as being fully remote for well over 12 years.
 
-![Desk](/wp-content/uploads/2021/07/IMG_0105.jpeg)
+![Desk](/binaries/2021/07/IMG_0105.jpeg)
 
 I currently use the following gear for my standing desk:
 

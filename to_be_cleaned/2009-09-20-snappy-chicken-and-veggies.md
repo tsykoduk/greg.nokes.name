@@ -16,7 +16,7 @@ tags:
 One of the things that I really like to do is to cook. I'm going to start to post new recipes as I come up with them. So this should be the first of many articles in this category.
 
 <!--more-->
-<div class="mceTemp"><dl id="attachment_15149" class="wp-caption alignleft" style="width: 310px;"> <dt class="wp-caption-dt" style="text-align: auto;"> </dt> <dd class="wp-caption-dd">Snappy Chicken and Veggies</dd><img class="size-medium wp-image-15149" title="photo" src="https://greg.nokes.name/wp-content/uploads/2009/09/photo-300x225.jpg" alt="Snappy Chicken and Veggies" width="300" height="225" />
+<div class="mceTemp"><dl id="attachment_15149" class="wp-caption alignleft" style="width: 310px;"> <dt class="wp-caption-dt" style="text-align: auto;"> </dt> <dd class="wp-caption-dd">Snappy Chicken and Veggies</dd><img class="size-medium wp-image-15149" title="photo" src="https://greg.nokes.name/binaries/2009/09/photo-300x225.jpg" alt="Snappy Chicken and Veggies" width="300" height="225" />
 
 </dl></div>
 <strong>Snappy Chicken</strong>

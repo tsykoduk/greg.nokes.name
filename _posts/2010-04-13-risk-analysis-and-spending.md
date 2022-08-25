@@ -14,7 +14,7 @@ tags:
   - value vs perception
 excerpt_separator:  <!--more-->
 ---
-<img class="alignleft size-medium wp-image-15271" title="lunchmeat2" src="https://greg.nokes.name/wp-content/uploads/2010/04/lunchmeat2-235x300.jpg" alt="" width="141" height="180" />
+<img class="alignleft size-medium wp-image-15271" title="lunchmeat2" src="https://greg.nokes.name/binaries/2010/04/lunchmeat2-235x300.jpg" alt="" width="141" height="180" />
 
 People are very poor at risk analysis. As such, people "in the biz" come up with metrics to determine <a href="http://en.wikipedia.org/wiki/Rate_of_return">ROI</a>. This might seem cold hearted. Since money is not infinite, we need to have some tool that we can use to measure the effectiveness of each dollar that we put into mitigating risks. 
 <!--more-->
