@@ -1,22 +1,26 @@
 ---
 id: 16400
-title: Blog Performance 2022 edition
+title: Heroku Removing It's Free Tier
 date: 2022-08-25
 author: Greg Nokes
 layout: post
 guid: https://greg.nokes.name/?p=16400
 permalink: /2022/08/25/heroku-removing-free-teir/
 categories:
-  - Computers! and Code!
-excerpt_separator:  <!--more-->
+ - Computers! and Code!
+excerpt_separator: <!--more-->
 ---
+
+<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="200" alt="glass doors with bonasi tree etched"><br />
+<sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
+
 Well, if you have not seen it yet, [Heroku is removing it's free tier on November 22nd, 2022](https://blog.heroku.com/next-chapter). Beyond the migration, I have some thoughts. If you use the free tier, you need to decide if you want to upgrade or move. And don't forget to grab SQL dumps of your hobby Postgres!
 
 <!-- more -->
 
-In the heady early days of Heroku, we always gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you have a powerful learning tool. It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
+In the heady early days of Heroku, we gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you have a powerful learning tool. It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
 
-This was rampant with abuse. Folks would spin up lots of apps with 1 Dyno, and then load balance across them. Folks also developed  "Dyno pinger" tools to make sure that their free dynos never went to sleep. This meant that it became burdensome to support.
+This was rampant with abuse. Folks would spin up lots of apps with 1 Dyno, and then load balance across them. Folks also developed "Dyno pinger" tools to make sure that their free dynos never went to sleep. This meant that it became burdensome to support.
 
 Heroku then moved to offering a "free tier" Dyno. You could only have one in an app, and you had an hours budget that you would burn down. Couple this with review apps, and you could build a modern CI/CD pipeline easily and almost for free. For example, this blog has lived on Heroku for years, with [review apps and a pipeline](https://greg.nokes.name/2018/02/26/how-i-do-it/). Again, empowering customers and users to have rich, professional tools at their fingertips. And enabling easy adoption of the [12 Factor](https://12factor.net) methodology. Still rampant with abuse.
 
