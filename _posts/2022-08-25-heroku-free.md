@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="200" alt="glass doors with bonasi tree etched"><br />
+<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="150" alt="purple lit buddha with a black cowboy hat"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
 Well, if you have not seen it yet, [Heroku is removing it's free tier on November 22nd, 2022](https://blog.heroku.com/next-chapter). Beyond the migration, I have some thoughts. 
@@ -20,7 +20,7 @@ If you use the free tier, you need to decide if you want to upgrade or move. And
 
 <!--more-->
 
-In the heady early days of Heroku, we gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you have a powerful learning tool. It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
+In the heady early days of Heroku, we gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you have a [powerful learning tool](). It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
 
 This was rampant with abuse. Folks would spin up lots of apps with 1 Dyno, and then load balance across them. Folks also developed "Dyno pinger" tools to make sure that their free dynos never went to sleep. This meant that it became burdensome to support.
 
