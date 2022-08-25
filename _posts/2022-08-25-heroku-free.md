@@ -24,7 +24,7 @@ I thought that I would take a moment to reflect on the journey of Free at Heroku
 
 With the removal of the free tier at Heroku, the industry has lost a [powerful learning tool](https://xeiaso.net/blog/rip-heroku). It's my hope that some newer technology can step it to continue to make Tech more diverse and equitable. For Postgres you have [Crunchy's Postgres Playground](https://www.crunchydata.com/developers/tutorials). What else is out there for folks to get experience with out barriers?
 
-In the heady early days of Heroku, we gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you had a  that enabled folks to break into tech. It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
+In the heady early days of Heroku, we gave each application a "free" Dyno. This allowed an entire generation of web developers to cut their teeth on real web development. Couple it with entry level free Postgres, and you had a platform that enabled folks to break into tech. It also enabled folks to use [12 factor](https://12factor.net) easily and inexpensively. For free actually. Also it pushed folks with production apps to always have a second Dyno for HA purposes.
 
 This was rampant with abuse. Folks would spin up lots of apps with 1 Dyno, and then load balance across them. Folks also developed "Dyno pinger" tools to make sure that their free dynos never went to sleep. This meant that it became burdensome to support.
 
