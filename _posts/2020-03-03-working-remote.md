@@ -15,7 +15,7 @@ I started working 100% remote in early 2008. Over the years I have learned quite
 
 <!--more -->
 
-![My Desk](/wp-content/uploads/2020/05/desk.png)
+![My Desk](/binaries/2020/05/desk.png)
 
 I have worked as member of a majority remote company, as one of 7 people that made up the 10% of the company that was remote, and as a member of a fully remote team.
 

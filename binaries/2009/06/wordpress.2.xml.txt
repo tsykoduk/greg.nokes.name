@@ -13076,7 +13076,7 @@ Sounds like utopia? I really do not think that we will get there. However, just 
 
 <guid isPermaLink="false">30/2008/12/27/boats-we-don-t-need-no-stinken-boats</guid>
 <description></description>
-<content:encoded><![CDATA[<p><center><a class="imagelink" href="https://greg.nokes.name/wp-content/uploads/2006/03/116204838_862deb998e.jpg" title="116204838_862deb998e.jpg"><img id="image720" src="https://greg.nokes.name/wp-content/uploads/2006/03/116204838_862deb998e.thumbnail.jpg" alt="116204838_862deb998e.jpg" /></a></center></p>
+<content:encoded><![CDATA[<p><center><a class="imagelink" href="https://greg.nokes.name/binaries/2006/03/116204838_862deb998e.jpg" title="116204838_862deb998e.jpg"><img id="image720" src="https://greg.nokes.name/binaries/2006/03/116204838_862deb998e.thumbnail.jpg" alt="116204838_862deb998e.jpg" /></a></center></p>
 <p>So - imagine my surprise when I woke up to this!</p>]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>1319</wp:post_id>

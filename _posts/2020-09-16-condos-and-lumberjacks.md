@@ -30,7 +30,7 @@ And what does that even mean?
 
 And what is the difference?
 
-![Iceberg above water](/wp-content/uploads/2020/09/IMG_0100.jpeg)
+![Iceberg above water](/binaries/2020/09/IMG_0100.jpeg)
 
 Professional Development is hard. It is a skill that can take years to hone. The tools that developers use can be foreign to other folks. Things like “the CLI” or “IDE’s” or “git”. Like any other specialization developers speak their own language, and over the decades have developed tools that are aimed at their use case.
 
@@ -38,13 +38,13 @@ Also the craft of development is hard. If you think about it, we are writing ste
 
 Wrong.
 
-![Iceberg under water ](/wp-content/uploads/2020/09/IMG_0101.jpeg)
+![Iceberg under water ](/binaries/2020/09/IMG_0101.jpeg)
 
 They say that 90% of the iceberg is underwater, and not visible. The same can be said about development. Writing code in Java, Ruby, Python or what have you is the *easy* part. It’s the details that you do not see that cause you the most trouble.
 
 The 90% of the tasks that are invisible are what gets you. What sort of things are these?
 
-![Whole Iceberg](/wp-content/uploads/2020/09/IMG_0102.jpeg)
+![Whole Iceberg](/binaries/2020/09/IMG_0102.jpeg)
 
 This is where the builders come in. They have to build the parts of the app that no one ever sees. They build the plumbing that the app runs on. Before you write a line of code, you have to acquire or build and configure a lot of things.
 
@@ -52,7 +52,7 @@ Say, you want to have an application that simply serves HTML traffic and has par
 
 Well, at it’s most basic this is what you would have to build, before your developers even starting writing code! 
 
-![Architecture Diagram](/wp-content/uploads/2020/09/img_0107.png)
+![Architecture Diagram](/binaries/2020/09/img_0107.png)
 
 This does not include things like autoscaling, auto-healing, multi-AZ failover, build environments, developer tooling, CI/CD pipelines and a host of other things that you will need. 
 
@@ -82,7 +82,7 @@ You will.
 
 When we say Heroku is easier to use then AWS this is exactly what we mean. Instead of buying lumber, you are buying a Condo with landscaping and maintenance included.
 
-![Simple Architecture Diagram](/wp-content/uploads/2020/09/IMG_0108.jpg)
+![Simple Architecture Diagram](/binaries/2020/09/IMG_0108.jpg)
 
 You buy the Condo and your interior decorators (developers) can get started on choosing the color of the tile, ordering couches and hanging the art.
 

@@ -10,7 +10,7 @@ author: Greg Nokes
 
 layout: status
 
-guid: http://greg.nokes.name/status.html
+guid: https://greg.nokes.name/status.html
 
 ---
 

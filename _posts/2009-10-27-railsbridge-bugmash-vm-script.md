@@ -15,14 +15,14 @@ tags:
   - ruby
 excerpt_separator:  <!--more-->
 ---
-<img class="alignleft size-thumbnail wp-image-15186" title="corot7b_eso_big" src="https://greg.nokes.name/wp-content/uploads/2009/10/corot7b_eso_big-150x150.jpg" alt="corot7b_eso_big" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-15186" title="corot7b_eso_big" src="https://greg.nokes.name/binaries/2009/10/corot7b_eso_big-150x150.jpg" alt="corot7b_eso_big" width="150" height="150" />
 After fooling around with creating a VM for the RailsBridge Bugmash insta-server, I decided that it was just too unwieldy. There are simply too many moving parts to make a small VM. That got me thinking...
 <!--more-->
 
 Enter the script!
-I have hacked together a basic Debian script which will take a bare bones system, install all of the requirements and use <a href="http://rvm.beginrescueend.com/">rvm</a> to download, install, configure and gem up several flavors of ruby.
-It's over on <a href="http://github.com/tsykoduk/Rails-Bugmasher">github</a> - so please feel free to fork, improve, and send pull requests.
+I have hacked together a basic Debian script which will take a bare bones system, install all of the requirements and use <a href="https://rvm.beginrescueend.com/">rvm</a> to download, install, configure and gem up several flavors of ruby.
+It's over on <a href="https://github.com/tsykoduk/Rails-Bugmasher">github</a> - so please feel free to fork, improve, and send pull requests.
 
 
 
-<script src="http://gist.github.com/219880.js"></script>
+<script src="https://gist.github.com/219880.js"></script>
