@@ -33,8 +33,8 @@ categories:
 <p>1) Focus really hard
 2) Forget things really well
 3) Lie well
-4) Use lies to make funnys ("They just found out that ketchup is cancer causeing." "Really??" "Noooo. Silly")
-5) Recall all sorts of strange facts (great at trivial pursuits and crainum)
+4) Use lies to make funnies ("They just found out that ketchup is cancer causing." "Really??" "Noooo. Silly")
+5) Recall all sorts of strange facts (great at trivial pursuits and cranium)
 6) Have fun!
 7) Enjoy myself even if I am not 'winning'</p>
 

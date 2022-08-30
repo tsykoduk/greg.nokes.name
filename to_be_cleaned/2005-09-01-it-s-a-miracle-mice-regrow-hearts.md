@@ -17,7 +17,7 @@ categories:
 <p>-<a href="http://www.theaustralian.news.com.au/common/story_page/0,5744,16417002%255E30417,00.html">The Australian</a></p>
 
 
-<p>We all know that 'mice today, people tomorrow'. Imagine the possiblities. Broken wrist that will never heal correctly? Chop it off, and let it regrow new.</p>
+<p>We all know that 'mice today, people tomorrow'. Imagine the possibilities. Broken wrist that will never heal correctly? Chop it off, and let it regrow new.</p>
 
 
 <p>It reminds me of a quote from Firefly.</p>
