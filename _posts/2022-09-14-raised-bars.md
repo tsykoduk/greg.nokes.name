@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="150" alt="purple lit buddha with a black cowboy hat"><br />
+<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/09/bars-picture.png" width="150" alt="blue, yellow and red glow sticks on a glass topped desk"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
 As we make things more complex, do we make things better? Are we lowering the bar to entry or raising it? When I was a kid, the [BBS scene](http://textfiles.com/bbs/) was the way that most of us got into computers. That required a lot. I was very privileged to be able to have a [C64](https://en.wikipedia.org/wiki/Commodore_64) and a 300 baud modem when I was a pre-teen.
