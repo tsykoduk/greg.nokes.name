@@ -46,7 +46,9 @@ This is one of the reasons that I am very excited to be working with the team th
 In a slack discussion about the BBS era, a friend said this
 
 >I miss those days
+>
 >It just felt like anything was possible
+>
 >That’s what I want tech learners to feel, that feeling we had as kids
 
 -- Michelle G.
