@@ -9,6 +9,7 @@ permalink: /2022/10/07/desk-setup-2022-edition/
 categories:
  - Computers! and Code!
 ---
+
 <div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/10/IMG_0098.png" width="150" alt="Closeup of a mic and desk with nicknacks and glasses on the desk"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
