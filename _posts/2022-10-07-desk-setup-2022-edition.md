@@ -20,7 +20,7 @@ After 6 or 7 years with a standing desk that could not move up or down, I decide
 
 I am impressed with the Vari's quality of life features - I really like the little hooks that you can just slide onto the desk. They allow me to hang my headphones and laptop bag and get them out of the way. The cable management system they have is a big improvement over my old system of "velcro all the things". It has a nice tray and power strip to add to my yards of velcro.
 
-![Hook and Cables](/binaries/2022/10/IMG_0097.png)
+![Hook, mic and Cables attached to desk](/binaries/2022/10/IMG_0097.png)
 
 I currently use the following gear for my standing desk:
 
