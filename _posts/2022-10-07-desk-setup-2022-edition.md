@@ -14,6 +14,8 @@ categories:
 
 I feel like I need to update this about every year, as I tend to evolve my set up. You can see my older posts for [2021's Desk](https://greg.nokes.name/2021/07/21/desk-setup-2021-edition/) as well as my thoughts about [working remote](https://greg.nokes.name/2020/03/03/working-remote/). I thought that I would refresh this as I made a pretty major update. 
 
+<!--more-->
+
 After 6 or 7 years with a standing desk that could not move up or down, I decided to get a sit/stand desk. I did a ton of research (ie, asked a few friends) and landed on the [Vari desk](https://www.vari.com/electric-standing-desk-48x30/FD-ESD4830.html). I choose a 48x30 desk. If I had it to do over I would have gotten a larger one. That one quibble aside I love it. The fit and finish is great. The setup was pretty easy - plug and play. Having a smaller desk is actually forcing me to remove a bunch of stuff and find diffrent homes for it, so I guess it's a win? Also the old desk was very thick, so I had to use a board to attach the clamps for the light and the mic. The new desk is the correct thickness, so I have a lot more choices about location.
 
 ![Desk](/binaries/2022/10/IMG_0095.png)
