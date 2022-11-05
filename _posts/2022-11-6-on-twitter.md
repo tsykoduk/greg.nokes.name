@@ -1,11 +1,11 @@
 ---
 id: 16800
 title: On Twitter, or the End of an Era
-date: 2022-11-06
+date: 2022-11-04
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16800
-permalink: /2022/11/06/on-twitter/
+permalink: /2022/11/04/on-twitter/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
