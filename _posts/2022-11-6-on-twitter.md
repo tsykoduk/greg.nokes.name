@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/11/twitter.jpeg" width="150" alt="Twitter 15 year badge"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
-I am sure that you have [heard](https://www.nbcnews.com/tech/misinformation/twitter-fires-employees-fight-misinformation-midterm-elections-rcna55750) the [news](https://www.cnn.com/videos/business/2022/11/04/elon-musk-twitter-layoffs-baron-interview-contd-orig-gr.cnn-business) about [twitter](https://www.ign.com/articles/social-media-alternatives-to-twitter-bluesky-reddit-cohost-mastodon). Any long time readers will know that I have been a long time user of that particular site.
+I am sure that you have [heard](https://www.nbcnews.com/tech/misinformation/twitter-fires-employees-fight-misinformation-midterm-elections-rcna55750) the [news](https://www.cnn.com/videos/business/2022/11/04/elon-musk-twitter-layoffs-baron-interview-contd-orig-gr.cnn-business) about [twitter](https://www.ign.com/articles/social-media-alternatives-to-twitter-bluesky-reddit-cohost-mastodon). Any readers will know that I have been a long time user of that particular site.
 
 I had spent a lot of time building a heavily curated experience there - with carefully selected follows to build a news stream that appeared to reflect reality.
 
