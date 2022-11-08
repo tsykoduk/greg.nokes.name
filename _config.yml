@@ -34,8 +34,10 @@ plainwhite:
   tagline: |
           A wayward journey
           into the depths of sanity
+# Set to true to enable dark mode
   dark_mode: false
-  sitemap: true # set to true to generate sitemap.xml content
+ # set to true to generate sitemap.xml content
+  sitemap: false 
  # navigation:
  #   title: About
  #   url: "/about"
@@ -43,11 +45,10 @@ plainwhite:
   date_format: "%b %-d, %Y"
     
   social_links:
-   # twitter: tsykoduk
     github: tsykoduk
     linkedIn: in/gregnokes
     mastodon:
-     - username: greg
+       username: greg
        instance: social.nokes.name 
 
 ############################################################
