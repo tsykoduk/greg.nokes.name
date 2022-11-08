@@ -35,6 +35,7 @@ plainwhite:
           A wayward journey
           into the depths of sanity
   dark_mode: true
+  sitemap: true # set to true to generate sitemap.xml content
  # navigation:
  #   title: About
  #   url: "/about"
@@ -42,9 +43,13 @@ plainwhite:
   date_format: "%b %-d, %Y"
     
   social_links:
-    twitter: tsykoduk
+   # twitter: tsykoduk
     github: tsykoduk
-    linkedIn: in/gregnokes 
+    linkedIn: in/gregnokes
+    # Mastodon instances
+    mastodon:
+     - username: greg
+       instance: social.nokes.name 
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
