@@ -34,7 +34,7 @@ plainwhite:
   tagline: |
           A wayward journey
           into the depths of sanity
-  dark_mode: true
+  dark_mode: false
   sitemap: true # set to true to generate sitemap.xml content
  # navigation:
  #   title: About
@@ -46,7 +46,6 @@ plainwhite:
    # twitter: tsykoduk
     github: tsykoduk
     linkedIn: in/gregnokes
-    # Mastodon instances
     mastodon:
      - username: greg
        instance: social.nokes.name 
