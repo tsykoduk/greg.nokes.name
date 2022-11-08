@@ -1,6 +1,7 @@
 url: https://greg.nokes.name
 title: DaRoost
 description: 'A wayward journey in the depths of sanity'
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # theme: type-on-strap
 # theme: minima
@@ -25,9 +26,10 @@ highlighter:      rouge
 # sidebar_home_link:  true
 # paginate:         5
 
-
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned','static.json','update.sh', 'app.json']
 
+sass:
+  sass_dir: _sass
 plainwhite:
   name: DaRoost
   show_excerpts: true
