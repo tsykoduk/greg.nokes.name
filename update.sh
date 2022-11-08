@@ -67,7 +67,7 @@ git stash pop
 
 if command -v heroku &> /dev/null
 then
-  heroku logs -t -a mysterious-depths-92606
+  heroku logs -t -a greg-nokes-name-staging
 else
   echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
 fi
