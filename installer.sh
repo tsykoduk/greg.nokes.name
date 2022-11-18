@@ -4,7 +4,7 @@
 
 
 #git the latest updates
-
+rm Gemfile.lock # we should only use the upstream Gemfile - if the lock was overwritten, that could force us to not pull the latest
 git pull origin main
 
 # test for ruby version, install updated version if we are lagging
