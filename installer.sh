@@ -33,4 +33,4 @@ bundle update
 
 # generate the site, and move it into the hosting directory
 
-bundle exec jekyll build --destination --verbose ~/sites/greg.nokes.name/
+bundle exec jekyll build --verbose --destination ~/sites/greg.nokes.name/
