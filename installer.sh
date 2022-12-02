@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
 
+#insure that rbenv is working
+eval "$(rbenv init -)"
+
+
 #let's set up the enviroment
 
+#this gives the local ruby according to rbenv ex 3.1.2
 
 #git the latest updates
 rm Gemfile.lock # we should only use the upstream Gemfile - if the lock was overwritten, that could force us to not pull the latest
@@ -10,9 +15,9 @@ git pull origin main
 # test for ruby version, install updated version if we are lagging
 
 expected_ruby=$(<.ruby-version) #this gives ex 3.1.2
-installed_ruby=$(rbenv local)
+installed_ruby=$(rbenv local) 
 
-if [[ "$expected_ruby" == "$installed_ruby" ]]
+if [[ $expected_ruby == $installed_ruby ]]
 then
 	echo "ruby good, pressing on"
 else
