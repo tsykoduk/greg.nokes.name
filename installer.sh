@@ -24,8 +24,8 @@ else
 	echo "installing updated ruby"
 	rbenv install $expected_ruby -s
 	rbenv local $expected_ruby
+	gem install bundler
 fi
-
 
 # fresh gems are good gems bundle update
 
