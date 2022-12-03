@@ -2,6 +2,9 @@
 
 #Let's check to see if we need to do anything
 
+# git the latest updates
+git remote update
+
 UPSTREAM=${1:-'@{u}'}
 LOCAL=$(git rev-parse @)
 REMOTE=$(git rev-parse "$UPSTREAM")
