@@ -5,14 +5,16 @@
 # git the latest updates
 git remote update
 
-UPSTREAM=${1:-'@{u}'}
-LOCAL=$(git rev-parse @)
-REMOTE=$(git rev-parse "$UPSTREAM")
-BASE=$(git merge-base @ "$UPSTREAM")
+git_remote=${1:-'@{u}'}
+local=$(git rev-parse @)
+remote=$(git rev-parse "$git_remote")
+base=$(git merge-base @ "$git_remote")
 
-if [ $LOCAL = $REMOTE ]; then
+if [[ $local = $remote ]] 
+then
     echo "Up-to-date, nothing to do"
-elif [ $LOCAL = $BASE ]; then
+elif [[ $local = $base ]] 
+then
     echo "Need to pull and update"
 	#insure that rbenv is working
 	eval "$(rbenv init -)"
@@ -42,7 +44,7 @@ elif [ $LOCAL = $BASE ]; then
 	# generate the site, and move it into the hosting directory
 	bundle exec jekyll build --verbose --destination ~/sites/greg.nokes.name/
 else
-    echo "Diverged"
+    echo "Something went well and truly wrong"
 fi
 
 
