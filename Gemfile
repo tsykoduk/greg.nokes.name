@@ -26,22 +26,11 @@ gem "jekyll" #, "~> 4.0.0"
 #  gem "jekyll-feed"
 #end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-#gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-#Theme
-# gem "jekyll-theme-hydeout" #, "~> 3.3"
 gem "plainwhite"
-
-#gem 'rack-ssl-enforcer'
-#gem "hyde"
 gem "jekyll-paginate-v2"
 gem 'kramdown'
 gem 'coderay'
-#gem 'rack-jekyll'
 gem 'rake'
-#gem 'puma'
-# gem "barnes"
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem "jekyll-gist"
