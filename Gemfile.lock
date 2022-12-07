@@ -70,7 +70,7 @@ GEM
     plainwhite (0.13)
       jekyll (>= 3.7.3)
       jekyll-seo-tag (>= 2.1.0)
-    public_suffix (5.0.0)
+    public_suffix (5.0.1)
     rake (13.0.6)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
@@ -91,6 +91,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-22
   armv7l-linux-eabihf
   x86_64-darwin-20
   x86_64-darwin-21
@@ -113,4 +114,4 @@ RUBY VERSION
    ruby 3.1.2p20
 
 BUNDLED WITH
-   2.3.7
+   2.3.26
