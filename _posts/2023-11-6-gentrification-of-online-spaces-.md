@@ -5,7 +5,7 @@ date: 2022-12-19
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16900
-permalink: /2022/12/19/gentrification-of-online-spaces
+permalink: /2022/12/19/gentrification-of-online-spaces/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
