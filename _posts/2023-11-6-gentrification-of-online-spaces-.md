@@ -14,13 +14,15 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/12/Gentrification.jpg" width="150" alt="Twitter 15 year badge"><br />
 <sub><i>Image by <a href="https://www.flickr.com/photos/aestheticsofcrisis/24903353707">Julia Tulke</a></i></sub></div>
 
-As someone who has been around online communities far longer then I'd like to admit, I have lived through many waves of community building, discovery and colonization. While I do not feel that an online community being gentrified is the same as a physical community suffering this fate, I do feel that there are lessions and observations that we can take from both sides of the experience. I also feel that we are seeing this same thing happening yet again on Mastodon.
+I have been around online communities far longer then I'd like to admit. And I have lived through many waves of community building, discovery and colonization. One of the problems that I have seen happen over and over is a form gentrification of online communities.
 
-<!--more-->
+I do not feel that an online community being gentrified is the same as a physical community suffering this fate. I do feel that there are lessions and observations that we can take from both sides of the experience. I also feel that we are seeing this same thing happening yet again in the Fediverse.
+
+<!-- more -->
 
 Since my experience is primarily as a member of online communities I am going to stick to my lived experiences. 
 
-Some internet communities are built or started out of marginalized or counter-culture folks finding new ways to connect. Think the dial up BBS's, IRC or early forums. That was really it in the early days.
+Some internet communities started out of marginalized or counter-culture folks finding new ways to connect. Think the dial up BBS's, IRC or early forums. That was really it in the early days.
 
 The early days of FIDOnet, WWIV and the Cyperpunks mailing lists where where my online persona was born. All you had to have was a modem and some sort of personal computer. The internet (and the smaller networks of FidoNet and WWIV and other BBS's) was a magical place for geeky little me. I could find people who had similar interests, and easily interact with them. Things like video games, Role Playing Games, Physics, and of course computers. In the 80's and early 90's finding folks who were into D&D was hard! It was not nearly as popular as it is these days.
 
