@@ -1,11 +1,11 @@
 ---
 id: 16900
 title: Gentrification of online spaces
-date: 2022-12-19
+date: 2022-12-20
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16900
-permalink: /2022/12/19/gentrification-of-online-spaces/
+permalink: /2022/12/20/gentrification-of-online-spaces/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
@@ -24,8 +24,6 @@ Some internet communities are built or started out of marginalized or counter-cu
 
 The early days of FIDOnet, WWIV and the Cyperpunks mailing lists where where my online persona was born. All you had to have was a modem and some sort of personal computer. The internet (and the smaller networks of FidoNet and WWIV and other BBS's) was a magical place for geeky little me. I could find people who had similar interests, and easily interact with them. Things like video games, Role Playing Games, Physics, and of course computers. In the 80's and early 90's finding folks who were into D&D was hard! It was not nearly as popular as it is these days.
 
-We really embraced the counter-culture mantle. I don't think I actually watched any broadcast TV for years long swaths of the 90's. 
-
 <div style="float: right; padding: 0 10px 10px 0;"><img src="/binaries/2022/12/HkInsertFront.jpg" width="150" alt="Twitter 15 year badge"><br />
 <sub><i>Image by <a href="https://www.insoc.org/DiscHk.html">Information Society</a></i></sub></div>
 
@@ -34,20 +32,30 @@ technology, computers, the internet. We were young and idealistic.
 
 We failed badly. We ceded control of our spaces to capitalist driven concerns. We thought that we were partnering with them. However when profit vs doing right was the concern, the corps did what corps do. They chose profits over doing the right thing. 
 
-Since we had ceded our control over these spaces, what could we do? We watched as our communities were strip mined for value. We watched as the castles we built in our minds and on the internet were parted out, most thrown aside, and the valuable bits made into something almost unrecognizable.
+Since we had ceded our control over these spaces, what could we do? We watched as our communities were strip mined for value. We watched as the castles we built in our minds and on the internet were parted out, thrown aside, and the valuable bits made into something almost unrecognizable.
 
 And the crowds. I recall a time when you could read each tweet as it was posted. When there was a sense of community. I recall "tweet ups", BBS Pizza Parties, and evenings spent chatting with folks across town and across the world.
 
-With the mainstreaming of these spaces, it feels like we built a theme park and had it to our selves for a while. And then the doors opened.
+With the mainstreaming of these spaces, it feels like we built a theme park and had it to our selves for a while. And then the doors opened. New folks flooded goaded by growth hackers and hyper growth mentality. Problems like curation, safety and moderation were pushed off and underfunded in the name of growth.
 
 We have done a very bad job of teaching the new folks they way that it was, the way that it could be. The floodgates opened, and folks just logged in, walked around, and started to spend money. Folks assume that Facebook is the internet. That Twitter and Amazon are. And that's almost true nowadays.
+
+I hope that we can do a better job as folks seem to move into the Fediverse. I'm. already seeing some folks set up accounts and start to question why things that the Mastodon community set up they way the did, or worse, ignoring norms and safeguards.
+
+Don't do that. When you join an existing community, you should be respectful. You should take time to learn the rules engagement. The agreements on how to behave. The Fediverse is not twitter, and I feel that is a very good thing. 
+
+We saw where the Twitter road lead to - [The Klept](https://doctorow.medium.com/jackpot-watch-e67f2d84194f) becoming fearful of the grassroots organization tools that Twitter gave to people, buying and destroying it. Decentralized systems like Mastodon have a built in defense against The Klept. It's open source and decentralized. There is nothing to "buy" and light on fire.
 
 There were a lot of reasons that folks divested their control. One of the main ones was money. It's expensive and hard to run a service. It's far easier to pay someone to run it for you. And that's the thing. When you use a "free" service like Twitter or Facebook, the experience is good. The apps work well. The services keep up with the load. 
 
 But how are they paying for the developers and systems folks to build and run all of that?
 
-Because you are not the customer. You are not the person that is paying for it. You are the product. You are being sold. Your attention, your eyeballs, your time, your ability to spend money, your ability to create content is what is being sold. At one time, that trade off has made sense to most of us. We want the experience, we crave the connection. We willingly give access to our contacts, our photos, our location and our thoughtsSS in exchange for access to Facebook, Twitter, what have you.
+Because you are not the customer. You are not the person that is paying for it. You are the product. You are being sold. Your attention, your eyeballs, your time, your ability to spend money, your ability to create content is what is being sold. At one time, that trade off has made sense to most of us. We want the experience, we crave the connection. We willingly give access to our contacts, our photos, our location and our thoughts in exchange for access to Facebook, Twitter, or what have you.
 
-But this is not the real internet. It's not what we dreamed when we dreamed of what the new century would look like. This is a soul sucking, profit driven, capitalist dream.
+But this is not the real internet. It's not what we dreamed when we dreamed of what the new century would look like. This is a profit driven, capitalist dream.
 
-I've often said that internet access should be a public utility. I would go further and posit that the spaces should be community owned as well.
+I've often said that internet access should be a public utility. I would go further and posit that the spaces should be community owned as well. Things like Twitter and Facebook should be run like [PBS](https://www.pbs.org/foundation/) or [NPR](https://www.npr.org/about/). We need to level the playing field, and insure that all people have equal access to true information and the ability to access services and information on the Internet.
+
+Of course this ties back to [Net Neutrality](https://en.wikipedia.org/wiki/Net_neutrality). With out equal access, fledging services may not have the ability to gather a audience. If the substrate your customers use to access your service allows your competitor to load 2 or 3 seconds faster, who do you think folks will gravitate to?
+
+We need equal and fair access to services. We need to remove the profit from running what should be public services. We need to insure everyone has access to truthful, fair and easy to understand information and education.
