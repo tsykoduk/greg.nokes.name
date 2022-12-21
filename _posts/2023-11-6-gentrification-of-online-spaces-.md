@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 
 I have been around online communities far longer then I'd like to admit. And I have lived through many waves of community building, discovery and colonization. One of the problems that I have seen happen over and over is a form of gentrification of online communities.
 
-I do not feel that an online community being gentrified is the same as a physical community suffering this fate. I do feel that there are lessions and observations that we can take from both sides of the experience. I also feel that we are seeing this same thing happening yet again in the Fediverse.
+I do not feel that an online community being gentrified is the same as a physical community suffering this fate. I do feel that there are lessons and observations that we can take from both sides of the experience. I also feel that we are seeing this same thing happening again in the Fediverse.
 
 <!--more-->
 
