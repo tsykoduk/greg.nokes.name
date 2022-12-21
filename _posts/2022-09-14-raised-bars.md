@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/09/bars_picture.png" width="150" alt="blue, yellow and red glow sticks on a glass topped desk"><br />
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/09/bars_picture.png" width="150" alt="blue, yellow and red glow sticks on a glass topped desk"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
 As we make things more complex, do we make things better? Are we lowering the bar to entry or raising it? 
