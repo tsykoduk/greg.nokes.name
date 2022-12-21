@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/12/Gentrification.jpg" width="150" alt="Twitter 15 year badge"><br />
+<div style="float: right; padding: 0 10px 10px 0;"><img src="/binaries/2022/12/Gentrification.jpg" width="150" alt="Twitter 15 year badge"><br />
 <sub><i>Image by <a href="https://www.flickr.com/photos/aestheticsofcrisis/24903353707">Julia Tulke</a></i></sub></div>
 
 I have been around online communities far longer then I'd like to admit. And I have lived through many waves of community building, discovery and colonization. One of the problems that I have seen happen over and over is a form of gentrification of online communities.
@@ -26,7 +26,7 @@ Some internet communities started out of marginalized or counter-culture folks f
 
 The early days of FIDOnet, WWIV and the Cyperpunks mailing lists where where my online persona was born. All you had to have was a modem and some sort of personal computer. The internet and the smaller networks of FidoNet or WWIV and other BBS's was a magical place for geeky little me. I could find people who had similar interests, and easily interact with them. Things like video games, Role Playing Games, Physics, and of course computers. In the 80's and early 90's finding folks who were into D&D was hard! It was not nearly as popular as it is these days.
 
-<div style="float: right; padding: 0 10px 10px 0;"><img src="/binaries/2022/12/HkInsertFront.jpg" width="150" alt="Twitter 15 year badge"><br />
+<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/12/HkInsertFront.jpg" width="150" alt="Twitter 15 year badge"><br />
 <sub><i>Image by <a href="https://www.insoc.org/DiscHk.html">Information Society</a></i></sub></div>
 
 We were proudly punks. We walked away from as much of the trappings of commercialism and polity society as we could. Our mantra was rebuilding the world. Our tools were 
