@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="150" alt="purple lit buddha with a black cowboy hat"><br />
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="150" alt="purple lit buddha with a black cowboy hat"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
 Well, if you have not seen it yet, [Heroku is removing its free tier on November 28nd, 2022](https://blog.heroku.com/next-chapter).
