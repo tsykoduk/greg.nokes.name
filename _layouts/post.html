@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-{%- assign date_format = site.plainwhite.date_format | default: "" -%}
+{%- assign date_format = site.plainwhite.date_format -%}
 
-<-- this appears to break with Ruby 3.2
-{%- #assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
--->
+
 <div class="post-container">
   <a class="post-link" href="{{ page.url | relative_url }}">
     <h2 class="post-title">{{ page.title | escape }}</h2>
