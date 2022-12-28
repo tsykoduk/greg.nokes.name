@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/11/twitter.jpeg" width="150" alt="Twitter 15 year badge"><br />
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/11/twitter.jpeg" width="150" alt="Twitter 15 year badge"><br />
 <sub><i>Image by <a href="https://twitter.com/tsykoduk">tsykoduk</a></i></sub></div>
 
 I am sure that you have [heard](https://www.nbcnews.com/tech/misinformation/twitter-fires-employees-fight-misinformation-midterm-elections-rcna55750) the [news](https://www.cnn.com/videos/business/2022/11/04/elon-musk-twitter-layoffs-baron-interview-contd-orig-gr.cnn-business) about [twitter](https://www.ign.com/articles/social-media-alternatives-to-twitter-bluesky-reddit-cohost-mastodon). 
