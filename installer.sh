@@ -50,7 +50,6 @@ then
 
 	# fresh gems are good gems bundle update
 	bundle update
-	bundle clean
 
 	# generate the site, and move it into the hosting directory
 	bundle exec jekyll build --verbose --destination ~/sites/greg.nokes.name/
