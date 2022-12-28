@@ -1,5 +1,10 @@
 source "https://rubygems.org"
 
+
+#Let's get in the Ruby 2.7 train --- uh like that was years ago
+
+#LET'S GO RUBY 3.2!
+
 ruby "~> 3.1.2"
 
 # Hello! This is where you manage which Jekyll version is used to run.
