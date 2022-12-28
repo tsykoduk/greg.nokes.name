@@ -41,7 +41,10 @@ then
 			#make sure bundle is updated
 			gem install bundler
 		else
+			# what if rbenv does not support this version of ruby??
 			echo "Woops, that version of ruby did not install"
+			#bail out
+			exit 1
 		fi
 	fi
 
