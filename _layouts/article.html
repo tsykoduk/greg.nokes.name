@@ -28,20 +28,6 @@
         <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
       </h2>
       </div>
-      <p class="about-footer {{condensed_class}}">&copy; 2004 to {{ "now" | date: "%Y" }} <a rel="me" href="https://social.nokes.name/@greg">Greg Nokes</a>
-</p>
-		  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-      {%- if site.plainwhite.dark_mode -%}
-      <div class="about-footer {{condensed_class}}">
-        <p>Dark Mode
-          <i class="icon-moon"></i>
-          <label class="switch">
-            <input type="checkbox" class="dark-mode-toggle">
-            <span class="slider round" onclick="toggleDarkMode()"></span>
-          </label>
-        </p>
-      </div>
-      {%- endif -%}
     </section>
 
 <section class="content">
@@ -51,6 +37,20 @@
       {{ footer }}
 
     <footer class="{{condensed_class}}">
+		      <p class="about-footer {{condensed_class}}">&copy; 2004 to {{ "now" | date: "%Y" }} <a rel="me" href="https://social.nokes.name/@greg">Greg Nokes</a>
+		</p>
+				  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+		      {%- if site.plainwhite.dark_mode -%}
+		      <div class="about-footer {{condensed_class}}">
+		        <p>Dark Mode
+		          <i class="icon-moon"></i>
+		          <label class="switch">
+		            <input type="checkbox" class="dark-mode-toggle">
+		            <span class="slider round" onclick="toggleDarkMode()"></span>
+		          </label>
+		        </p>
+		      </div>
+		      {%- endif -%}
       {{ footer }}
     </footer>
   </main>
