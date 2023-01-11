@@ -27,7 +27,12 @@
       <h2 id="title">
         <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
       </h2>
-      </div> 
+      </div>
+	  
+      <section class="content">
+        {{ content }}
+      </section>
+	   
       <p class="about-footer {{condensed_class}}">&copy; 2004 to {{ "now" | date: "%Y" }} <a rel="me" href="https://social.nokes.name/@greg">Greg Nokes</a>
 </p>
 		  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
@@ -43,9 +48,6 @@
       </div>
       {%- endif -%}
       {{ footer }}
-    </section>
-    <section class="content">
-      {{ content }}
     </section>
     <footer class="{{condensed_class}}">
       {{ footer }}
