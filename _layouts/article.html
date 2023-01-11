@@ -25,13 +25,12 @@
         {% endif %}
       </a>
       <h2 id="title">
-        <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
+        <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}HECK</a>
       </h2>
       </div> 
       <p class="about-footer {{condensed_class}}">&copy; 2004 to {{ "now" | date: "%Y" }} <a rel="me" href="https://social.nokes.name/@greg">Greg Nokes</a>
 </p>
 		  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-		  <!-- <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> -->
       {%- if site.plainwhite.dark_mode -%}
       <div class="about-footer {{condensed_class}}">
         <p>Dark Mode
@@ -64,11 +63,6 @@
     gtag('config', '{{ site.plainwhite.analytics_id }}');
   </script>
   {%- endif -%}
-
-  {% if site.plainwhite.search %}
-  <script src="{{ "/assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
-  <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
-  {% endif %}
       </section>
     </main>
 	<!-- Fathom - beautiful, simple website analytics -->
