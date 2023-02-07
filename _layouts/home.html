@@ -37,6 +37,8 @@ layout: default
         <div class="post">
             {{ post.excerpt }}
         </div>
+			<br />
+			 <a class="post-link" href="{{ post.url | relative_url }}">Read More...</a>
       </li>
     {%- endfor -%}
   </ul>
