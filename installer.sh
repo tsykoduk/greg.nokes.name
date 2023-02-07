@@ -20,14 +20,15 @@ then
 	eval "$(rbenv init -)"
 	#let's set up the enviroment
 
+	#we should only use the upstream  - if anything was overwritten, that could force us to not pull the latest
+	git stash
 	#git the latest updates
-	#rm Gemfile.lock # we should only use the upstream Gemfile - if the lock was overwritten, that could force us to not pull the latest
 	git pull origin main
 
 	# test for ruby version, install updated version if we are lagging
 	#ruby-version file may not be up to date. better to parse the Gemfile.lock
 	#expected_ruby=$(<.ruby-version) #this gives ex 3.1.2
-	expected_ruby=$(cat Gemfile |grep "ruby \"~>"|sed 's\ruby "~>\\'| sed 's/.$//') #this gives ex 3.1.2
+	expected_ruby=$(cat Gemfile |grep "ruby \"~>"|sed 's/ruby "~>//'| sed 's/.$//') #this gives ex 3.1.2
 	installed_ruby=$(rbenv local) 	#this gives the local ruby according to rbenv ex 3.1.2
 
 	if [[ $expected_ruby == $installed_ruby ]]
