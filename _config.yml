@@ -19,6 +19,7 @@ plugins:
   - jekyll-sitemap
   - kramdown
   - jekyll-environment-variables
+  - jekyll-remote-theme
 
 markdown:         kramdown
 highlighter:      rouge

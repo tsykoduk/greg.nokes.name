@@ -27,7 +27,8 @@ gem "jekyll" #, "~> 4.0.0"
 #  gem "jekyll-feed"
 #end
 
-gem "plainwhite"
+gem "jekyll-remote-theme"
+#gem "plainwhite"
 gem "jekyll-paginate-v2"
 gem 'kramdown'
 gem 'coderay'
