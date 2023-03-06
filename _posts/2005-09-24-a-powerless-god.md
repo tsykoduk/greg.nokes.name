@@ -9,7 +9,7 @@ permalink: /2005/09/24/a-powerless-god/
 categories:
   - Philosophy! and Politics!
 ---
-<blockquote>'God is weak and powerless in the world, and that is exactly the way, the only way, in which he can be with us and help us.â€</blockquote>
+<blockquote>'God is weak and powerless in the world, and that is exactly the way, the only way, in which he can be with us and help us.</blockquote>
 
 <p>-<a href="http://waiterrant.net/?p=200">Waiter Rant</a> and Father <a href="http://en.wikipedia.org/wiki/Dietrich_Bonhoeffer">Dietrich Bonhoeffer</a></p>
 
@@ -29,4 +29,4 @@ categories:
 <p>To me, If there is a God, he should appreciate good works. Even if we do not give him homage. If we practice love and oppose evil, should he not welcome us? If he is such a petty God that he would not love us for who we are if we do not pay lip service to him... well, He would not be worth my respect.</p>
 
 
-<p>I choose not to believe that. Since faith is belief in something that cannot be proven or disproved, I choose to believe that God's Infinite Love&#8482; allows him to look into our souls and see what kind of person we are. If he in fact exists, after I die, he will see that I was mostly good, mostly harmless and usually attempted to act with my and others best interest in mind. I also choose to believe in <a href="http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster"><span class="caps">FSM</span></a>.</p>
+<p>I choose not to believe that. Since faith is belief in something that cannot be proven or disproved, I choose to believe that God's Infinite Love allows him to look into our souls and see what kind of person we are. If he in fact exists, after I die, he will see that I was mostly good, mostly harmless and usually attempted to act with my and others best interest in mind. I also choose to believe in <a href="http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster"><span class="caps">FSM</span></a>.</p>

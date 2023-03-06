@@ -1,11 +1,11 @@
 ---
 id: 952
-title: 'Buddhism - Week 2 - Suffering and the path'
+title: Suffering and the path
 date: 2005-10-09T12:49:40+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/buddhism-week-2-suffering-and-the-path
-permalink: /2005/10/09/buddhism-week-2-suffering-and-the-path/
+guid: 30/2008/12/27/suffering-and-the-path
+permalink: /2005/10/09/suffering-and-the-path/
 categories:
   - Philosophy! and Politics!
 ---

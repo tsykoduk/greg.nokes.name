@@ -1,11 +1,11 @@
 ---
 id: 999
-title: 'Week 5: The Eightfold Path'
+title: The Eightfold Path
 date: 2005-10-31T08:00:02+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/week-5-the-eightfold-path
-permalink: /2005/10/31/week-5-the-eightfold-path/
+guid: 30/2008/12/27/the-eightfold-path
+permalink: /2005/10/31/the-eightfold-path/
 categories:
   - Philosophy! and Politics!
 ---

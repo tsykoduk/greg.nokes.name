@@ -1,20 +1,14 @@
 ---
 id: 920
-title: 'Weekly Buddhism - Week 1'
+title: On Suffering
 date: 2005-09-30T20:28:59+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/weekly-buddhism-week-1
-permalink: /2005/09/30/weekly-buddhism-week-1/
+guid: 30/2008/12/27/on-suffering
+permalink: /2005/09/30/on-suffering/
 categories:
   - Philosophy! and Politics!
 ---
-<p>I think that I am going to try and write an article on a specific portion of Buddhism each week. This will help me learn more, as I am forced to explore the philosophy more and more.</p>
-
-
-<p>So, let's start at the beginning.</p>
-
-
 <p><strong>The Four Noble Truths</strong></p>
 
 
@@ -47,33 +41,33 @@ categories:
 <p>When we are driving, and some one cuts us off - how do we react? Usually we get angry. We say some not to nice things about that person. Compassion is when you try and understand that that person is simply attempting to escape from or mitigate his suffering. Perhaps they are late, and are concerned that they will be in trouble? Perhaps they simply do not care about others, and are only thinking of themselves.</p>
 
 
-<blockquote>'Hey Jake,â€ I say calling my newest waiter over,â€ check this shit out.â€
+<blockquote>"Hey Jake" I say calling my newest waiter over,  "check this shit out"</p>
 
-<p>After I relate the story Jake smiles and says, 'When I wake up in the morning you know what I sometimes say to myself?â€</p>
-
-
-<p>'What?â€ I reply.</p>
+<p>After I relate the story Jake smiles and says, 'When I wake up in the morning you know what I sometimes say to myself?'</p>
 
 
-<p>'I'm gonna win today,â€ he says.</p>
+<p>'What?' I reply.</p>
+
+
+<p>'I'm gonna win today,' he says.</p>
 
 
 <p>Jake's words hit me like a thunderbolt. Suddenly I understand why I mixed it up with the guy at the bank.</p>
 
 
-<p>'Sometimes you feel like you have to come out on top,â€ I say.</p>
+<p>'Sometimes you feel like you have to come out on top,' I say.</p>
 
 
-<p>'Exactly.â€</p>
+<p>'Exactly.'</p>
 
 
-<p>'Which, more often than not, is an illusion.â€</p>
+<p>'Which, more often than not, is an illusion.'</p>
 
 
-<p>'We're just wired that way I guess,â€ Jake says walking away.</p>
+<p>'We're just wired that way I guess,' Jake says walking away.</p>
 
 
-<p>I'm gonna win today. That's how I felt in the bank. That's how I felt on the highway and in Starbucks. Not a healthy sense of competition or ambition, just a grubby graspy feeling of 'I want what I want when I want it.â€ That attitude is more appropriate for those infants squealing in their Baby Hummers than a grown man.</blockquote></p>
+<p>I'm gonna win today. That's how I felt in the bank. That's how I felt on the highway and in Starbucks. Not a healthy sense of competition or ambition, just a grubby graspy feeling of 'I want what I want when I want it.' That attitude is more appropriate for those infants squealing in their Baby Hummers than a grown man.</blockquote></p>
 
 
 <p>-<a href="http://waiterrant.net/?p=207">Waiterrant</a></p>
@@ -103,6 +97,3 @@ categories:
 
 
 <p>Read the first Truth at <a href="http://www.buddhanet.net/4noble.htm">Buddhanet</a></p>
-
-
-<p>Tune in next week for the Second Noble Truth...</p>

@@ -10,7 +10,8 @@ categories:
   - Philosophy! and Politics!
 ---
 <blockquote>The Buddha said: "If outsiders speak against me, the Teaching, or the Order,  you should not be angry, for that would prevent your own self-conquest. Similarly, if they praise us. But you should find out what is false or true, and acknowledge  the fact. And even in praise it is only of trifling matters that an unconverted  man might speak of me."</blockquote>
-I am really intolerant of intolerant people!
+
+<p>I am really intolerant of intolerant people!</p>
 
 Thus goes the circle of hate and bigotry. I have read several comments to articles in the last weeks that have really hit this point home:
 <blockquote>I'm all for humor and poking fun. However these folks find the show offensive. If it was Buddha or Mohamad showing up would it be any less offensive?</blockquote>
@@ -25,6 +26,7 @@ Thus goes the circle of hate and bigotry. I have read several comments to articl
 
 
 I will leave with some thoughts from the Dalai Lama:
+
 <blockquote>Buddha always emphasized the rational pursuit of truth. "He instructed his disciples to critically judge his words before accepting them. He always advocated reason over blind faith."
 
 <p>"Buddha was speaking about reality," says the Dalai Lama. "Reality may be one, in its deepest essence, but Buddha also stated that all propositions about reality are only contingent. Reality is devoid of any  intrinsic identity that can be captured by any one single proposition ,  that is what Buddha meant by "voidness." Therefore, Buddhism strongly discourages blind faith and fanaticism."</p>
