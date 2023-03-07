@@ -9,9 +9,9 @@ permalink: /2005/10/31/the-eightfold-path/
 categories:
   - Philosophy! and Politics!
 ---
-> 1. Wisdom (panna)
-> Right Understanding (samma ditthi)
-> Right Aspiration (samma sankappa)
+> 1. Wisdom (panna)  
+> 2. Right Understanding (samma ditthi)  
+> 3. Right Aspiration (samma sankappa)  
 
 The first step on the Eightfold path is about understanding and knowledge. After all, if we do not know, we cannot do.
 
