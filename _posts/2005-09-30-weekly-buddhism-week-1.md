@@ -18,16 +18,13 @@ When the Buddha became enlightened, the first talk that he gave was about the Fo
 * Nirodha: There is a way out of suffering, which is to eliminate attachment and desire.
 * Magga: The path that leads out of suffering is called the Noble Eightfold Path.
 
-Dukkha sums up our experience.  We have all been unhappy, suffered, been depressed. This is called life. We have had our hearts broken, been passed up for a promotion.  It is summed up nicely in the cliche:
-
-_Life sucks and then you die_
-
+Dukkha sums up our experience.  We have all been unhappy, suffered, been depressed. This is called life. We have had our hearts broken, been passed up for a promotion.  It is summed up nicely in the cliche "_Life sucks and then you die_".
 
 >"And what have I taught? 'This is stress... This is the origination of stress... This is the cessation of stress... This is the path of practice leading to the cessation of stress': This is what I have taught. And why have I taught these things? Because they are connected with the goal, relate to the rudiments of the holy life, and lead to disenchantment, to dispassion, to cessation, to calm, to direct knowledge, to self-awakening, to Unbinding. This is why I have taught them.
 >
 >"Therefore your duty is the contemplation, 'This is stress... This is the origination of stress... This is the cessation of stress.' Your duty is the contemplation, 'This is the path of practice leading to the cessation of stress.'"
 
-- [Buddha](http://www.accesstoinsight.org/canon/sutta/samyutta/sn56-031.html)
+[Buddha](http://www.accesstoinsight.org/canon/sutta/samyutta/sn56-031.html)
 
 Realizing that suffering exists is the first step in obtaining happiness. Understanding it is the first step towards real compassion. When we see and understand that Suffering is _the_ common human bond, we can start to feel real compassion. It's sad, but I think that unhappiness is the primary motivator for most people out there. Their actions are trying to fill a void.
 
