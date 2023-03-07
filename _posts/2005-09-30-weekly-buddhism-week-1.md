@@ -66,7 +66,7 @@ We are wired to want to win in every interaction with each other. Part of compas
 
 Once we have that connection with others, it's easer to see that they are people just like us. People who worry about taxes, work, their love life. People who are not faceless enemies. People who love, laugh, and enjoy time with their children. People who hurt when their parents die. People who are saddened by the senseless death of their friends.
 
->The Pali word, dukkha, means "incapable of satisfying" or "not able to bear or withstand anything": always changing, incapable of truly fulfilling us or making us happy. The sensual world is like that, a vibration in nature. It would, in fact, be terrible if we did find satisfaction in the sensory world because then we wouldn't search beyond it; we'd just be bound to it. However, as we awaken to this dukkha, we begin to find the way out so that we are no longer constantly trapped in sensory consciousness.
+>The Pali word, dukkha, means "incapable of satisfying" or "not able to bear or withstand anything": Always changing, incapable of truly fulfilling us or making us happy. The sensual world is like that, a vibration in nature. It would, in fact, be terrible if we did find satisfaction in the sensory world because then we wouldn't search beyond it; we'd just be bound to it. However, as we awaken to this dukkha, we begin to find the way out so that we are no longer constantly trapped in sensory consciousness.
 
 [Buddhanet](http://www.buddhanet.net/4noble.htm)
 
