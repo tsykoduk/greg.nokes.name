@@ -28,7 +28,7 @@ Dukkha sums up our experience.  We have all been unhappy, suffered, been depress
 > "This is what I have taught."  
 > "And why have I taught these things? Because they are connected with the goal, relate to the rudiments of the holy life, and lead to disenchantment, to dispassion, to cessation, to calm, to direct knowledge, to self-awakening, to Unbinding. This is why I have taught them."  
 >   
-> "Therefore your duty is the contemplation:  
+> "Therefore your duty is the contemplation:"  
 > "This is stress..."  
 > "This is the origination of stress..."  
 > "This is the cessation of stress..."  
