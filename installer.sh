@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+# Script to build the site on a remote machine. Mostly works?
+# Requires rbenv, git
+# Expects to be run in the folder with the jekyll git repo, and will install to the following directory
+
+target_directory="~/sites/greg.nokes.name/"
+
+
 #Let's check to see if we need to do anything
 
 # git the latest updates
@@ -20,12 +27,15 @@ then
 	eval "$(rbenv init -)"
 	#let's set up the enviroment
 
+	#we should only use the upstream  - if anything was overwritten, that could force us to not pull the latest
+	git stash
 	#git the latest updates
-	rm Gemfile.lock # we should only use the upstream Gemfile - if the lock was overwritten, that could force us to not pull the latest
 	git pull origin main
 
 	# test for ruby version, install updated version if we are lagging
-	expected_ruby=$(<.ruby-version) #this gives ex 3.1.2
+	#ruby-version file may not be up to date. better to parse the Gemfile.lock
+	#expected_ruby=$(<.ruby-version) #this gives ex 3.1.2
+	expected_ruby=$(cat Gemfile |grep "ruby \"~>"|sed 's/ruby "~>//'| sed 's/.$//') #this gives ex 3.1.2
 	installed_ruby=$(rbenv local) 	#this gives the local ruby according to rbenv ex 3.1.2
 
 	if [[ $expected_ruby == $installed_ruby ]]
@@ -33,16 +43,24 @@ then
 		echo "ruby good, pressing on"
 	else
 		echo "installing updated ruby"
-		rbenv install $expected_ruby -s
-		rbenv local $expected_ruby
-		gem install bundler
+		if rbenv install $expected_ruby -s
+		then
+			rbenv local $expected_ruby
+			#make sure bundle is updated
+			gem install bundler
+		else
+			# what if rbenv does not support this version of ruby??
+			echo "Woops, that version of ruby did not install"
+			#bail out
+			exit 1
+		fi
 	fi
 
 	# fresh gems are good gems bundle update
 	bundle update
 
 	# generate the site, and move it into the hosting directory
-	bundle exec jekyll build --verbose --destination ~/sites/greg.nokes.name/
+	bundle exec jekyll build --verbose --destination $target_directory
 else
     echo "Something went well and truly wrong"
 fi
