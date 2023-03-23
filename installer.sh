@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+# Script to build the site on a remote machine. Mostly works?
+# Requires rbenv, git
+# Expects to be run in the folder with the jekyll git repo, and will install to the following directory
+
+target_directory="~/sites/greg.nokes.name/"
+
+
 #Let's check to see if we need to do anything
 
 # git the latest updates
@@ -53,7 +60,7 @@ then
 	bundle update
 
 	# generate the site, and move it into the hosting directory
-	bundle exec jekyll build --verbose --destination ~/sites/greg.nokes.name/
+	bundle exec jekyll build --verbose --destination $target_directory
 else
     echo "Something went well and truly wrong"
 fi
