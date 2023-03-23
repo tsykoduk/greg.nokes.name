@@ -14,7 +14,7 @@ tags:
 excerpt_separator:  <!--more-->
 ---
 
-<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2011/03/backblaze_term.png" width="150" alt="Linux Terminal showing a lot of drives"><br />
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2011/03/backblaze_term.png" width="150" alt="Linux Terminal showing a lot of drives"></div><br />
 
 With the advent of low cost, high capacity storage solutions, and really easy SAN tools baked into most linux distros, a DIY SAN solution is a lot easier then it might seem.
 
