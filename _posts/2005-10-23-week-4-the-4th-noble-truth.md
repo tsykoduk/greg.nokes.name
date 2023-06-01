@@ -1,11 +1,11 @@
 ---
 id: 979
-title: 'Week 4: The 4th Noble Truth'
+title: The 4th Noble Truth
 date: 2005-10-23T20:57:39+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/week-4-the-4th-noble-truth
-permalink: /2005/10/23/week-4-the-4th-noble-truth/
+guid: 30/2008/12/27the-4th-noble-truth
+permalink: /2005/10/23/the-4th-noble-truth/
 categories:
   - Philosophy! and Politics!
 ---
@@ -43,7 +43,7 @@ Right Concentration (samma samadhi)</blockquote></p>
 <p>- <a href="http://www.buddhanet.net/4noble.htm">The Four Noble Truths</a></p>
 
 
-<p>As we spoke about <a href="https://greg.nokes.name/2005/10/09/buddhism-week-2-suffering-and-the-path/">last time</a>, suffering and pain is a very real part of the world that we find ourselves in. By understanding that desire and wanting is the root of all suffering, we can start to elevate ourselves above it. We are still part of the world. However we see, and act differently when we understand that everything suffers, that everything is impermeant, and that desire fuels our suffering.</p>
+<p>As we spoke about <a href="https://greg.nokes.name/2005/10/09/suffering-and-the-path/">last time</a>, suffering and pain is a very real part of the world that we find ourselves in. By understanding that desire and wanting is the root of all suffering, we can start to elevate ourselves above it. We are still part of the world. However we see, and act differently when we understand that everything suffers, that everything is impermeant, and that desire fuels our suffering.</p>
 
 
 <p>When we put our desire on something - be it physical (I want this new car), spiritual (I want to be a better person) or personal (I hope s/he loves me) we attach energy to that object. When that object is not as we wish it, or when it fails us (as everything will, due to nothing being permeant) we feel suffering due to the loss of that energy. We give it power over our feelings and our lives.</p>

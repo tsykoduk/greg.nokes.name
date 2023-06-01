@@ -10,7 +10,7 @@ categories:
   - Philosophy! and Politics!
   - Science!
 ---
-I am currently reading '<a href=http://www.randomhouse.com/crown/catalog/display.pperl?isbn=1400080797>The Quantum and the Lotus</a>' , a very good book. It talks about the convergence between modern scientific theory and Buddhist philosophy.
+I am currently reading '<a href="http://www.randomhouse.com/crown/catalog/display.pperl?isbn=1400080797">The Quantum and the Lotus</a>' , a very good book. It talks about the convergence between modern scientific theory and Buddhist philosophy.
 
 One of the passages talks about how reality is an illusion, and how we collectivity determine what reality is. Now this has interesting ramifications. For example, if you were to live in a culture where everyone believed in pixies, then perhaps they would actually exist, as far as that culture extended.
 

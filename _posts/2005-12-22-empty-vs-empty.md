@@ -11,7 +11,8 @@ categories:
 ---
 Justus posed an interesting question in a comment. I really felt that it needed more then just a comment in reply, as sometimes the paradox itself is central to the lesson
 <blockquote>But shouldn't we become childlike instead of knowing things like that we are insignifigant?</blockquote>
-Yes.
+
+<p>Yes.</p>
 
 <p>Also:</p>
 

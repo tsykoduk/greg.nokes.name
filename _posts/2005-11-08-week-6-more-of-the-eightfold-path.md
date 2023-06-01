@@ -1,11 +1,11 @@
 ---
 id: 1040
-title: 'Week 6: More of the Eightfold Path'
+title: More of the Eightfold Path
 date: 2005-11-08T12:15:17+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/week-6-more-of-the-eightfold-path
-permalink: /2005/11/08/week-6-more-of-the-eightfold-path/
+guid: 30/2008/12/27/more-of-the-eightfold-path
+permalink: /2005/11/08/more-of-the-eightfold-path/
 categories:
   - Philosophy! and Politics!
 ---
