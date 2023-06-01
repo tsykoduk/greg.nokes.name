@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/05/buddha-by-david-bartus-2873473.jpg" width="150" alt="Buddha in a Garden"><br />
 <sub><i>Image by <a href="https://www.pexels.com/@david-bartus-43782/">David Bartus</a></i></sub></div>
 
-In the fast-paced world of leadership, where results and bottom lines often take center stage. It’s important to pause and reflect on empathy and compassion. I often think about how we can take the concepts of Buddhism and apply them to the modern world. I feel this can offer valuable insights for nurturing compassionate leadership. By weaving these principles into leadership, we can foster a more harmonious and inclusive work environment while driving meaningful results.
+In the fast-paced world of leadership, where results and bottom lines often take center stage, it is important to pause and reflect. I often think about how we can take the concepts of Buddhism and apply them to the modern world. I feel this can offer valuable insights for nurturing compassionate leadership. By weaving these principles into leadership, we can foster a more harmonious and inclusive work environment while driving meaningful results.
 <!--more-->
 
 The Power of Empathy: Empathy lies at the core of cultivating compassion. As leaders, we must work to understand the experiences, challenges, and aspirations of our team members. By listening attentively and showing genuine empathy, we create a safe space for open communication and foster a culture of trust. Through empathy, we not only connect on a deeper level but also gain valuable insights into the diverse perspectives within our team.
