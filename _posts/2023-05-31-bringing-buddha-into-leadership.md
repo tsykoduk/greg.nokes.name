@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/05/buddha-by-david-bartus-2873473.jpg" width="150" alt="Buddha in a Garden"><br />
 <sub><i>Image by <a href="https://www.pexels.com/@david-bartus-43782/">David Bartus</a></i></sub></div>
 
-In the fast-paced world of leadership and high performance driving results and bottom lines often take center stage. It is important to pause and reflect. I often take this time to think about how we can take the concepts of Buddhism and apply them to the modern world. I feel this can offer valuable insights for nurturing compassionate leadership. By weaving these principles into leadership, we can foster a more harmonious and inclusive work environment while driving meaningful results.
+In the fast-paced world of leadership results and bottom lines often take center stage. However, it is important to time the time to pause and reflect. I often take this time to think about how we can take the concepts of Buddhism and apply them to the modern world. I feel this can offer valuable insights for nurturing compassionate leadership. By weaving these principles into leadership, we can work towards fostering a more harmonious and inclusive work environment while driving meaningful results.
 
 <!--more-->
 
@@ -39,6 +39,6 @@ Buddhist teachings often emphasize the value of selflessness and service to othe
 
 We should embrace these concepts. Cultivating compassionate leadership benefits the individuals we lead. It Also creates a positive ripple effect throughout the organization. As we integrate these principles into our daily practices, we foster an environment where empathy, collaboration, and growth thrive. This can propel our teams to achieve remarkable outcomes while nurturing the well-being and fulfillment of all involved.
 
-This may feel daunting, however I recall some advice: "Pick a turn on the track, and work on that one series of movements. When you have improved a bit, pick another. Pretty soon you will have improved your total time. And then you can start again with the first turn." 
+This may feel daunting, however I recall some advice from a related field: "Pick a turn on the track, and work on that one series of movements and decisions. When you have improved a bit, pick another. Pretty soon you will have improved your total time. And then you can start again with the first turn." 
 
 It's a life long journey, not a checkbox to tick.
