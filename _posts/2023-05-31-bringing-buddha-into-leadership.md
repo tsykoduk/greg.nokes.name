@@ -14,6 +14,7 @@ excerpt_separator: <!--more-->
 <sub><i>Image by <a href="https://www.pexels.com/@david-bartus-43782/">David Bartus</a></i></sub></div>
 
 In the fast-paced world of leadership, where results and bottom lines often take center stage, it is important to pause and reflect. I often take this time to think about how we can take the concepts of Buddhism and apply them to the modern world. I feel this can offer valuable insights for nurturing compassionate leadership. By weaving these principles into leadership, we can foster a more harmonious and inclusive work environment while driving meaningful results.
+
 <!--more-->
 
 **The Power of Empathy**
