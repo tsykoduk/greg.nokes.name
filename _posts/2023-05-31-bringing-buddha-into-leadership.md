@@ -10,7 +10,7 @@ categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
 ---
-<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/05/buddha-by-david-bartus-2873473.jpg" width="150" alt="Twitter 15 year badge"><br />
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/05/buddha-by-david-bartus-2873473.jpg" width="150" alt="Buddha in a Garden"><br />
 <sub><i>Image by <a href="https://www.pexels.com/@david-bartus-43782/">David Bartus</a></i></sub></div>
 
 In the fast-paced world of leadership, where results and bottom lines often take center stage, it's important to pause and reflect on empathy and compassion. I often think about how we can take the concepts of Buddhism and apply them to the modern world. I feel this can offer valuable insights for nurturing compassionate leadership. By weaving these principles into leadership, we can foster a more harmonious and inclusive work environment while driving meaningful results.
