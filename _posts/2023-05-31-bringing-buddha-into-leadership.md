@@ -39,6 +39,6 @@ Buddhist teachings often emphasize the value of selflessness and service to othe
 
 We should embrace these concepts. Cultivating compassionate leadership benefits the individuals we lead. It Also creates a positive ripple effect throughout the organization. As we integrate these principles into our daily practices, we foster an environment where empathy, collaboration, and growth thrive. This can propel our teams to achieve remarkable outcomes while nurturing the well-being and fulfillment of all involved.
 
-This may feel daunting, however I recall some advice from a related field: "Pick a turn on the track, and work on that one series of movements and decisions. When you have improved a bit, pick another. Pretty soon you will have improved your total time. And then you can start again with the first turn." 
+This may feel daunting, however I recall some advice: "Pick a turn on the track, and work on that one series of movements and decisions. When you have improved a bit, pick another. Pretty soon you will have improved your total time. And then you can start again with that first turn." 
 
 It's a life long journey, not a checkbox to tick.
