@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/12/Gentrification.jpg" width="150" alt="Twitter 15 year badge"><br />
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/12/Gentrification.jpg" width="150" alt="Gentrification Art - sign shows Gentrification Zone, Poor People Please Leave Quietly"><br />
 <sub><i>Image by <a href="https://www.flickr.com/photos/aestheticsofcrisis/24903353707">Julia Tulke</a></i></sub></div>
 
 I have been around online communities far longer then I'd like to admit. And I have lived through many waves of community building, discovery and colonization. One of the problems that I have seen happen over and over is a form of gentrification of online communities.
