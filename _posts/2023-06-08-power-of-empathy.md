@@ -10,7 +10,7 @@ categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
 ---
-<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/06/empathy.jpeg" width="150" alt="Empathy"><br />
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/06/empathy.jpeg" width="150" alt="Empathy"><br />
 <sub><i>Image by <a href="https://pixabay.com/users/jensenartofficial-31380959//">jensenartofficial</a></i></sub></div>
 
 As leaders, we often can feel like we are barely treading water. We are focused on the complexities of managing teams, driving performance, and achieving goals. While these aspects are crucial, it's also important to recognize the profound impact of empathy in our leadership approach. Empathy is the ability to understand and share the feelings of others. It can be a powerful tool that transforms the way we lead, communicate, and build relationships.
