@@ -23,7 +23,7 @@ Over the years, I’ve often reflected on what it means to be a leader. Leadersh
 
 I recall a story that I heard years ago. The story teller was walking through a grocery store early in the morning. They asked an employee a question about how fresh some produce was. The employee snapped back "I have no idea, I just got here".
 
-Now, the story teller could have been offended, however they approached the situation with empathy and love. Noticing the dark hue under their eyes they gently joked "You know, we talked about how you need to get a good 8 hours of sleep to maintain your health".
+Now, the story teller could have been offended, however they approached the situation with empathy and love. Noticing the dark hue under the employee's eyes they gently joked "You know, we talked about how you need to get a good 8 hours of sleep to maintain your health".
 
 The employee looked and them, and blinked. It took a moment for them to process, and all the while the story teller looked at them with love and empathy in their eyes. The employee laughed, "You know, I am tired. I'm sorry that I snapped at you. I'll go find out"
 
