@@ -1,7 +1,7 @@
 ---
 id: 16920
 title: The Power of Empathy and Building Stronger Connections in Leadership
-date: 2023-06-07
+date: 2023-06-08
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16920
