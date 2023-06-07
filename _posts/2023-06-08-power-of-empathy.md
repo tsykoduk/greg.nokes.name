@@ -21,15 +21,23 @@ Empathy stands out as a powerful force that can revolutionize the way we lead an
 
 Over the years, I’ve often reflected on what it means to be a leader. Leadership is not a monolithic concept; it is composed of many attributes. Of these, the trait that has resonated with me most deeply is empathy.
 
+I recall a story that I heard years ago. The story teller was walking through a grocery store early in the morning. They asked an employee a question about how fresh some produce was. The employee snapped back "I have no idea, I just got here".
+
+Now, the story teller could have been offended, however they approached the situation with empathy and love. Noticing the dark hue under their eyes they gently joked "You know, we talked about how you need to get a good 8 hours of sleep to maintain your health".
+
+The employee looked and them, and blinked. It took a moment for them to process, and all the while the story teller looked at them with love and empathy in their eyes. The employee laughed, "You know, I am tired. I'm sorry that I snapped at you. I'll go find out"
+
+A little empathy and humor took a situation that could have become confrontational and negative, and made it into a positive one.
+
 Empathy, for me, has emerged as an indispensable part of leadership and my life. It is a trait that both informs and guides how I interact with folks and teams. Empathy enables me to understand and share the feelings of others. It is a foundational pillar for building trust, fostering collaboration, and even nurturing a truly effective team.
 
 Growing up in the technology sector, we often overlook the importance of human connections. We're taught to focus on technical skills and data driven decisions. We need to understand complex systems, and optimize processes. While these are undoubtedly important, I have found that the ability to connect with people on a human level is as critical as technical skills. This allows us to understand their needs, aspirations, fears, and challenges.
 
-Empathy doesn’t mean lowering standards or ignoring goals. It means connecting with individuals on a deeper level and understanding the unique circumstances, strengths, and struggles that each team member brings to the table. It's about acknowledging the humanity behind the skill set. It's about valuing people as individuals, not just resources.
-
-When I was a young sysadmin, I would often get frustrated when users didn't understand the systems or technologies we were implementing. Over time, I realized that my frustration was rooted in a lack of empathy. These users were not tech professionals; they had their own specializations and skills. Rather than focusing on what they didn't understand, I needed to empathize with their situation and find ways to bridge the gap.
+When I was a young sysadmin working on NetWare 3 implementations, I would often get frustrated when users didn't understand the systems or technologies we were offering them. Over time, I realized that my frustration was rooted in a lack of empathy. These users were not technology savvy; they had their own specializations and skills. Rather than focusing on what they didn't understand, I needed to empathize with their situation and find ways to bridge the gap for them.
 
 The moment I allowed myself to walk in their shoes and to see the world from their perspective, everything changed. I began to approach problem-solving differently. I centered on their needs, their understanding, and their comfort with technology. The results were immediate and profound.
+
+Empathy doesn’t mean lowering standards or ignoring goals. It means connecting with individuals on a deeper level and understanding the unique circumstances, strengths, and struggles that each team member brings to the table. It's about acknowledging the humanity behind the skill set. It's about valuing people as individuals, not just resources. It's about walking in their skin, and understanding their experience.
 
 A leader with empathy strives to cultivate a culture where everyone feels seen, heard, and appreciated. When people feel that their leader understands their emotions and values their perspectives, they feel safe, inspired, and motivated to give their best.
 
