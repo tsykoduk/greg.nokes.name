@@ -29,7 +29,7 @@ The employee looked and them, and blinked. It took a moment for them to process,
 
 A little empathy and humor took a situation that could have become confrontational and negative, and made it into a positive one.
 
-Empathy, for me, has emerged as an indispensable part of leadership and my life. It is a trait that both informs and guides how I interact with folks and teams. Empathy enables me to understand and share the feelings of others. It is a foundational pillar for building trust, fostering collaboration, and even nurturing a truly effective team.
+Empathy, for me, has emerged as an indispensable part of leadership and my life. It is a trait that both informs and guides how I interact with folks and teams. Empathy enables me to understand and share the feelings of others. It is a foundational pillar for building trust, fostering collaboration, and even nurturing a deep relationship or truly effective team.
 
 Growing up in the technology sector, we often overlook the importance of human connections. We're taught to focus on technical skills and data driven decisions. We need to understand complex systems, and optimize processes. While these are undoubtedly important, I have found that the ability to connect with people on a human level is as critical as technical skills. This allows us to understand their needs, aspirations, fears, and challenges.
 
