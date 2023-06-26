@@ -36,7 +36,7 @@ The first step in mindful communication is being fully present. This means activ
 
 Active listening goes hand-in-hand with being present. It is about more than just hearing the words someone is saying, it's about understanding the message they're trying to convey. This means paying attention to their tone of voice, body language, and emotional cues. 
 
-**Speaking with Intent **
+**Speaking with Intent**
 
 Every word we choose can impact how our message is received. As leaders, we need to be conscious of the words we use and ensure that our message aligns with our intentions. This means avoiding jargon when possible, being clear and concise, and considering how our words may be interpreted. 
 
@@ -44,7 +44,7 @@ Every word we choose can impact how our message is received. As leaders, we need
 
 In the hustle and bustle of the tech world, silence can often be uncomfortable. However, silence can also be a powerful tool for mindful communication. It allows us time to reflect on what has been said, to formulate thoughtful responses, and to give others the space to share their thoughts. 
 
-**The Impact of Mindful Communication **
+**The Impact of Mindful Communication**
 
 When mindful communication is practiced consistently, it can transform our interactions and our relationships. It fosters mutual respect and understanding, reduces conflicts, and creates a more collaborative and inclusive environment. 
 
