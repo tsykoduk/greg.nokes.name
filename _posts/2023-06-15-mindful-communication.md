@@ -1,17 +1,17 @@
 ---
 id: 16930
 title: Mindful Communication
-date: 2023-07-01
+date: 2023-06-28
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16930
-permalink: /2023/07/01/mindful-communication/
+permalink: /2023/06/28/mindful-communication/
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/07/Thai_buddhist_monk_smile.jpg" width="150" alt="Empathy"><br />
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/06/Thai_buddhist_monk_smile.jpg" width="150" alt="Empathy"><br />
 <sub><i>Image by <a href="https://commons.wikimedia.org/wiki/User:Tevaprapas">Tevaprapas</a></i></sub></div>
 
 Building on the themes of mindful leadership and the power of empathy, we now turn to another essential aspect of conscious leadership: Mindful Communication. As a natural extension of empathetic leadership, mindful communication plays a crucial role in fostering mutual understanding, collaboration, and trust within our teams.
