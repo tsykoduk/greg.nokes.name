@@ -18,7 +18,7 @@ Building on the themes of mindful leadership and the power of empathy, we now tu
 
 In its simplest form, mindful communication is simply being fully present and aware during our interactions. It is about being conscious of not just what's being said, but also how it's being said, and how it might be received. It includes compassionate speaking and active listening. It's the art of engaging in conversations with intention, respect, and an open mind.
 
-Let's delve into how we can incorporate mindful communication into our leadership style and why it's so important.
+Let's dive into how we can incorporate mindful communication into our leadership style and why it's so important.
 
 <!--more-->
 
