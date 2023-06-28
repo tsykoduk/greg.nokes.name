@@ -1,11 +1,11 @@
 ---
 id: 16930
 title: Mindful Communication
-date: 2023-06-15
+date: 2023-07-01
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16930
-permalink: /2023/06/15/mindful-communication/
+permalink: /2023/07/01/mindful-communication/
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
