@@ -32,7 +32,7 @@ Mindful communication encourages us to slow down and truly engage with our conve
 
 **We should speak with intent.** Every word we choose can impact how our message is received. As leaders, we need to be conscious of the words we use and ensure that our message aligns with our intentions. This means avoiding jargon when possible, being clear and concise, and considering how our words may be interpreted. It can also help to repeat back things, using "So what I heard is ...". I also sometimes will ask for someone's definition of a word to insure that we are thinking about things in the same way.
 
-**Embracing silence can be powerful** In the hustle and bustle of the tech world, silence can often be uncomfortable. However, silence can also be a powerful tool for mindful communication. It allows us time to reflect on what has been said, to formulate thoughtful responses, and to give others the space to share their thoughts. And, as I pointed out before, pausing to reflect before speaking can actually make you sound smarter and more thoughtful.
+**Embracing silence can be powerful.** In the hustle and bustle of the tech world, silence can often be uncomfortable. However, silence can also be a powerful tool for mindful communication. It allows us time to reflect on what has been said, to formulate thoughtful responses, and to give others the space to share their thoughts. And, as I pointed out before, pausing to reflect before speaking can actually make you sound smarter and more thoughtful.
 
 When mindful communication is practiced consistently, it can transform our interactions and our relationships. It fosters mutual respect and understanding, reduces conflicts, and creates a more collaborative and inclusive environment.
 
