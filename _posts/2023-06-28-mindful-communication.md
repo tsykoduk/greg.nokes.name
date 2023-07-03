@@ -14,30 +14,31 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/06/Thai_buddhist_monk_smile.jpg" width="150" alt="Empathy"><br />
 <sub><i>Image by <a href="https://commons.wikimedia.org/wiki/User:Tevaprapas">Tevaprapas</a></i></sub></div>
 
-On a chilly, winter morning of 2015, I found myself sitting in the conference room of my first corporate job. As the clock ticked towards 9:00 am, my colleagues and I held our breaths in anticipation of the daily briefing from our team leader. What would today bring? Recognition or critique, celebration or reprimand - the unpredictable moods of our leader kept us perpetually on edge. It was only years later that I realized the one element our leader lacked: equanimity.
+Building on the themes of mindful leadership and the power of empathy, we now turn to another essential aspect of conscious leadership: Mindful Communication. As a natural extension of empathetic leadership, mindful communication plays a crucial role in fostering mutual understanding, collaboration, and trust within our teams.
 
-Equanimity, a concept deeply ingrained in Buddhist teachings, denotes a state of mental calmness and composure, especially during challenging situations. This sense of balance is not only essential for individual well-being but also forms the bedrock of effective leadership. The question is, how do we as leaders integrate this concept into our professional lives?
+In its simplest form, mindful communication is simply being fully present and aware during our interactions. It is about being conscious of not just what's being said, but also how it's being said, and how it might be received. It includes compassionate speaking and active listening. It's the art of engaging in conversations with intention, respect, and an open mind.
 
-Understanding Equanimity
+Let's dive into how we can incorporate mindful communication into our leadership style and why it's so important.
 
-First, it’s crucial to truly grasp the essence of equanimity. Unlike indifference or aloofness, equanimity does not denote emotional detachment. Instead, it represents a balanced state of mind, free from bias and excessive emotional fluctuations. This balance allows leaders to make clear and fair decisions, treating all team members equitably and maintaining a composed demeanor, even under pressure.
+<!--more-->
 
-Cultivating Equanimity
+**Why is mindful communication important?** The tech world, as many others, is filled with complex jargon and rapid-fire exchanges of dense information. In such a dynamic environment, communication often becomes more about the transfer of information than about understanding or connecting. As a result vital nuances can be lost. This can lead to misunderstandings.
 
-Cultivating equanimity requires mindfulness, self-reflection, and consistent practice. It begins with self-awareness, understanding our own emotional triggers, and patterns. The next step is to acknowledge our reactions without judgment and slowly train ourselves to respond rather than react to situations. Just as we would tackle one turn on a racing track at a time, we need to work on one aspect of our emotional responses at a time. It's a continuous journey, not a checkbox to tick off.
+Mindful communication encourages us to slow down and truly engage with our conversations. It urges us to consider our words carefully, to listen intently, and to be cognizant of the emotional undertones that accompany our discussions. It allows us to better understand others' perspectives and ensures our messages are received as we intended.
 
-Leading with Equanimity
+**You start with being present.** The first step in mindful communication is being fully present. This means actively engaging in the conversation, rather than planning your next response or being distracted by other thoughts. By being present, you are able to fully understand what the other person is saying and respond more thoughtfully. It's ok to listen, pause and think, and then respond! Pauses can actually make you sound smarter.
 
-Leading with equanimity doesn't imply an absence of passion or drive. Instead, it helps channel these energies more productively, preventing impulsive decisions and favoritism. It fosters an atmosphere of stability and trust, enabling teams to thrive, even amidst uncertainties.
+**Active listening goes hand-in-hand with being present.** It is about more than just hearing the words someone is saying, it's about understanding the message they're trying to convey. This means paying attention to their tone of voice, body language, and emotional cues. This can be difficult until you learn how to really read folk's body languages. Also different cultures may have nuances in their body language that can be hard for an outsider to pick up on. Take your time, and try and learn each individual's dialect. For example, when I'm intently listening to a lecture, I personally tend to lean back. It can appear that I'm not engaged, however I am. I've had to learn in 1:1's change that habit a little bit, so I can to present as engaged a little more.
 
-When leaders approach challenges with equanimity, they can provide clear guidance without panic or haste. This steady approach inspires confidence within the team, motivating them to take on hurdles with a calm and solution-focused mindset.
+**We should speak with intent.** Every word we choose can impact how our message is received. As leaders, we need to be conscious of the words we use and ensure that our message aligns with our intentions. This means avoiding jargon when possible, being clear and concise, and considering how our words may be interpreted. It can also help to repeat back things, using "So what I heard is ...". I also sometimes will ask for someone's definition of a word to insure that we are thinking about things in the same way.
 
-Moreover, equanimity aids in impartial decision-making, essential for fostering a culture of fairness and respect. By not playing favorites and making decisions based on facts rather than emotions, leaders can ensure every team member feels valued and treated equitably.
+**Embracing silence can be powerful.** In the hustle and bustle of the tech world, silence can often be uncomfortable. However, silence can also be a powerful tool for mindful communication. It allows us time to reflect on what has been said, to formulate thoughtful responses, and to give others the space to share their thoughts. And, as I pointed out before, pausing to reflect before speaking can actually make you sound smarter and more thoughtful.
 
-The Ripple Effect of Equanimity
+When mindful communication is practiced consistently, it can transform our interactions and our relationships. It fosters mutual respect and understanding, reduces conflicts, and creates a more collaborative and inclusive environment.
 
-The impact of equanimity extends beyond immediate teams, creating a positive ripple effect across the organization. When the leadership embodies balance and calm, these qualities trickle down, fostering a healthier work environment. Decisions are no longer feared, but understood. Challenges become opportunities for growth, not stressors. Meetings turn into platforms for open communication, not arenas for dominance.
+Mindful communication also empowers others. When team members feel truly heard and understood, they are more likely to share their ideas, contribute to discussions, and feel a part of the decision-making process.
 
-Embracing equanimity as a leader is a journey, not a destination. It's about continuously learning, unlearning, and relearning. And while this journey may be challenging, its rewards are profound. Equanimity doesn't just make us better leaders; it makes us better human beings.
+As leaders in the fast-paced world of tech, it can be easy to get lost in the soup of information exchange. But we should not forget the human element. Let's strive to incorporate mindful communication into our leadership toolkit. In doing so, we can create a more empathetic, understanding, and collaborative environment.
 
-Just like that chilly winter morning years ago, I still find myself in conference rooms. But now, as a leader, I strive to lead with equanimity, remembering always that our role isn’t just about driving results, but also about fostering an environment of balance, fairness, and respect. In the grand tapestry of leadership, equanimity isn't just a thread; it's the loom that holds it all together.
+In our journey towards conscious leadership, let mindful communication be our voice, a voice that echoes understanding, respect, and inclusivity.
+
