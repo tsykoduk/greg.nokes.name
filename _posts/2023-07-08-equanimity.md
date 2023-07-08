@@ -26,7 +26,7 @@ Well, according to [Wikipedia](https://en.wikipedia.org/wiki/Equanimity):
 
 In the pantheon of Buddhist virtues, equanimity stands tall as one of the [Four Immeasurables](https://en.wikipedia.org/wiki/Brahmavihara). These also include love, compassion, and empathetic joy. This practice speaks to maintaining a steady demeanor. A state of psychological stability and composure. Like a stable stable boat, you are not disturbed by experiences of gain or loss, victory or defeat, pleasure or pain.
 
-A quick side note - I've been musing about the concept of empathetic joy, and it strikes me as something of a hidden superpower. It's this transformative capacity to tap into a reservoir of joy within ourselves, simply by witnessing and sharing in others' happiness. But more on that later.
+A quick side note - I've been thinking a lot about the concept of empathetic joy, and it strikes me as something of a hidden superpower. It's this transformative capacity to tap into a reservoir of joy within ourselves, simply by witnessing and sharing in others' happiness. But more on that later.
 
 Anyways, equanimity is an important tool in the crucible of leadership. After all, leadership is far from a calm sea. It's more akin to navigating a storm, where your vessel is buffeted by high winds and raging waves. The ability to hold your course steady, regardless of the external turmoil, is a quality of a skilled leader.
 
