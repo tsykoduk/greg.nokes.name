@@ -26,15 +26,9 @@ Well, according to [Wikipedia](https://en.wikipedia.org/wiki/Equanimity):
 
 In the pantheon of Buddhist virtues, equanimity stands tall as one of the [Four Immeasurables](https://en.wikipedia.org/wiki/Brahmavihara). These also include love, compassion, and empathetic joy. This practice speaks to maintaining a steady demeanor. A state of psychological stability and composure. Like a stable stable boat, you are not disturbed by experiences of gain or loss, victory or defeat, pleasure or pain.
 
-A quick side note - I've been musing about the concept of empathetic joy, and it strikes me as something of a hidden superpower. It's this transformative capacity to tap into a reservoir of joy within ourselves, simply by witnessing and sharing in others' happiness.
+A quick side note - I've been musing about the concept of empathetic joy, and it strikes me as something of a hidden superpower. It's this transformative capacity to tap into a reservoir of joy within ourselves, simply by witnessing and sharing in others' happiness. But more on that later.
 
-Looking at this from a leadership or mentorship perspective, it takes on an even greater significance. Think about it - we often measure our success as leaders by how we're able to help others rise, to help them succeed. Feeling joy in their triumphs, therefore, becomes almost a prerequisite.
-
-It's like a shared celebration, a mutual win. The wins of your team members become your wins too, and the positive energy this creates is truly infectious.
-
-But, let's be honest, stepping aside and allowing others to take center stage isn't always easy. It requires a certain humility, a willingness to prioritize the collective success over individual glory. That's where empathetic joy comes into play. By genuinely rejoicing in their achievements, we create a culture of shared success, a team where everyone shines.
-
-Equanimity is an important tool in the crucible of leadership. After all, leadership is far from a calm sea. It's more akin to navigating a storm, where your vessel is buffeted by high winds and raging waves. The ability to hold your course steady, regardless of the external turmoil, is a quality of a skilled leader.
+Anyways, equanimity is an important tool in the crucible of leadership. After all, leadership is far from a calm sea. It's more akin to navigating a storm, where your vessel is buffeted by high winds and raging waves. The ability to hold your course steady, regardless of the external turmoil, is a quality of a skilled leader.
 
 Cultivating equanimity in leadership helps prevent knee-jerk reactions and decisions guided by strong emotional currents. It encourages a clear-sighted evaluation of the situation, allowing for rational, balanced responses instead of impulsive actions.
 
