@@ -34,7 +34,7 @@ Cultivating equanimity in leadership helps prevent knee-jerk reactions and decis
 
 But equanimity doesn't just affect decision-making; it shapes our interpersonal relationships. With equanimity, we can ensure that we treat everyone fairly, without bias or favoritism. In the context of leadership, it's about acknowledging the intrinsic value of every member of our team, providing everyone with an equal opportunity to shine.
 
-Remember, equanimity is not about emotional detachment or indifference. It's about maintaining balance amidst the constantly shifting landscape. It's about holding space for all the emotions, all the experiences, without being swept away by them. It's about responding to change with grace, understanding, and calm.
+Equanimity is not about emotional detachment or indifference. It's about maintaining balance amidst the constantly shifting landscape. It's about holding space for all the emotions, all the experiences, without being swept away by them. It's about responding to change with grace, understanding, and calm.
 
 So how do we cultivate this invaluable trait? Meditation is a powerful tool for this. It provides us with a platform to observe our thoughts and emotions without judgement, to find that serene center within ourselves. Beyond meditation, it's a matter of practice and intention, of reminding ourselves in every situation to approach with a calm, composed mind.
 
