@@ -11,8 +11,8 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/07/joy.jpg" width="150" alt=" Balanced Rocks"><br />
-<sub><i>Image by <a href="https://www.flickr.com/photos/kilgarron/N">kilgarron</a></i></sub></div>
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/08/pike.png" width="150" alt=" Balanced Rocks"><br />
+<sub><i>Image from <a href="https://startrekguide.com/2019/11/07/watch-captain-pike-return-in-new-star-trek-short-treks-trailer">Star Trek Guide</a></i></sub></div>
 
 Admittedly, I am a nerd. If you have not been watching Star Trek Strange New Worlds, I'd advise you drop everything and binge it right now. In my opinion, it's some of the best Star Trek ever.
 
