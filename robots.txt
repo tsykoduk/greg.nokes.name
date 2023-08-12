@@ -8,3 +8,5 @@ Sitemap: https://gregorynokes.com/sitemap.xml
 Sitemap: https://nokes.biz/sitemap.xml
 Sitemap: https://nokes.blog/sitemap.xml
 
+User-agent: GPTBot
+Disallow: /
