@@ -18,7 +18,7 @@ One quirk that consistently bothers me with mDNS on Mac is how it handles hostna
 
 <!--more-->
 
-Now, for those running just a single Mac, this might sound like a minor inconvenience. But when you manage multiple Macs or Mac-based servers, this issue can escalate quickly.
+Now, for those running just a single Mac, this might sound like a minor inconvenience. But when you manage multiple Macs or Mac-based servers, this issue can escalate quickly, especially if your Macs are multi-homed. For example, my Mac Mini's have an Ethernet and Wifi connection. The servers may also have access to several VLAN's via their Ethernet connection.
 
 I operate an older Mac Mini as a server, and I'm fairly meticulous about my machine names. This is a trait honed over two decades in system administration. These auto-appended numerical suffixes are more than just an annoyance; they interfere with my TimeMachine backups and sometimes disrupt my file sharing setup.
 
