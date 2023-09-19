@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 
 One quirk that irks me about mDNS on Mac systems relates to the hostname behavior upon startup. Specifically, if the Mac believes another device is using its name, it appends a numerical suffix to the hostname.
 
-<!-- more -->
+<!--more-->
 
 Now, if you're only running a single Mac, this might seem like a trivial concern. However, if you run a fleet, or have an older Mac Mini as a server this can become a problem. And let's just say I'm particular about my machine names. This likely stems from two decades of experience in system administration. These unexpected numerical suffixes wreak havoc on my TimeMachine backups and file shares, serving as a intermittent irritant.
 
