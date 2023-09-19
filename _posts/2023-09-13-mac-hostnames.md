@@ -14,15 +14,17 @@ excerpt_separator: <!--more-->
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/09/mac-hostnames.png" width="150" alt=" Balanced Rocks"><br />
 <sub><i>Image by <a href="https://greg.nokes.name/">Me</a></i></sub></div>
 
-One quirk that irks me about mDNS on Mac systems relates to the hostname behavior. Specifically, if the Mac believes another device is using its name, it appends a numerical suffix to the hostname.
+One quirk that consistently bothers me with mDNS on Mac is how it handles hostnames. If the Mac system thinks another device is already using its designated name, it automatically attaches a numerical suffix to the hostname.
 
 <!--more-->
 
-Now, if you're only running a single Mac, this might seem like a trivial concern. However, if you run a fleet, or have an older Mac Mini as a server this can become a problem. And let's just say I'm particular about my machine names. This likely stems from two decades of experience in system administration. These unexpected numerical suffixes wreak havoc on my TimeMachine backups and file shares, serving as a intermittent irritant.
+Now, for those running just a single Mac, this might sound like a minor inconvenience. But when you manage multiple Macs or Mac-based servers, this issue can escalate quickly.
 
-Last night, I had to reboot several parts of my local network (courtesy of Comcast), which sent all my Macs into a naming frenzy. The fallout was immediate: failed TimeMachine backups and hostnames that suddenly included random numbers like "3873."
+I operate an older Mac Mini as a server, and I'm fairly meticulous about my machine names. This is a trait honed over two decades in system administration. These auto-appended numerical suffixes are more than just an annoyance; they interfere with my TimeMachine backups and sometimes disrupt my file sharing setup.
 
-I've been aware that there's a command-line solution to reset the hostname, and last night's network chaos finally pushed me to script it.
+Just last night, I had to reboot various components of my local network, thanks Comcast, and it sent my Mac devices into a hostname-induced tailspin. The repercussions were immediate: my TimeMachine backups failed, and my hostnames got saddled with bizarre numerical appendages like "3873."
+
+I'd known for a while that there's a command-line fix for this issue, and the chaos of last night finally nudged me to write a script to automate fixing it.
 
 ```bash
 #!/usr/bin/env bash
