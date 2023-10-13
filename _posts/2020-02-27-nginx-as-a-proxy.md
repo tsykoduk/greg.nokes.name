@@ -157,7 +157,7 @@ Or you can simply deploy this repo.
 
 **Setup nginx-test-blog**
 
-Set up your working directory in your code directory and create a `.gitignore` file
+Set up your working directory in your code directory:
 
 ```
 mkdir test-blog
@@ -165,6 +165,8 @@ cd test-blog
 git init . && git checkout -b main
 heroku create ggn-nginx-test-blog
 ```
+
+Create a `.gitignore` file:
 
 ```
 /vendor/
@@ -176,7 +178,7 @@ Create a `Procfile`:
 web: vendor/bin/heroku-php-apache2
 ```
 
-Create a `composer.json` :
+Create a `composer.json`:
 
 ```json
 {
