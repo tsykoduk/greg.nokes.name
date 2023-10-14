@@ -10,17 +10,17 @@ categories:
   - Computers! and Code!
 ---
 
+Sometimes, we want to be able to route requests based on URL paths easily, or have a front end app that serves data from private back end services.
 
-Sometimes, we want to be able to route requests based on URL paths easily, or have a front end app that serves data from private back end services. 
 <!-- more -->
 
 For example, if you have several services in a Private Space that serve HTML, you might not want to expose them to the internet, and rather have a routing app in front which will handle this. Or you might want to route your asset delivery to S3, and completely offload that processing from the local app server. Nginx is a powerful, fast and lightweight web server which can also operate as a reverse proxy. It also runs well on Heroku.
 
 For this example, we will set up 3 apps
 
-* ggn-nginx-router-test
-* ggn-nginx-test-target
-* ggn-nginx-test-blog
+- ggn-nginx-router-test
+- ggn-nginx-test-target
+- ggn-nginx-test-blog
 
 ggn-nginx-router-test will be running Nginx, with configs set to route requests back to the target app.
 ggn-nginx-test-target will simply deliver HTML with the requestors HTML headers.
@@ -28,38 +28,34 @@ ggn-nginx-test-blog will simply be a second HTML target.
 
 **Setup nginx-test-target**
 
-Install PHP and Composer Locally (`brew install php && brew install composer` on a Mac) 
+Install PHP and Composer Locally (`brew install php && brew install composer` on a Mac)
 
 Set up your working directory in your code directory:
 
-```
-☯ mkdir test-target
-☯ cd test-target
-☯ git init .
-☯ heroku create ggn-nginx-test-target
+```bash
+mkdir test-target
+cd test-target
+git init . && git checkout -b main
+heroku create ggn-nginx-test-target
 ```
 
 Set up a `.gitignore` file:
 
 ```
-☯ cat .gitignore 
 /vendor/
 ```
 
 Create a `Procfile`:
 
 ```
-☯ cat procfile
 web: vendor/bin/heroku-php-apache2
 ```
 
 Create a `composer.json` :
 
-```
-☯ cat composer.json 
+```json
 {
-  "require" : {
-  },
+  "require": {},
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
@@ -68,15 +64,12 @@ Create a `composer.json` :
 
 Run `composer update` and then create an `index.php`:
 
-```
-☯ cat index.php 
+```php
 <h1>This is not a Blog<br />
 Requestor Headers:</h1>
 <br />
-<?php 
-
-foreach (getallheaders() as $name => $value) {
-    echo "$name: $value\n<br />";
+<?php foreach (getallheaders() as $name => $value) {
+  echo "$name: $value\n<br />";
 }
 ?>
 ```
@@ -85,17 +78,18 @@ foreach (getallheaders() as $name => $value) {
 
 Set up your working directory in your code directory:
 
-```
-☯ mkdir router-target
-☯ cd router-target
-☯ git init .
-☯ heroku create ggn-nginx-router-test
+```bash
+mkdir router-target
+cd router-target
+git init . && git checkout -b main
+heroku create ggn-nginx-router-test
 ```
 
 Add the nginx buildpack:
 
-```
-☯ heroku buildpacks:add https://github.com/heroku/heroku-buildpack-nginx
+```bash
+heroku buildpacks:add https://github.com/heroku/heroku-buildpack-nginx
+
 Buildpack added. Next release on ggn-nginx-router-test will use heroku-community/nginx.
 Run git push heroku master to create a new release using this buildpack.
 ```
@@ -103,14 +97,12 @@ Run git push heroku master to create a new release using this buildpack.
 Add a `Procfile`:
 
 ```
-☯ cat Procfile
 web: bin/start-nginx-solo
 ```
 
 Add a Nginx config file. We use an `.erb` file as the build pack will process it, and generate a finished config file out of it. It needs to go in `config/nginx.conf.erb`
 
-```
-☯ cat config/nginx.conf.erb 
+```conf
 daemon off;
 # Heroku dynos have at least 4 cores
 worker_processes <%= ENV['NGINX_WORKERS'] || 4 %>;
@@ -127,7 +119,7 @@ http {
   gzip_min_length 512;
 
   server_tokens off;
-  
+
   log_format main '$time_iso8601 - $status $request - client IP: $http_x_forwarded_for - <%= ENV['DYNO'] %> to $upstream_addr - upstream status: $upstream_status, upstream_response_time $upstream_response_time, request_time $request_time';
   access_log /dev/stdout main;
   error_log /dev/stdout notice;
@@ -159,40 +151,38 @@ http {
 }
 ```
 
-You should now be able to hit [ggn-nginx-router-test.herokuapp.com](https://ggn-nginx-router-test.herokuapp.com ) and get the app living at [ggn-nginx-test-target.herokuapp.com]( https://ggn-nginx-test-target.herokuapp.com) delivered to you.
+You should now be able to hit [ggn-nginx-router-test.herokuapp.com](https://ggn-nginx-router-test.herokuapp.com) and get the app living at [ggn-nginx-test-target.herokuapp.com](https://ggn-nginx-test-target.herokuapp.com) delivered to you.
 
 Or you can simply deploy this repo.
 
 **Setup nginx-test-blog**
 
-Set up your working directory in your code directory and create a `.gitignore` file
+Set up your working directory in your code directory:
 
 ```
-☯ mkdir test-blog
-☯ cd test-blog
-☯ git init .
-☯ heroku create ggn-nginx-test-blog
+mkdir test-blog
+cd test-blog
+git init . && git checkout -b main
+heroku create ggn-nginx-test-blog
 ```
 
+Create a `.gitignore` file:
+
 ```
-☯ cat .gitignore 
 /vendor/
 ```
 
 Create a `Procfile`:
 
 ```
-☯ cat procfile
 web: vendor/bin/heroku-php-apache2
 ```
 
-Create a `composer.json` :
+Create a `composer.json`:
 
-```
-☯ cat composer.json 
+```json
 {
-  "require" : {
-  },
+  "require": {},
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
@@ -203,22 +193,19 @@ Run `composer update`
 
 Create an `index.php`:
 
-```
-☯ cat index.php 
+```php
 <h1>This is a Blog!<br />
 Requestor Headers:</h1>
 <br />
-<?php 
-
-foreach (getallheaders() as $name => $value) {
-    echo "$name: $value\n<br />";
+<?php foreach (getallheaders() as $name => $value) {
+  echo "$name: $value\n<br />";
 }
 ?>
 ```
 
 Adding in additional routes is as simple as setting up new location blocks and their corresponding upstream blocks. For example you could add
 
-```
+```conf
   upstream upstream_blog {
     server ggn-nginx-test-blog.herokuapp.com;
   }
@@ -226,7 +213,7 @@ Adding in additional routes is as simple as setting up new location blocks and t
 
 and
 
-```
+```conf
     location /blog/ {
       set $upstream upstream_blog;
       proxy_pass http://$upstream/;

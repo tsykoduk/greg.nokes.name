@@ -9,9 +9,12 @@ permalink: /2020/08/26/simplest-heroku-demo/
 categories:
   - Computers! and Code!
 ---
+
 One of the things that I have done literally thousands of times over the last 9 years is show folks the power of Heroku. Over the years I have come up with, dare I say it, the simplest Heroku demo script ever:
 
-```
+<!--more-->
+
+```bash
 mkdir directory
 cd directory
 git init . && git checkout -b main
