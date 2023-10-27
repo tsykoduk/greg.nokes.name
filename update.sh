@@ -45,6 +45,7 @@ fi
 # gem update --system -N
 
 bundle update
+bundle lock --add-platform x86_64-linux
 git status
 git add .
 git commit -m "updating gems and stuff"
