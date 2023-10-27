@@ -65,9 +65,9 @@ git stash pop
 
 #watch heroku rebuild the app
 
-#if command -v heroku &> /dev/null
-#then
-#  heroku logs -t -a greg-nokes-name-staging
-#else
-#  echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
-#fi
+if command -v heroku &> /dev/null
+then
+  heroku logs -t -a greg-nokes-name-staging
+else
+  echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
+fi
