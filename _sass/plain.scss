@@ -80,6 +80,7 @@ main {
     display: flex;
     height: 100vh;
     padding-bottom: 15vh;
+    padding-top: 15vh;
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
@@ -106,7 +107,7 @@ main {
       text-align: center;
       font-size: 22px;
       margin-top: 0px;
-      color: #aaa;
+      color: darkslategray;
       white-space: pre-wrap;
       line-height: normal;
     }
@@ -169,7 +170,7 @@ main {
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
-      border-bottom: 1px solid #ececec;
+      border-bottom: 1px solid black;
 
       @media screen and (max-width: $mobileW) {
         padding: 2rem 0;
@@ -272,12 +273,12 @@ main {
   margin: 0 0 0.67em 0;
   display: flex;
   align-items: baseline;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid black;
 }
 
 #posts-label {
-  font-size: 15px;
-  color: #555;
+  font-size: 25px;
+  color: darkslategray;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   padding: 10px 0;
