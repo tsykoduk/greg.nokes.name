@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/07/Equanimity.jpg" width="150" alt=" Balanced Rocks"><br />
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/07/equanimity.jpg" width="150" alt=" Balanced Rocks"><br />
 <sub><i>Image by <a href="https://www.flickr.com/photos/joncutrer/46806250465/in/photolist-2ej7gyn-2fsdbeU-2etxiFJ-RP7xTa-MyDg3N">Jonathan Cutrer</a></i></sub></div>
 
 One of the fascinating things about leadership is how it constantly evolves, and how practicing it forces us to evolve as well. If you've been following along with my journey in exploring the intersection of leadership and Buddhist principles, you might remember my earlier discussions on Bringing Buddha into Leadership, The Power of Empathy, and Mindful Communication. Today, I'd like to dive into another topic that's been on my mind a lot lately - the concept of equanimity.
