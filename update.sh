@@ -5,7 +5,7 @@
 #  original branch
 
 # If you are already on master, it just complains 
-#  and does not do anythiung
+#  and does not do anything
 
 
 # Determine what branch we are on and save 
@@ -16,29 +16,33 @@ git stash
 git checkout main
 git pull origin main
 
-#do the work
-if command -v brew &> /dev/null
-then
-  echo -e "\033[34m running brew upgrade  \033[0;39m\n"
-  brew upgrade
-else
-  echo -e "\033[34m Brew not installed  \033[0;39m\n"
-fi
+# decide if this is a quick, or full update
 
-if command -v heroku &> /dev/null
-then
-  echo -e "\033[34m running heroku update  \033[0;39m\n"
-  heroku update
-else
-  echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
-fi
+if [ $1 = "long" ]; then
+  #do the work for the full update
+  if command -v brew &> /dev/null
+    then
+      echo -e "\033[34m running brew upgrade  \033[0;39m\n"
+      brew upgrade
+    else
+    echo -e "\033[34m Brew not installed  \033[0;39m\n"
+  fi
 
-if command -v sfdx &> /dev/null
-then
-  echo -e "\033[34m running sfdx update  \033[0;39m\n"
-  sfdx update
-else
-  echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
+  if command -v heroku &> /dev/null
+    then
+      echo -e "\033[34m running heroku update  \033[0;39m\n"
+      heroku update
+    else
+      echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
+  fi
+
+  if command -v sfdx &> /dev/null
+    then
+      echo -e "\033[34m running sfdx update  \033[0;39m\n"
+      sfdx update
+    else
+      echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
+  fi
 fi
 
 # Do we really need this?
