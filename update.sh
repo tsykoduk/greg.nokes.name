@@ -18,7 +18,7 @@ git pull origin main
 
 # decide if this is a quick, or full update
 
-if [ $1 = "long" ]; then
+if [ "$1" = "long" ]; then
   #do the work for the full update
   if command -v brew &> /dev/null
     then
