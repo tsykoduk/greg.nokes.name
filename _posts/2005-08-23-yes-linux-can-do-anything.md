@@ -8,7 +8,6 @@ guid: 30/2008/12/27/yes-linux-can-do-anything
 permalink: /2005/08/23/yes-linux-can-do-anything/
 categories:
   - Computers! and Code!
-  - Fun!
 ---
 
 > 11 years ago, April 1st 1990, RFC 1149 was written. This RFC specifies a protocol for IP over avian carriers, CPIP (carrier pigeon internet protocol). In 11 years, no one has bothered to implement this important protocol stack. But happily, we don't need to wait any longer! BLUG in cooperation with Vesta Brevdueforening has given you RFC 1149 support for Linux.
