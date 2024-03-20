@@ -10,7 +10,7 @@ theme: plainwhite
 
 author:
   name:           'Greg Nokes'
-  url:            https://twitter.com/tsykoduk
+  url:            https://social.nokes.name/@greg
 
 plugins:
   - jekyll-feed
