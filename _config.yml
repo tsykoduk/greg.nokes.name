@@ -6,7 +6,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # theme: type-on-strap
 # theme: minima
 # theme: jekyll-theme-hydeout
-theme: plainwhite
+# theme: plainwhite
+theme: jekyll-theme-chirpy
 
 author:
   name:           'Greg Nokes'
