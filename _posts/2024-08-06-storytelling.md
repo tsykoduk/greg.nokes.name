@@ -1,6 +1,6 @@
 ---
 id: 16980
-title: Mac Hostnames
+title: Storytelling
 date: 2024-08-06
 author: Greg Nokes
 layout: post
@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2024/08/storyteller.png" width="150" alt="A storyteller reading and prepairing"><br />
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2024/08/storyteller.png" width="150" alt="A storyteller reading and prepairing"><br />
 <sub><i>Image by <a href="https://greg.nokes.name/">Me</a></i></sub></div>
 
 Communication stands as one of the most powerful tools at our disposal. Whether you’re navigating complex technical challenges, trying to gain consensus, selling someone on your idea, or leading a diverse team, your ability to communicate effectively can make all the difference.
