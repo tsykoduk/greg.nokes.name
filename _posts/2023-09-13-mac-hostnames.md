@@ -11,7 +11,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/09/mac-hostnames.png" width="150" alt=" Balanced Rocks"><br />
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/09/mac-hostnames.png" width="150" alt="terminal with wrong hostname"><br />
 <sub><i>Image by <a href="https://greg.nokes.name/">Me</a></i></sub></div>
 
 One quirk that consistently bothers me with mDNS on Mac is how it handles hostnames. If the Mac system thinks another device is already using its designated name, it automatically attaches a numerical suffix to the hostname.
