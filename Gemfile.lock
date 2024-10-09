@@ -122,6 +122,8 @@ GEM
       google-protobuf (~> 4.27)
     sass-embedded (1.79.4-aarch64-linux-musl)
       google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-aarch64-mingw-ucrt)
+      google-protobuf (~> 4.27)
     sass-embedded (1.79.4-arm-linux-androideabi)
       google-protobuf (~> 4.27)
     sass-embedded (1.79.4-arm-linux-gnueabihf)
@@ -130,11 +132,23 @@ GEM
       google-protobuf (~> 4.27)
     sass-embedded (1.79.4-arm64-darwin)
       google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-riscv64-linux-android)
+      google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-riscv64-linux-gnu)
+      google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-riscv64-linux-musl)
+      google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-x86-cygwin)
+      google-protobuf (~> 4.27)
     sass-embedded (1.79.4-x86-linux-android)
       google-protobuf (~> 4.27)
     sass-embedded (1.79.4-x86-linux-gnu)
       google-protobuf (~> 4.27)
     sass-embedded (1.79.4-x86-linux-musl)
+      google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-x86-mingw-ucrt)
+      google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-x86_64-cygwin)
       google-protobuf (~> 4.27)
     sass-embedded (1.79.4-x86_64-darwin)
       google-protobuf (~> 4.27)
@@ -158,15 +172,24 @@ PLATFORMS
   aarch64-linux-android
   aarch64-linux-gnu
   aarch64-linux-musl
+  aarch64-mingw-ucrt
   arm-linux-androideabi
+  arm-linux-gnu
   arm-linux-gnueabihf
+  arm-linux-musl
   arm-linux-musleabihf
   arm64-darwin
+  riscv64-linux-android
+  riscv64-linux-gnu
+  riscv64-linux-musl
   ruby
+  x86-cygwin
   x86-linux
   x86-linux-android
   x86-linux-gnu
   x86-linux-musl
+  x86-mingw-ucrt
+  x86_64-cygwin
   x86_64-darwin
   x86_64-linux
   x86_64-linux-android
