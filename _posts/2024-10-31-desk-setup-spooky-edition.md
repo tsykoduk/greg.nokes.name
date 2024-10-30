@@ -10,7 +10,11 @@ excerpt_separator: <!--more-->
 categories:
  - Computers! and Code!
 ---
+<<<<<<< HEAD
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2024/10/IMG_1930.jpg" width="150" alt="A storyteller reading and prepairing"><br />
+=======
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2024/10/IMG_1930.png" width="150" alt="A storyteller reading and prepairing"><br />
+>>>>>>> main
 <sub><i>Image by <a href="https://greg.nokes.name/">Me</a></i></sub></div>
 
 Every time someone asks me about my desk, I find myself updating this article. Having [worked remotely](https://greg.nokes.name/2020/03/03/working-remote/) for many years, I've built up a library of best practices and tools that work for me. I share these insights in the hope that others can learn from my experiences, improve their workflow, and look and sound better on camera!
