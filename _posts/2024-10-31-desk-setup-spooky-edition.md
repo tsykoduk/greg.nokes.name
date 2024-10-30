@@ -1,7 +1,7 @@
 ---
 id: 16700
 title: Desk Setup, 2024 Edition
-date: 2024-10-31
+date: 2024-10-29
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16700
