@@ -5,7 +5,7 @@ date: 2024-10-31
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16700
-permalink: /2022/10/29/desk-setup-spooky-edition/
+permalink: /2024/10/29/desk-setup-spooky-edition/
 categories:
  - Computers! and Code!
 ---
