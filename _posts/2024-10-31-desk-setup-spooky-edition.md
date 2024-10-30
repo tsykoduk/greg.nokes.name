@@ -13,7 +13,7 @@ categories:
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2024/10/IMG_1930.png" width="150" alt="A storyteller reading and prepairing"><br />
 <sub><i>Image by <a href="https://greg.nokes.name/">Me</a></i></sub></div>
 
-Every time someone asks me about my desk, I feel like I end up needing to bring this article up to date. Since I've been working remote for a [lot of years now](https://greg.nokes.name/2020/03/03/working-remote/)I have built up a library of best practices and tools that work for me. I post these in the hopes that others can learn from my lived experiences and improve their workflow. And look and sound better on camera!
+Every time someone asks me about my desk, I feel like I end up needing to bring this article up to date. Since I've been working remote for a [lot of years now](https://greg.nokes.name/2020/03/03/working-remote/) I have built up a library of best practices and tools that work for me. I post these in the hopes that others can learn from my lived experiences and improve their workflow. And look and sound better on camera!
 
 <!--more-->
 
