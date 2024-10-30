@@ -6,6 +6,7 @@ author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16700
 permalink: /2024/10/29/desk-setup-spooky-edition/
+excerpt_separator: <!--more-->
 categories:
  - Computers! and Code!
 ---
