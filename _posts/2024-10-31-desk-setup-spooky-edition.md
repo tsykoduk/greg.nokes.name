@@ -19,7 +19,7 @@ Transitioning to remote work wasn't just about shifting locations; it was about 
 
 <!--more-->
 
-I currently use the following gear for my standing desk:
+I currently use the following gear:
 
 **[M2 Pro Mac Mini](https://www.apple.com/mac/)** 
 
