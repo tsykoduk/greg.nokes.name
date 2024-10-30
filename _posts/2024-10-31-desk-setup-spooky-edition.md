@@ -80,6 +80,6 @@ Typing or moving items on the desk can introduce unwanted noise into recordings 
 
 These headphones are industry staples for a reason—they're durable, reliable, and deliver excellent sound quality. I've routed an extension cable from my microphone around to the underside of my desk, allowing me to plug in the headphones without visible wires, maintaining a clean workspace.
 
-* **VocalBeat Foam Windscreen for Blue Yeti** - the best $15 I have ever spent on my desk AV set up. It significantly improves sound quality by reducing plosives and ambient noise.
+**VocalBeat Foam Windscreen for Blue Yeti** - the best $15 I have ever spent on my desk AV set up. It significantly improves sound quality by reducing plosives and ambient noise.
 
 If you want to see how this has changed over the years, you can check out the older [articles](https://greg.nokes.name/2022/10/07/desk-setup-2022/).
