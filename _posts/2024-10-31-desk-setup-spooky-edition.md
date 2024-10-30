@@ -1,11 +1,11 @@
 ---
 id: 16700
 title: Desk Setup, 2024 Edition
-date: 2024-10-29
+date: 2024-10-30
 author: Greg Nokes
 layout: post
 guid: http://greg.nokes.name/?p=16700
-permalink: /2024/10/29/desk-setup-spooky-edition/
+permalink: /2024/10/30/desk-setup-spooky-edition/
 excerpt_separator: <!--more-->
 categories:
  - Computers! and Code!
