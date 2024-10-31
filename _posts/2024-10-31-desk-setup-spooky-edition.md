@@ -46,7 +46,7 @@ Standout Features:
 
 Having used an older Apple Studio Display for nearly a decade, I have confidence in the durability and longevity of this new model.
 
-**[Elgato Key Light](: https://www.elgato.com/en/key-light)**
+**[Elgato Key Light](https://www.elgato.com/en/key-light)**
 
 Lighting is crucial, especially when you're on camera frequently. The Elgato Key Light provides professional-grade illumination, ensuring I look my best during video conferences and webinars.
 
