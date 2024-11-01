@@ -3,10 +3,12 @@ GEM
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
+    base64 (0.2.0)
     bigdecimal (3.1.8)
     coderay (1.1.3)
     colorator (1.1.0)
     concurrent-ruby (1.3.4)
+    csv (3.3.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -197,7 +199,9 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  base64
   coderay
+  csv
   faraday-retry
   jekyll
   jekyll-environment-variables
