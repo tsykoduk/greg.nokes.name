@@ -30,29 +30,29 @@ highlighter:      rouge
 
 exclude: ['installer.sh','config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile','to_be_cleaned','static.json','update.sh', 'app.json']
 
-sass:
-  sass_dir: _sass
-plainwhite:
-  name: DaRoost
-  show_excerpts: true
-  tagline: |
-          A wayward journey
-          into the depths of sanity
-  date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
-  search: false # set to true to enable searchbar
-  dark_mode: false # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
-   
-  date_format: "%b %-d, %Y"
-    
-  social_links:
-    github: tsykoduk
-    linkedIn: in/gregnokes
-    mastodon:
-       username: greg
-       instance: social.nokes.name 
+#sass:
+#  sass_dir: _sass
+#plainwhite:
+#  name: DaRoost
+#  show_excerpts: true
+#  tagline: |
+#          A wayward journey
+#          into the depths of sanity
+#  date_format: "%b %-d, %Y"
+#  sitemap: true # set to true to generate sitemap.xml content
+#  search: false # set to true to enable searchbar
+#  dark_mode: false # set to true to add dark mode toggle
+# portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+#  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+#   
+#  date_format: "%b %-d, %Y"
+#    
+#  social_links:
+#    github: tsykoduk
+#    linkedIn: in/gregnokes
+#    mastodon:
+#       username: greg
+#       instance: social.nokes.name 
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
