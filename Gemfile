@@ -27,7 +27,7 @@ gem "jekyll" #, "~> 4.0.0"
 #  gem "jekyll-feed"
 #end
 
-gem jekyll-theme-chirpy
+gem "jekyll-theme-chirpy"
 # gem "plainwhite"
 gem "jekyll-paginate-v2"
 gem 'kramdown'
