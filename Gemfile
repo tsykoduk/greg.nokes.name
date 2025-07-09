@@ -5,7 +5,7 @@ source "https://rubygems.org"
 
 #LET'S GO RUBY 3.2!
 
-ruby "~> 3.4.2"
+ruby "~> 3.4"
 
 gem "csv"
 gem "base64"
