@@ -5,6 +5,8 @@ source "https://rubygems.org"
 
 #LET'S GO RUBY 3.2!
 
+#wow, this is old
+
 ruby "~> 3.4"
 
 gem "csv"
