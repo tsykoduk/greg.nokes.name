@@ -98,9 +98,15 @@ main {
     display: flex;
     height: 100vh;
     padding-bottom: 15vh;
+    background-color: rgba($accentColor, 0.4);
+    backdrop-filter: blur(10px);
+    border-right: 1px solid rgba($textColor, 0.1);
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
+      background-color: rgba($accentColor, 0.2);
+      border-right: none;
+      border-bottom: 1px solid rgba($textColor, 0.1);
     }
     @media screen and (max-width: $smallMobileW) {
       padding: 5vh 20px;
@@ -306,6 +312,67 @@ main {
     content: "";
     display: table;
     clear: both;
+  }
+}
+
+// Pagination navigation styling
+.pagination-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px 0;
+  padding: 20px 0;
+  border-top: 1px solid rgba($accentColor, 0.3);
+  
+  .pagination-link {
+    color: $linkColor;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: rgba($accentColor, 0.2);
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    
+    &:hover {
+      color: $hoverColor;
+      background-color: rgba($accentColor, 0.4);
+      transform: translateY(-1px);
+    }
+    
+    &.prev {
+      margin-right: auto;
+    }
+    
+    &.next {
+      margin-left: auto;
+    }
+  }
+  
+  .pagination-info {
+    color: $lightTextColor;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 20px;
+  }
+  
+  @media screen and (max-width: $mobileW) {
+    flex-direction: column;
+    gap: 15px;
+    
+    .pagination-link {
+      width: 100%;
+      text-align: center;
+      
+      &.prev,
+      &.next {
+        margin: 0;
+      }
+    }
+    
+    .pagination-info {
+      order: -1;
+      margin: 0;
+    }
   }
 }
 
