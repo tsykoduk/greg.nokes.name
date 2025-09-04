@@ -291,6 +291,17 @@ main {
     margin-top: 0;
   }
 }
+
+// Add visual separation between articles
+.posts li {
+  padding: 25px 0;
+  border-bottom: 1px solid rgba($accentColor, 0.3);
+  
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
 .post-container {
   padding-left: 30px;
 }
