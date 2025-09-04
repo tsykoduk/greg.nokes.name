@@ -140,7 +140,10 @@ main {
       line-height: normal;
     }
     img {
-      max-width: 150px;
+      max-width: 120px;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 15px;
     }
     img.dark {
       display: none;
@@ -381,17 +384,29 @@ main {
   }
 }
 
-// Creative Commons License styling
-.cc-license {
-  margin-top: 10px;
+// Copyright section with tight CC license positioning
+.copyright-section {
   text-align: center;
+  margin: 15px 0 5px;
   
-  img {
-    opacity: 0.8;
-    transition: opacity 0.3s;
+  p {
+    margin: 0 0 5px 0;
+    font-size: 12px;
+    line-height: 1.2;
+  }
+  
+  a[rel="license"] {
+    display: inline-block;
+    margin-top: 3px;
     
-    &:hover {
-      opacity: 1;
+    img {
+      opacity: 0.8;
+      transition: opacity 0.3s;
+      vertical-align: middle;
+      
+      &:hover {
+        opacity: 1;
+      }
     }
   }
 }
