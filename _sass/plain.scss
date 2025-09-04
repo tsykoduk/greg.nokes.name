@@ -17,11 +17,16 @@ $leftWidth: 220px;
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
-  line-height: 1.2em;
+  line-height: 1.4em;
   margin: 0;
-  background-color: lightgray;
+  background-color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  @media screen and (max-width: $mobileW) {
+    font-size: 18px;
+    line-height: 1.5em;
+  }
 }
 
 img,
@@ -29,6 +34,12 @@ embed,
 object,
 video {
   max-width: 100%;
+  height: auto;
+  
+  @media screen and (max-width: $mobileW) {
+    border-radius: 4px;
+    margin: 10px 0;
+  }
 }
 
 a {
@@ -80,7 +91,6 @@ main {
     display: flex;
     height: 100vh;
     padding-bottom: 15vh;
-    padding-top: 15vh;
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
@@ -107,7 +117,7 @@ main {
       text-align: center;
       font-size: 22px;
       margin-top: 0px;
-      color: darkslategray;
+      color: #aaa;
       white-space: pre-wrap;
       line-height: normal;
     }
@@ -140,12 +150,36 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 8px;
+  
   a {
-    margin-bottom: 0.5em;
+    margin-bottom: .5em;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    min-width: 44px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    @media screen and (max-width: $mobileW) {
+      min-width: 48px;
+      min-height: 48px;
+      margin-bottom: 0.75em;
+    }
+    
+    &:hover {
+      background-color: rgba(0,0,0,0.05);
+    }
   }
   li {
     i {
       font-size: 34px;
+      
+      @media screen and (max-width: $mobileW) {
+        font-size: 36px;
+      }
     }
   }
 }
@@ -166,14 +200,17 @@ main {
 
     a {
       display: block;
-      font-family: "Merriweather";
+      font-family: 'Merriweather';
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
-      border-bottom: 1px solid black;
-
+      border-bottom: 1px solid #ececec;
+      min-height: 44px;
+      
       @media screen and (max-width: $mobileW) {
-        padding: 2rem 0;
+        padding: 1.25rem 1rem;
+        font-size: 18px;
+        min-height: 48px;
       }
     }
   }
@@ -227,6 +264,12 @@ main {
   line-height: 1.2em;
   font-size: 28px;
   margin-bottom: 10px;
+  
+  @media screen and (max-width: $mobileW) {
+    font-size: 24px;
+    line-height: 1.3em;
+    margin-bottom: 15px;
+  }
 }
 .posts,
 .post-container {
@@ -249,8 +292,19 @@ main {
   font-weight: 300;
   color: #222;
   line-height: 1.9em;
+  
+  @media screen and (max-width: $mobileW) {
+    line-height: 1.7em;
+    font-size: 16px;
+  }
+  
   p {
     margin-top: 10px;
+    
+    @media screen and (max-width: $mobileW) {
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
   }
   a {
     color: $linkColor;
@@ -267,18 +321,23 @@ main {
   h5,
   h6 {
     font-family: Raleway, sans-serif;
+    
+    @media screen and (max-width: $mobileW) {
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
   }
 }
 .posts-labelgroup {
   margin: 0 0 0.67em 0;
   display: flex;
   align-items: baseline;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #eee;
 }
 
 #posts-label {
-  font-size: 25px;
-  color: darkslategray;
+  font-size: 15px;
+  color: #555;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   padding: 10px 0;
@@ -288,8 +347,7 @@ main {
   transition: width 0.1s;
 }
 table {
-  th,
-  td {
+  th, td {
     padding: 8px 13px;
     border: 1px solid #dfe2e5;
   }
@@ -331,7 +389,7 @@ footer {
     flex-direction: column;
     align-items: center;
     margin: 0 40px;
-    @media screen and (max-width: $smallMobileW) {
+    @media screen and (max-width: $smallMobileW){
       margin: 0 20px;
     }
     border-top: 1px solid #eee;
