@@ -2,17 +2,12 @@
 layout: default
 ---
 
-{%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-
 {{ content }}
 
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
+    {% if site.plainwhite.search %}
     <li class="posts-labelgroup" id="posts-labelgroup">
-      <h1 id="posts-label">posts</h1>
-      {% if site.plainwhite.search %}
       <div class="search-container">
         <div class="search-section">
           <i class="icon-search"></i>
@@ -20,8 +15,8 @@ layout: default
         </div>
         <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
       </div>
-      {% endif %}
     </li>
+    {% endif %}
 
     {%- for post in paginator.posts -%}
       <li>
