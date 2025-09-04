@@ -42,9 +42,6 @@ http {
     port_in_redirect off;
 
     location / {
-	    root /app/_site/;
-
-    location / {
       root _site/;
       try_files $uri $uri/ $uri.html /index.html;
     }
