@@ -452,6 +452,11 @@ table {
 
 footer {
   display: none;
+  
+  @media screen and (min-width: $mobileW + 1) {
+    margin-left: $leftWidth;
+    width: calc(100% - #{$leftWidth});
+  }
 }
 @media screen and (max-width: $mobileW) {
   .about {
@@ -482,9 +487,17 @@ footer {
     flex-direction: column;
     align-items: center;
     margin: 0 40px;
+    border-top: 1px solid $accentColor;
+    
     @media screen and (max-width: $smallMobileW){
       margin: 0 20px;
     }
-    border-top: 1px solid $accentColor;
+    
+    // On desktop, align with content area (same as articles)
+    @media screen and (min-width: $mobileW + 1) {
+      margin-left: calc(#{$leftWidth} + 40px);
+      margin-right: 40px;
+      width: calc(100% - #{$leftWidth} - 80px);
+    }
   }
 }
