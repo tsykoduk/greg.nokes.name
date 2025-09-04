@@ -50,7 +50,9 @@ plainwhite:
     linkedIn: in/gregnokes
     mastodon:
        username: greg
-       instance: social.nokes.name 
+       instance: social.nokes.name
+    bluesky: tsykoduk.com
+    threads: tsykoduk 
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
