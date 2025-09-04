@@ -1,0 +1,33 @@
+{
+  "name": "Greg Nokes Blog",
+  "description": "Personal blog built with Jekyll and served with nginx",
+  "repository": "https://github.com/tsykoduk/greg.nokes.name",
+  "logo": "https://greg.nokes.name/assets/img/avatar.jpg",
+  "keywords": ["jekyll", "blog", "static-site", "nginx"],
+  "website": "https://greg.nokes.name",
+  "success_url": "/",
+  "env": {
+    "JEKYLL_ENV": {
+      "description": "Jekyll environment",
+      "value": "production"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ],
+  "addons": [],
+  "scripts": {
+    "postdeploy": "echo 'Review app deployed successfully'"
+  }
+}
