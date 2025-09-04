@@ -141,8 +141,25 @@
         </ul>
       </nav>
       {%- endif -%}
-      <p class="about-footer {{condensed_class}}">&copy;
-        {{ "now" | date: "%Y" }}</p>
+      
+      <!-- Add contact link -->
+      <nav class="navigation about-footer {{condensed_class}}">
+        <ul>
+          <li>
+            <a href="/contact.html">contact</a>
+          </li>
+        </ul>
+      </nav>
+      
+      <!-- Enhanced copyright with full attribution -->
+      <p class="about-footer {{condensed_class}}">&copy; 2004 to {{ "now" | date: "%Y" }} <a rel="me" href="https://social.nokes.name/@greg">Greg Nokes</a></p>
+      
+      <!-- Creative Commons License -->
+      <div class="about-footer {{condensed_class}} cc-license">
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" />
+        </a>
+      </div>
       {%- if site.plainwhite.dark_mode -%}
       <div class="about-footer {{condensed_class}}">
         <p>Dark Mode
