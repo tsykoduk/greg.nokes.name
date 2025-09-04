@@ -17,7 +17,7 @@ http {
   
   log_format main '$time_iso8601 - $status $request - client IP: $http_x_forwarded_for - <%= ENV['DYNO'] %> to $upstream_addr - upstream status: $upstream_status, upstream_response_time $upstream_response_time, request_time $request_time';
   access_log /dev/stdout main;
-  error_log /dev/stdout notice;
+  error_log  /dev/stderr notice;
   log_not_found on;
 
   include mime.types;
@@ -30,20 +30,23 @@ http {
   server {
     listen <%= ENV["PORT"] %>;
     error_page 404 /404.html;
-	error_page 403 /403.html;
-	
-	# did not work rewrite https://$host$request_uri;
-	# boom failed. I guess a if is needed rewrite ^ https://$host$request_uri permanent;
+    error_page 403 /403.html;
+    
+    # did not work rewrite https://$host$request_uri;
+    # boom failed. I guess a if is needed rewrite ^ https://$host$request_uri permanent;
 
-	if ($http_x_forwarded_proto != "https") {
-	  return 301 https://$host$request_uri;
-	}
-		
+    if ($http_x_forwarded_proto != "https") {
+      return 301 https://$host$request_uri;
+    }
+        
     port_in_redirect off;
 
     location / {
 	    root /app/_site/;
 
+    location / {
+      root _site/;
+      try_files $uri $uri/ $uri.html /index.html;
     }
   }
 }

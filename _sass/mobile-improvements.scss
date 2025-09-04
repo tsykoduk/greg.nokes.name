@@ -1,0 +1,96 @@
+// Additional mobile-specific improvements
+// Add smooth scrolling for better mobile experience
+html {
+  scroll-behavior: smooth;
+}
+
+// Improve tap highlighting
+* {
+  -webkit-tap-highlight-color: rgba(0,0,0,0.1);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+// Allow text selection for content areas
+.post, .post p, .post h1, .post h2, .post h3, .post h4, .post h5, .post h6, .post blockquote, .post li {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+
+// Better mobile tables
+@media screen and (max-width: $mobileW) {
+  table {
+    font-size: 14px;
+    
+    th, td {
+      padding: 6px 8px;
+      word-break: break-word;
+    }
+  }
+  
+  // Horizontal scroll for wide tables
+  .table-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+// Improved code blocks for mobile
+@media screen and (max-width: $mobileW) {
+  pre {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 15px;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  code {
+    word-break: break-all;
+    font-size: 14px;
+  }
+}
+
+// Better blockquotes on mobile
+@media screen and (max-width: $mobileW) {
+  blockquote {
+    margin: 20px 0;
+    padding: 15px 20px;
+    border-left: 4px solid #ddd;
+    background-color: #f9f9f9;
+    font-style: italic;
+    
+    p {
+      margin: 0;
+    }
+  }
+}
+
+// Add some mobile-specific utility classes
+.mobile-only {
+  display: none;
+  
+  @media screen and (max-width: $mobileW) {
+    display: block;
+  }
+}
+
+.desktop-only {
+  display: block;
+  
+  @media screen and (max-width: $mobileW) {
+    display: none;
+  }
+}
+
+// Improve focus styles for keyboard navigation
+a:focus, button:focus, input:focus {
+  outline: 2px solid $linkColor;
+  outline-offset: 2px;
+}
