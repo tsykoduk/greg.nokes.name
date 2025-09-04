@@ -2,17 +2,12 @@
 layout: default
 ---
 
-{%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-
 {{ content }}
 
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
+    {% if site.plainwhite.search %}
     <li class="posts-labelgroup" id="posts-labelgroup">
-      <h1 id="posts-label">posts</h1>
-      {% if site.plainwhite.search %}
       <div class="search-container">
         <div class="search-section">
           <i class="icon-search"></i>
@@ -20,13 +15,13 @@ layout: default
         </div>
         <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
       </div>
-      {% endif %}
     </li>
+    {% endif %}
 
-    {%- for post in site.posts -%}
+    {%- for post in paginator.posts -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}#article">
           <h2 class="post-title">{{ post.title | escape }}</h2>
         </a>
         <div class="post-meta">
@@ -43,6 +38,23 @@ layout: default
       </li>
     {%- endfor -%}
   </ul>
+
+  <!-- Pagination Navigation -->
+  {%- if paginator.total_pages > 1 -%}
+  <div class="pagination-nav">
+    {%- if paginator.previous_page -%}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-link prev">← Newer Articles</a>
+    {%- endif -%}
+    
+    <span class="pagination-info">
+      Page {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    
+    {%- if paginator.next_page -%}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-link next">Older Articles →</a>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
 
   <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>

@@ -1,11 +1,14 @@
 .dark,
 .dark * {
-	$dark_text_color: #f6f6f6;
-	$dark_link_color: #4da3ff;
-	background-color: #171717;
+	// Deeper Smoky Elegance for Dark Mode
+	$dark_text_color: #f0ede9;
+	$dark_link_color: #6b3f52;
+	$dark_bg_color: #141210;
+	$dark_accent_color: #2d2e32;
+	$dark_hover_color: #c49389;
+	background-color: $dark_bg_color;
 	color: $dark_text_color;
-	border-color: #e6e6e6;
-	
+	border-color: $dark_accent_color;
 	.about{
 		img.light {
 			display: none;
@@ -15,7 +18,7 @@
 		}
 	}
 	.post p {
-		color: #ddd;
+		color: #e0ddd9;
 	}
 
 	.social [class^="icon-"] {
@@ -24,14 +27,14 @@
 
 	#posts-label {
 		color: $dark_text_color;
-		border-bottom: 1px solid #272727;
+		border-bottom: 1px solid $dark_accent_color;
 	}
 
 	@import 'ext/solarized-dark';
 	.highlight, .highlight * 
 	{
-		background-color: #00080a;
-		color: #93a1a1;
+		background-color: #0f0d0b;
+		color: #c0bbb6;
 	}
 
 	div.highlight-dark {
@@ -45,32 +48,35 @@
 
 	.post-categories {
 		li {
-			background-color: #333;
-			color: #fff;
+			background-color: $dark_accent_color;
+			color: $dark_text_color;
 		}
 	}
 
 	a {
-		color: $dark_link_color;
-	}
-	#title a {
-		color: #fff;
+		color: $dark_hover_color;
 		&:hover {
 			color: $dark_link_color;
+		}
+	}
+	#title a {
+		color: $dark_text_color;
+		&:hover {
+			color: $dark_hover_color;
 		}
 	}
 
 	.posts-labelgroup {
 
-		border-bottom: 1px solid #333;
+		border-bottom: 1px solid $dark_accent_color;
 		.search-results {
-			background-color: #333;
+			background-color: $dark_accent_color;
 
 			a {
 				color: white;
 
 				&:hover {
-					background-color: #171717;
+					background-color: $dark_bg_color;
 				}
 			}
 		}
@@ -95,7 +101,7 @@
 	.posts-labelgroup.focus-within {
 	
 		.search-section {
-			background-color: #333;
+			background-color: $dark_accent_color;
 		}
 
 		input {
@@ -109,9 +115,10 @@
 }
 .dark table {
 	th, td {
-		border: 1px solid #333;
+		border: 1px solid $dark_accent_color;
 	}
 	th {
-		background-color: #0d0d0d;
+		background-color: #0a0908;
+		color: $dark_text_color;
 	}
 }

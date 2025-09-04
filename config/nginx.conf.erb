@@ -41,14 +41,6 @@ http {
         
     port_in_redirect off;
 
-    # Cache static assets
-    location ~* \.(css|js|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$ {
-      root _site/;
-      expires 1y;
-      add_header Cache-Control "public, immutable";
-      try_files $uri =404;
-    }
-
     location / {
       root _site/;
       try_files $uri $uri/ $uri.html /index.html;

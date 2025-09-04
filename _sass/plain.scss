@@ -2,7 +2,13 @@
 @import "ext/normalize";
 @import "syntax";
 
-$linkColor: #0a59b0;
+// Smoky Elegance Color Scheme
+$backgroundColor: #1e1c1a;
+$textColor: #e8e6e3;
+$linkColor: #87ceeb;
+$accentColor: #3a3d42;
+$hoverColor: #b8d4f0;
+$lightTextColor: #b8b5b2;
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -19,7 +25,8 @@ body {
   font-size: 16px;
   line-height: 1.4em;
   margin: 0;
-  background-color: #fff;
+  background-color: $backgroundColor;
+  color: $textColor;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   
@@ -35,18 +42,18 @@ object,
 video {
   max-width: 100%;
   height: auto;
+  border-radius: 8px;
   
   @media screen and (max-width: $mobileW) {
-    border-radius: 4px;
     margin: 10px 0;
   }
 }
 
 a {
-  color: #000;
+  color: $textColor;
   transition: color 0.3s;
   &:hover {
-    color: $linkColor;
+    color: $hoverColor;
   }
 }
 
@@ -82,25 +89,36 @@ main {
 
   .content {
     @media screen and (min-width: $mobileW + 1) {
-      max-width: calc(100% - #{$leftWidth});
-      margin-left: $leftWidth;
+      max-width: calc(100% - 300px);
+      margin-left: 300px;
       width: 100%;
     }
   }
   .about {
     display: flex;
     height: 100vh;
-    padding-bottom: 15vh;
+    padding: 30px 25px 15vh;
+    background-color: rgba($accentColor, 0.4);
+    backdrop-filter: blur(10px);
+    border-right: 1px solid rgba($textColor, 0.1);
+    
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
+      background-color: rgba($accentColor, 0.2);
+      border-right: none;
+      border-bottom: 1px solid rgba($textColor, 0.1);
+      position: static;
     }
     @media screen and (max-width: $smallMobileW) {
       padding: 5vh 20px;
     }
     @media screen and (min-width: $mobileW + 1) {
       position: fixed;
-      max-width: 280px;
+      top: 0;
+      left: 0;
+      max-width: 300px;
+      box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
     }
     min-width: $leftWidth;
     justify-content: center;
@@ -110,19 +128,22 @@ main {
       font-size: 22px;
       margin-top: 25px;
       margin-bottom: 0;
-      color: #222222;
+      color: $textColor;
       font-weight: normal;
     }
     .tagline {
       text-align: center;
       font-size: 22px;
       margin-top: 0px;
-      color: #aaa;
+      color: $lightTextColor;
       white-space: pre-wrap;
       line-height: normal;
     }
     img {
-      max-width: 150px;
+      max-width: 200px;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 15px;
     }
     img.dark {
       display: none;
@@ -150,11 +171,11 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 8px;
+  gap: 4px;
   
   a {
     margin-bottom: .5em;
-    padding: 8px;
+    padding: 4px;
     border-radius: 4px;
     transition: background-color 0.3s;
     min-width: 44px;
@@ -175,10 +196,10 @@ main {
   }
   li {
     i {
-      font-size: 34px;
+      font-size: 26px;
       
       @media screen and (max-width: $mobileW) {
-        font-size: 36px;
+        font-size: 28px;
       }
     }
   }
@@ -204,9 +225,8 @@ main {
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
-      border-bottom: 1px solid #ececec;
-      min-height: 44px;
-      
+      border-bottom: 1px solid $accentColor;
+      color: $textColor;
       @media screen and (max-width: $mobileW) {
         padding: 1.25rem 1rem;
         font-size: 18px;
@@ -217,7 +237,7 @@ main {
 }
 
 .post-wrapper {
-  border-bottom: 1px solid #ececec;
+  border-bottom: 1px solid $accentColor;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
 }
@@ -229,7 +249,8 @@ main {
   li {
     font-size: 14px;
     float: left;
-    background-color: #e3e3e3;
+    background-color: $accentColor;
+    color: $textColor;
     padding: 5px 20px;
     border-radius: 2px;
     @media screen and (max-width: $mobileW) {
@@ -240,7 +261,7 @@ main {
 }
 .post-date {
   margin-right: 10px;
-  color: #555;
+  color: $lightTextColor;
   min-width: 150px;
 }
 .post-meta {
@@ -284,13 +305,147 @@ main {
     margin-top: 0;
   }
 }
+
+// Add visual separation between articles
+.posts li {
+  padding: 25px 0;
+  border-bottom: 1px solid rgba($accentColor, 0.3);
+  
+  &:last-child {
+    border-bottom: none;
+  }
+  
+  // Ensure floated images don't overlap with borders
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+// Pagination navigation styling
+.pagination-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px 0;
+  padding: 20px 0;
+  border-top: 1px solid rgba($accentColor, 0.3);
+  
+  .pagination-link {
+    color: $linkColor;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: rgba($accentColor, 0.2);
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    
+    &:hover {
+      color: $hoverColor;
+      background-color: rgba($accentColor, 0.4);
+      transform: translateY(-1px);
+    }
+    
+    &.prev {
+      margin-right: auto;
+    }
+    
+    &.next {
+      margin-left: auto;
+    }
+  }
+  
+  .pagination-info {
+    color: $lightTextColor;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 20px;
+  }
+  
+  @media screen and (max-width: $mobileW) {
+    flex-direction: column;
+    gap: 15px;
+    
+    .pagination-link {
+      width: 100%;
+      text-align: center;
+      
+      &.prev,
+      &.next {
+        margin: 0;
+      }
+    }
+    
+    .pagination-info {
+      order: -1;
+      margin: 0;
+    }
+  }
+}
+
+// Copyright section with tight CC license positioning
+.copyright-section {
+  text-align: center;
+  margin: 15px 0 5px;
+  
+  p {
+    margin: 0 0 5px 0;
+    font-size: 12px;
+    line-height: 1.2;
+  }
+  
+  a[rel="license"] {
+    display: inline-block;
+    margin-top: 3px;
+    
+    img {
+      opacity: 0.8;
+      transition: opacity 0.3s;
+      vertical-align: middle;
+      
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+}
+
+// Navigation links styling
+.navigation.about-footer {
+  margin: 10px 0;
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    
+    li {
+      display: inline-block;
+      margin: 0 10px;
+      
+      a {
+        color: $linkColor;
+        text-decoration: none;
+        font-size: 14px;
+        transition: color 0.3s;
+        
+        &:hover {
+          color: $hoverColor;
+        }
+      }
+    }
+  }
+}
+
 .post-container {
   padding-left: 30px;
 }
 .post {
   font-family: "Merriweather", sans-serif;
   font-weight: 300;
-  color: #222;
+  color: $textColor;
   line-height: 1.9em;
   
   @media screen and (max-width: $mobileW) {
@@ -332,12 +487,12 @@ main {
   margin: 0 0 0.67em 0;
   display: flex;
   align-items: baseline;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid $accentColor;
 }
 
 #posts-label {
-  font-size: 15px;
-  color: #555;
+  font-size: 25px;
+  color: $lightTextColor;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   padding: 10px 0;
@@ -349,16 +504,22 @@ main {
 table {
   th, td {
     padding: 8px 13px;
-    border: 1px solid #dfe2e5;
+    border: 1px solid $accentColor;
   }
   th {
-    background-color: #eee;
+    background-color: $accentColor;
+    color: $textColor;
     font-family: Raleway;
   }
 }
 
 footer {
   display: none;
+  
+  @media screen and (min-width: $mobileW + 1) {
+    margin-left: 300px;
+    width: calc(100% - 300px);
+  }
 }
 @media screen and (max-width: $mobileW) {
   .about {
@@ -389,9 +550,17 @@ footer {
     flex-direction: column;
     align-items: center;
     margin: 0 40px;
+    border-top: 1px solid $accentColor;
+    
     @media screen and (max-width: $smallMobileW){
       margin: 0 20px;
     }
-    border-top: 1px solid #eee;
+    
+    // On desktop, align with content area (same as articles)
+    @media screen and (min-width: $mobileW + 1) {
+      margin-left: calc(300px + 40px);
+      margin-right: 40px;
+      width: calc(100% - 300px - 80px);
+    }
   }
 }
