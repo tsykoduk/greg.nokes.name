@@ -42,9 +42,9 @@ object,
 video {
   max-width: 100%;
   height: auto;
+  border-radius: 8px;
   
   @media screen and (max-width: $mobileW) {
-    border-radius: 4px;
     margin: 10px 0;
   }
 }
