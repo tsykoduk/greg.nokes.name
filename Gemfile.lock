@@ -136,8 +136,6 @@ GEM
       google-protobuf (~> 4.31)
     sass-embedded (1.92.0-aarch64-linux-musl)
       google-protobuf (~> 4.31)
-    sass-embedded (1.92.0-aarch64-mingw-ucrt)
-      google-protobuf (~> 4.31)
     sass-embedded (1.92.0-arm-linux-androideabi)
       google-protobuf (~> 4.31)
     sass-embedded (1.92.0-arm-linux-gnueabihf)
@@ -173,7 +171,6 @@ PLATFORMS
   aarch64-linux-android
   aarch64-linux-gnu
   aarch64-linux-musl
-  aarch64-mingw-ucrt
   arm-linux-androideabi
   arm-linux-gnu
   arm-linux-gnueabihf
@@ -187,7 +184,6 @@ PLATFORMS
   x86-linux-gnu
   x86-linux-musl
   x86_64-darwin
-  x86_64-linux
   x86_64-linux-android
   x86_64-linux-gnu
   x86_64-linux-musl
@@ -208,7 +204,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 3.4.2p28
+   ruby 3.4.5p51
 
 BUNDLED WITH
    2.6.9
