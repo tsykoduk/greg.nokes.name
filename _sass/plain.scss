@@ -89,31 +89,36 @@ main {
 
   .content {
     @media screen and (min-width: $mobileW + 1) {
-      max-width: calc(100% - #{$leftWidth});
-      margin-left: $leftWidth;
+      max-width: calc(100% - 300px);
+      margin-left: 300px;
       width: 100%;
     }
   }
   .about {
     display: flex;
     height: 100vh;
-    padding-bottom: 15vh;
+    padding: 30px 25px 15vh;
     background-color: rgba($accentColor, 0.4);
     backdrop-filter: blur(10px);
     border-right: 1px solid rgba($textColor, 0.1);
+    
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
       background-color: rgba($accentColor, 0.2);
       border-right: none;
       border-bottom: 1px solid rgba($textColor, 0.1);
+      position: static;
     }
     @media screen and (max-width: $smallMobileW) {
       padding: 5vh 20px;
     }
     @media screen and (min-width: $mobileW + 1) {
       position: fixed;
-      max-width: 280px;
+      top: 0;
+      left: 0;
+      max-width: 300px;
+      box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
     }
     min-width: $leftWidth;
     justify-content: center;
@@ -454,8 +459,8 @@ footer {
   display: none;
   
   @media screen and (min-width: $mobileW + 1) {
-    margin-left: $leftWidth;
-    width: calc(100% - #{$leftWidth});
+    margin-left: 300px;
+    width: calc(100% - 300px);
   }
 }
 @media screen and (max-width: $mobileW) {
@@ -495,9 +500,9 @@ footer {
     
     // On desktop, align with content area (same as articles)
     @media screen and (min-width: $mobileW + 1) {
-      margin-left: calc(#{$leftWidth} + 40px);
+      margin-left: calc(300px + 40px);
       margin-right: 40px;
-      width: calc(100% - #{$leftWidth} - 80px);
+      width: calc(100% - 300px - 80px);
     }
   }
 }
