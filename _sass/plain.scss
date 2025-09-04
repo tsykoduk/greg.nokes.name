@@ -300,6 +300,13 @@ main {
   &:last-child {
     border-bottom: none;
   }
+  
+  // Ensure floated images don't overlap with borders
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 .post-container {
