@@ -1,10 +1,10 @@
 ---
-id: 40
+id: 70
 title: Gaming Funny
 date: 2005-01-21T08:22:54+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/gaming-funny
+guid: https://greg.nokes.name/?p=70
 permalink: /2005/01/21/gaming-funny/
 categories:
   - Fun!

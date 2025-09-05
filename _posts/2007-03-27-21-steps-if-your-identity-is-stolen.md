@@ -1,10 +1,10 @@
 ---
-id: 2251
+id: 370
 title: 21 steps if your identity is stolen
 date: 2007-03-27T22:13:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/21-steps-if-your-identity-is-stolen
+guid: https://greg.nokes.name/?p=370
 permalink: /2007/03/27/21-steps-if-your-identity-is-stolen/
 categories:
   - Computers! and Code!

@@ -1,10 +1,10 @@
 ---
-id: 16400
+id: 1360
 title: Heroku Removing Its Free Tier
 date: 2022-08-25
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=16400
+guid: https://greg.nokes.name/?p=1360
 permalink: /2022/08/25/heroku-removing-free-teir/
 categories:
  - Computers! and Code!

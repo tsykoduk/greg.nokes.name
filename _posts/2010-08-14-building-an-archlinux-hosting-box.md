@@ -1,10 +1,10 @@
 ---
-id: 15325
+id: 930
 title: Building an ArchLinux hosting box (part 1)
 date: 2010-08-14T20:31:23+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15325
+guid: https://greg.nokes.name/?p=930
 permalink: /2010/08/14/building-an-archlinux-hosting-box/
 categories:
   - Computers! and Code!

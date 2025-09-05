@@ -1,10 +1,10 @@
 ---
-id: 16910
+id: 1410
 title: Bringing Buddha into Leadership
 date: 2023-06-01
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16910
+guid: https://greg.nokes.name/?p=1410
 permalink: /2023/06/01/bringing-buddha-into-leadership/
 categories:
  - Computers! and Code!

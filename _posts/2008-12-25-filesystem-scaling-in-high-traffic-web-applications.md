@@ -1,10 +1,10 @@
 ---
-id: 8011
+id: 600
 title: Filesystem scaling in high traffic web applications
 date: 2008-12-25T00:50:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/filesystem-scaling-in-high-traffic-web-applications
+guid: https://greg.nokes.name/?p=600
 permalink: /2008/12/25/filesystem-scaling-in-high-traffic-web-applications/
 categories:
   - Computers! and Code!

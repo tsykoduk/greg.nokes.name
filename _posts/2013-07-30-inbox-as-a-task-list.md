@@ -1,10 +1,10 @@
 ---
-id: 15508
+id: 1080
 title: Inbox as a task list
 date: 2013-07-30T08:51:55+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15508
+guid: https://greg.nokes.name/?p=1080
 permalink: /2013/07/30/inbox-as-a-task-list/
 categories:
   - Mundane

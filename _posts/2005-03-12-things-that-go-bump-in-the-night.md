@@ -1,10 +1,10 @@
 ---
-id: 159
+id: 110
 title: 'Things that go bump in the night...'
 date: 2005-03-12T22:29:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/things-that-go-bump-in-the-night
+guid: https://greg.nokes.name/?p=110
 permalink: /2005/03/12/things-that-go-bump-in-the-night/
 categories:
   - Philosophy! and Politics!

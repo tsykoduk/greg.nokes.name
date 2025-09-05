@@ -1,10 +1,10 @@
 ---
-id: 7156
+id: 540
 title: Shadow IT Departments
 date: 2008-04-14T20:52:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/shadow-it-departments
+guid: https://greg.nokes.name/?p=540
 permalink: /2008/04/14/shadow-it-departments/
 categories:
   - Computers! and Code!

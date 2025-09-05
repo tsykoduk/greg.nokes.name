@@ -1,10 +1,10 @@
 ---
-id: 15495
+id: 1060
 title: You Have Another Version of Skype Running
 date: 2013-07-12T11:34:49+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15495
+guid: https://greg.nokes.name/?p=1060
 permalink: /2013/07/12/you-have-another-version-of-skype-running/
 categories:
   - Computers! and Code!

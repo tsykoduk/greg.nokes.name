@@ -1,10 +1,10 @@
 ---
-id: 920
+id: 210
 title: On Suffering
 date: 2005-09-30T20:28:59+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/on-suffering
+guid: https://greg.nokes.name/?p=210
 permalink: /2005/09/30/on-suffering/
 categories:
   - Philosophy! and Politics!

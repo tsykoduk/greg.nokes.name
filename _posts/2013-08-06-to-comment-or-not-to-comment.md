@@ -1,10 +1,10 @@
 ---
-id: 15527
+id: 1100
 title: To comment or not to comment
 date: 2013-08-06T12:19:50+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15527
+guid: https://greg.nokes.name/?p=1100
 permalink: /2013/08/06/to-comment-or-not-to-comment/
 categories:
   - Mundane

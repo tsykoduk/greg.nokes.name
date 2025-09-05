@@ -1,10 +1,10 @@
 ---
-id: 779
+id: 200
 title: Yes, Linux can do anything
 date: 2005-08-23T18:34:56+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/yes-linux-can-do-anything
+guid: https://greg.nokes.name/?p=200
 permalink: /2005/08/23/yes-linux-can-do-anything/
 categories:
   - Computers! and Code!

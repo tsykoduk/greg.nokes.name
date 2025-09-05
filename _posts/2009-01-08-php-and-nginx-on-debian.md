@@ -1,10 +1,10 @@
 ---
-id: 8142
+id: 620
 title: PHP and Nginx on Debian
 date: 2009-01-08T15:18:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/01/08/php-and-nginx-on-debian
+guid: https://greg.nokes.name/?p=620
 permalink: /2009/01/08/php-and-nginx-on-debian/
 categories:
   - Computers! and Code!

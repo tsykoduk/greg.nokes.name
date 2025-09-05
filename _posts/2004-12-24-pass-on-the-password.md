@@ -1,10 +1,10 @@
 ---
-id: 225
+id: 30
 title: Pass on the password
 date: 2004-12-24T16:44:29+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/pass-on-the-password
+guid: https://greg.nokes.name/?p=30
 permalink: /2004/12/24/pass-on-the-password/
 categories:
   - Computers! and Code!

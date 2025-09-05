@@ -1,10 +1,10 @@
 ---
-id: 15600
+id: 1250
 title: Thoughts on Data Lakes
 date: 2019-10-09
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15600
+guid: https://greg.nokes.name/?p=1250
 permalink: /2019/10/09/thoughts-on-data-lakes/
 categories:
   - Computers! and Code!

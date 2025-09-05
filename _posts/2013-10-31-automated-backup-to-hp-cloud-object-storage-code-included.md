@@ -1,10 +1,10 @@
 ---
-id: 15553
+id: 1120
 title: Automated Backup to HP Cloud Object Storage, Code Included
 date: 2013-10-31T10:52:01+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15553
+guid: https://greg.nokes.name/?p=1120
 permalink: /2013/10/31/automated-backup-to-hp-cloud-object-storage-code-included/
 categories:
   - Computers! and Code!

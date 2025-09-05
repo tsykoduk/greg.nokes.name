@@ -1,10 +1,10 @@
 ---
-id: 2270
+id: 400
 title: Scan and Copy
 date: 2007-04-03T17:13:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/scan-and-copy
+guid: https://greg.nokes.name/?p=400
 permalink: /2007/04/03/scan-and-copy/
 categories:
   - Computers! and Code!

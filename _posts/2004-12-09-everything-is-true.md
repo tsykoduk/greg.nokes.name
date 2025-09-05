@@ -1,10 +1,10 @@
 ---
-id: 218
+id: 10
 title: Everything is true!
 date: 2004-12-09T16:51:35+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/everything-is-true
+guid: https://greg.nokes.name/?p=10
 permalink: /2004/12/09/everything-is-true/
 categories:
   - Philosophy! and Politics!

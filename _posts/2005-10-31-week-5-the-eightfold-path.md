@@ -1,10 +1,10 @@
 ---
-id: 999
+id: 250
 title: The Eightfold Path
 date: 2005-10-31T08:00:02+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/the-eightfold-path
+guid: https://greg.nokes.name/?p=250
 permalink: /2005/10/31/the-eightfold-path/
 categories:
   - Philosophy! and Politics!

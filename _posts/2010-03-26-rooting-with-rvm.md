@@ -1,10 +1,10 @@
 ---
-id: 15235
+id: 860
 title: rooting with rvm
 date: 2010-03-26T13:51:16+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15235
+guid: https://greg.nokes.name/?p=860
 permalink: /2010/03/26/rooting-with-rvm/
 categories:
   - Computers! and Code!

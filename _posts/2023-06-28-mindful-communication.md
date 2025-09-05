@@ -1,10 +1,10 @@
 ---
-id: 16930
+id: 1430
 title: Mindful Communication
 date: 2023-06-28
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16930
+guid: https://greg.nokes.name/?p=1430
 permalink: /2023/06/28/mindful-communication/
 categories:
   - Computers! and Code!

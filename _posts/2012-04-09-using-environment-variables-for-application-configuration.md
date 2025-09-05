@@ -1,10 +1,10 @@
 ---
-id: 15424
+id: 1000
 title: Using environment variables for application configuration
 date: 2012-04-09T20:24:16+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15424
+guid: https://greg.nokes.name/?p=1000
 permalink: /2012/04/09/using-environment-variables-for-application-configuration/
 categories:
   - Computers! and Code!

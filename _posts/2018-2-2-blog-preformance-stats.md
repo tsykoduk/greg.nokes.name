@@ -1,10 +1,10 @@
 ---
-id: 15571
-title: Blog Preformance
+id: 1190
+title: Blog Performance
 date: 2018-2-22
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15571
+guid: https://greg.nokes.name/?p=1190
 permalink: /2018/02/22/blog-preformance-stats/
 categories:
   - Computers! and Code!

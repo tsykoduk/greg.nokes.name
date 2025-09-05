@@ -1,10 +1,10 @@
 ---
-id: 8180
+id: 640
 title: iTunes Backups
 date: 2009-01-12T06:10:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/01/12/itunes-backups
+guid: https://greg.nokes.name/?p=640
 permalink: /2009/01/12/itunes-backups/
 categories:
   - Computers! and Code!

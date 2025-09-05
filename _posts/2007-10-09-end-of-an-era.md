@@ -1,10 +1,10 @@
 ---
-id: 2945
+id: 480
 title: End of an Era
 date: 2007-10-09T18:43:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/end-of-an-era
+guid: https://greg.nokes.name/?p=480
 permalink: /2007/10/09/end-of-an-era/
 categories:
   - Computers! and Code!

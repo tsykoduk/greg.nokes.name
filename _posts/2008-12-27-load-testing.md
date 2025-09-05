@@ -1,10 +1,10 @@
 ---
-id: 8043
+id: 610
 title: Load Testing
 date: 2008-12-27T06:37:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/load-testing
+guid: https://greg.nokes.name/?p=610
 permalink: /2008/12/27/load-testing/
 categories:
   - Computers! and Code!

@@ -1,10 +1,10 @@
 ---
-id: 15113
+id: 770
 title: Linux Mint
 date: 2009-07-06T10:38:34+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/2009/07/06/linux-mint/
+guid: https://greg.nokes.name/?p=770
 permalink: /2009/07/06/linux-mint/
 categories:
   - Mundane

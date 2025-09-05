@@ -1,10 +1,10 @@
 ---
-id: 1990
+id: 310
 title: Cross Model Attributes
 date: 2007-01-03T16:21:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/cross-model-attributes
+guid: https://greg.nokes.name/?p=310
 permalink: /2007/01/03/cross-model-attributes/
 categories:
   - Computers! and Code!

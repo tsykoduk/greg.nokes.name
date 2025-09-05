@@ -1,10 +1,10 @@
 ---
-id: 221
+id: 20
 title: Zorba the Buddha
 date: 2004-12-09T16:52:03+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/zorba-the-buddha
+guid: https://greg.nokes.name/?p=20
 permalink: /2004/12/09/zorba-the-buddha/
 categories:
   - Philosophy! and Politics!

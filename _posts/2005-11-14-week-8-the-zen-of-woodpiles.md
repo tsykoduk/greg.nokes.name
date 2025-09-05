@@ -1,10 +1,10 @@
 ---
-id: 1115
+id: 280
 title:  The Zen of Woodpiles
 date: 2005-11-14T10:09:57+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/he-zen-of-woodpiles
+guid: https://greg.nokes.name/?p=280
 permalink: /2005/11/14/8-the-zen-of-woodpiles/
 categories:
   - Philosophy! and Politics!

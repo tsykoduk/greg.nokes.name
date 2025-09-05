@@ -1,10 +1,10 @@
 ---
-id: 15581
+id: 1230
 title: Thoughts on Standardization vs Personalization 
 date: 2019-04-10
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15581
+guid: https://greg.nokes.name/?p=1230
 permalink: /2019/04/10/thoughts-on-standardization-vs-personalization/
 categories:
   - Computers! and Code!

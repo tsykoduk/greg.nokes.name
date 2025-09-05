@@ -1,10 +1,10 @@
 ---
-id: 2265
+id: 380
 title: Important Announcement!
 date: 2007-04-02T03:41:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/important-announcement
+guid: https://greg.nokes.name/?p=380
 permalink: /2007/04/02/important-announcement/
 categories:
   - Philosophy! and Politics!

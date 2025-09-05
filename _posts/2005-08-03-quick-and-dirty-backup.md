@@ -1,10 +1,10 @@
 ---
-id: 706
+id: 190
 title: Quick and dirty backup
 date: 2005-08-03T14:24:14+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/quick-and-dirty-backup
+guid: https://greg.nokes.name/?p=190
 permalink: /2005/08/03/quick-and-dirty-backup/
 categories:
   - Computers! and Code!

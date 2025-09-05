@@ -1,10 +1,10 @@
 ---
-id: 15570
+id: 1170
 title: Markdown in Gmail
 date: 2017-11-2
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15570
+guid: https://greg.nokes.name/?p=1170
 permalink: /2017/11/02/markdown-in-gmail/
 categories:
   - Computers! and Code!

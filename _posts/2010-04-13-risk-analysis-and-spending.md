@@ -1,10 +1,10 @@
 ---
-id: 15270
+id: 890
 title: Risk Analysis and Spending
 date: 2010-04-13T23:00:43+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15270
+guid: https://greg.nokes.name/?p=890
 permalink: /2010/04/13/risk-analysis-and-spending/
 categories:
   - Mundane

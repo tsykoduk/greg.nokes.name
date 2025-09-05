@@ -1,10 +1,10 @@
 ---
-id: 16970
+id: 1470
 title: Mac Hostnames
 date: 2023-09-13
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16970
+guid: https://greg.nokes.name/?p=1470
 permalink: /2023/09/13/mac-hostnames/
 categories:
   - Computers! and Code!

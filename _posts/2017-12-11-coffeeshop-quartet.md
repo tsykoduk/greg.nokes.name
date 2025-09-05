@@ -1,11 +1,11 @@
 ---
-id: 15571
+id: 1180
 title: Coffee Shop Quartet
 date: 2017-12-11
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15571
-permalink: /2017/11/02/coffeshop-quartet/
+guid: https://greg.nokes.name/?p=1180
+permalink: /2017/12/11/coffeeshop-quartet/
 categories:
   - Life and Work
 excerpt_separator:  <!--more-->

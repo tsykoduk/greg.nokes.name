@@ -1,10 +1,10 @@
 ---
-id: 1503
+id: 520
 title: Checking up on stuff
 date: 2008-03-28T23:04:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/checking-up-on-stuff
+guid: https://greg.nokes.name/?p=520
 permalink: /2008/03/28/checking-up-on-stuff/
 categories:
   - Computers! and Code!

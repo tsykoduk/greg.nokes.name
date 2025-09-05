@@ -1,10 +1,10 @@
 ---
-id: 15515
+id: 1090
 title: Running and Optimizing Production apps on Heroku
 date: 2013-08-02T09:37:57+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15515
+guid: https://greg.nokes.name/?p=1090
 permalink: /2013/08/02/running-and-optimizing-production-apps-on-heroku/
 categories:
   - Computers! and Code!

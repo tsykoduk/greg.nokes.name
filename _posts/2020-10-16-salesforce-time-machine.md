@@ -1,10 +1,10 @@
 ---
-id: 16100
+id: 1320
 title: Building a Time Machine for Salesforce Data, the Easy Way
 date: 2020-10-16
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16100
+guid: https://greg.nokes.name/?p=1320
 permalink: /2020/10/16/salesforce-time-machine/
 categories:
  - Computers! and Code!

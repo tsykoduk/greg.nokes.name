@@ -1,10 +1,10 @@
 ---
-id: 15204
+id: 840
 title: Using RVM to benchmark Ruby
 date: 2009-12-22T11:33:02+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15204
+guid: https://greg.nokes.name/?p=840
 permalink: /2009/12/22/using-rvm-to-benchmark-ruby/
 categories:
   - Computers! and Code!

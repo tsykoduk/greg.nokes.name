@@ -1,10 +1,10 @@
 ---
-id: 7123
+id: 510
 title: Black Holes, Stranglets and Oh My!
 date: 2008-03-28T18:08:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/black-holes-stranglets-and-oh-my
+guid: https://greg.nokes.name/?p=510
 permalink: /2008/03/28/black-holes-stranglets-and-oh-my/
 categories:
   - Fun!

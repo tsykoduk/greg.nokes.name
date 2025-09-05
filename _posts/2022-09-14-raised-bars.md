@@ -1,10 +1,10 @@
 ---
-id: 16600
+id: 1370
 title: Raised Bars, Or Breaking into Tech
 date: 2022-09-14
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=16500
+guid: https://greg.nokes.name/?p=1370
 permalink: /2022/08/25/raised-bars/
 categories:
  - Computers! and Code!

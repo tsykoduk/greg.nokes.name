@@ -1,10 +1,10 @@
 ---
-id: 7148
+id: 530
 title: Seen on Evil.com
 date: 2008-04-11T19:57:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/seen-on-evil-com
+guid: https://greg.nokes.name/?p=530
 permalink: /2008/04/11/seen-on-evil-com/
 categories:
   - Fun!

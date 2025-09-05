@@ -1,10 +1,10 @@
 ---
-id: 568
+id: 170
 title: Immanentize the Eschaton?
 date: 2005-06-23T14:11:35+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/immanentize-the-eschaton
+guid: https://greg.nokes.name/?p=170
 permalink: /2005/06/23/immanentize-the-eschaton/
 categories:
   - Philosophy! and Politics!

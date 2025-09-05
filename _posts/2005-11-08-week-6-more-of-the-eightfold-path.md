@@ -1,10 +1,10 @@
 ---
-id: 1040
+id: 270
 title: More of the Eightfold Path
 date: 2005-11-08T12:15:17+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/more-of-the-eightfold-path
+guid: https://greg.nokes.name/?p=270
 permalink: /2005/11/08/more-of-the-eightfold-path/
 categories:
   - Philosophy! and Politics!

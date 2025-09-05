@@ -1,10 +1,10 @@
 ---
-id: 8332
+id: 670
 title: Interview with a reformed adware programmer
 date: 2009-01-30T17:20:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/01/30/interview-with-a-reformed-adware-programmer
+guid: https://greg.nokes.name/?p=670
 permalink: /2009/01/30/interview-with-a-reformed-adware-programmer/
 categories:
   - Computers! and Code!

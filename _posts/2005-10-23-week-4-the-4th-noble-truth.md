@@ -1,10 +1,10 @@
 ---
-id: 979
+id: 240
 title: The 4th Noble Truth
 date: 2005-10-23T20:57:39+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27the-4th-noble-truth
+guid: https://greg.nokes.name/?p=240
 permalink: /2005/10/23/the-4th-noble-truth/
 categories:
   - Philosophy! and Politics!

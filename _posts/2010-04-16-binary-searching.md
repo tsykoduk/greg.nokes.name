@@ -1,10 +1,10 @@
 ---
-id: 15290
+id: 900
 title: Binary Searching and other tools of the trade
 date: 2010-04-16T10:29:30+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15290
+guid: https://greg.nokes.name/?p=900
 permalink: /2010/04/16/binary-searching/
 categories:
   - Mundane

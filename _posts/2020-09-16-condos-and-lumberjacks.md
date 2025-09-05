@@ -1,10 +1,10 @@
 ---
-id: 16000
+id: 1310
 title: Condos and Lumberjacks, or Why PaaS?
 date: 2020-09-16
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15600
+guid: https://greg.nokes.name/?p=1310
 permalink: /2020/09/16/condos-and-lumberjacks/
 categories:
  - Computers! and Code!

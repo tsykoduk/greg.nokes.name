@@ -1,10 +1,10 @@
 ---
-id: 15900
+id: 1300
 title: The Simplest Heroku Demo Ever
 date: 2020-08-26
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15900
+guid: https://greg.nokes.name/?p=1300
 permalink: /2020/08/26/simplest-heroku-demo/
 categories:
   - Computers! and Code!

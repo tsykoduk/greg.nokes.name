@@ -1,10 +1,10 @@
 ---
-id: 15158
+id: 810
 title: Weirdness in terminal.app
 date: 2009-09-26T21:35:08+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15158
+guid: https://greg.nokes.name/?p=810
 permalink: /2009/09/26/weirdness-in-terminal-app/
 categories:
   - Computers! and Code!

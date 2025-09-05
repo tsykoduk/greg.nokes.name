@@ -1,10 +1,10 @@
 ---
-id: 34
+id: 90
 title: What is really real?
 date: 2005-01-24T13:55:42+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/what-is-really-real
+guid: https://greg.nokes.name/?p=90
 permalink: /2005/01/24/what-is-really-real/
 categories:
   - Philosophy! and Politics!

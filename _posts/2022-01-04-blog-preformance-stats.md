@@ -1,10 +1,10 @@
 ---
-id: 16300
+id: 1340
 title: Blog Performance 2022 edition
 date: 2022-01-04
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=16300
+guid: https://greg.nokes.name/?p=1340
 permalink: /2022/01/04/blog-performance-stats/
 categories:
   - Computers! and Code!

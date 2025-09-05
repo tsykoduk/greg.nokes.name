@@ -1,10 +1,10 @@
 ---
-id: 15572
+id: 1200
 title: How I post an article
 date: 2018-2-26
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15572
+guid: https://greg.nokes.name/?p=1200
 permalink: /2018/02/26/how-i-do-it/
 categories:
   - Computers! and Code!
