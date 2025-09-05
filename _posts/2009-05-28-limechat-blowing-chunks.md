@@ -10,6 +10,7 @@ categories:
   - Computers! and Code!
 tags:
   - linkedin
+description: "Fix LimeChat IRC client crashes on Mac OSX with a simple one-line code edit. Learn how to comment out the problematic line in markedscroller.rb to stop crashes."
 ---
 I love <a href="http://limechat.net/mac/">Limechat</a> for my mac IRC needs. However, it started blowing chunks a few OSX updates ago, and that was plain annoying!
 

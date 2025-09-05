@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=80
 permalink: /2005/01/24/the-buddhist-attitude-to-god/
 categories:
   - Philosophy! and Politics!
+description: "Explore Buddhism's logical challenge to theism: how can an omnipotent, benevolent God coexist with suffering? Buddhist philosophy on the problem of evil."
 ---
 
 >"If the creator of the world entire 

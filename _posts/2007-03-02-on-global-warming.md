@@ -10,6 +10,7 @@ categories:
   - Mundane
   - Philosophy! and Politics!
   - Science!
+description: "Explore the facts about global warming, temperature rise evidence, and potential climate change scenarios including runaway greenhouse effects and practical solutions for our planet's future."
 ---
 <p>Over on another site, there is an intresting discussion raging about <a href="http://www.nwgamers.org/ForumsPro/viewtopic/t=1284.html">Global Warming</a>. Just thought that I would cross post my first response over here.</p>
 

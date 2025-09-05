@@ -9,6 +9,7 @@ permalink: /2014/09/11/yet-another-talk/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Watch a Heroku training session for 300 developers featuring platform best practices and a loyalty app demo built with Heroku and Salesforce Force.com."
 ---
 I was pressed into service to do a training on Heroku for about 300 developers. It was a fun experience, and I really like to go back and watch myself so that I can critique my performance. Hopefully improve as well.
 

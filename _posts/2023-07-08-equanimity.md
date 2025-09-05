@@ -9,6 +9,7 @@ permalink: /2023/07/08/equanimity/
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Discover how Buddhist equanimity transforms leadership by maintaining balance amid chaos, making rational decisions, and treating teams fairly through mindful practice."
 ---
 
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/07/equanimity.jpg" width="150" alt=" Balanced Rocks"><br />

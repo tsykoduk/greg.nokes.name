@@ -9,6 +9,7 @@ permalink: /2005/03/12/things-that-go-bump-in-the-night/
 categories:
   - Philosophy! and Politics!
   - Science!
+description: "Exploring why scientific specialization might limit our understanding of holistic systems and the universe, and why we need more generalists to connect diverse fields of knowledge."
 ---
 So, reading more and thinking more. That is always a dangerous combination. Here is what I am thinking about right now.
 

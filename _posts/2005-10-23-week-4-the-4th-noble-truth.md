@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=240
 permalink: /2005/10/23/the-4th-noble-truth/
 categories:
   - Philosophy! and Politics!
+description: "Discover Buddhism's Fourth Noble Truth - the Eight-fold Path to enlightenment through wisdom, morality, and concentration practices for spiritual growth."
 ---
 <p>I took a week off - there was a wedding that I was a videographer for, and several other pressing concerns that I could not shake.</p>
 

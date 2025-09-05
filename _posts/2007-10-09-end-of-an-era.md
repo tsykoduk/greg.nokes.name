@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=480
 permalink: /2007/10/09/end-of-an-era/
 categories:
   - Computers! and Code!
+description: "Novell's historic transition from NetWare to Linux marks the end of an era for network administrators who relied on the legendary file and print server platform."
 ---
 <p>I cut my teeth on NetWare 3.1x servers oh so many years ago. So this announcement is bitter-sweet</p>
 <!--more-->

@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1270
 permalink: /2020/03/03/working-remote/
 categories:
   - Mundane
+description: "Learn proven strategies for thriving in remote work after 12 years of 100% remote experience. Discover workspace setup, work-life balance tips, and tools to combat isolation while working from home."
 ---
 
 

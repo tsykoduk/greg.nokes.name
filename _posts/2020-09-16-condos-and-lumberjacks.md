@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1310
 permalink: /2020/09/16/condos-and-lumberjacks/
 categories:
  - Computers! and Code!
+description: "Learn why Platform as a Service (PaaS) like Heroku is designed for developers while Infrastructure as a Service (IaaS) like AWS is for builders in this clear analogy."
 ---
 I have been involved in and with various infrastructure as a service and platform as a service providers for well over 12 years now. Often I am asked to explain "why use a IaaS provider?" or "why use a PaaS?" or "Why use [Heroku](https://www.heroku.com)?".
 

@@ -13,6 +13,7 @@ tags:
   - risk vs spending
   - value vs perception
 excerpt_separator:  <!--more-->
+description: "Learn how poor risk analysis leads to misallocated spending priorities. Discover actuarial methods for measuring security investments and why terrorism risks may be overestimated compared to everyday hazards."
 ---
 <img class="alignleft size-medium wp-image-15271" title="lunchmeat2" src="https://greg.nokes.name/binaries/2010/04/lunchmeat2-235x300.jpg" alt="" width="141" height="180" />
 

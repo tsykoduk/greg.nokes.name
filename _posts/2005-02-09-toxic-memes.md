@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=100
 permalink: /2005/02/09/toxic-memes/
 categories:
   - Philosophy! and Politics!
+description: "Explore how toxic memes and meme complexes spread like mental viruses, evolving and combining to form powerful belief systems that survive through cultural transmission and mutation."
 ---
 A set of interrelated memes can make up a 'Meme Complex'. These groups of ideas are interrelated and co-supporting. They strengthen and reinforce each other - making the group stronger then the whole. A religion is an example of a Meme Complex. Many of the ideas central to religion are intersupporting. For example the Christian belief that a life time of good works, and belief in the Christian Religion (Meme Complex) will garner great rewards after death.
 

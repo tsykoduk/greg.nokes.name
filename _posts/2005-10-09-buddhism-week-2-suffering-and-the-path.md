@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=230
 permalink: /2005/10/09/suffering-and-the-path/
 categories:
   - Philosophy! and Politics!
+description: "Explore Buddhism's Four Noble Truths and discover why suffering is universal, how attachment and desire cause pain, and the path to liberation through mindful awareness."
 ---
 So - last week we talked about Suffering, and how it is universal. Like it or not, everyone will feel some suffering some time in their life. Suffering is the first of the Four Noble Truths that the Buddha talked about during his first sermon after reaching enlightenment.
 

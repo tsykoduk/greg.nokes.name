@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=160
 permalink: /2005/06/22/don-t-let-them/
 categories:
   - Philosophy! and Politics!
+description: "Don't let extremists rush the end times - explore the dangers of immanentizing the eschaton and why we must resist apocalyptic thinking in politics and society."
 ---
 
 <p>Don't let them Immanentize the Eschaton!</p>

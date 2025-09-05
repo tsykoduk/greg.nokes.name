@@ -12,6 +12,7 @@ tags:
   - military tribunal
   - terrorism
 excerpt_separator:  <!--more-->
+description: "Security theater vs. real terrorism prevention: Why invisible intelligence measures, cultural expertise, and police funding work better than new laws and flashy security measures that just look good on TV."
 ---
 <blockquote>Unfortunately for politicians, the security measures that work are largely invisible. Such measures include enhancing the intelligence-gathering abilities of the secret services, hiring cultural experts and Arabic translators, building bridges with Islamic communities both nationally and internationally, funding police capabilities -- both investigative arms to prevent terrorist attacks, and emergency communications systems for after attacks occur -- and arresting terrorist plotters without media fanfare. They do not include expansive new police or spying laws. Our police don't need any new laws to deal with terrorism; rather, they need apolitical funding. These security measures don't make good television, and they don't help, come re-election time. But they work, addressing the reality of security instead of the feeling.</blockquote>
 

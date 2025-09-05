@@ -9,6 +9,7 @@ permalink: /2009/01/14/how-an-engineer-sees-the-world/
 categories:
   - Computers! and Code!
   - Fun!
+description: "Exploring how engineers view the world differently - sometimes assuming everyone else is insane while you're the only sane one. A humorous take on engineering perspective."
 ---
 Some times  you just have to assume that the rest of the world is insane and you are sane....
 

@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=150
 permalink: /2005/06/10/why-buddhism/
 categories:
   - Philosophy! and Politics!
+description: "Discover why Buddhism appeals to modern seekers through personal philosophy, ancestral Celtic connections, and shared Indo-European spiritual roots spanning from Ireland to India."
 ---
 <p>Several people have asked me the question, "why <a href="http://buddhism.about.com/">Buddhism</a>?" There are several reasons that I feel drawn to this path, and I wanted to take a few moments to expand on them</p>
 

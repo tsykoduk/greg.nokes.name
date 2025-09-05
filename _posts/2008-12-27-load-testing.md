@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=610
 permalink: /2008/12/27/load-testing/
 categories:
   - Computers! and Code!
+description: "Learn how Mephisto blog performance scales under load testing with New Relic monitoring, including database bottlenecks, memory usage, and optimization insights."
 ---
 <p>If you notice some slowness, I am playing around with the fantastic <a href="http://newrelic.com">New Relic</a> performance and code introspection tool.</p>
 

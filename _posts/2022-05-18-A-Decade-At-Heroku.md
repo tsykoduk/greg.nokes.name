@@ -9,6 +9,7 @@ permalink: /2022/06/14/a-decade-at-heroku/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Ten-year journey at Heroku: from early cloud computing challenges to platform-as-a-service revolution, exploring career growth in tech infrastructure and DevOps evolution."
 ---
 
 <div style="float: left; padding: 0 10px 10px 0;"><img src="/binaries/2022/06/Doors.JPG" width="200" alt="glass doors with bonasi tree etched"><br />

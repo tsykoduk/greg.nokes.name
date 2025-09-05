@@ -9,6 +9,7 @@ permalink: /2023/06/28/mindful-communication/
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Learn how mindful communication transforms tech leadership through active listening, intentional speaking, and being present to foster trust, collaboration, and understanding in teams."
 ---
 
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/06/Thai_buddhist_monk_smile.jpg" width="150" alt="Empathy"><br />

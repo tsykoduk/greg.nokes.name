@@ -9,6 +9,7 @@ permalink: /2023/06/08/the-power-of-empathy/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Discover how empathy transforms leadership through understanding others' feelings and perspectives. Learn practical ways to build trust, foster collaboration, and create positive change in teams."
 ---
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/06/empathy.jpeg" width="150" alt="Empathy"><br />
 <sub><i>Image by <a href="https://pixabay.com/users/jensenartofficial-31380959//">jensenartofficial</a></i></sub></div>

@@ -9,6 +9,7 @@ permalink: /2018/02/26/power-of-and/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Discover how adopting an \"and\" mindset over \"or\" thinking creates win-win outcomes, builds value in relationships, and leads to success through collaboration and positivity."
 ---
 I was sitting in a session about a consultive approach, and the presenter talked about the power of "and" rather then "or".
 <!--more-->

@@ -14,6 +14,7 @@ tags:
   - linkedin
   - saas
   - web application
+description: "Explore the key differences between SaaS and cloud computing, why elastic server provisioning matters more than software services, and how cloud infrastructure enables instant business deployment."
 ---
 In an article today ("<a href="http://www.schneier.com/blog/archives/2009/06/cloud_computing.html">Cloud Computing</a>") Bruce Schneier makes some great points about SaaS and Cloud Computing.
 

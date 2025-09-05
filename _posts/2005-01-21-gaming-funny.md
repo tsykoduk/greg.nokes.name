@@ -9,5 +9,6 @@ permalink: /2005/01/21/gaming-funny/
 categories:
   - Fun!
   - Mundane
+description: "Explore the hilarious clash between science fiction gaming and reality in Traveller RPG, featuring webcomic insights into the absurdities of sci-fi meets real world."
 ---
 Ok. so one of the games that I play is called [Traveller](http://www.farfuture.net/ffe/n5500.html). [This](http://www.irregularwebcomic.net/94.html) webcomic displays some of the problems with Science Fiction meeting reality.

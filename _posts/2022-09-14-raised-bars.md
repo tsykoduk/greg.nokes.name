@@ -9,6 +9,7 @@ permalink: /2022/08/25/raised-bars/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Breaking into tech today: exploring how accessibility barriers have evolved from BBS days to modern development, and why we need diverse paths into systems-level programming."
 ---
 
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/09/bars_picture.png" width="150" alt="blue, yellow and red glow sticks on a glass topped desk"><br />

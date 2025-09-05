@@ -9,6 +9,7 @@ permalink: /2023/09/13/mac-hostnames/
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Fix Mac hostname conflicts when mDNS adds numerical suffixes. Learn why this happens with multiple Macs and get a script to resolve hostname issues affecting TimeMachine and file sharing."
 ---
 
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/09/mac-hostnames.png" width="150" alt="terminal with wrong hostname"><br />

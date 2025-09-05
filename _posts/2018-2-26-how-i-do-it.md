@@ -9,6 +9,7 @@ permalink: /2018/02/26/how-i-do-it/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Learn my complete blog publishing workflow using Git branches, GitHub PRs, Heroku review apps, and automated staging deployments for seamless content creation."
 ---
 I think that the workflow I have developed for this blog is pretty interesting, so I decided to write up how I currently approach it.
 <!--more-->

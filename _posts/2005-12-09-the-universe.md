@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=290
 permalink: /2005/12/09/the-universe/
 categories:
   - Philosophy! and Politics!
+description: "Explore the three-part model of reality: subjective feelings and beliefs, objective perceptions filtered by our minds, and the unknowable real universe we can only approximate through shared understanding."
 ---
 <blockquote>
   Can you prove you love your city?

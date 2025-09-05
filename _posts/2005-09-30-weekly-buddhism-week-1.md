@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=210
 permalink: /2005/09/30/on-suffering/
 categories:
   - Philosophy! and Politics!
+description: "Learn about Buddhism's Four Noble Truths and how understanding suffering leads to compassion, happiness, and enlightenment through the Buddha's teachings."
 ---
 **The Four Noble Truths**
 

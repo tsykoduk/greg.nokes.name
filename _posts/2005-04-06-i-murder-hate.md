@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=120
 permalink: /2005/04/06/i-murder-hate/
 categories:
   - Philosophy! and Politics!
+description: "Discover Robert Burns' powerful anti-war poem \"I Murder Hate\" - a passionate plea for peace over violence, love over conflict, and life over death from Scotland's beloved poet."
 ---
 >I MURDER hate by flood or field,
 >Tho' glory's name may screen us;

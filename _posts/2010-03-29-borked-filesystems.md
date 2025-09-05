@@ -13,6 +13,7 @@ tags:
   - backups
   - disk partitioning
 excerpt_separator:  <!--more-->
+description: "Learn why separating your OS and data partitions is crucial for system recovery. Expert advice on filesystem organization to protect your files when operating systems fail."
 ---
 In a recent <a title="Removing Viruses from a PC That Won’t Boot —  Krebs on Security" href="http://www.krebsonsecurity.com/2010/03/removing-viruses-from-a-pc-that-wont-boot/">blog</a> post, <a title="About the Author —  Krebs on Security" href="http://www.krebsonsecurity.com/about/">Brian Krebs</a> mentions the following:
 

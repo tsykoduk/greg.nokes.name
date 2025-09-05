@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=310
 permalink: /2007/01/03/cross-model-attributes/
 categories:
   - Computers! and Code!
+description: "Learn how to implement cross-model attributes in database design using a flexible attribute system that allows different models to share and search common properties while maintaining unique characteristics."
 ---
 <p>I am sure that all of the programmers out there will say "Well, Duh!" but I wanted to put this into writing for my own purposes. Basically so I do not forget it. If you happen to get some good ideas from it, well then score.</p>
 

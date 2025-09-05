@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=280
 permalink: /2005/11/14/8-the-zen-of-woodpiles/
 categories:
   - Philosophy! and Politics!
+description: "Discover how moving wood in harsh weather became a meditation on mindfulness. Learn why Zen means simply paying attention to each moment and step in daily life."
 ---
 <p>So, yesterday I moved about 2 or 3 cords of wood from point A in my yard to point B and C (made two piles). I was doing a lot of thinking during the task. When we started it was snowing and windy. By the time we ended, it was raining and windy.</p>
 

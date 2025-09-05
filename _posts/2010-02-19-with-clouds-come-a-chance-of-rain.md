@@ -14,6 +14,7 @@ tags:
   - scaling
   - web application
 excerpt_separator:  <!--more-->
+description: "Explore the reality behind cloud computing hype. Learn what cloud really means, its pros and cons, and why planning still beats last-minute provisioning for cost and performance."
 ---
 One of the interesting paradigms in the technology field now days is "cloud". I think that I have seen it bandied about more then "web 2.0" a few years ago. It's hit required buzz word compliance status in market-speak. I believe that is it over used, misunderstood and used to mislead. Let's cut through the hyperbole and see what is really going on.
 

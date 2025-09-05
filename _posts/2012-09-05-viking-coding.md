@@ -12,6 +12,7 @@ tags:
   - Hammers
   - Vikings
 excerpt_separator:  <!--more-->
+description: "Based on the content provided, here's an SEO-optimized meta description:"
 ---
 <p>I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. I am a tall person, and I like simple solutions to problems. And I an a least a little bit Scandinavian.</p>
 

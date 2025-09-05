@@ -9,6 +9,7 @@ permalink: /2013/06/16/rss-feedburner-rss/
 categories:
   - Mundane
 excerpt_separator:  <!--more-->
+description: "Moving away from Feedburner to maintain control over RSS feeds. Learn why relying on external services can fail and how to keep your data portable and independent."
 ---
 I'm going to move away from Feedburner, as I am no longer confident in it's long term viability. This is thanks to Google shutting down reader and moving everything towards the walled garden that is Google Plus. So, if you are one of the two or three people that still follow this blog via RSS, you'll want to move to the feed at <a href="https://greg.nokes.name/feed.xml">https://greg.nokes.name/feed.xml</a> instead of any other. I will not be shutting off the feedburner anytime soon but that day is coming.
 

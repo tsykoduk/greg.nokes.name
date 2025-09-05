@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=560
 permalink: /2008/04/18/syncscript/
 categories:
   - Computers! and Code!
+description: "SyncScript: A Windows-only Ruby app for moving large amounts of data using brute force methods. Learn how to configure and use this quick backup solution."
 ---
 One of the challenges where I work is keeping a near line copy of large amounts of data. Tape is to slow to restore off of, and can be a hassle since we have off site tape storage requirements. Thus SyncScript was born. It's a windows only, quick and dirty little ruby app to move about large amounts of data using a rather brute force method...
 <!--more-->

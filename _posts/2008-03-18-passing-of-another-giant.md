@@ -9,6 +9,7 @@ permalink: /2008/03/18/passing-of-another-giant/
 categories:
   - Philosophy! and Politics!
   - Science!
+description: "Science fiction legend Sir Arthur C. Clarke, visionary author of 2001: A Space Odyssey and space exploration pioneer, passes away at 90. Remembering his lasting impact."
 ---
 <blockquote>Sir Arthur C. Clarke, who peered into the heavens with a homemade telescope as a boy and grew up to become a visionary titan of science fiction best-known for collaborating with director Stanley Kubrick in writing the landmark film "2001: A Space Odyssey," has died. He was 90.</blockquote>
 

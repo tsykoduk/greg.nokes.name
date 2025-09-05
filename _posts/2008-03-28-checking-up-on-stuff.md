@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=520
 permalink: /2008/03/28/checking-up-on-stuff/
 categories:
   - Computers! and Code!
+description: "Network monitoring made simple with Condor NG - a lightweight shell script for tracking server uptime, detecting crashes, and sending email alerts. Perfect for IT pros."
 ---
 <em>In doing some spring cleaning, I found this old article from years past. Enjoy!</em>
 

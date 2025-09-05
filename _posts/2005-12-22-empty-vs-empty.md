@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=300
 permalink: /2005/12/22/empty-vs-empty/
 categories:
   - Philosophy! and Politics!
+description: "Explore the paradox of emptiness vs fullness through the analogy of an expandable mind-cup. Learn how mental flexibility and openness to new ideas prevents rigid thinking and enhances growth."
 ---
 Justus posed an interesting question in a comment. I really felt that it needed more then just a comment in reply, as sometimes the paradox itself is central to the lesson
 <blockquote>But shouldn't we become childlike instead of knowing things like that we are insignifigant?</blockquote>

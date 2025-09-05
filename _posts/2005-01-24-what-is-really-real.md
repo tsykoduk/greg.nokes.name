@@ -9,6 +9,7 @@ permalink: /2005/01/24/what-is-really-real/
 categories:
   - Philosophy! and Politics!
   - Science!
+description: "Explore how reality is shaped by perception and collective beliefs through quantum physics and Buddhist philosophy. Discover why what we call \"real\" may be a shared illusion."
 ---
 I am currently reading '<a href="http://www.randomhouse.com/crown/catalog/display.pperl?isbn=1400080797">The Quantum and the Lotus</a>' , a very good book. It talks about the convergence between modern scientific theory and Buddhist philosophy.
 

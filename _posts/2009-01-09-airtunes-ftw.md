@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=630
 permalink: /2009/01/09/airtunes-ftw/
 categories:
   - Mundane
+description: "Home office setup featuring Apple AirTunes wireless speakers, MacBook dual monitor configuration, and Airport network extending 802.11n for seamless audio streaming and reduced cable clutter."
 ---
 <p>As many of you (all one of you?) know, I work from home. Yay me. Well I just reorganized my office, and thought I would share</p>
 

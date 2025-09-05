@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=40
 permalink: /2005/01/03/open-source-software/
 categories:
   - Computers! and Code!
+description: "Discover what open source software means, explore the freedoms of free software, and learn why these movements are transforming technology development and collaboration."
 ---
 What is open source, and why do I support it?
 <!--more-->
