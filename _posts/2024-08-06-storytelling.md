@@ -6,6 +6,7 @@ author: tsykoduk
 layout: post
 guid: https://greg.nokes.name/?p=1480
 permalink: /2024/08/06/storytelling/
+description: "Master the art of storytelling in communication and leadership. Learn to listen deeply, craft compelling narratives, and make your audience the heroes of your story."
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
