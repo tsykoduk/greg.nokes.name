@@ -6,6 +6,7 @@ author: tsykoduk
 layout: post
 guid: https://greg.nokes.name/?p=1490
 permalink: /2024/10/30/desk-setup-spooky-edition/
+description: "My 2024 remote work desk setup featuring M2 Pro Mac Mini, Apple Studio Display, professional audio equipment, and productivity tools for effective home office work."
 excerpt_separator: <!--more-->
 categories:
  - Computers! and Code!

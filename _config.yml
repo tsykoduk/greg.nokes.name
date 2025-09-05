@@ -1,7 +1,26 @@
 url: https://greg.nokes.name
 title: DaRoost
-description: 'A wayward journey in the depths of sanity'
+description: 'A wayward journey in the depths of sanity - thoughts on technology, Buddhism, philosophy, and life'
 show_excerpts: true # set to true to show excerpts on the homepage
+
+# SEO settings
+logo: /assets/portfolio.png
+social:
+  name: Greg Nokes
+  links:
+    - https://github.com/tsykoduk
+    - https://www.linkedin.com/in/gregnokes
+    - https://social.nokes.name/@greg
+
+# Social defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Greg Nokes
+      image: /assets/portfolio.png
 
 # theme: type-on-strap
 # theme: minima
@@ -17,6 +36,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-seo-tag
   - kramdown
   - jekyll-environment-variables
 
