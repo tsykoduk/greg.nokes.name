@@ -1,10 +1,10 @@
 ---
-id: 16920
+id: 1420
 title: The Power of Empathy
 date: 2023-06-08
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16920
+guid: https://greg.nokes.name/?p=1420
 permalink: /2023/06/08/the-power-of-empathy/
 categories:
  - Computers! and Code!

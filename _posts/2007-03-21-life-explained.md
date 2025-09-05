@@ -1,10 +1,10 @@
 ---
-id: 2233
+id: 360
 title: Life, explained
 date: 2007-03-21T23:39:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/life-explained
+guid: https://greg.nokes.name/?p=360
 permalink: /2007/03/21/life-explained/
 categories:
   - Philosophy! and Politics!

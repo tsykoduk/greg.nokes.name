@@ -1,10 +1,10 @@
 ---
-id: 8290
+id: 950
 title: Social Aspects of Scaling Web Applications
 date: 2010-08-30T12:00:50+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/01/23/social-aspects-of-scaling-web-applications
+guid: https://greg.nokes.name/?p=950
 permalink: /2010/08/30/social-aspects-of-scaling-web-applications/
 categories:
   - Philosophy! and Politics!

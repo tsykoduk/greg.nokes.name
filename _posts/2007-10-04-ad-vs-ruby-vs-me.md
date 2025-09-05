@@ -1,10 +1,10 @@
 ---
-id: 2944
+id: 470
 title: AD vs Ruby vs Me
 date: 2007-10-04T21:44:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/ad-vs-ruby-vs-me
+guid: https://greg.nokes.name/?p=470
 permalink: /2007/10/04/ad-vs-ruby-vs-me/
 categories:
   - Computers! and Code!

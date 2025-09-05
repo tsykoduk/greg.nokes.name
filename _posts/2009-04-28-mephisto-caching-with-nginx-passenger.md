@@ -1,10 +1,10 @@
 ---
-id: 10512
+id: 690
 title: Mephisto Caching with Nginx/Passenger
 date: 2009-04-28T00:45:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/04/28/mephisto-caching-with-nginx-passenger
+guid: https://greg.nokes.name/?p=690
 permalink: /2009/04/28/mephisto-caching-with-nginx-passenger/
 categories:
   - Computers! and Code!

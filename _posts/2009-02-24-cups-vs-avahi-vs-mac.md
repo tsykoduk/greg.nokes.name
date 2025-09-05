@@ -1,10 +1,10 @@
 ---
-id: 8513
+id: 680
 title: Cups vs Avahi vs Mac
 date: 2009-02-24T19:00:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/02/24/cups-vs-avahi-vs-mac
+guid: https://greg.nokes.name/?p=680
 permalink: /2009/02/24/cups-vs-avahi-vs-mac/
 categories:
   - Computers! and Code!

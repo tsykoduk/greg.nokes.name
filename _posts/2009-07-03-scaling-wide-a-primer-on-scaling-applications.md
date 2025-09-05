@@ -1,10 +1,10 @@
 ---
-id: 15043
+id: 760
 title: Scaling Wide
 date: 2009-07-03T15:20:46+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15043
+guid: https://greg.nokes.name/?p=760
 permalink: /2009/07/03/scaling-wide-a-primer-on-scaling-applications/
 categories:
   - Computers! and Code!

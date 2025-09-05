@@ -1,10 +1,10 @@
 ---
-id: 2084
+id: 320
 title: New York Times on Computer Security
 date: 2007-01-08T15:58:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/new-york-times-on-computer-security
+guid: https://greg.nokes.name/?p=320
 permalink: /2007/01/08/new-york-times-on-computer-security/
 categories:
   - Computers! and Code!

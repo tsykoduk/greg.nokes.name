@@ -1,10 +1,10 @@
 ---
-id: 15700
+id: 1270
 title: Reflections on 12 years of 100% remote work
 date: 2020-03-03
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15700
+guid: https://greg.nokes.name/?p=1270
 permalink: /2020/03/03/working-remote/
 categories:
   - Mundane

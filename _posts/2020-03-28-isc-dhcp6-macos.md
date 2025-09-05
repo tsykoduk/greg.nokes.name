@@ -1,10 +1,10 @@
 ---
-id: 15710
+id: 1280
 title: Setting up ISC's DHCPD on MacOS
 date: 2020-03-28
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15710
+guid: https://greg.nokes.name/?p=1280
 permalink: /2020/03/03/isc-dhcpd-6/
 categories:
   - Computers! and Code!

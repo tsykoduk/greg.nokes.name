@@ -1,10 +1,10 @@
 ---
-id: 639
+id: 180
 title: On Meditation and Reality
 date: 2005-07-12T11:24:02+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/on-meditation-and-reality
+guid: https://greg.nokes.name/?p=180
 permalink: /2005/07/12/on-meditation-and-reality/
 categories:
   - Philosophy! and Politics!

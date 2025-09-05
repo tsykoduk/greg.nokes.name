@@ -1,10 +1,10 @@
 ---
-id: 15690
+id: 1260
 title: Nginx Routing on Heroku
 date: 2020-02-27
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=15690
+guid: https://greg.nokes.name/?p=1260
 permalink: /2020/02/27/nginx-routing-on-heroku/
 categories:
   - Computers! and Code!

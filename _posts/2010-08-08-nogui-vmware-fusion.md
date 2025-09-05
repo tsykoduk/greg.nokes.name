@@ -1,10 +1,10 @@
 ---
-id: 15319
+id: 920
 title: NoGUI VMWare Fusion
 date: 2010-08-08T14:22:42+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15319
+guid: https://greg.nokes.name/?p=920
 permalink: /2010/08/08/nogui-vmware-fusion/
 categories:
   - Computers! and Code!

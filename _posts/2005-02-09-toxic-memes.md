@@ -1,10 +1,10 @@
 ---
-id: 113
+id: 100
 title: Toxic Memes
 date: 2005-02-09T14:07:14+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/toxic-memes
+guid: https://greg.nokes.name/?p=100
 permalink: /2005/02/09/toxic-memes/
 categories:
   - Philosophy! and Politics!

@@ -1,10 +1,10 @@
 ---
-id: 15176
+id: 820
 title: RailsBridge Bugmash VM Script
 date: 2009-10-27T12:16:59+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15176
+guid: https://greg.nokes.name/?p=820
 permalink: /2009/10/27/railsbridge-bugmash-vm-script/
 categories:
   - Computers! and Code!

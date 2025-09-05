@@ -1,10 +1,10 @@
 ---
-id: 8154
+id: 630
 title: airtunes ftw
 date: 2009-01-09T19:07:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/01/12/airtunes-ftw
+guid: https://greg.nokes.name/?p=630
 permalink: /2009/01/09/airtunes-ftw/
 categories:
   - Mundane

@@ -1,10 +1,10 @@
 ---
-id: 7145
+id: 550
 title: Educational Quote
 date: 2008-04-15T17:48:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/educational-quote
+guid: https://greg.nokes.name/?p=550
 permalink: /2008/04/15/educational-quote/
 categories:
   - Computers! and Code!

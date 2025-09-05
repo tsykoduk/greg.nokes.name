@@ -1,10 +1,10 @@
 ---
-id: 57
+id: 65
 title: Macs for the Masses
 date: 2005-01-11T13:42:04+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/macs-for-the-masses
+guid: https://greg.nokes.name/?p=65
 permalink: /2005/01/11/macs-for-the-masses/
 categories:
   - Computers! and Code!

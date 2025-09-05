@@ -1,10 +1,10 @@
 ---
-id: 16980
+id: 1480
 title: Storytelling
 date: 2024-08-06
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16980
+guid: https://greg.nokes.name/?p=1480
 permalink: /2024/08/06/storytelling/
 categories:
   - Computers! and Code!

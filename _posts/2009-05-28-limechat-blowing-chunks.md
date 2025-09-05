@@ -1,10 +1,10 @@
 ---
-id: 14229
+id: 720
 title: Limechat blowing chunks
 date: 2009-05-28T21:11:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/06/03/limechat-blowing-chunks
+guid: https://greg.nokes.name/?p=720
 permalink: /2009/05/28/limechat-blowing-chunks/
 categories:
   - Computers! and Code!

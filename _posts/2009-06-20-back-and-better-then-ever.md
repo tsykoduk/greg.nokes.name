@@ -1,10 +1,10 @@
 ---
-id: 14942
+id: 740
 title: Back, and Better then Ever!
 date: 2009-06-20T20:45:35+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=14942
+guid: https://greg.nokes.name/?p=740
 permalink: /2009/06/20/back-and-better-then-ever/
 categories:
   - Mundane

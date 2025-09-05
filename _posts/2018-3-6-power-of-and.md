@@ -1,10 +1,10 @@
 ---
-id: 15573
+id: 1210
 title: The Power of And
 date: 2018-3-6
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15573
+guid: https://greg.nokes.name/?p=1210
 permalink: /2018/02/26/power-of-and/
 categories:
   - Computers! and Code!

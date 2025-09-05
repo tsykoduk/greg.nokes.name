@@ -1,10 +1,10 @@
 ---
-id: 2211
+id: 340
 title: Pale Blue Dot
 date: 2007-02-28T17:07:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/pale-blue-dot
+guid: https://greg.nokes.name/?p=340
 permalink: /2007/02/28/pale-blue-dot/
 categories:
   - Mundane

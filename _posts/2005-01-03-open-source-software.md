@@ -1,10 +1,10 @@
 ---
-id: 73
+id: 40
 title: Open Source Software
 date: 2005-01-03T10:51:20+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/open-source-software
+guid: https://greg.nokes.name/?p=40
 permalink: /2005/01/03/open-source-software/
 categories:
   - Computers! and Code!

@@ -1,10 +1,10 @@
 ---
-id: 16900
+id: 1400
 title: Gentrification of online spaces
 date: 2022-12-21
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16900
+guid: https://greg.nokes.name/?p=1400
 permalink: /2022/12/21/gentrification-of-online-spaces/
 categories:
  - Computers! and Code!

@@ -1,10 +1,10 @@
 ---
-id: 15361
+id: 940
 title: Privacy vs. Anonymity
 date: 2010-08-26T08:38:14+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15361
+guid: https://greg.nokes.name/?p=940
 permalink: /2010/08/26/privacy-vs-anonymity/
 categories:
   - Computers! and Code!

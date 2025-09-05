@@ -1,10 +1,10 @@
 ---
-id: 519
+id: 150
 title: Why Buddhism?
 date: 2005-06-10T10:30:39+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/why-buddhism
+guid: https://greg.nokes.name/?p=150
 permalink: /2005/06/10/why-buddhism/
 categories:
   - Philosophy! and Politics!

@@ -1,10 +1,10 @@
 ---
-id: 15597
+id: 1150
 title: Yet Another Talk
 date: 2014-09-11T16:34:01+00:00
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15597
+guid: https://greg.nokes.name/?p=1150
 permalink: /2014/09/11/yet-another-talk/
 categories:
   - Computers! and Code!

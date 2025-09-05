@@ -1,10 +1,10 @@
 ---
-id: 16960
+id: 1460
 title: The Captian Pike School of Leadership
 date: 2023-08-11
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16960
+guid: https://greg.nokes.name/?p=1460
 permalink: /2023/08/11/pike-school-of-leadership/
 categories:
   - Computers! and Code!

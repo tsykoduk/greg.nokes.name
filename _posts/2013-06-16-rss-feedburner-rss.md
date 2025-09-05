@@ -1,10 +1,10 @@
 ---
-id: 15483
+id: 1050
 title: 'rss -> feedburner -> rss'
 date: 2013-06-16T08:49:45+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15483
+guid: https://greg.nokes.name/?p=1050
 permalink: /2013/06/16/rss-feedburner-rss/
 categories:
   - Mundane

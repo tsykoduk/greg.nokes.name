@@ -1,10 +1,10 @@
 ---
-id: 14938
+id: 730
 title: SaaS vs The Cloud
 date: 2009-06-05T15:56:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/06/05/saas-vs-the-cloud
+guid: https://greg.nokes.name/?p=730
 permalink: /2009/06/05/saas-vs-the-cloud/
 categories:
   - Computers! and Code!

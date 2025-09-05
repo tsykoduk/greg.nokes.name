@@ -1,10 +1,10 @@
 ---
-id: 2213
+id: 350
 title: On Global Warming
 date: 2007-03-02T06:18:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/on-global-warming
+guid: https://greg.nokes.name/?p=350
 permalink: /2007/03/02/on-global-warming/
 categories:
   - Mundane

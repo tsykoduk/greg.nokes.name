@@ -1,10 +1,10 @@
 ---
-id: 1183
+id: 300
 title: Empty vs Empty
 date: 2005-12-22T22:26:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/empty-vs-empty
+guid: https://greg.nokes.name/?p=300
 permalink: /2005/12/22/empty-vs-empty/
 categories:
   - Philosophy! and Politics!

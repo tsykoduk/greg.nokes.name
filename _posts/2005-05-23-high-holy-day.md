@@ -1,10 +1,10 @@
 ---
-id: 455
+id: 140
 title: High Holy Day
 date: 2005-05-23T10:22:16+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/high-holy-day
+guid: https://greg.nokes.name/?p=140
 permalink: /2005/05/23/high-holy-day/
 categories:
   - Philosophy! and Politics!

@@ -1,10 +1,10 @@
 ---
-id: 16940
+id: 1440
 title: Equanimity
 date: 2023-07-08
-author: Greg Nokes
+author: tsykoduk
 layout: post
-guid: http://greg.nokes.name/?p=16940
+guid: https://greg.nokes.name/?p=1440
 permalink: /2023/07/08/equanimity/
 categories:
   - Computers! and Code!

@@ -1,10 +1,10 @@
 ---
-id: 2859
+id: 430
 title: Scan and Copy Redux
 date: 2007-06-13T23:43:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/scan-and-copy-redux
+guid: https://greg.nokes.name/?p=430
 permalink: /2007/06/13/scan-and-copy-redux/
 categories:
   - Computers! and Code!

@@ -1,10 +1,10 @@
 ---
-id: 204
+id: 120
 title: I Murder Hate
 date: 2005-04-06T11:29:55+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/i-murder-hate
+guid: https://greg.nokes.name/?p=120
 permalink: /2005/04/06/i-murder-hate/
 categories:
   - Philosophy! and Politics!

@@ -1,10 +1,10 @@
 ---
-id: 7097
+id: 500
 title: Passing of another Giant
 date: 2008-03-18T22:33:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/passing-of-another-giant
+guid: https://greg.nokes.name/?p=500
 permalink: /2008/03/18/passing-of-another-giant/
 categories:
   - Philosophy! and Politics!

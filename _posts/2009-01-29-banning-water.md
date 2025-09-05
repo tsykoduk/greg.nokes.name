@@ -1,10 +1,10 @@
 ---
-id: 8324
+id: 660
 title: 'Banning water...'
 date: 2009-01-29T22:26:00+00:00
 author: tsykoduk
 layout: post
-guid: 30/2009/01/29/banning-water
+guid: https://greg.nokes.name/?p=660
 permalink: /2009/01/29/banning-water/
 categories:
   - Philosophy! and Politics!

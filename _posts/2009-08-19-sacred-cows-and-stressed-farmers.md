@@ -1,10 +1,10 @@
 ---
-id: 15139
+id: 800
 title: Sacred Cows and Stressed Farmers
 date: 2009-08-19T21:48:54+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15139
+guid: https://greg.nokes.name/?p=800
 permalink: /2009/08/19/sacred-cows-and-stressed-farmers/
 categories:
   - Mundane

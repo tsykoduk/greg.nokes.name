@@ -1,10 +1,10 @@
 ---
-id: 71
+id: 50
 title: Open Source Part Two
 date: 2005-01-04T16:05:15+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/open-source-part-two
+guid: https://greg.nokes.name/?p=50
 permalink: /2005/01/04/open-source-part-two/
 categories:
   - Computers! and Code!

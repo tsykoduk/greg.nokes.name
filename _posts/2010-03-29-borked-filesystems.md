@@ -1,11 +1,11 @@
 ---
-id: 15250
+id: 870
 title: Borked Filesystems
 date: 2010-03-29T20:47:52+00:00
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=15250
-permalink: /2010/03/29/15250/
+guid: https://greg.nokes.name/?p=870
+permalink: /2010/03/29/borked-filesystems/
 categories:
   - Computers! and Code!
 tags:

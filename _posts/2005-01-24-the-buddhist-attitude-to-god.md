@@ -1,10 +1,10 @@
 ---
-id: 20
+id: 80
 title: The Buddhist Attitude to God
 date: 2005-01-24T15:13:25+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/the-buddhist-attitude-to-god
+guid: https://greg.nokes.name/?p=80
 permalink: /2005/01/24/the-buddhist-attitude-to-god/
 categories:
   - Philosophy! and Politics!

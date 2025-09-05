@@ -1,10 +1,10 @@
 ---
-id: 7160
+id: 560
 title: SyncScript
 date: 2008-04-18T03:56:00+00:00
 author: tsykoduk
 layout: post
-guid: http://30/2008/12/27/syncscript
+guid: https://greg.nokes.name/?p=560
 permalink: /2008/04/18/syncscript/
 categories:
   - Computers! and Code!

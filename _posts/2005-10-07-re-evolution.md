@@ -1,10 +1,10 @@
 ---
-id: 926
+id: 220
 title: Re-Evolution
 date: 2005-10-07T23:54:24+00:00
 author: tsykoduk
 layout: post
-guid: 30/2008/12/27/re-evolution
+guid: https://greg.nokes.name/?p=220
 permalink: /2005/10/07/re-evolution/
 categories:
   - Philosophy! and Politics!
