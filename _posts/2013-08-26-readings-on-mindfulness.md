@@ -9,6 +9,7 @@ permalink: /2013/08/26/readings-on-mindfulness/
 categories:
   - Mundane
 excerpt_separator:  <!--more-->
+description: "Discover essential books on mindfulness and Buddhist philosophy, from Chop Wood Carry Water to The Art of Happiness, exploring meditation and spiritual practice."
 ---
 Just a disclaimer - I am a Buddhist, so I tend to frame my thinking in Buddhist language. However I am not a religious Buddhist. The only reason that I identify as Buddhist is that the philosophies put forward by the Buddha resound with me, as do the ways that they are presented.
 

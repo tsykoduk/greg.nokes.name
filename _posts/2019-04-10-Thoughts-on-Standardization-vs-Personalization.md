@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1230
 permalink: /2019/04/10/thoughts-on-standardization-vs-personalization/
 categories:
   - Computers! and Code!
+description: "Explore why personalization trumps standardization in modern customer experience. Learn how brands can create memorable touchpoints through personalized service and avoid common implementation pitfalls."
 ---
 
 I was traveling for pleasure a few weeks ago, and I got into an interesting discussion with one of the people responsible for the experience we had on the trip. He posited that the most important thing a brand could do was to standardize the experience across all of their touch points.

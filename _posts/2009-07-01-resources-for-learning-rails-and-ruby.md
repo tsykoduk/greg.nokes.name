@@ -18,6 +18,7 @@ tags:
   - resource
   - ruby
   - thirst for knowledge
+description: "Discover essential resources for learning Ruby on Rails development including documentation sites, mentoring programs, IRC channels, and open source projects to sharpen your coding skills."
 ---
 It's been a while since I had to get my fingers dirty in code, and as such I am a little rusty. There are also some areas of Rails that I never took the time to learn. Luckly I found that the community has grown, and there are some great resources out there for the aspiring coder.
 <!--more-->

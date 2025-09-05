@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=470
 permalink: /2007/10/04/ad-vs-ruby-vs-me/
 categories:
   - Computers! and Code!
+description: "Learn how to integrate Ruby on Rails with Microsoft Active Directory for seamless LDAP authentication. Complete code examples and setup guide included."
 ---
 <p>So, I was tasked to create a authentication system for one of the apps that I wrote a while back at work. I had written the application in Ruby on Rails, and we use Microsoft's Active Directory for network authentication. Taking pity on the users of my application, I decided to do some research and see if I could bump my authentication vs the <span class="caps">AD LDAP</span> server. This is what I came up with...</p>
 

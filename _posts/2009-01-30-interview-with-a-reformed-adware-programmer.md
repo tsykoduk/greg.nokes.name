@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=670
 permalink: /2009/01/30/interview-with-a-reformed-adware-programmer/
 categories:
   - Computers! and Code!
+description: "Reformed adware programmer reveals how malicious software targets IE users, explains industry tactics, and offers surprising advice on avoiding adware infections."
 ---
 <blockquote>I should probably first speak about how adware works. Most adware targets Internet Explorer (IE) users because obviously they're the biggest share of the market. In addition, they tend to be the less-savvy chunk of the market. If you're using IE, then either you don't care or you don't know about all the vulnerabilities that IE has.</blockquote>
 

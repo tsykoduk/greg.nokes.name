@@ -19,6 +19,7 @@ tags:
   - matz
   - quirky character
   - walter cronkite
+description: "Exploring mindfulness through change and loss in the Ruby community, from _why's departure to Buddha's lesson on releasing attachment to find true happiness."
 ---
 Several things have happened over the last few months that gave me pause. Pause is a great time to practice mindfulness.
 

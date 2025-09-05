@@ -10,6 +10,7 @@ categories:
   - Mundane
   - Philosophy! and Politics!
   - Science!
+description: "Explore humanity's place in the universe and why we must shift from dominance to partnership with Earth. A reflection on transcendence, responsibility, and our future."
 ---
 <p><a href="http://www.badastronomy.com/bablog/2007/02/27/pale-blue-dot/">The BA</a> brought this video to my attention. Fantastic stuff.</p>
 

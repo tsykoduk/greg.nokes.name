@@ -9,6 +9,7 @@ permalink: /2022/11/04/on-twitter/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Personal reflections on leaving Twitter after Elon Musk's acquisition and transitioning to Mastodon, exploring decentralized social media alternatives and self-hosting options."
 ---
 
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/11/twitter.jpeg" width="150" alt="Twitter 15 year badge"><br />

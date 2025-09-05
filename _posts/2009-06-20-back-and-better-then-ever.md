@@ -8,5 +8,6 @@ guid: https://greg.nokes.name/?p=740
 permalink: /2009/06/20/back-and-better-then-ever/
 categories:
   - Mundane
+description: "A personal blog's journey through different platforms from Blogspot to WordPress to Mephisto and back, exploring the evolution of blogging technology over the years."
 ---
 Um - ok. not better then ever. This blog has had quite the interesting (in the chinese meaning) life. It started out years and years ago as a <a href="http://www.blogger.com">blogspot</a> site, and soon was moved to <a href="http://wordpress.org">WordPress</a>. It then almost migrated to several other platforms, but ended up on <a href="http://mephistoblog.com/">Mephisto</a>. Well, we're back on Wordpress for the time being. Will we stay? Probably not, even tho I like all of the cool toys baked in.

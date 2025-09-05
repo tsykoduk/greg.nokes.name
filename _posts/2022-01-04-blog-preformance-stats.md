@@ -9,6 +9,7 @@ permalink: /2022/01/04/blog-performance-stats/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Heroku blog performance analysis 2022: Load testing results for Jekyll static site on hobby dyno with nginx. See how 30+ req/sec performance compares to previous years."
 ---
 A few years ago, I did some [performance]({% post_url 2018-2-2-blog-preformance-stats %}) testing on my blog. I run this blog on a single hobby dyno on the [Heroku Platform](https://www.heroku.com), and I have seen some performance changes over the past few months. Folks have even been tweeting about performance increases on Heroku, so I wanted to look at my non-scientific tests again.
 

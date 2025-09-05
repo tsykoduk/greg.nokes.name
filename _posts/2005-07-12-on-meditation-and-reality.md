@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=180
 permalink: /2005/07/12/on-meditation-and-reality/
 categories:
   - Philosophy! and Politics!
+description: "Discover how meditation breaks mental conditioning and cultural programming to reveal true reality beyond belief structures and symbolic thinking frameworks."
 ---
 >This is not some crummy 'meditate so you'll be nicer to people post. This isn't 'meditate so you'll be calmer post. This is 'meditate so you can escape verbal confinement and roam free in the universe. Meditation as revolutionary politics, as anarchy, as Will and Life and Freedom. You know that your mind is a cage: that other people wrote the language you think in, that your conceptual frameworks were moulded first by your parents, then by your schools, then by Aleister Crowley, Bill Burroughs and Swami Shivananada. Everything in words is garbage, ever more confining and sophisticated traps to keep you in the realm of experience to which words can meaningfully refer.
 

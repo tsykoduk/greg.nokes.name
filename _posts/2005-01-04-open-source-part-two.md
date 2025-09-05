@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=50
 permalink: /2005/01/04/open-source-part-two/
 categories:
   - Computers! and Code!
+description: "Open Source Software offers cost-effective alternatives to expensive proprietary programs like Microsoft Office, enabling small businesses and individuals worldwide to compete using free, legal, and powerful tools like OpenOffice and Linux."
 ---
 Yesterday, I [ranted at length](/2005/01/03/open-source-software.html) about the meaning of FOSS and OSS. I think just about everything has been said about OSS development that can be. We all know that it is a better development model because all of the code is open for world wide peer review. We also know that if you have the desire, you can review the code yourself and assure yourself that it is indeed secure. While this is not an option for most home users, large enterprises can use this option to assure their security and modify the code to do what they need.
 <!--more-->

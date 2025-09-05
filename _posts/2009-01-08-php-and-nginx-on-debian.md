@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=620
 permalink: /2009/01/08/php-and-nginx-on-debian/
 categories:
   - Computers! and Code!
+description: "Learn how to install and configure PHP5 with Nginx web server on Debian Linux, including fixing common FastCGI configuration issues for a smooth setup."
 ---
 <p>I needed to drop <span class="caps">PHP5</span> on a home dev box (running Debian Stable) and since Nginx is all the rage, I wanted to see if I could use that instead of apache.</p>
 

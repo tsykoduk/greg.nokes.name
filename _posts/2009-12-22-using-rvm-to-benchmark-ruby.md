@@ -13,6 +13,7 @@ tags:
   - rvm
   - scaling
 excerpt_separator:  <!--more-->
+description: "Learn how to use RVM (Ruby Version Manager) to automatically benchmark multiple Ruby versions including 1.8.6, 1.8.7, 1.9.1, REE, and JRuby for performance testing and optimization."
 ---
 <img class="size-medium wp-image-15206 alignright" title="Screen shot 2009-12-16 at 5.19.10 PM" src="https://greg.nokes.name/binaries/2009/12/Screen-shot-2009-12-16-at-5.19.10-PM-300x207.png" alt="Screen shot 2009-12-16 at 5.19.10 PM" width="210" height="145" />
 

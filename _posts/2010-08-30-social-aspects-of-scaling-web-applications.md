@@ -9,6 +9,7 @@ permalink: /2010/08/30/social-aspects-of-scaling-web-applications/
 categories:
   - Philosophy! and Politics!
 excerpt_separator:  <!--more-->
+description: "Learn how Rails developers can scale their community and professional image beyond technical performance to gain enterprise acceptance and market credibility."
 ---
 <a href="https://greg.nokes.name/binaries/2009/06/padlocks_thumbnail.png"><img class="size-full wp-image-15340 alignright" title="padlocks_thumbnail" src="https://greg.nokes.name/binaries/2009/06/padlocks_thumbnail.png" alt="" width="197" height="182" /></a>
 

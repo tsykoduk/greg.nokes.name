@@ -9,6 +9,7 @@ permalink: /2012/05/18/building-a-custom-build-pack-on-heroku-the-hard-way/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Learn to build a custom Heroku buildpack from scratch the hard way - compiling binaries, avoiding shortcuts, and understanding the core process step by step."
 ---
 So you want to build yourself a custom <a href="http://heroku.com">heroku</a> buildpack, and you want to do it the hard way? Look no further, for within lies insanity.
 

@@ -12,6 +12,7 @@ tags:
   - introspection
   - linkedin
   - Sharding
+description: "Learn essential web application scaling strategies including caching techniques, hotspot identification, and the least-effort approach to handle traffic spikes effectively."
 ---
 One of the questions that I am asked often is "how do I scale my web application?" or "we're expecting 200 times the traffic tomorrow, what do I do?". The second question is usually too late.
 

@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1330
 permalink: /2021/07/21/desk-setup-2021-edition/
 categories:
  - Computers! and Code!
+description: "Complete guide to a remote work desk setup including camera, monitor, microphone, lighting, and accessories tested over 12+ years of working from home."
 ---
 I often get asked about my desk setup. I've put a lot of research and thought into my setup, but each desk is personal, and should be modified to fit your space. 
 

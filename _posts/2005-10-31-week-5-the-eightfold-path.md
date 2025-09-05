@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=250
 permalink: /2005/10/31/the-eightfold-path/
 categories:
   - Philosophy! and Politics!
+description: "Learn about Buddhism's Eightfold Path, starting with Right Understanding and Right Aspiration - the foundational wisdom practices for seeing reality clearly and cultivating positive intentions."
 ---
 > 1. Wisdom (panna)  
 > 2. Right Understanding (samma ditthi)  

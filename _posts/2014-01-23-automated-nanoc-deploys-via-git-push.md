@@ -9,6 +9,7 @@ permalink: /2014/01/23/automated-nanoc-deploys-via-git-push/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Learn how to automate Nanoc static site deployment using git post-receive hooks. Step-by-step guide includes git setup, server configuration, and automated image listing for efficient blog publishing."
 ---
 I'm playing around with <a href="http://nanoc.ws">Nanoc</a> - a static site generator.  Basically,  <a href="http://nanoc.ws">nanoc</a> allows you you write your blog posts offline, and then generates your entire site in raw HTML. This allows you to host a site with out needing a database. In other words, it's dead quick. You can also forgo a web server, and just host your site from S3 if you want.
 

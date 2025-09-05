@@ -12,6 +12,7 @@ tags:
   - Hardware
   - Storage
 excerpt_separator:  <!--more-->
+description: "Build a DIY SAN storage solution with low-cost hardware, RAID arrays, and iSCSI. Learn to create petabyte-scale storage using BackBlaze pods or SuperMicro chassis."
 ---
 
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2011/03/backblaze_term.png" width="150" alt="Linux Terminal showing a lot of drives"></div><br />

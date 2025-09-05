@@ -9,6 +9,7 @@ permalink: /2012/03/21/rvm-lion-and-commandline-tools/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Fix RVM installation issues on macOS Lion with Apple's command line tools. Learn how to resolve gcc and autoreconf errors using homebrew and proper environment setup."
 ---
 So, I was updating ruby etc on my Lion box, and I ran into a few issues.
 <!--more-->

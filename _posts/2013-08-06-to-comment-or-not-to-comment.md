@@ -9,6 +9,7 @@ permalink: /2013/08/06/to-comment-or-not-to-comment/
 categories:
   - Mundane
 excerpt_separator:  <!--more-->
+description: "Exploring the pros and cons of blog comments: visibility, engagement, and stickiness versus trolling, spam, and security risks in modern blogging."
 ---
 One of the trends that I personally have noticed is the removal of the ability to comment from articles on blogs. I'm not sure which camp I'm in,  so I decided to preform an experiment. I turned off comments on the last few articles that I have posted, just to see how that makes me feel.
 

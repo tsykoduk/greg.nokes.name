@@ -9,6 +9,7 @@ permalink: /2004/12/24/pass-on-the-password/
 categories:
   - Computers! and Code!
   - Philosophy! and Politics!
+description: "Learn why digital accounts and passwords should be included in your will, exploring the privacy vs. inheritance debate with practical password management advice."
 ---
 
 I think that in this increasingly digital age, Passwords, accounts and how we handle legacy access is going to become more of a problem. I know that if I were to die today, there are three sites that would die as well, as my brain is the only place the passwords are kept.

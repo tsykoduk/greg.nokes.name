@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=190
 permalink: /2005/08/03/quick-and-dirty-backup/
 categories:
   - Computers! and Code!
+description: "Learn to create a simple bash backup script for MySQL databases and directories using rsync, tar, and mysqldump with automated rotation and compression."
 ---
 I have been working on a quick and dirty backup script to backup a MySQL database and several directories. Here is the fruit of my labor
 

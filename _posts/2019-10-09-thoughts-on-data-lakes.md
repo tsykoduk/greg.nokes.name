@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1250
 permalink: /2019/10/09/thoughts-on-data-lakes/
 categories:
   - Computers! and Code!
+description: "Exploring data lakes and data warehouses: why definitions matter and how these evolving terms mean different things to different people in data management."
 ---
 
 Nokes's Law: "One Person's Data Lake is another persons Excel spreadsheet"

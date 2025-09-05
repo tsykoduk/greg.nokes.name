@@ -9,6 +9,7 @@ permalink: /2004/12/09/everything-is-true/
 categories:
   - Philosophy! and Politics!
   - Science!
+description: "Explore how Buddhism, Zen, and Discordism intersect through existentialist philosophy. Discover the paradox that everything is true and the beauty of meaningless chaos."
 ---
 >"I am not a logician. I am an existentialist. I believe in this meaningless, beautiful
 chaos of existence, and I am ready to go with it wherever it leads. I don't have a goal, 

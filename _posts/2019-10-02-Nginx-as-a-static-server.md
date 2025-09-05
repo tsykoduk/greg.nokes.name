@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1240
 permalink: /2019/10/02/nginx-as-a-static-server-on-heroku/
 categories:
   - Computers! and Code!
+description: "Learn how to optimize static site performance on Heroku by switching from Static Buildpack to Nginx webserver for faster loading and improved efficiency."
 ---
 
 I was doing some performance testing on this site, and while I was impressed, I felt like I could wring some more speed out of it.  I decided to switch from Heroku's [Static Buildpack](https://github.com/heroku/heroku-buildpack-static) to a simple Nginx webserver using Heroku's nice [Nginx Buildpack](https://github.com/heroku/heroku-buildpack-nginx). In theory this should be a little quicker and lighter.

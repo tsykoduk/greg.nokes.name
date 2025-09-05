@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=170
 permalink: /2005/06/23/immanentize-the-eschaton/
 categories:
   - Philosophy! and Politics!
+description: "Explore the dangers of trying to create perfect societies on earth and why embracing uncertainty leads to happier, more graceful living than rigid ideological certainty."
 ---
 
 > Catholic term for the sin of most heretic groups who attempt to either create heaven or hell in this world instead of waiting for it in the next.

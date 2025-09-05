@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=540
 permalink: /2008/04/14/shadow-it-departments/
 categories:
   - Computers! and Code!
+description: "Discover how shadow IT departments emerge when frustrated employees bypass traditional IT restrictions, and learn strategies to turn these tech-savvy users into organizational assets instead of security risks."
 ---
 <p>This morning I read an interesting <a href="http://www.infoworld.com/article/08/04/14/16FE-guerrilla-it_1.html">article</a> at Infoworld. It deals with the collision of paradigms between old IT and the new Infoworkers.</p>
 <!--more-->

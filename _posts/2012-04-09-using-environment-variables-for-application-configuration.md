@@ -12,6 +12,7 @@ tags:
   - Best Practices
   - Deployment
 excerpt_separator:  <!--more-->
+description: "Learn how to use environment variables for secure application configuration, eliminating passwords from version control and simplifying deployment across multiple environments."
 ---
 <p>One of the cool things about what I do, is that I get exposed to some really interesting paradigms. One of the latest is the <a href="http://www.12factor.net/">12 factor app</a>. It's an evolution of some of what I have thought in the past, and a radical departure in others.
 

@@ -9,6 +9,7 @@ permalink: /2022/12/21/gentrification-of-online-spaces/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Exploring how online communities transform when mainstream adoption displaces original marginalized users - lessons from BBSs, IRC, Twitter, and the emerging Fediverse gentrification."
 ---
 
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/12/Gentrification.jpg" width="150" alt="Gentrification Art - sign shows Gentrification Zone, Poor People Please Leave Quietly"><br />

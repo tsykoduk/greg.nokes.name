@@ -9,6 +9,7 @@ permalink: /2018/02/22/blog-preformance-stats/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Blog performance testing results using Apache Bench on Heroku-hosted Jekyll site with nginx. See detailed load testing metrics and server response times."
 ---
 I decided to dust off `ab` and see what the performance of the new blog is.
 
