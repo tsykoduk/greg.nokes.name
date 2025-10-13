@@ -506,6 +506,12 @@ main {
     border-bottom: none;
   }
 
+  // Explicitly remove focus outline for this specific link
+  &:focus,
+  &:focus-visible {
+    outline: none;
+  }
+
   @media screen and (max-width: $mobileW) {
     margin-top: 20px;
     padding: 10px 18px;
