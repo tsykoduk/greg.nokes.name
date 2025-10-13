@@ -487,7 +487,8 @@ main {
 
 // Read more link styling for home page
 .read-more-link {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   margin-top: 15px;
   padding: 8px 16px;
   color: $linkColor;
