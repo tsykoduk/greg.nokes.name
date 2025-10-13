@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1280
 permalink: /2020/03/03/isc-dhcpd-6/
 categories:
   - Computers! and Code!
+description: "Learn how to set up and configure ISC's DHCPD server on macOS 10.15 using Homebrew, launchctl, and custom configs for flexible DNS and IPv6 support on your network."
 ---
 
 

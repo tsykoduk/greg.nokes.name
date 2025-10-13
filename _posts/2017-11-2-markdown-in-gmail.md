@@ -9,6 +9,7 @@ permalink: /2017/11/02/markdown-in-gmail/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Learn how to use Markdown Here browser extension in Safari for Gmail to write technical emails with code blocks and formatting - works in Chrome, Firefox and Safari."
 ---
 I really like [markdown](https://daringfireball.net/projects/markdown/syntax) for writing technical stuff. It makes it super easy to create code blocks, `embed commands in a sentence` and generally be really cool.
 <!--more-->

@@ -9,6 +9,7 @@ permalink: /2023/08/11/pike-school-of-leadership/
 categories:
   - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Learn how Captain Pike from Star Trek Strange New Worlds exemplifies exceptional leadership principles through character evolution and decision-making across Discovery and Strange New Worlds series."
 ---
 
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/08/pike.png" width="150" alt=" Balanced Rocks"><br />

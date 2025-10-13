@@ -12,6 +12,7 @@ tags:
   - cloud
   - Sharding
   - web application
+description: "Learn how to scale filesystems in high-traffic web applications using sharding techniques, from basic directory splitting to full application-level filesystem independence for enterprise growth."
 ---
 One of the more interesting problems that high traffic, high load web applications face is how to scale the filesystem. As load increases, vertical scaling (bigger servers) simply does not work. You have to add more application servers, and more layers to effectively serve the needs of the users. One of the issues that many such applications have to overcome is how to serve assets (pictures, podcasts, video) to all of the edge servers that a user might access the application from, and allow users to upload user generated content.
 

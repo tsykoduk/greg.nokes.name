@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1220
 permalink: /2018/04/05/the-power-of-not-saying-no/
 categories:
   - Computers! and Code!
+description: "Discover how avoiding the word \"no\" can transform your professional relationships and create more positive interactions through strategic redirection and collaboration."
 ---
 In my last musing, I brought up a personal philosophy of mine. To not say "No". I'd like some time to explain what I mean by that.
 <!--more-->

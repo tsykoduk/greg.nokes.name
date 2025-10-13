@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=660
 permalink: /2009/01/29/banning-water/
 categories:
   - Philosophy! and Politics!
+description: "Security expert Bruce Schneier argues against banning technology like Google Earth, showing how criminals use everyday items from phones to water bottles."
 ---
 <p>As usual, <a href="http://www.schneier.com/blog/archives/2006/08/bruce_schneier.html">Bruce Schneier</a> has an interesting look at security, and how banning things like Google Earth might not be such a good idea.</p>
 

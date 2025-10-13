@@ -11,6 +11,7 @@ categories:
 tags:
   - linkedin
   - nginx
+description: "Learn how to configure Nginx caching with Passenger for Mephisto blogs. Simple server configuration with asset and cache location rewrites for better performance."
 ---
 Now that I had this test bed for new hotness running the new hotness, I decided I should get the caching working again.
 

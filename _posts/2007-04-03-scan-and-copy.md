@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=400
 permalink: /2007/04/03/scan-and-copy/
 categories:
   - Computers! and Code!
+description: "Ruby script for automated file backup and document scanning - learn how to save important user files before system re-imaging with this network admin solution."
 ---
 <p>One of the ways I am able to exercise my Ruby skills is in the day to day network admin tasks. For example, I had to come up with a method of saving all of a users 'important' documents off of their desktop computer in preparation for a wipe and re-image. Not only that, but it's a good idea. So I wrote 'scan and copy'</p>
 

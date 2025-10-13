@@ -9,6 +9,7 @@ permalink: /2023/06/01/bringing-buddha-into-leadership/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Discover how Buddhist principles like empathy, mindful communication, and equanimity can transform your leadership style to create more compassionate, effective teams."
 ---
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/05/buddha-by-david-bartus-2873473.jpg" width="150" alt="Buddha in a Garden"><br />
 <sub><i>Image by <a href="https://www.pexels.com/@david-bartus-43782/">David Bartus</a></i></sub></div>

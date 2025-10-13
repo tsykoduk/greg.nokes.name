@@ -9,6 +9,7 @@ permalink: /2008/03/28/black-holes-stranglets-and-oh-my/
 categories:
   - Fun!
   - Science!
+description: "Large Hadron Collider faces lawsuit over fears it could create black holes and destroy Earth. Exploring the science vs safety debate around CERN's particle accelerator."
 ---
 <blockquote>The builders of the world’s biggest particle collider are being sued in federal court over fears that the experiment might create globe-gobbling black holes or never-before-seen strains of matter that would destroy the planet.</blockquote>
 

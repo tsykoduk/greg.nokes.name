@@ -12,6 +12,7 @@ tags:
   - linux
   - linux workstation
   - Mint
+description: "Linux Mint review: A polished, gorgeous Ubuntu-based distro that works beautifully out of the box with excellent UI design, wireless support, and pre-installed apps."
 ---
 <img class="alignleft" title="Mint_Logo" src="https://greg.nokes.name/binaries/2009/07/mint_logo.png" alt="" width="146" height="100" /> I found a new Linux distro last night, and I am really impressed so far - it's <a href="http://www.linuxmint.com/">Linux Mint</a>, and I must say, it's the most polished, pretty distro that I have ever seen. It's based on <a href="http://www.ubuntu.com/">Ubuntu</a>, so it's pretty much rock solid under the hood as well.
 

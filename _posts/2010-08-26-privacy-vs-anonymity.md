@@ -13,6 +13,7 @@ tags:
   - anonymity
   - privacy
 excerpt_separator:  <!--more-->
+description: "Learn the crucial difference between privacy and anonymity online, and discover why you have more control over your digital footprint than you think."
 ---
 One of the perceived issues with the increased use of social networks and pervasive online activities is eroding of personal privacy. Some would have us believe that there will be no privacy in the future, and we just need to accept that fact. 
 <!--more-->

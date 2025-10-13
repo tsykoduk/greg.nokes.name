@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=270
 permalink: /2005/11/08/more-of-the-eightfold-path/
 categories:
   - Philosophy! and Politics!
+description: "Explore Buddhism's Eightfold Path focusing on ethical conduct: Right Speech, Right Action, and Right Livelihood. Learn how mindful communication and compassionate actions create peace."
 ---
 <blockquote>Ethical Conduct:
 3. Right Speech

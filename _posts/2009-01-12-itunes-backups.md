@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=640
 permalink: /2009/01/12/itunes-backups/
 categories:
   - Computers! and Code!
+description: "Learn how to create automated iTunes backups on Mac OS X Tiger using rsync and periodic scripts to safely backup your movie library to network storage."
 ---
 Now that we are starting to buy / rent movies on our Apple TV, I wanted to have a seamless backup mechanism. The fact that we are running Tiger made it a little more challenging, along with my distain for <span class="caps">COTS</span> software. After all, all I really want to do is keep 2 copies of 1 (rather large) directory else where on the network...
 

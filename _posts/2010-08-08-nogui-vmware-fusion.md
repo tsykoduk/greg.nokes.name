@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=920
 permalink: /2010/08/08/nogui-vmware-fusion/
 categories:
   - Computers! and Code!
+description: "Run VMware Fusion VMs headlessly without GUI windows. Save Mac resources and desktop clutter with this Ruby-based launcher for command-line virtual machine management."
 ---
 <p>One of the things that I like to do it launch my VM's with out a GUI - it takes a little less resources, and it does not clutter up my Mac's desktop with windows that I do not need. It's been hard to do in the past.</p>
 

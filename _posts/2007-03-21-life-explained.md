@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=360
 permalink: /2007/03/21/life-explained/
 categories:
   - Philosophy! and Politics!
+description: "Explore Mark Twain's profound insight that recognizing our shared human madness reveals life's deepest mysteries and provides the ultimate explanation for existence."
 ---
 <blockquote>When we remember we are all mad, the mysteries disappear and life stands explained.</blockquote>
 

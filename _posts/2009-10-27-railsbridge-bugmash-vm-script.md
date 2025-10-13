@@ -14,6 +14,7 @@ tags:
   - RailsBridge
   - ruby
 excerpt_separator:  <!--more-->
+description: "Looking at the blog post content, I can see this is about a script for setting up a Rails development environment for the RailsBridge Bugmash event. Here's an SEO-optimized meta description:"
 ---
 <img class="alignleft size-thumbnail wp-image-15186" title="corot7b_eso_big" src="https://greg.nokes.name/binaries/2009/10/corot7b_eso_big-150x150.jpg" alt="corot7b_eso_big" width="150" height="150" />
 After fooling around with creating a VM for the RailsBridge Bugmash insta-server, I decided that it was just too unwieldy. There are simply too many moving parts to make a small VM. That got me thinking...

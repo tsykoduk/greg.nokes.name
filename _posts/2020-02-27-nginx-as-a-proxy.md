@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1260
 permalink: /2020/02/27/nginx-routing-on-heroku/
 categories:
   - Computers! and Code!
+description: "Learn how to set up Nginx as a reverse proxy on Heroku to route requests between multiple services, protect private backend apps, and optimize asset delivery."
 ---
 
 Sometimes, we want to be able to route requests based on URL paths easily, or have a front end app that serves data from private back end services.

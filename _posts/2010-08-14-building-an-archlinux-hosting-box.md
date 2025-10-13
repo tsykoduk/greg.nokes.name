@@ -9,6 +9,7 @@ permalink: /2010/08/14/building-an-archlinux-hosting-box/
 categories:
   - Computers! and Code!
 excerpt_separator:  <!--more-->
+description: "Learn how to build a lightweight ArchLinux hosting server from scratch. Step-by-step guide covering installation, network configuration, and initial setup for this minimalist Linux distribution."
 ---
 <a href="https://greg.nokes.name/binaries/2010/08/Other-Linux-2.6.x-kernel-64-bit.png"><img class="alignleft size-medium wp-image-15337" style="border: 5px solid black;" title="Other Linux 2.6.x kernel 64-bit" src="https://greg.nokes.name/binaries/2010/08/Other-Linux-2.6.x-kernel-64-bit-300x224.png" alt="" width="300" height="224" /></a>
 

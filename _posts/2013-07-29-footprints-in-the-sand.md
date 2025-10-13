@@ -10,6 +10,7 @@ categories:
   - Fun!
   - Philosophy! and Politics!
 excerpt_separator:  <!--more-->
+description: "A humorous Discordian twist on the classic \"Footprints in the Sand\" poem, where the Goddess explains why there's only one set of prints during hard times."
 ---
 Footprints in the Sand
 ...the Discordian version

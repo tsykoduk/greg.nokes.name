@@ -9,6 +9,7 @@ permalink: /2022/08/25/heroku-removing-free-teir/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
+description: "Heroku is removing its free tier November 2022. Explore the impact on developers, alternatives for learning, and the evolution from free dynos to paid hosting solutions."
 ---
 
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2022/08/buddha_bud.jpeg" width="150" alt="purple lit buddha with a black cowboy hat"><br />

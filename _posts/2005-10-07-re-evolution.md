@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=220
 permalink: /2005/10/07/re-evolution/
 categories:
   - Philosophy! and Politics!
+description: "Explore Terence McKenna's profound philosophy on shamanism, consciousness evolution, and humanity's transcendental destiny in this thought-provoking analysis of mystical wisdom and transformation."
 ---
 <blockquote><em>If the truth can be told so as to be understood, it will be believed.</em>
 

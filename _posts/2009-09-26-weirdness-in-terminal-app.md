@@ -14,6 +14,7 @@ tags:
   - rxvt
   - terminal
 excerpt_separator:  <!--more-->
+description: "Fix Mac Terminal.app SSH backspace key issues on Linux/Debian. Simple Terminal preferences tweaks for proper backspace functionality in Screen and Emacs sessions."
 ---
 I have run into this three or four times now. Each time takes some googling, and that is counterproductive. So here you go. For all of the times you get a new mac, or install a new version of OSX, and you start seeing weirdness in terminal.app while SSH'd into a *nix box..
 

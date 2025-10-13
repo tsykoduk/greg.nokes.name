@@ -10,6 +10,7 @@ categories:
   - Computers! and Code!
 tags:
   - linkedin
+description: "Learn how to set up a network printer using CUPS and Avahi on Linux, including upgrading from Debian Etch to Lenny for better Mac compatibility and print sharing."
 ---
 <p>I have an old HP Laser Jet 6L as my primary printer at home. It's a trooper - I got it new years ago, and I have never had a problem with it. A few years ago, I got an <span class="caps">APC</span> Parallel Port to <span class="caps">USB</span> converter. That works great, until I tried to plug it unto my new Airport Express 802.11n. Woops. Lucky me I have a Linux box right next to the printer..</p>
 

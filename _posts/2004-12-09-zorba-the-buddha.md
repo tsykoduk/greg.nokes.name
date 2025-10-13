@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=20
 permalink: /2004/12/09/zorba-the-buddha/
 categories:
   - Philosophy! and Politics!
+description: "Discover how to practice genuine love for real people in your daily life rather than abstract humanity, with insights from Osho and the Dalai Lama on meaningful connection."
 ---
 In my net reading for the last article I posted, I came across a site that I kind of liked. The person behind the site has several books out, and I plan on getting a few of them. I lifted some quotes from his site that impacted me the most, and decided to put them here for ya'll with my commentary over the next few days.
 

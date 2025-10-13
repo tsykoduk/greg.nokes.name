@@ -14,6 +14,7 @@ tags:
   - ruby
   - rvm
 excerpt_separator:  <!--more-->
+description: "Learn how to install and configure RVM (Ruby Version Manager) system-wide for multi-user environments. Complete guide with installation steps for ArchLinux, CentOS, and Debian systems."
 ---
 <a href="https://greg.nokes.name/binaries/2010/03/GrowlHelperApp-1.jpg"><img class="alignleft size-medium wp-image-15236" title="GrowlHelperApp-1" src="https://greg.nokes.name/binaries/2010/03/GrowlHelperApp-1-300x71.jpg" alt="" width="300" height="71" /></a>
 

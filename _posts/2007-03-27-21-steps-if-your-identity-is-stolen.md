@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=370
 permalink: /2007/03/27/21-steps-if-your-identity-is-stolen/
 categories:
   - Computers! and Code!
+description: "Learn the essential 21 steps to recover from identity theft and restore your credit rating. Expert guide covers reporting fraud, protecting accounts, and rebuilding your financial security."
 ---
 <blockquote>Identity theft accounted for 255,000, or 37 percent, of more than 686,683 complaints registered with the <span class="caps">FTC</span> in 2005. These figures mark the sixth year in a row where identity theft has topped the list of complaints filed with this agency. The most commonly reported form of identity theft was credit card fraud, followed by phone or utilities fraud, and bank (electronic funds transfer) and employment fraud.
 <br /><br />

@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=140
 permalink: /2005/05/23/high-holy-day/
 categories:
   - Philosophy! and Politics!
+description: "Celebrating the High Holy Day of the Spokane Chapter of the Evil Penguin Discordian Church with sacred numerology, bunless hotdog abstinence, and Discordian wisdom."
 ---
 <p>Today, 5/23 is the High Holy Day of the Spokane Chapter of the Evil Penguin Discordian Church.</p>
 

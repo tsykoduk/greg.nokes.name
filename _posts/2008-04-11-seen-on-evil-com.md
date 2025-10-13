@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=530
 permalink: /2008/04/11/seen-on-evil-com/
 categories:
   - Fun!
+description: "Humorous take on geopolitics with the witty phrase \"Free Tibet with purchase of China\" - a clever one-liner that captures political irony in just a few words."
 ---
 <blockquote>We did like this one...
 <br /><br />

@@ -8,6 +8,7 @@ guid: https://greg.nokes.name/?p=1320
 permalink: /2020/10/16/salesforce-time-machine/
 categories:
  - Computers! and Code!
+description: "Build a Salesforce data time machine using Heroku Connect, Kafka, and PostgreSQL to capture every data change forever with this step-by-step technical guide."
 ---
 
 So, you want to have every change made to the data in a Salesforce Object stored... forever?
