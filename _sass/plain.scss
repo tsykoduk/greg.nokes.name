@@ -489,17 +489,39 @@ main {
 .read-more-link {
   display: inline-block;
   margin-top: 15px;
+  padding: 8px 16px;
   color: $linkColor;
+  background-color: rgba($accentColor, 0.2);
+  border-radius: 6px;
   text-decoration: none;
   font-family: Raleway, sans-serif;
   font-size: 14px;
   font-weight: 500;
-  transition: color 0.3s ease;
+  transition: all 0.3s ease;
   border-bottom: none;
+  outline: none !important;
 
   &:hover {
     color: $hoverColor;
+    background-color: rgba($accentColor, 0.4);
+    transform: translateY(-1px);
     border-bottom: none;
+    outline: none !important;
+  }
+
+  &:focus,
+  &:focus-visible,
+  &:active {
+    outline: none !important;
+  }
+
+  @media screen and (max-width: $mobileW) {
+    margin-top: 20px;
+    padding: 10px 18px;
+    font-size: 15px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
   }
 }
 
