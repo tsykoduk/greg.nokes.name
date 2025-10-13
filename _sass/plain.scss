@@ -498,12 +498,18 @@ main {
   font-size: 14px;
   font-weight: 500;
   transition: all 0.3s ease;
+  outline: none;
 
   &:hover {
     color: $hoverColor;
     background-color: rgba($accentColor, 0.4);
     transform: translateY(-1px);
     border-bottom: none;
+    outline: none;
+  }
+
+  &:focus {
+    outline: none;
   }
 
   @media screen and (max-width: $mobileW) {
