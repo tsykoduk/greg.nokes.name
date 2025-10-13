@@ -477,13 +477,45 @@ main {
   h5,
   h6 {
     font-family: Raleway, sans-serif;
-    
+
     @media screen and (max-width: $mobileW) {
       margin-top: 1.5em;
       margin-bottom: 0.5em;
     }
   }
 }
+
+// Read more link styling for home page
+.read-more-link {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 16px;
+  color: $linkColor;
+  background-color: rgba($accentColor, 0.2);
+  border-radius: 6px;
+  text-decoration: none;
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $hoverColor;
+    background-color: rgba($accentColor, 0.4);
+    transform: translateY(-1px);
+    border-bottom: none;
+  }
+
+  @media screen and (max-width: $mobileW) {
+    margin-top: 20px;
+    padding: 10px 18px;
+    font-size: 15px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
 .posts-labelgroup {
   margin: 0 0 0.67em 0;
   display: flex;
