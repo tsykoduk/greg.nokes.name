@@ -3,13 +3,16 @@
 @import "syntax";
 /* Cache refresh for dark theme */
 
-// Smoky Elegance Color Scheme
-$backgroundColor: #1e1c1a;
-$textColor: #e8e6e3;
-$linkColor: #87ceeb;
-$accentColor: #3a3d42;
-$hoverColor: #b8d4f0;
-$lightTextColor: #b8b5b2;
+// Smoky Elegance Color Scheme - Refined
+$backgroundColor: #1a1816;
+$textColor: #eae8e5;
+$linkColor: #7ec4e8;
+$accentColor: #2d3035;
+$hoverColor: #a8d4f0;
+$lightTextColor: #b5b3b0;
+$borderColor: rgba(255, 255, 255, 0.08);
+$shadowColor: rgba(0, 0, 0, 0.3);
+$highlightColor: #f0a500;
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -24,16 +27,17 @@ $leftWidth: 220px;
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
-  line-height: 1.4em;
+  line-height: 1.6em;
   margin: 0;
   background-color: $backgroundColor;
   color: $textColor;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
+  letter-spacing: 0.01em;
+
   @media screen and (max-width: $mobileW) {
     font-size: 18px;
-    line-height: 1.5em;
+    line-height: 1.65em;
   }
 }
 
@@ -44,7 +48,8 @@ video {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
-  
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+
   @media screen and (max-width: $mobileW) {
     margin: 10px 0;
   }
@@ -59,9 +64,12 @@ a {
 }
 
 h2 {
-  margin: 0.7em 0;
+  margin: 1em 0 0.5em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+
   @media screen and (max-width: $mobileW) {
-    margin: 0.3em 0;
+    margin: 0.8em 0 0.4em;
   }
 }
 main {
@@ -99,16 +107,16 @@ main {
     display: flex;
     height: 100vh;
     padding: 30px 25px 15vh;
-    background-color: rgba($accentColor, 0.4);
-    backdrop-filter: blur(10px);
-    border-right: 1px solid rgba($textColor, 0.1);
-    
+    background: linear-gradient(135deg, rgba($accentColor, 0.5), rgba($accentColor, 0.3));
+    backdrop-filter: blur(12px);
+    border-right: 1px solid $borderColor;
+
     @media screen and (max-width: $mobileW) {
       height: auto;
       padding: 5vh 30px;
-      background-color: rgba($accentColor, 0.2);
+      background: linear-gradient(180deg, rgba($accentColor, 0.3), rgba($accentColor, 0.2));
       border-right: none;
-      border-bottom: 1px solid rgba($textColor, 0.1);
+      border-bottom: 1px solid $borderColor;
       position: static;
     }
     @media screen and (max-width: $smallMobileW) {
@@ -119,32 +127,34 @@ main {
       top: 0;
       left: 0;
       max-width: 300px;
-      box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 4px 0 24px $shadowColor;
     }
     min-width: $leftWidth;
     justify-content: center;
     flex-direction: column;
     align-items: center;
     h2 {
-      font-size: 22px;
+      font-size: 24px;
       margin-top: 25px;
       margin-bottom: 0;
       color: $textColor;
-      font-weight: normal;
+      font-weight: 600;
+      letter-spacing: 0.02em;
     }
     .tagline {
       text-align: center;
-      font-size: 18px;
-      margin-top: 0px;
+      font-size: 17px;
+      margin-top: 8px;
       color: $lightTextColor;
       white-space: pre-wrap;
-      line-height: normal;
+      line-height: 1.5;
     }
     img {
       max-width: 200px;
       height: auto;
-      border-radius: 8px;
+      border-radius: 12px;
       margin-bottom: 15px;
+      box-shadow: 0 4px 12px $shadowColor;
     }
     img.dark {
       display: none;
@@ -172,35 +182,42 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 4px;
-  
+  gap: 6px;
+  max-width: 280px;
+  margin: 0 auto;
+
   a {
-    margin-bottom: .5em;
-    padding: 4px;
-    border-radius: 4px;
-    transition: background-color 0.3s;
-    min-width: 44px;
-    min-height: 44px;
+    margin-bottom: 0;
+    padding: 6px;
+    border-radius: 6px;
+    background-color: rgba($accentColor, 0.5);
+    border: 1px solid $borderColor;
+    min-width: 36px;
+    min-height: 36px;
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
     @media screen and (max-width: $mobileW) {
-      min-width: 48px;
-      min-height: 48px;
-      margin-bottom: 0.75em;
+      min-width: 44px;
+      min-height: 44px;
+      margin-bottom: 0.5em;
+      padding: 8px;
     }
-    
+
     &:hover {
-      background-color: rgba(0,0,0,0.05);
+      background-color: rgba($highlightColor, 0.2);
+      color: $highlightColor;
+      border-color: $highlightColor;
+      box-shadow: 0 0 8px rgba($highlightColor, 0.3);
     }
   }
   li {
     i {
-      font-size: 26px;
-      
+      font-size: 20px;
+
       @media screen and (max-width: $mobileW) {
-        font-size: 28px;
+        font-size: 24px;
       }
     }
   }
@@ -226,19 +243,26 @@ main {
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
-      border-bottom: 1px solid $accentColor;
+      border-bottom: 1px solid $borderColor;
       color: $textColor;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+
       @media screen and (max-width: $mobileW) {
         padding: 1.25rem 1rem;
         font-size: 18px;
         min-height: 48px;
+      }
+
+      &:hover {
+        color: $highlightColor;
       }
     }
   }
 }
 
 .post-wrapper {
-  border-bottom: 1px solid $accentColor;
+  border-bottom: 1px solid $borderColor;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
 }
@@ -248,12 +272,16 @@ main {
   margin: 0;
   padding: 0;
   li {
-    font-size: 14px;
+    font-size: 13px;
     float: left;
-    background-color: $accentColor;
+    background-color: rgba($accentColor, 0.6);
     color: $textColor;
-    padding: 5px 20px;
-    border-radius: 2px;
+    padding: 6px 16px;
+    border-radius: 6px;
+    border: 1px solid $borderColor;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+
     @media screen and (max-width: $mobileW) {
       margin-top: 5px;
     }
@@ -283,13 +311,16 @@ main {
 }
 
 .post-title {
-  line-height: 1.2em;
-  font-size: 28px;
-  margin-bottom: 10px;
-  
+  line-height: 1.3em;
+  font-size: 32px;
+  margin-bottom: 12px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: $textColor;
+
   @media screen and (max-width: $mobileW) {
-    font-size: 24px;
-    line-height: 1.3em;
+    font-size: 26px;
+    line-height: 1.35em;
     margin-bottom: 15px;
   }
 }
@@ -309,18 +340,22 @@ main {
 
 // Add visual separation between articles
 .posts li {
-  padding: 25px 0;
-  border-bottom: 1px solid rgba($accentColor, 0.3);
-  
+  padding: 32px 0;
+  border-bottom: 1px solid $borderColor;
+
   &:last-child {
     border-bottom: none;
   }
-  
+
   // Ensure floated images don't overlap with borders
   &:after {
     content: "";
     display: table;
     clear: both;
+  }
+
+  &:hover .post-title {
+    color: $linkColor;
   }
 }
 
@@ -329,55 +364,57 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 40px 0;
-  padding: 20px 0;
-  border-top: 1px solid rgba($accentColor, 0.3);
-  
+  margin: 50px 0 40px;
+  padding: 24px 0;
+  border-top: 1px solid $borderColor;
+
   .pagination-link {
-    color: $linkColor;
+    color: $textColor;
     text-decoration: none;
-    padding: 10px 15px;
-    background-color: rgba($accentColor, 0.2);
-    border-radius: 6px;
-    transition: all 0.3s ease;
-    font-weight: 500;
-    
+    padding: 12px 24px;
+    background-color: rgba($accentColor, 0.4);
+    border: 1px solid $borderColor;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+
     &:hover {
-      color: $hoverColor;
-      background-color: rgba($accentColor, 0.4);
-      transform: translateY(-1px);
+      background-color: rgba($accentColor, 0.7);
+      border-color: rgba($highlightColor, 0.4);
+      color: $highlightColor;
     }
-    
+
     &.prev {
       margin-right: auto;
     }
-    
+
     &.next {
       margin-left: auto;
     }
   }
-  
+
   .pagination-info {
     color: $lightTextColor;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 500;
     margin: 0 20px;
   }
-  
+
   @media screen and (max-width: $mobileW) {
     flex-direction: column;
     gap: 15px;
-    
+
     .pagination-link {
       width: 100%;
       text-align: center;
-      
+      padding: 14px 24px;
+
       &.prev,
       &.next {
         margin: 0;
       }
     }
-    
+
     .pagination-info {
       order: -1;
       margin: 0;
@@ -388,23 +425,33 @@ main {
 // Copyright section with tight CC license positioning
 .copyright-section {
   text-align: center;
-  margin: 15px 0 5px;
-  
+  margin: 20px 0 8px;
+  padding-top: 15px;
+  border-top: 1px solid $borderColor;
+
   p {
-    margin: 0 0 5px 0;
-    font-size: 12px;
-    line-height: 1.2;
+    margin: 0 0 8px 0;
+    font-size: 13px;
+    line-height: 1.4;
+    color: $lightTextColor;
+
+    a {
+      color: $linkColor;
+
+      &:hover {
+        color: $highlightColor;
+      }
+    }
   }
-  
+
   a[rel="license"] {
     display: inline-block;
-    margin-top: 3px;
-    
+    margin-top: 4px;
+
     img {
-      opacity: 0.8;
-      transition: opacity 0.3s;
+      opacity: 0.7;
       vertical-align: middle;
-      
+
       &:hover {
         opacity: 1;
       }
@@ -414,26 +461,26 @@ main {
 
 // Navigation links styling
 .navigation.about-footer {
-  margin: 10px 0;
-  
+  margin: 15px 0;
+
   ul {
     list-style: none;
     padding: 0;
     margin: 0;
     text-align: center;
-    
+
     li {
       display: inline-block;
-      margin: 0 10px;
-      
+      margin: 0 12px;
+
       a {
         color: $linkColor;
         text-decoration: none;
         font-size: 14px;
-        transition: color 0.3s;
-        
+        font-weight: 500;
+
         &:hover {
-          color: $hoverColor;
+          color: $highlightColor;
         }
       }
     }
@@ -447,27 +494,30 @@ main {
   font-family: "Merriweather", sans-serif;
   font-weight: 300;
   color: $textColor;
-  line-height: 1.9em;
-  
+  line-height: 1.8em;
+
   @media screen and (max-width: $mobileW) {
-    line-height: 1.7em;
+    line-height: 1.75em;
     font-size: 16px;
   }
-  
+
   p {
-    margin-top: 10px;
-    
+    margin-top: 16px;
+    margin-bottom: 16px;
+
     @media screen and (max-width: $mobileW) {
-      margin-top: 15px;
-      margin-bottom: 15px;
+      margin-top: 18px;
+      margin-bottom: 18px;
     }
   }
-  a {
+  a:not(.read-more-link) {
     color: $linkColor;
     text-decoration: none;
-    transition: border-bottom 0.4s;
+    border-bottom: 1px solid transparent;
+
     &:hover {
-      border-bottom: 0.5px solid $linkColor;
+      color: $hoverColor;
+      border-bottom: 1px solid $linkColor;
     }
   }
   h1,
@@ -477,50 +527,89 @@ main {
   h5,
   h6 {
     font-family: Raleway, sans-serif;
+    font-weight: 700;
+    color: $textColor;
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    letter-spacing: -0.01em;
 
     @media screen and (max-width: $mobileW) {
       margin-top: 1.5em;
       margin-bottom: 0.5em;
     }
   }
+  h1 {
+    font-size: 2.2em;
+  }
+  h2 {
+    font-size: 1.8em;
+  }
+  h3 {
+    font-size: 1.4em;
+  }
+  h4 {
+    font-size: 1.2em;
+  }
+  blockquote {
+    border-left: 4px solid $highlightColor;
+    padding-left: 20px;
+    margin: 24px 0;
+    font-style: italic;
+    color: $lightTextColor;
+  }
+  code {
+    background-color: rgba($accentColor, 0.5);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+  pre {
+    background-color: rgba($accentColor, 0.4);
+    padding: 16px;
+    border-radius: 8px;
+    overflow-x: auto;
+    border: 1px solid $borderColor;
+
+    code {
+      background-color: transparent;
+      padding: 0;
+    }
+  }
 }
 
 // Read more link styling for home page
 .read-more-link {
-  display: block;
+  display: inline-block;
   width: fit-content;
-  margin-top: 15px;
-  padding: 8px 16px;
-  color: $linkColor;
-  background-color: rgba($accentColor, 0.2);
-  border-radius: 6px;
-  text-decoration: none;
+  margin-top: 20px;
+  padding: 10px 20px;
+  color: $textColor;
+  background-color: rgba($accentColor, 0.4);
+  border: 1px solid $borderColor !important;
+  border-radius: 8px;
+  text-decoration: none !important;
   font-family: Raleway, sans-serif;
   font-size: 14px;
-  font-weight: 500;
-  transition: all 0.3s ease;
-  border: none !important;
-  outline: none !important;
+  font-weight: 600;
+  letter-spacing: 0.02em;
   clear: both;
 
   &:hover {
-    color: $hoverColor;
-    background-color: rgba($accentColor, 0.4);
-    transform: translateY(-1px);
-    border: none !important;
-    outline: none !important;
+    background-color: rgba($accentColor, 0.7);
+    border: 1px solid rgba($highlightColor, 0.4) !important;
+    color: $highlightColor;
   }
 
   &:focus,
   &:focus-visible,
   &:active {
-    border: none !important;
+    border: 1px solid $borderColor !important;
     outline: none !important;
   }
 
   @media screen and (max-width: $mobileW) {
     margin-top: 20px;
-    padding: 10px 18px;
+    padding: 12px 20px;
     font-size: 15px;
     min-height: 44px;
     display: inline-flex;
@@ -547,14 +636,31 @@ main {
   transition: width 0.1s;
 }
 table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  border-radius: 8px;
+  overflow: hidden;
+
   th, td {
-    padding: 8px 13px;
-    border: 1px solid $accentColor;
+    padding: 12px 16px;
+    border: 1px solid $borderColor;
+    text-align: left;
   }
   th {
-    background-color: $accentColor;
+    background-color: rgba($accentColor, 0.6);
     color: $textColor;
     font-family: Raleway;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  tr {
+    &:nth-child(even) {
+      background-color: rgba($accentColor, 0.2);
+    }
+    &:hover {
+      background-color: rgba($accentColor, 0.4);
+    }
   }
 }
 
@@ -595,12 +701,13 @@ footer {
     flex-direction: column;
     align-items: center;
     margin: 0 40px;
-    border-top: 1px solid $accentColor;
-    
+    border-top: 1px solid $borderColor;
+    padding-top: 20px;
+
     @media screen and (max-width: $smallMobileW){
       margin: 0 20px;
     }
-    
+
     // On desktop, align with content area (same as articles)
     @media screen and (min-width: $mobileW + 1) {
       margin-left: calc(300px + 40px);
