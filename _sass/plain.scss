@@ -510,7 +510,7 @@ main {
       margin-bottom: 18px;
     }
   }
-  a {
+  a:not(.read-more-link) {
     color: $linkColor;
     text-decoration: none;
     border-bottom: 1px solid transparent;
@@ -585,9 +585,9 @@ main {
   padding: 10px 20px;
   color: $textColor;
   background-color: rgba($accentColor, 0.4);
-  border: 1px solid $borderColor;
+  border: 1px solid $borderColor !important;
   border-radius: 8px;
-  text-decoration: none;
+  text-decoration: none !important;
   font-family: Raleway, sans-serif;
   font-size: 14px;
   font-weight: 600;
@@ -596,7 +596,7 @@ main {
 
   &:hover {
     background-color: rgba($accentColor, 0.7);
-    border-color: rgba($highlightColor, 0.4);
+    border: 1px solid rgba($highlightColor, 0.4) !important;
     color: $highlightColor;
   }
 
