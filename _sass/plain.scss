@@ -182,39 +182,42 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 8px;
+  gap: 6px;
+  max-width: 280px;
+  margin: 0 auto;
 
   a {
-    margin-bottom: .5em;
-    padding: 8px;
-    border-radius: 8px;
-    background-color: rgba($accentColor, 0.3);
+    margin-bottom: 0;
+    padding: 6px;
+    border-radius: 6px;
+    background-color: rgba($accentColor, 0.5);
     border: 1px solid $borderColor;
-    min-width: 44px;
-    min-height: 44px;
+    min-width: 36px;
+    min-height: 36px;
     display: flex;
     align-items: center;
     justify-content: center;
 
     @media screen and (max-width: $mobileW) {
-      min-width: 48px;
-      min-height: 48px;
-      margin-bottom: 0.75em;
-      padding: 10px;
+      min-width: 44px;
+      min-height: 44px;
+      margin-bottom: 0.5em;
+      padding: 8px;
     }
 
     &:hover {
-      background-color: rgba($accentColor, 0.6);
+      background-color: rgba($highlightColor, 0.2);
       color: $highlightColor;
-      border-color: rgba($highlightColor, 0.3);
+      border-color: $highlightColor;
+      box-shadow: 0 0 8px rgba($highlightColor, 0.3);
     }
   }
   li {
     i {
-      font-size: 24px;
+      font-size: 20px;
 
       @media screen and (max-width: $mobileW) {
-        font-size: 26px;
+        font-size: 24px;
       }
     }
   }
