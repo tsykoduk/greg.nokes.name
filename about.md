@@ -1,6 +1,6 @@
 ---
 
-id: 14939
+id: 1
 
 title: About
 
@@ -10,15 +10,12 @@ author: tsykoduk
 
 layout: page
 
-guid: http://nwgamers.org/greg/?page_id=2
 
 ---
+I build systems. Some run on servers, some run on teams, and most of the interesting work lives in the overlap. I care about tools that make people feel competent, policies that don't get in the way, and small choices that quietly shape how we work together.
 
-<meta http-equiv="Refresh" content="0; url='https://www.linkedin.com/in/gregnokes/'" />
+This site is where I think out loud about that overlap. Expect posts on how tech affects behavior, why we reach for complexity when we don't need it, desk setups that reduce friction, and the occasional bit of philosophy that survived contact with a real workday.
 
-<!-- People ask me why I keep this site up and running and have for so long. I don’t think it’s about ego - it’s more like a snapshot of who I am each time I sit down to write. Everything changes, all the time. We die each second, and are reborn as someone new. The ability to look backwards, and see who I was a week, a month or a year ago is an interesting exercise in self examination.
+Nothing here is a lesson. It's more like field notes: what I noticed, what broke, what surprised me, and what might be worth doing differently next time.
 
-And, I look back at the people all over the world whose lives have touched mine, and I am truly thankful to be living in a time of such ubiquitous communication. Democracy, peace and freedom are fostered by discourse. As long as we keep talking, everything will turn out ok…  
-
-You can check out "about me" on <a href="http://www.linkedin.com/in/gregnokes/">LinkedIn</a>, and my <a href="https://twitter.com/tsykoduk">tweets</a>. -->
-
+I've been tsykoduk online since the BBS era - find me on Bluesky, Threads, and Mastodon under that handle. I spend a lot of time in constrained spaces, and I've learned to find joy there.
