@@ -59,13 +59,10 @@ html {
 
 // Better blockquotes on mobile
 @media screen and (max-width: $mobileW) {
-  blockquote {
+  .post blockquote {
     margin: 20px 0;
     padding: 15px 20px;
-    border-left: 4px solid #ddd;
-    background-color: #f9f9f9;
-    font-style: italic;
-    
+
     p {
       margin: 0;
     }
