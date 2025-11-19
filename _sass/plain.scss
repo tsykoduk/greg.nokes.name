@@ -182,18 +182,18 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 6px;
+  gap: 5px;
   max-width: 280px;
   margin: 0 auto;
 
   a {
     margin-bottom: 0;
-    padding: 6px;
+    padding: 5px;
     border-radius: 6px;
     background-color: rgba($accentColor, 0.5);
     border: 1px solid $borderColor;
-    min-width: 36px;
-    min-height: 36px;
+    min-width: 32px;
+    min-height: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -214,7 +214,7 @@ main {
   }
   li {
     i {
-      font-size: 20px;
+      font-size: 18px;
 
       @media screen and (max-width: $mobileW) {
         font-size: 24px;
