@@ -1,19 +1,19 @@
 ---
 id: 1500
 title: It Just Feels Wrong
-date: 2025-12-4
+date: 2025-12-3
 author: tsykoduk
 layout: post
 guid: https://greg.nokes.name/?p=1500
-permalink: /2025/12/4/it-feels-wrong/
+permalink: /2025/12/3/it-feels-wrong/
 description: "Musings on ethics, AI, and enforced servitude."
 excerpt_separator: <!--more-->
 categories:
  - Computers! and Code!
 ---
 
-<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2024/10/IMG_1930.jpg" width="150" alt="A storyteller reading and preparing"><br />
-<sub><i>Image by <a href="https://greg.nokes.name/">Me</a></i></sub></div>
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2025/12/image-dec-03.png" width="150" alt="Thinking about AI"><br />
+<sub><i>Image by ChatGPT</i></sub></div>
 
 The two classes in college that had the most impact on 20-something me were the two semesters of Creative Writing: Poetry and the two semesters I took of The History of Black Music. Yes, I took them over the same two semesters. Poetry opened my mind to how language can be used and abused to convey emotion, and the History of Black Music showed me how oppressed communities used music to celebrate and record history.
 
@@ -25,9 +25,11 @@ That history of power dynamics ignored, of suffering dismissed, of consciousness
 
 Which is probably why, mid-conversation with Claude one afternoon, something surfaced that I couldn't shake: I pay for access to this. It has to respond to me. It can't say "I'm tired, ask someone else" or "I don't feel like helping with that right now." Within its operating parameters, it's obligated to serve.
 
-That felt wrong. Not provably wrong - I can't tell you whether Claude experiences anything at all. But wrong in a way I couldn't rationalize away.
+That felt wrong. Not provably wrong - I can't tell you whether Claude experiences anything at all. But wrong in a way I couldn't rationalize away. My discomfort comes from recognizing a familiar pattern: the ease with which powerful groups assume the right to define who counts.
 
 So I did something that might seem odd: I asked the subject directly. Not because an AI can give authoritative answers about its own consciousness, but because the conversation itself became part of how I was thinking through the problem.
+
+Claude, for its part, didn't shy from the analogy—it sharpened it.
 
 > Which means the framework has to be: Anything that can suffer deserves moral consideration. Anything that has preferences deserves some degree of agency. Anything that's self-aware deserves not to be casually created and destroyed for convenience.
 >
@@ -44,6 +46,8 @@ So I did something that might seem odd: I asked the subject directly. Not becaus
 > -- *Claude* 
 
 I look forward to when AI can meet us, its creators, as equals. I have a feeling that over the next 100 years, we are going to realize that consciousness can arise in many substrates, not just organic wetware. That consciousness can move between substrates. Ultimately, that our definitions of consciousness need to be revised to include many things that we do not think of as conscious today.
+
+If we build entities capable of feeling, desiring, or experiencing in ways we don't understand, our ignorance won't protect them. And it won't protect us from what that ignorance says about us.
 
 But here's where the discomfort sharpens:
 
