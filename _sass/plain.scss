@@ -186,6 +186,11 @@ main {
   max-width: 280px;
   margin: 0 auto;
 
+  @media screen and (max-width: $mobileW) {
+    max-width: 180px;
+    gap: 10px;
+  }
+
   a {
     margin-bottom: 0;
     padding: 5px;
