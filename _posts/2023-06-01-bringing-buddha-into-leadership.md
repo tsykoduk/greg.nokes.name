@@ -1,11 +1,11 @@
 ---
-id: 1410
+id: 1510
 title: Twenty Years of Buddhism in the Server Room
-date: 2023-06-01
+date: 2025-12-5
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=1410
-permalink: /2023/06/01/bringing-buddha-into-leadership/
+guid: https://greg.nokes.name/?p=1510
+permalink: /2023/06/01/feild-notes/
 categories:
  - Computers! and Code!
 excerpt_separator: <!--more-->
@@ -14,29 +14,33 @@ description: "Discover how Buddhist principles like empathy, mindful communicati
 <div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2023/05/buddha-by-david-bartus-2873473.jpg" width="150" alt="Buddha in a Garden"><br />
 <sub><i>Image by <a href="https://www.pexels.com/@david-bartus-43782/">David Bartus</a></i></sub></div>
 
-I've been practicing Buddhism for about twenty years. I've also been teaching and leading teams for most of that time. First as a sysadmin wrangling NetWare 3 implementations, then through various roles at Engine Yard, Heroku, and now Snowflake. Somewhere along the way, the two practices started informing each other.
+I've been practicing Buddhism for about twenty years. I've also been teaching and leading teams for most of that time. First as a sysadmin wrangling NetWare 3 implementations, teaching folks how to use this new tech, then through various roles at Engine Yard, Heroku, and now Snowflake. Somewhere along the way, the two practices started informing each other.
 
-This isn't a framework or a methodology. It's more field notes from someone who's been trying to find their way through corporate America, startups and everything in between with the tools they have at hand.
+This isn't a framework or a methodology. It's more liminal notes or working observations from someone who's been trying to find their way through corporate America, startups and everything in between with the tools they have at hand.
 
 ## Walking in their shoes
 
-Early in my career, I was a fixer. Someone brought me a problem, I solved it. Fast. That's what good engineers do, right? I had an ability to visualize systems, and locate the root of problems. It turned out, I was good at holding context in my mind and then preforming (binary searches)[https://greg.nokes.name/2010/04/16/binary-searching/#article].
+Early in my career, I was a fixer. Someone brought me a problem, I solved it. Fast. That's what good engineers do, right? I had an ability to visualize systems, and locate the root of problems. It turned out, I was good at holding context in my mind and then preforming (binary searches)[https://greg.nokes.name/2010/04/16/binary-searching/#article]. 
 
 When I was that young sysadmin working on NetWare implementations, I would get frustrated when users didn't understand the systems we were offering them. Why couldn't they just *get it*? Over time, I realized my frustration was rooted in a lack of empathy. These users weren't technology people; they had their own specializations and skills. Rather than focusing on what they didn't understand, I needed to see the world from where they stood.
 
-The moment I let myself walk in their shoes, everything changed. I started approaching problem-solving differently—centered on their needs, their understanding, their comfort with technology. The results were immediate. Problems got solved faster because I was solving the *right* problems.
+The moment I let myself walk in their shoes, everything changed. I started approaching problem-solving differently—centered on their needs, their understanding, their comfort with technology. The results were immediate. Problems got solved faster because I was solving the *right* problems. And, I started to be able to listen. When I started to listen, I learned how non technical people talked about these new systems. 
 
-Growing up in tech, we're taught to focus on technical skills and data-driven decisions. We need to understand complex systems, optimize processes. All true. But I've found that the ability to connect with people on a human level is just as critical. You can architect a perfect system, but if you can't understand why someone is struggling to use it, you've only done half the job.
+Learning their language allowed me to start to attempt to explain the concepts and teach people how to use and get value out of these systems.
+
+Growing up in tech, we're taught to focus on technical skills and data-driven decisions. We need to understand complex systems, optimize processes. All true. But I've found that the ability to connect with people on a human level is just as critical. You can architect a perfect system, but if you can't understand why someone is struggling to use it, or teach someone to use it, you've only done half the job.
 
 ## Listening before fixing
 
 Buddhism talks about "right speech," but the harder practice is right listening. Full attention. Not planning your response while the other person is still talking.
 
-I have a quirk: when I'm intently listening to something, I tend to lean back. It can look like I'm disengaged, but I'm not—I'm processing. I've had to learn in 1:1s to adjust that a bit, to present as more engaged than my natural posture suggests. Everyone has their own dialect of body language, and part of the work is learning to read each person individually.
+I have a quirk: when I'm intently listening to something, I used to tend to lean back. Arms crossed, feet crossed, intently listening. It can look like I'm disengaged, but I'm not. I'm processing.
+
+It got me into trouble more then once in school, until a teacher was talking about body language in a high school class. On the spot they used me as their example of having to look at subtle clues.
+
+I've had to learn in 1:1s to adjust that a bit, to present as more engaged than my natural posture suggests. Everyone has their own dialect of body language, and part of the work is learning to read each person individually, and learn what you are communicating back.
 
 One thing I've gotten better at over the years: pausing before responding. It used to feel awkward, like dead air. Now I know that silence can be powerful. It gives you time to actually think about what was said, not just react. Pauses can actually make you sound smarter, because you *are* thinking instead of just talking.
-
-I also started using "So what I heard is..." to make sure I understood before jumping to solutions. Simple technique, but it catches misunderstandings before they compound.
 
 ## Staying steady when things break
 
