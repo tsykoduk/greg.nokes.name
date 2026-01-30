@@ -12,6 +12,11 @@ excerpt_separator: <!--more-->
 description: "Exploring whether education and intelligence protect against evil, from Nazi doctors to AI-enabled disinformation, and what we can actually do about it."
 ---
 
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2026/01/BalancingAct.png" width="150" alt="A solitary figure walks a tightrope suspended between an ancient Greek marble column and a towering wall of glowing digital screens filled with fragmented text and imagery. Far below, a swirling red-orange chasm suggests chaos. The figure carries a small lantern that casts warm golden light, contrasting with the cool blues and grays of the atmospheric, painterly scene."><br />
+<sub><i>Image by <a href="https://ChatGPT.com">ChatGPT</a></i></sub></div>
+
+
+
 It increasingly feels like we are walking a tightrope stretched between ancient wisdom and algorithmic chaos, the ground beneath us less stable than we'd like to admit.
 
 Socrates believed that no one does evil willingly. Evil, in his view, stems from ignorance - if people truly understood what was good, they would choose it. The implication is hopeful: educate people, cultivate their intelligence, and you inoculate them against evil.
