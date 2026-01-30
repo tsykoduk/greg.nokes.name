@@ -27,7 +27,7 @@ I recently found myself in a conversation exploring whether this premise holds w
 
 ## The Numbers (At First Glance)
 
-There is, in fact, a negative correlation between IQ and crime. Now, we all know that IQ is an imperfect proxy for cognitive capacity. However it remains one of the most studied psychometric measures, so it's worth examining what it shows. Studies consistently show the correlation hovers around r = -0.20. Violence perpetration decreases linearly with increasing IQ: about 16% for those with IQ 70-79, versus roughly 3% for those scoring 120-129. Criminal populations average around 8 IQ points below the mean.
+There is, in fact, a negative correlation between IQ and violent crime. Now, we all know that IQ is an imperfect proxy for cognitive capacity. However, it remains one of the most studied psychometric measures, so it's worth examining what it shows. Studies consistently show the correlation hovers around r = -0.20. Violence perpetration decreases linearly with increasing IQ: about 16% for those with IQ 70-79, versus roughly 3% for those scoring 120-129. Criminal populations average around 8 IQ points below the mean.
 
 So case closed? Education and intelligence protect against evil?
 
@@ -59,7 +59,7 @@ The FBI estimates high-level fraud costs over $5 trillion annually. The Enron sc
 
 Education doesn't prevent these harms. It enables them. It provides the knowledge, credentials, and access necessary to operate sophisticated schemes at scale.
 
-There's also an uncomfortable finding from research on psychopathy: the highest levels of offending appear among those with both elevated psychopathic traits AND higher IQ. Intelligence doesn't protect against psychopathic behavior - it makes psychopaths more effective.
+There's also an uncomfortable finding from research on psychopathy: the highest levels of offending appear among those with both elevated psychopathic traits AND higher IQ. Studies suggest somewhere between 4-12% of CEOs demonstrate clinically significant psychopathic traits - compared to roughly 1% of the general population. Intelligence doesn't protect against psychopathic behavior - it provides better camouflage and larger playing fields.
 
 ## A Reframe: Societies, Not Individuals
 
@@ -100,7 +100,7 @@ If you've ever tried to debate someone whose entire worldview is filtered throug
 
 Research from Harvard's Berkman Klein Center suggests this structure has a secular equivalent.
 
-They analyzed four million political stories from 2015-2018 and found the American political media ecosystem is fundamentally asymmetric. The right wing has a well-defined, relatively insular network - what researchers call a "propaganda feedback loop" that progressively lowers the cost of lying. The libertarian commentator Julian Sanchez called this "epistemic closure": whatever contradicts the reality presented by right-wing news can be dismissed because it comes from the liberal media.
+Researchers analyzed four million political stories from 2015-2018 and found the American political media ecosystem is fundamentally asymmetric. The right wing has a well-defined, relatively insular network - what researchers call a "propaganda feedback loop" that progressively lowers the cost of lying. The libertarian commentator Julian Sanchez called this "epistemic closure": whatever contradicts the reality presented by right-wing news can be dismissed because it comes from the liberal media.
 
 Same structure. Different scripture.
 
@@ -118,9 +118,11 @@ And here's what keeps me up at night: AI is a force multiplier for memetic warfa
 
 Before the rifle, an armored knight could dominate a battlefield. One soldier with a repeating rifle changed the economics entirely. Before AI, running an influence operation required human writers, translators, cultural experts, and significant resources. Now a single operator can generate personalized propaganda at scale.
 
-The numbers are already alarming. Deepfake videos have increased 550% since 2019. Around half a million were shared on social media in 2023, with projections of 8 million by 2025. Studies of Russian propaganda operations show that after adopting AI tools, disinformation output increased dramatically in both volume and breadth.
+The numbers are already alarming. Deepfake videos have increased 550% since 2019. Around half a million were shared on social media in 2023, with projections of 8 million in 2025. Studies of Russian propaganda operations show that after adopting AI tools, disinformation output increased dramatically in both volume and breadth.
 
-AI enables scale without cost, personalization without effort, velocity without sleep, and - perhaps most insidiously - plausible deniability. When anything could be AI-generated, actual evidence of wrongdoing can be dismissed as fabricated. Researchers call this the "liar's dividend."
+The internet was supposed to be the greatest democratization of information in human history. Instead, it's become the most efficient system ever built for crazy to find crazy - for fringe beliefs to locate each other, reinforce, and metastasize without ever encountering friction from mainstream discourse. 
+
+AI accelerates the final collapse: when any image, any video, any voice can be synthesized, you can no longer believe your eyes. Evidence itself becomes contested territory. AI enables scale without cost, personalization without effort, velocity without sleep, and - perhaps most insidiously - plausible deniability. When anything could be AI-generated, actual evidence of wrongdoing can be dismissed as fabricated. Researchers call this the "liar's dividend."
 
 ## The Timescale Problem
 
@@ -172,7 +174,7 @@ But education might protect societies, if - and only if - it's embedded in an ec
 
 We're in a moment where that ecosystem is under assault, and the weapons being deployed against it are evolving faster than our defenses. The epistemological infrastructure that enables shared reality is being competed against by parallel structures optimized for tribal loyalty over truth.
 
-I don't have a satisfying conclusion here. We're walking a tightrope above lava, as I put it in conversation. The small things we can do feel inadequate to the scale of the problem.
+I don't have a satisfying conclusion here. We are walking a tightrope above lava. The small things we can do feel inadequate to the scale of the problem.
 
 But they're what's available. And my framework suggests that's enough - not because it will necessarily work, but because acting where we can and releasing what we cannot is the only sane way to navigate genuine uncertainty.
 
