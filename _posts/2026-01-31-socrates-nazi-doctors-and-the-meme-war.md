@@ -27,7 +27,7 @@ I recently found myself in a conversation exploring whether this premise holds w
 
 ## The Numbers (At First Glance)
 
-There is, in fact, a negative correlation between IQ and crime. IQ is an imperfect proxy for cognitive capacity, but it remains one of the most studied psychometric measures, so it's worth examining what it shows. Studies consistently show the correlation hovers around r = -0.20. Violence perpetration decreases linearly with increasing IQ: about 16% for those with IQ 70-79, versus roughly 3% for those scoring 120-129. Criminal populations average around 8 IQ points below the mean.
+There is, in fact, a negative correlation between IQ and crime. Now, we all know that IQ is an imperfect proxy for cognitive capacity. However it remains one of the most studied psychometric measures, so it's worth examining what it shows. Studies consistently show the correlation hovers around r = -0.20. Violence perpetration decreases linearly with increasing IQ: about 16% for those with IQ 70-79, versus roughly 3% for those scoring 120-129. Criminal populations average around 8 IQ points below the mean.
 
 So case closed? Education and intelligence protect against evil?
 
@@ -96,15 +96,17 @@ I mention this because I think we're watching something similar being constructe
 
 ## The Alternative Epistemology
 
-Research from Harvard's Berkman Klein Center analyzed four million political stories from 2015-2018 and found something striking: the American political media ecosystem is fundamentally asymmetric.
+If you've ever tried to debate someone whose entire worldview is filtered through their interpretation of scripture, you recognize a particular structure. The Bible is true because the Bible says it's the word of God. Evidence that contradicts it is either misinterpreted or a test of faith. There's no external reference point that could, even in principle, challenge the framework - because the framework defines what counts as a valid challenge.
 
-The right wing has a well-defined, relatively insular media network, anchored by Fox News and Breitbart. This ecosystem exhibits what researchers call a "propaganda feedback loop" - it progressively lowers the cost of lying and increases the cost of resisting shared narratives in the name of truth.
+Research from Harvard's Berkman Klein Center suggests this structure has a secular equivalent.
 
-The libertarian commentator Julian Sanchez described this as "epistemic closure": whatever contradicts the reality presented by right-wing news can be dismissed because it comes from the liberal media and is therefore not to be trusted.
+They analyzed four million political stories from 2015-2018 and found the American political media ecosystem is fundamentally asymmetric. The right wing has a well-defined, relatively insular network - what researchers call a "propaganda feedback loop" that progressively lowers the cost of lying. The libertarian commentator Julian Sanchez called this "epistemic closure": whatever contradicts the reality presented by right-wing news can be dismissed because it comes from the liberal media.
 
-This isn't just bias. It's the construction of a parallel epistemological infrastructure - a competing Church, complete with its own authorities, its own canonical texts, its own framework for what counts as truth, and its own definitions of heresy.
+Same structure. Different scripture.
 
-When researchers say the right-wing media ecosystem "behaves precisely as echo chamber models predict - exhibiting high insularity, susceptibility to information cascades, rumor and conspiracy theory, and drift toward more extreme versions of itself," they're describing something that functions like a new religion. It doesn't just inform its adherents - it constructs their reality.
+And like any church, it has an on-ramp. The entry point is the claim that mainstream media is biased - which contains enough truth to be persuasive. Fox News validates that suspicion and becomes the new baseline. But Fox, for all its spin, still operates with some vestigial connection to verifiable reality. OAN and NewsMax position themselves as what Fox is afraid to tell you. Each step down the funnel redefines "trustworthy source" more narrowly and "liberal media" more broadly, until everything outside the innermost circle is suspect.
+
+This isn't just bias. It's a parallel epistemological infrastructure - a competing Church, complete with its own authorities, its own canonical texts, its own framework for what counts as truth, and a conversion pipeline that leads the faithful ever deeper.
 
 ## Enter the Meme War
 
