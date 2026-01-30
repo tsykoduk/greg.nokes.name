@@ -1,16 +1,18 @@
 ---
 id: 1511
 title: Socrates, Nazi Doctors, and the Meme War
-date: 2026-01-31
+date: 2026-01-30
 author: tsykoduk
 layout: post
-guid: https://greg.nokes.name/?p=1511
-permalink: /2026/01/31/socrates-nazi-doctors-and-the-meme-war/
+guid: https://greg.nokes.name/?p=1520
+permalink: /2026/01/30/socrates-nazi-doctors-and-the-meme-war/
 categories:
   - Philosophy
 excerpt_separator: <!--more-->
 description: "Exploring whether education and intelligence protect against evil, from Nazi doctors to AI-enabled disinformation, and what we can actually do about it."
 ---
+
+It increasingly feels like we are walking a tightrope stretched between ancient wisdom and algorithmic chaos, the ground beneath us less stable than we'd like to admit.
 
 Socrates believed that no one does evil willingly. Evil, in his view, stems from ignorance - if people truly understood what was good, they would choose it. The implication is hopeful: educate people, cultivate their intelligence, and you inoculate them against evil.
 
@@ -24,7 +26,7 @@ I recently found myself in a conversation exploring whether this premise holds w
 
 ## The Numbers (At First Glance)
 
-There is, in fact, a negative correlation between IQ and crime. Studies consistently show it hovers around r = -0.20. Violence perpetration decreases linearly with increasing IQ: about 16% for those with IQ 70-79, versus roughly 3% for those scoring 120-129. Criminal populations average around 8 IQ points below the mean.
+There is, in fact, a negative correlation between IQ and crime. IQ is an imperfect proxy for cognitive capacity, but it remains one of the most studied psychometric measures, so it's worth examining what it shows. Studies consistently show the correlation hovers around r = -0.20. Violence perpetration decreases linearly with increasing IQ: about 16% for those with IQ 70-79, versus roughly 3% for those scoring 120-129. Criminal populations average around 8 IQ points below the mean.
 
 So case closed? Education and intelligence protect against evil?
 
@@ -38,7 +40,7 @@ This tells us something about impulse control and the relationship between schoo
 
 ## The Nazi Doctors
 
-Here's where the Socratic hypothesis collapses.
+Here's where the naive interpretation of the Socratic hypothesis collapses.
 
 By 1936 - three years before the war even started - 45% of German physicians were members of the Nazi Party. This was the highest percentage of any profession. These weren't uneducated thugs. They were among the most rigorously trained intellectuals in one of the world's most advanced medical systems.
 
@@ -66,7 +68,7 @@ There's also an uncomfortable finding from research on psychopathy: the highest 
 
 ## A Reframe: Societies, Not Individuals
 
-So the Socratic premise fails at the individual level. But here's where it gets interesting: what if education protects societies rather than people?
+So the naive Socratic premise fails at the individual level. But here's where it gets interesting: what if education protects societies rather than people?
 
 The research here is more supportive. Studies of 85 authoritarian regimes from 1970 to 2008 found that higher levels of mass education are robustly associated with democratization. Education correlates with collective action, particularly non-violent resistance. Literacy enhances citizens' ability to monitor regime behavior.
 
