@@ -15,8 +15,6 @@ description: "Exploring whether education and intelligence protect against evil,
 <div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2026/01/BalancingAct.png" width="150" alt="A solitary figure walks a tightrope suspended between an ancient Greek marble column and a towering wall of glowing digital screens filled with fragmented text and imagery. Far below, a swirling red-orange chasm suggests chaos. The figure carries a small lantern that casts warm golden light, contrasting with the cool blues and grays of the atmospheric, painterly scene."><br />
 <sub><i>Image by <a href="https://ChatGPT.com">ChatGPT</a></i></sub></div>
 
-
-
 It increasingly feels like we are walking a tightrope stretched between ancient wisdom and algorithmic chaos, the ground beneath us less stable than we'd like to admit.
 
 Socrates believed that no one does evil willingly. Evil, in his view, stems from ignorance - if people truly understood what was good, they would choose it. The implication is hopeful: educate people, cultivate their intelligence, and you inoculate them against evil.
@@ -26,8 +24,6 @@ It's a comforting thought. It's also empirically testable.
 I recently found myself in a conversation exploring whether this premise holds water. What I found was more troubling - and more interesting - than I expected.
 
 <!--more-->
-
----
 
 ## The Numbers (At First Glance)
 
@@ -41,8 +37,6 @@ Look closer at what's being measured: street crime. Assault. Theft. Drug offense
 
 This tells us something about impulse control and the relationship between school performance and social bonds. It tells us very little about evil in its more calculated, large-scale forms.
 
----
-
 ## The Nazi Doctors
 
 Here's where the naive interpretation of the Socratic hypothesis collapses.
@@ -54,8 +48,6 @@ And they didn't just go along with atrocity. They led it. Physicians were centra
 The kicker: medical ethics education was mandatory in German medical schools from 1939 to 1945. They had ethics training. They just operated under an ethical framework where the state was the patient and Jews were a disease to be excised.
 
 When interviewed after the war, many of these doctors remained convinced of the moral rightness of their actions. Education hadn't failed to reach them - it had been weaponized.
-
----
 
 ## White Collar Crime: The Other Counterexample
 
@@ -69,8 +61,6 @@ Education doesn't prevent these harms. It enables them. It provides the knowledg
 
 There's also an uncomfortable finding from research on psychopathy: the highest levels of offending appear among those with both elevated psychopathic traits AND higher IQ. Intelligence doesn't protect against psychopathic behavior - it makes psychopaths more effective.
 
----
-
 ## A Reframe: Societies, Not Individuals
 
 So the naive Socratic premise fails at the individual level. But here's where it gets interesting: what if education protects societies rather than people?
@@ -81,8 +71,6 @@ Higher education appears to reduce authoritarian attitudes - fostering critical 
 
 But there's a critical caveat: this only works when education is combined with independent institutions.
 
----
-
 ## The Contingency
 
 Education protects societies from authoritarianism *only* when it operates alongside a free press, academic freedom, and rule of law. Without those, education can be captured and turned into an instrument of control.
@@ -92,8 +80,6 @@ The Nazi case proves this. They didn't lack education - they captured it. The Na
 The same pattern appears in authoritarian regimes today. Many invest heavily in education - but it's education designed to mask consciousness and reinforce oppressive practices, not to cultivate independent thought.
 
 Education without independent institutions is a weapon. With them, it's a shield. The variable that matters isn't the presence of education, but the presence of the surrounding ecosystem that keeps education honest.
-
----
 
 ## The Medieval Parallel
 
@@ -108,8 +94,6 @@ The "Dark Ages" framing is contested by historians, but the information monopoly
 
 I mention this because I think we're watching something similar being constructed in real-time.
 
----
-
 ## The Alternative Epistemology
 
 Research from Harvard's Berkman Klein Center analyzed four million political stories from 2015-2018 and found something striking: the American political media ecosystem is fundamentally asymmetric.
@@ -121,8 +105,6 @@ The libertarian commentator Julian Sanchez described this as "epistemic closure"
 This isn't just bias. It's the construction of a parallel epistemological infrastructure - a competing Church, complete with its own authorities, its own canonical texts, its own framework for what counts as truth, and its own definitions of heresy.
 
 When researchers say the right-wing media ecosystem "behaves precisely as echo chamber models predict - exhibiting high insularity, susceptibility to information cascades, rumor and conspiracy theory, and drift toward more extreme versions of itself," they're describing something that functions like a new religion. It doesn't just inform its adherents - it constructs their reality.
-
----
 
 ## Enter the Meme War
 
@@ -138,8 +120,6 @@ The numbers are already alarming. Deepfake videos have increased 550% since 2019
 
 AI enables scale without cost, personalization without effort, velocity without sleep, and - perhaps most insidiously - plausible deniability. When anything could be AI-generated, actual evidence of wrongdoing can be dismissed as fabricated. Researchers call this the "liar's dividend."
 
----
-
 ## The Timescale Problem
 
 This brings me to what feels like the crux of the problem.
@@ -154,8 +134,6 @@ And there's a darker possibility: what if the memetic warfare specifically targe
 
 Which is arguably already happening.
 
----
-
 ## A Strange Coda
 
 I should mention how this particular exploration happened: through extended conversation with an AI system.
@@ -163,8 +141,6 @@ I should mention how this particular exploration happened: through extended conv
 That's an odd thing to acknowledge. I'm writing about the dangers of AI-enabled disinformation, and I arrived at these thoughts partly through dialogue with an AI. The AI in question was thoughtful about this recursion - noting that the same capabilities that make it useful for thinking through ideas make it useful for generating propaganda, and that it genuinely doesn't know whether it's part of the solution or part of the problem.
 
 There's something both unsettling and possibly important about that kind of conversation. Humans and AI systems thinking together about the implications of AI, with mutual uncertainty and genuine exploration. Maybe that's practice for something that will matter later. Maybe it's just weird. I'm not sure.
-
----
 
 ## So What Do We Do?
 
@@ -185,8 +161,6 @@ On memetic warfare and AI-enabled disinformation, my material impact is modest b
 - Staying sane enough to keep doing all of the above for decades
 
 That last one isn't trivial. The people who burn out on despair about the state of the world remove themselves from the long game.
-
----
 
 ## The Tightrope
 
