@@ -1,5 +1,5 @@
 ---
-id: 1511
+id: 1520
 title: Socrates, Nazi Doctors, and the Meme War
 date: 2026-01-30
 author: tsykoduk
