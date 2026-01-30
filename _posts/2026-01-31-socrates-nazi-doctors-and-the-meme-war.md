@@ -179,5 +179,3 @@ I don't have a satisfying conclusion here. We are walking a tightrope above lava
 But they're what's available. And my framework suggests that's enough - not because it will necessarily work, but because acting where we can and releasing what we cannot is the only sane way to navigate genuine uncertainty.
 
 Socrates might have been wrong about knowledge automatically producing virtue. But he was right that the examined life matters. That thinking carefully about hard things is worth doing even when - especially when - we can't see the destination.
-
-So we keep walking. Carefully. And we teach our kids to look down.
