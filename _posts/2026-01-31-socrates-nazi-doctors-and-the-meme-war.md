@@ -1,11 +1,11 @@
 ---
 id: 1520
 title: Socrates, Nazi Doctors, and the Meme War
-date: 2026-01-30
+date: 2026-01-31
 author: tsykoduk
 layout: post
 guid: https://greg.nokes.name/?p=1520
-permalink: /2026/01/30/socrates-nazi-doctors-and-the-meme-war/
+permalink: /2026/01/31/socrates-nazi-doctors-and-the-meme-war/
 categories:
   - Philosophy
 excerpt_separator: <!--more-->
