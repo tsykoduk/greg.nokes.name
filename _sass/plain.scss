@@ -183,7 +183,8 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   gap: 5px;
-  max-width: 170px;
+  max-width: 156px;
+  width: 156px;
   margin: 0 auto;
 
   @media screen and (max-width: $mobileW) {
