@@ -74,9 +74,9 @@ plainwhite:
     bluesky: tsykoduk.com
     threads: tsykoduk
 
-  navigation:
-    - title: "News"
-      url: "https://news.nokes.name"
+  news_link:
+    title: "Morning Briefings"
+    url: "https://news.nokes.name"
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
