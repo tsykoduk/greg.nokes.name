@@ -72,7 +72,11 @@ plainwhite:
        username: greg
        instance: social.nokes.name
     bluesky: tsykoduk.com
-    threads: tsykoduk 
+    threads: tsykoduk
+
+  navigation:
+    - title: "News"
+      url: "https://news.nokes.name"
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
