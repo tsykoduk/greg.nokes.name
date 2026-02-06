@@ -12,6 +12,9 @@ excerpt_separator: <!--more-->
 description: "Reflections on Heroku's transition to sustaining engineering, what it means for the platform's future, and the humans who built something that changed how software gets made."
 ---
 
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2026/02/oldcondo.png" width="150" alt="A fading condo building at dusk with a few warm windows glowing, while a bright new building rises in the background"><br />
+<sub><i>Image by <a href="https://ChatGPT.com">ChatGPT</a></i></sub></div>
+
 Today, Heroku announced it is transitioning to a "sustaining engineering model focused on stability, security, reliability, and support." Enterprise contracts will no longer be offered to new customers. The stated reason: Salesforce is redirecting engineering investment toward enterprise AI.
 
 If you've followed my writing, you know I spent over a [decade at Heroku](https://greg.nokes.name/2022/06/14/a-decade-at-heroku/). I helped build the sales engineering function, created the Architect Exam, onboarded some of the platform's largest customers, and eventually became the Product Manager for Heroku Data. I left in 2022, and I've written several times about the platform's evolution since. Today's news is, in some ways, the chapter I hoped wouldn't come. But it's not the chapter I didn't expect.
