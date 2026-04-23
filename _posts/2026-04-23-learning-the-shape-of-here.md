@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 description: "Somewhere between where I was and wherever comes next, I've been learning to read the map I'm actually on."
 ---
 
-<div style="float: right; padding: 10px 10px 10px 10px;"><img src="/binaries/2026/04/shoreline.jpg" width="150" alt="A quiet shoreline at dawn"><br />
+<div style="float: left; padding: 10px 10px 10px 10px;"><img src="/binaries/2026/04/shoreline.jpg" width="150" alt="A quiet shoreline at dawn"><br />
 <sub><i>Photo by Greg Nokes</i></sub></div>
 
 I've been learning to live in the present tense.
