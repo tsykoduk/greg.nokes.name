@@ -31,7 +31,7 @@ What I'm less sure about is harder to name.
 
 Something in me is orienting. Like a compass settling after being held near a magnet. I'm not certain where it's pointing yet, and I've made a kind of peace with that — which is itself new. The question might not be *where* anyway. It might be what kind of terrain I want to be moving through. What kind of company I want to keep.
 
-The philosopher Gaston Bachelard wrote about how we learn our own contours by understanding what holds us and what doesn't — that inhabiting a space teaches you something about your own shape. I've been thinking about that. About what I've learned from the holding, and from the places I didn't fit.
+Russell wrote in *The Conquest of Happiness* that to be happy we need to feel ourselves "not merely an isolated individual whose day will soon be over, but part of the stream of life flowing on." I've been thinking about that. About where the stream is going. About what it means to feel part of it again.
 
 What I can say as plainly as I know how: I'm here. Not performing okayness, not projecting some particular version of forward motion — just genuinely present in my own life in a way that feels more honest than it has in a while. Some days that's quiet and a little strange. Other days it has an unexpected lightness to it.
 
