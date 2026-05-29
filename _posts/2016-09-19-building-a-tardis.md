@@ -37,7 +37,7 @@ It's a queen-sized bed, so the scale is just a little off, but since the Doctor 
 
 The detail is just amazing, even down to the choices of wood and paint. Adam used Red Oak, and the grain is beautiful. The decals are all custom-made and sized for the bed. The paint is a custom color.
 
-![Close up of a custom St John Ambulance decal on the Red Oak grain](/binaries/2016/09/tardis-details.jpg)
+![The Murphy bed folded down out of the TARDIS frame, ready to sleep in](/binaries/2016/09/tardis-bed-down.jpg)
 <sub><i>Details are what make this project shine</i></sub>
 
 But at the end of the day, the only thing that really matters is having a couple of happy kids with an amazing piece of art.
