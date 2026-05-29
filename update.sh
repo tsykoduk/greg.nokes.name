@@ -28,21 +28,21 @@ if [ "$1" = "long" ]; then
     echo -e "\033[34m Brew not installed  \033[0;39m\n"
   fi
 
-  if command -v heroku &> /dev/null
-    then
-      echo -e "\033[34m running heroku update  \033[0;39m\n"
-      heroku update
-    else
-      echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
-  fi
+#  if command -v heroku &> /dev/null
+#    then
+#      echo -e "\033[34m running heroku update  \033[0;39m\n"
+#      heroku update
+#    else
+#      echo -e "\033[34m Heroku CLI not installed  \033[0;39m\n"
+#  fi
 
-  if command -v sfdx &> /dev/null
-    then
-      echo -e "\033[34m running sfdx update  \033[0;39m\n"
-      sfdx update
-    else
-      echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
-  fi
+#  if command -v sfdx &> /dev/null
+#    then
+#      echo -e "\033[34m running sfdx update  \033[0;39m\n"
+#      sfdx update
+#    else
+#      echo -e "\033[34m Salesforce CLI not installed  \033[0;39m\n"
+#  fi
 fi
 
 # Do we really need this?
