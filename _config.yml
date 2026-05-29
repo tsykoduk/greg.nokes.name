@@ -10,7 +10,7 @@ social:
   links:
     - https://github.com/tsykoduk
     - https://www.linkedin.com/in/gregnokes
-    - https://social.nokes.name/@greg
+    - https://bsky.app/profile/tsykoduk.com
 
 # Social defaults for posts
 defaults:
@@ -29,7 +29,7 @@ theme: plainwhite
 
 author:
   name:           'Greg Nokes'
-  url:            https://social.nokes.name/@greg
+  url:            https://bsky.app/profile/tsykoduk.com
 
 plugins:
   - jekyll-feed
@@ -68,9 +68,6 @@ plainwhite:
   social_links:
     github: tsykoduk
     linkedIn: in/gregnokes
-    mastodon:
-       username: greg
-       instance: social.nokes.name
     bluesky: tsykoduk.com
     threads: tsykoduk
 

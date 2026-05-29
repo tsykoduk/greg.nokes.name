@@ -179,16 +179,14 @@ main {
 .social {
   list-style-type: none;
   padding: 0;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
   justify-content: center;
   gap: 5px;
-  max-width: 156px;
-  width: 156px;
+  width: fit-content;
   margin: 0 auto;
 
   @media screen and (max-width: $mobileW) {
-    max-width: 180px;
     gap: 10px;
   }
 
