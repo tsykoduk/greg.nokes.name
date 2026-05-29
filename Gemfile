@@ -7,7 +7,7 @@ source "https://rubygems.org"
 
 #wow, this is old
 
-ruby "~> 3.4.7"
+ruby "~> 4.0"
 
 gem "csv"
 gem "base64"
